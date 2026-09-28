@@ -867,5 +867,3876 @@
     "py"
    ]
   ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Ajax",
+  "opp": "VVV-Venlo",
+  "score": "13-0",
+  "comp": "Eredivizija, 6. kolo",
+  "season": "2020/21",
+  "y": 2020,
+  "note": "Najubedljivija pobeda u istoriji Eredivizije, ostvarena na gostovanju u Venlu",
+  "form": "4-3-3",
+  "kit": [
+   "band",
+   "#ffffff",
+   "#d2122e"
+  ],
+  "okit": [
+   "solid",
+   "#ffe500",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Onana",
+    "André Onana",
+    "cm"
+   ],
+   [
+    "Tagliafico",
+    "Nicolás Tagliafico",
+    "ar"
+   ],
+   [
+    "Blind",
+    "Daley Blind",
+    "nl"
+   ],
+   [
+    "Schuurs",
+    "Perr Schuurs",
+    "nl"
+   ],
+   [
+    "Klaiber",
+    "Sean Klaiber",
+    "sr"
+   ],
+   [
+    "Gravenberch",
+    "Ryan Gravenberch",
+    "nl"
+   ],
+   [
+    "Ekkelenkamp",
+    "Jurgen Ekkelenkamp",
+    "nl"
+   ],
+   [
+    "Klaassen",
+    "Davy Klaassen",
+    "nl"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Traoré",
+    "Lassina Traoré",
+    "bf"
+   ],
+   [
+    "Antony",
+    "Antony",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Ajax",
+  "opp": "Heerenveen",
+  "score": "5-0",
+  "comp": "Eredivizija, 33. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Ajaks osigurao 36. titulu prvaka, poslednju pod Erikom ten Hagom",
+  "form": "4-3-1-2",
+  "kit": [
+   "band",
+   "#ffffff",
+   "#d2122e"
+  ],
+  "okit": [
+   "stripes",
+   "#0053a0",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Stekelenburg",
+    "Maarten Stekelenburg",
+    "nl"
+   ],
+   [
+    "Tagliafico",
+    "Nicolás Tagliafico",
+    "ar"
+   ],
+   [
+    "Blind",
+    "Daley Blind",
+    "nl"
+   ],
+   [
+    "Timber",
+    "Jurriën Timber",
+    "nl"
+   ],
+   [
+    "Mazraoui",
+    "Noussair Mazraoui",
+    "ma"
+   ],
+   [
+    "Taylor",
+    "Kenneth Taylor",
+    "nl"
+   ],
+   [
+    "Álvarez",
+    "Edson Álvarez",
+    "mx"
+   ],
+   [
+    "Berghuis",
+    "Steven Berghuis",
+    "nl"
+   ],
+   [
+    "Klaassen",
+    "Davy Klaassen",
+    "nl"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Haller",
+    "Sébastien Haller",
+    "ci"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Feyenoord",
+  "opp": "Heracles Almelo",
+  "score": "3-1",
+  "comp": "Eredivizija, 34. kolo",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Prva titula Fejenorda posle 18 godina, osvojena u poslednjem kolu",
+  "form": "4-3-3",
+  "kit": [
+   "halves",
+   "#e3001b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Jones",
+    "Brad Jones",
+    "au"
+   ],
+   [
+    "Kongolo",
+    "Terence Kongolo",
+    "nl"
+   ],
+   [
+    "Van der Heijden",
+    "Jan-Arie van der Heijden",
+    "nl"
+   ],
+   [
+    "Botteghin",
+    "Eric Botteghin",
+    "br"
+   ],
+   [
+    "Nieuwkoop",
+    "Bart Nieuwkoop",
+    "nl"
+   ],
+   [
+    "Kuyt",
+    "Dirk Kuyt",
+    "nl"
+   ],
+   [
+    "El Ahmadi",
+    "Karim El Ahmadi",
+    "ma"
+   ],
+   [
+    "Toornstra",
+    "Jens Toornstra",
+    "nl"
+   ],
+   [
+    "Elia",
+    "Eljero Elia",
+    "nl"
+   ],
+   [
+    "Jørgensen",
+    "Nicolai Jørgensen",
+    "dk"
+   ],
+   [
+    "Berghuis",
+    "Steven Berghuis",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Feyenoord",
+  "opp": "Ajax",
+  "score": "6-0",
+  "comp": "Eredivizija, Klasiker",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Najubedljivija pobeda Fejenorda nad Ajaksom u istoriji Klasikera",
+  "form": "4-3-3",
+  "kit": [
+   "halves",
+   "#e3001b",
+   "#ffffff"
+  ],
+  "okit": [
+   "band",
+   "#ffffff",
+   "#d2122e"
+  ],
+  "p": [
+   [
+    "Wellenreuther",
+    "Timon Wellenreuther",
+    "de"
+   ],
+   [
+    "Geertruida",
+    "Lutsharel Geertruida",
+    "nl"
+   ],
+   [
+    "Hancko",
+    "Dávid Hancko",
+    "sk"
+   ],
+   [
+    "Beelen",
+    "Thomas Beelen",
+    "nl"
+   ],
+   [
+    "Nieuwkoop",
+    "Bart Nieuwkoop",
+    "nl"
+   ],
+   [
+    "Timber",
+    "Quinten Timber",
+    "nl"
+   ],
+   [
+    "Wieffer",
+    "Mats Wieffer",
+    "nl"
+   ],
+   [
+    "Stengs",
+    "Calvin Stengs",
+    "nl"
+   ],
+   [
+    "Paixão",
+    "Igor Paixão",
+    "br"
+   ],
+   [
+    "Giménez",
+    "Santiago Giménez",
+    "mx"
+   ],
+   [
+    "Minteh",
+    "Yankuba Minteh",
+    "gm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "PSV",
+  "opp": "Ajax",
+  "score": "3-0",
+  "comp": "Eredivizija, 31. kolo",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "PSV osvojio titulu u direktnom duelu sa Ajaksom, tri kola pre kraja",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "band",
+   "#ffffff",
+   "#d2122e"
+  ],
+  "p": [
+   [
+    "Zoet",
+    "Jeroen Zoet",
+    "nl"
+   ],
+   [
+    "Brenet",
+    "Joshua Brenet",
+    "cw"
+   ],
+   [
+    "Isimat-Mirin",
+    "Nicolas Isimat-Mirin",
+    "fr"
+   ],
+   [
+    "Schwaab",
+    "Daniel Schwaab",
+    "de"
+   ],
+   [
+    "Arias",
+    "Santiago Arias",
+    "co"
+   ],
+   [
+    "Van Ginkel",
+    "Marco van Ginkel",
+    "nl"
+   ],
+   [
+    "Hendrix",
+    "Jorrit Hendrix",
+    "nl"
+   ],
+   [
+    "Pereiro",
+    "Gastón Pereiro",
+    "uy"
+   ],
+   [
+    "Bergwijn",
+    "Steven Bergwijn",
+    "nl"
+   ],
+   [
+    "De Jong",
+    "Luuk de Jong",
+    "nl"
+   ],
+   [
+    "Lozano",
+    "Hirving Lozano",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "PSV",
+  "opp": "Heerenveen",
+  "score": "4-1",
+  "comp": "Eredivizija, 31. kolo",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Prva titula PSV-a posle sedam godina, osigurana tri kola pre kraja",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#0053a0",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Zoet",
+    "Jeroen Zoet",
+    "nl"
+   ],
+   [
+    "Willems",
+    "Jetro Willems",
+    "nl"
+   ],
+   [
+    "Rekik",
+    "Karim Rekik",
+    "nl"
+   ],
+   [
+    "Bruma",
+    "Jeffrey Bruma",
+    "nl"
+   ],
+   [
+    "Brenet",
+    "Joshua Brenet",
+    "cw"
+   ],
+   [
+    "Maher",
+    "Adam Maher",
+    "nl"
+   ],
+   [
+    "Guardado",
+    "Andrés Guardado",
+    "mx"
+   ],
+   [
+    "Wijnaldum",
+    "Georginio Wijnaldum",
+    "nl"
+   ],
+   [
+    "Depay",
+    "Memphis Depay",
+    "nl"
+   ],
+   [
+    "De Jong",
+    "Luuk de Jong",
+    "nl"
+   ],
+   [
+    "Narsingh",
+    "Luciano Narsingh",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "PEC Zwolle",
+  "opp": "Ajax",
+  "score": "5-1",
+  "comp": "Finale Kupa Holandije",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Prvi veliki trofej u istoriji Zvolea, Ajaks ponižen u finalu Kupa",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "okit": [
+   "band",
+   "#ffffff",
+   "#d2122e"
+  ],
+  "p": [
+   [
+    "Boer",
+    "Diederik Boer",
+    "nl"
+   ],
+   [
+    "Van Hintum",
+    "Bart van Hintum",
+    "nl"
+   ],
+   [
+    "Broerse",
+    "Joost Broerse",
+    "nl"
+   ],
+   [
+    "Van der Werff",
+    "Maikel van der Werff",
+    "nl"
+   ],
+   [
+    "Van Polen",
+    "Bram van Polen",
+    "nl"
+   ],
+   [
+    "Klich",
+    "Mateusz Klich",
+    "pl"
+   ],
+   [
+    "Mokotjo",
+    "Kamohelo Mokotjo",
+    "za"
+   ],
+   [
+    "Drost",
+    "Jesper Drost",
+    "nl"
+   ],
+   [
+    "Thomas",
+    "Ryan Thomas",
+    "nz"
+   ],
+   [
+    "Fernandez",
+    "Guyon Fernandez",
+    "cw"
+   ],
+   [
+    "Saymak",
+    "Mustafa Saymak",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Benfica",
+  "opp": "Nacional",
+  "score": "10-0",
+  "comp": "Primeira liga, 21. kolo",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Deset golova u sezoni u kojoj je Bruno Laže vratio titulu Benfici",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#e20e17",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Vlachodimos",
+    "Odysseas Vlachodimos",
+    "gr"
+   ],
+   [
+    "Grimaldo",
+    "Alejandro Grimaldo",
+    "es"
+   ],
+   [
+    "Ferro",
+    "Ferro",
+    "pt"
+   ],
+   [
+    "Rúben Dias",
+    "Rúben Dias",
+    "pt"
+   ],
+   [
+    "André Almeida",
+    "André Almeida",
+    "pt"
+   ],
+   [
+    "Rafa",
+    "Rafa Silva",
+    "pt"
+   ],
+   [
+    "Samaris",
+    "Andreas Samaris",
+    "gr"
+   ],
+   [
+    "Gabriel",
+    "Gabriel",
+    "br"
+   ],
+   [
+    "Pizzi",
+    "Pizzi",
+    "pt"
+   ],
+   [
+    "João Félix",
+    "João Félix",
+    "pt"
+   ],
+   [
+    "Seferović",
+    "Haris Seferović",
+    "ch"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Benfica",
+  "opp": "Sporting CP",
+  "score": "2-1",
+  "comp": "Primeira liga, derbi Lisabona",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Benfika pobedila Žezusov Sporting na putu ka četvrtoj tituli zaredom",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#e20e17",
+   "#ffffff"
+  ],
+  "okit": [
+   "hoops",
+   "#008057",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ederson",
+    "Ederson",
+    "br"
+   ],
+   [
+    "André Almeida",
+    "André Almeida",
+    "pt"
+   ],
+   [
+    "Lindelöf",
+    "Victor Lindelöf",
+    "se"
+   ],
+   [
+    "Luisão",
+    "Luisão",
+    "br"
+   ],
+   [
+    "Semedo",
+    "Nélson Semedo",
+    "pt"
+   ],
+   [
+    "Rafa",
+    "Rafa Silva",
+    "pt"
+   ],
+   [
+    "Fejsa",
+    "Ljubomir Fejsa",
+    "rs"
+   ],
+   [
+    "Pizzi",
+    "Pizzi",
+    "pt"
+   ],
+   [
+    "Salvio",
+    "Eduardo Salvio",
+    "ar"
+   ],
+   [
+    "Guedes",
+    "Gonçalo Guedes",
+    "pt"
+   ],
+   [
+    "Jiménez",
+    "Raúl Jiménez",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sporting CP",
+  "opp": "Benfica",
+  "score": "3-0",
+  "comp": "Primeira liga, derbi Lisabona",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Žorže Žezus se vratio na Luz kao trener Sportinga i slavio ubedljivo",
+  "form": "4-4-2",
+  "kit": [
+   "hoops",
+   "#008057",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e20e17",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rui Patrício",
+    "Rui Patrício",
+    "pt"
+   ],
+   [
+    "Jefferson",
+    "Jefferson",
+    "br"
+   ],
+   [
+    "Paulo Oliveira",
+    "Paulo Oliveira",
+    "pt"
+   ],
+   [
+    "Naldo",
+    "Naldo",
+    "br"
+   ],
+   [
+    "João Pereira",
+    "João Pereira",
+    "pt"
+   ],
+   [
+    "Bryan Ruiz",
+    "Bryan Ruiz",
+    "cr"
+   ],
+   [
+    "William Carvalho",
+    "William Carvalho",
+    "pt"
+   ],
+   [
+    "Adrien",
+    "Adrien Silva",
+    "pt"
+   ],
+   [
+    "João Mário",
+    "João Mário",
+    "pt"
+   ],
+   [
+    "Teo Gutiérrez",
+    "Teo Gutiérrez",
+    "co"
+   ],
+   [
+    "Slimani",
+    "Islam Slimani",
+    "dz"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sporting CP",
+  "opp": "Boavista",
+  "score": "1-0",
+  "comp": "Primeira liga, 32. kolo",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Sporting prvak posle 19 godina, bez poraza u trenutku osvajanja titule",
+  "form": "3-4-3",
+  "kit": [
+   "hoops",
+   "#008057",
+   "#ffffff"
+  ],
+  "okit": [
+   "checks",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Adán",
+    "Antonio Adán",
+    "es"
+   ],
+   [
+    "Feddal",
+    "Zouhair Feddal",
+    "ma"
+   ],
+   [
+    "Coates",
+    "Sebastián Coates",
+    "uy"
+   ],
+   [
+    "Inácio",
+    "Gonçalo Inácio",
+    "pt"
+   ],
+   [
+    "Nuno Mendes",
+    "Nuno Mendes",
+    "pt"
+   ],
+   [
+    "João Mário",
+    "João Mário",
+    "pt"
+   ],
+   [
+    "Palhinha",
+    "João Palhinha",
+    "pt"
+   ],
+   [
+    "Porro",
+    "Pedro Porro",
+    "es"
+   ],
+   [
+    "Nuno Santos",
+    "Nuno Santos",
+    "pt"
+   ],
+   [
+    "Paulinho",
+    "Paulinho",
+    "pt"
+   ],
+   [
+    "Pedro Gonçalves",
+    "Pedro Gonçalves",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Porto",
+  "opp": "Benfica",
+  "score": "1-0",
+  "comp": "Primeira liga, O Klasiko",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Gol u 90. minutu na Luzu presudio je trku za titulu u korist Porta",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#003893",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e20e17",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Alex Telles",
+    "Alex Telles",
+    "br"
+   ],
+   [
+    "Marcano",
+    "Iván Marcano",
+    "es"
+   ],
+   [
+    "Felipe",
+    "Felipe",
+    "br"
+   ],
+   [
+    "Ricardo Pereira",
+    "Ricardo Pereira",
+    "pt"
+   ],
+   [
+    "Brahimi",
+    "Yacine Brahimi",
+    "dz"
+   ],
+   [
+    "Sérgio Oliveira",
+    "Sérgio Oliveira",
+    "pt"
+   ],
+   [
+    "Herrera",
+    "Héctor Herrera",
+    "mx"
+   ],
+   [
+    "Otávio",
+    "Otávio",
+    "pt"
+   ],
+   [
+    "Marega",
+    "Moussa Marega",
+    "ml"
+   ],
+   [
+    "Soares",
+    "Tiquinho Soares",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Porto",
+  "opp": "Benfica",
+  "score": "1-0",
+  "comp": "Primeira liga, O Klasiko",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Porto osvojio 30. titulu prvaka baš na stadionu najvećeg rivala",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#003893",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e20e17",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Diogo Costa",
+    "Diogo Costa",
+    "pt"
+   ],
+   [
+    "Zaidu",
+    "Zaidu Sanusi",
+    "ng"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Mbemba",
+    "Chancel Mbemba",
+    "cd"
+   ],
+   [
+    "João Mário",
+    "João Mário",
+    "pt"
+   ],
+   [
+    "Pepê",
+    "Pepê",
+    "br"
+   ],
+   [
+    "Grujić",
+    "Marko Grujić",
+    "rs"
+   ],
+   [
+    "Vitinha",
+    "Vitinha",
+    "pt"
+   ],
+   [
+    "Otávio",
+    "Otávio",
+    "pt"
+   ],
+   [
+    "Taremi",
+    "Mehdi Taremi",
+    "ir"
+   ],
+   [
+    "Evanilson",
+    "Evanilson",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Celtic",
+  "opp": "Rangers",
+  "score": "5-1",
+  "comp": "Škotski premijeršip, Old Firm derbi",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Prvi Old Firm Brendana Rodžersa, u sezoni bez ijednog poraza u prvenstvu",
+  "form": "4-2-3-1",
+  "kit": [
+   "hoops",
+   "#009a44",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b458f",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Vries",
+    "Dorus de Vries",
+    "nl"
+   ],
+   [
+    "Tierney",
+    "Kieran Tierney",
+    "gb-sct"
+   ],
+   [
+    "Sviatchenko",
+    "Erik Sviatchenko",
+    "dk"
+   ],
+   [
+    "Touré",
+    "Kolo Touré",
+    "ci"
+   ],
+   [
+    "Lustig",
+    "Mikael Lustig",
+    "se"
+   ],
+   [
+    "Bitton",
+    "Nir Bitton",
+    "il"
+   ],
+   [
+    "Brown",
+    "Scott Brown",
+    "gb-sct"
+   ],
+   [
+    "Sinclair",
+    "Scott Sinclair",
+    "gb-eng"
+   ],
+   [
+    "Rogic",
+    "Tom Rogic",
+    "au"
+   ],
+   [
+    "Forrest",
+    "James Forrest",
+    "gb-sct"
+   ],
+   [
+    "Dembélé",
+    "Moussa Dembélé",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Celtic",
+  "opp": "Rangers",
+  "score": "4-0",
+  "comp": "Škotski premijeršip, Old Firm derbi",
+  "season": "2022/23",
+  "y": 2022,
+  "note": "Anž Postekoglu na putu ka trostrukoj kruni sa Seltikom",
+  "form": "4-3-3",
+  "kit": [
+   "hoops",
+   "#009a44",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b458f",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Hart",
+    "Joe Hart",
+    "gb-eng"
+   ],
+   [
+    "Taylor",
+    "Greg Taylor",
+    "gb-sct"
+   ],
+   [
+    "Starfelt",
+    "Carl Starfelt",
+    "se"
+   ],
+   [
+    "Carter-Vickers",
+    "Cameron Carter-Vickers",
+    "us"
+   ],
+   [
+    "Juranović",
+    "Josip Juranović",
+    "hr"
+   ],
+   [
+    "O'Riley",
+    "Matt O'Riley",
+    "dk"
+   ],
+   [
+    "McGregor",
+    "Callum McGregor",
+    "gb-sct"
+   ],
+   [
+    "Hatate",
+    "Reo Hatate",
+    "jp"
+   ],
+   [
+    "Jota",
+    "Jota",
+    "pt"
+   ],
+   [
+    "Kyogo",
+    "Kyogo Furuhashi",
+    "jp"
+   ],
+   [
+    "Abada",
+    "Liel Abada",
+    "il"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Rangers",
+  "opp": "Celtic",
+  "score": "2-0",
+  "comp": "Škotski premijeršip, Old Firm derbi",
+  "season": "2020/21",
+  "y": 2020,
+  "note": "Sezona bez poraza u kojoj je Rendžers sprečio desetu uzastopnu titulu Seltika",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#1b458f",
+   "#ffffff"
+  ],
+  "okit": [
+   "hoops",
+   "#009a44",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "McGregor",
+    "Allan McGregor",
+    "gb-sct"
+   ],
+   [
+    "Barišić",
+    "Borna Barišić",
+    "hr"
+   ],
+   [
+    "Helander",
+    "Filip Helander",
+    "se"
+   ],
+   [
+    "Goldson",
+    "Connor Goldson",
+    "gb-eng"
+   ],
+   [
+    "Tavernier",
+    "James Tavernier",
+    "gb-eng"
+   ],
+   [
+    "Kamara",
+    "Glen Kamara",
+    "fi"
+   ],
+   [
+    "Davis",
+    "Steven Davis",
+    "gb-nir"
+   ],
+   [
+    "Arfield",
+    "Scott Arfield",
+    "ca"
+   ],
+   [
+    "Kent",
+    "Ryan Kent",
+    "gb-eng"
+   ],
+   [
+    "Morelos",
+    "Alfredo Morelos",
+    "co"
+   ],
+   [
+    "Barker",
+    "Brandon Barker",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Rangers",
+  "opp": "Celtic",
+  "score": "2-1 prod.",
+  "comp": "Škotski kup, polufinale, Old Firm derbi",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Pobeda u produžecima na Hempdenu, iste sezone Rendžers igrao finale Lige Evrope",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#1b458f",
+   "#ffffff"
+  ],
+  "okit": [
+   "hoops",
+   "#009a44",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "McLaughlin",
+    "Jon McLaughlin",
+    "gb-sct"
+   ],
+   [
+    "Barišić",
+    "Borna Barišić",
+    "hr"
+   ],
+   [
+    "Bassey",
+    "Calvin Bassey",
+    "ng"
+   ],
+   [
+    "Goldson",
+    "Connor Goldson",
+    "gb-eng"
+   ],
+   [
+    "Tavernier",
+    "James Tavernier",
+    "gb-eng"
+   ],
+   [
+    "Lundstram",
+    "John Lundstram",
+    "gb-eng"
+   ],
+   [
+    "Jack",
+    "Ryan Jack",
+    "gb-sct"
+   ],
+   [
+    "Kent",
+    "Ryan Kent",
+    "gb-eng"
+   ],
+   [
+    "Aribo",
+    "Joe Aribo",
+    "ng"
+   ],
+   [
+    "Ramsey",
+    "Aaron Ramsey",
+    "gb-wls"
+   ],
+   [
+    "Roofe",
+    "Kemar Roofe",
+    "jm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Galatasaray",
+  "opp": "Fenerbahçe",
+  "score": "2-1",
+  "comp": "Superliga Turske, derbi",
+  "season": "2014/15",
+  "y": 2014,
+  "note": "Galatasaraj te sezone osvojio 20. titulu i četvrtu zvezdu na grbu",
+  "form": "4-3-3",
+  "kit": [
+   "halves",
+   "#fdb912",
+   "#a90432"
+  ],
+  "okit": [
+   "stripes",
+   "#ffed00",
+   "#00205b"
+  ],
+  "p": [
+   [
+    "Muslera",
+    "Fernando Muslera",
+    "uy"
+   ],
+   [
+    "Çamdal",
+    "Tarık Çamdal",
+    "tr"
+   ],
+   [
+    "Chedjou",
+    "Aurélien Chedjou",
+    "cm"
+   ],
+   [
+    "Kaya",
+    "Semih Kaya",
+    "tr"
+   ],
+   [
+    "Sarı",
+    "Veysel Sarı",
+    "tr"
+   ],
+   [
+    "Džemaili",
+    "Blerim Džemaili",
+    "ch"
+   ],
+   [
+    "Felipe Melo",
+    "Felipe Melo",
+    "br"
+   ],
+   [
+    "İnan",
+    "Selçuk İnan",
+    "tr"
+   ],
+   [
+    "Sneijder",
+    "Wesley Sneijder",
+    "nl"
+   ],
+   [
+    "Yılmaz",
+    "Burak Yılmaz",
+    "tr"
+   ],
+   [
+    "Adın",
+    "Olcan Adın",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Galatasaray",
+  "opp": "Fenerbahçe",
+  "score": "3-1",
+  "comp": "Superliga Turske, derbi",
+  "season": "2024/25",
+  "y": 2024,
+  "note": "Murinjo izgubio prvi derbi, a gosti na kraju sezone osvojili 25. titulu",
+  "form": "4-2-3-1",
+  "kit": [
+   "halves",
+   "#fdb912",
+   "#a90432"
+  ],
+  "okit": [
+   "stripes",
+   "#ffed00",
+   "#00205b"
+  ],
+  "p": [
+   [
+    "Muslera",
+    "Fernando Muslera",
+    "uy"
+   ],
+   [
+    "Jakobs",
+    "Ismail Jakobs",
+    "sn"
+   ],
+   [
+    "Bardakcı",
+    "Abdülkerim Bardakcı",
+    "tr"
+   ],
+   [
+    "Sánchez",
+    "Davinson Sánchez",
+    "co"
+   ],
+   [
+    "Ayhan",
+    "Kaan Ayhan",
+    "tr"
+   ],
+   [
+    "Torreira",
+    "Lucas Torreira",
+    "uy"
+   ],
+   [
+    "Sara",
+    "Gabriel Sara",
+    "br"
+   ],
+   [
+    "Akgün",
+    "Yunus Akgün",
+    "tr"
+   ],
+   [
+    "Mertens",
+    "Dries Mertens",
+    "be"
+   ],
+   [
+    "Yılmaz",
+    "Barış Alper Yılmaz",
+    "tr"
+   ],
+   [
+    "Osimhen",
+    "Victor Osimhen",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Fenerbahçe",
+  "opp": "Galatasaray",
+  "score": "2-0",
+  "comp": "Superliga Turske, derbi",
+  "season": "2013/14",
+  "y": 2013,
+  "note": "Fenerbahče iste sezone osvojio 19. titulu prvaka Turske",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#ffed00",
+   "#00205b"
+  ],
+  "okit": [
+   "halves",
+   "#fdb912",
+   "#a90432"
+  ],
+  "p": [
+   [
+    "Demirel",
+    "Volkan Demirel",
+    "tr"
+   ],
+   [
+    "Erkin",
+    "Caner Erkin",
+    "tr"
+   ],
+   [
+    "Korkmaz",
+    "Egemen Korkmaz",
+    "tr"
+   ],
+   [
+    "Bruno Alves",
+    "Bruno Alves",
+    "pt"
+   ],
+   [
+    "Gönül",
+    "Gökhan Gönül",
+    "tr"
+   ],
+   [
+    "Topal",
+    "Mehmet Topal",
+    "tr"
+   ],
+   [
+    "Belözoğlu",
+    "Emre Belözoğlu",
+    "tr"
+   ],
+   [
+    "Sow",
+    "Moussa Sow",
+    "sn"
+   ],
+   [
+    "Cristian",
+    "Cristian Baroni",
+    "br"
+   ],
+   [
+    "Kuyt",
+    "Dirk Kuyt",
+    "nl"
+   ],
+   [
+    "Webó",
+    "Pierre Webó",
+    "cm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Fenerbahçe",
+  "opp": "Galatasaray",
+  "score": "1-0",
+  "comp": "Superliga Turske, derbi",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Fenerbahče dobio derbi, ali je Galatasaraj uzeo titulu sa rekordna 102 boda",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#ffed00",
+   "#00205b"
+  ],
+  "okit": [
+   "halves",
+   "#fdb912",
+   "#a90432"
+  ],
+  "p": [
+   [
+    "Livaković",
+    "Dominik Livaković",
+    "hr"
+   ],
+   [
+    "Kadıoğlu",
+    "Ferdi Kadıoğlu",
+    "tr"
+   ],
+   [
+    "Oosterwolde",
+    "Jayden Oosterwolde",
+    "nl"
+   ],
+   [
+    "Söyüncü",
+    "Çağlar Söyüncü",
+    "tr"
+   ],
+   [
+    "Osayi-Samuel",
+    "Bright Osayi-Samuel",
+    "ng"
+   ],
+   [
+    "Djiku",
+    "Alexander Djiku",
+    "gh"
+   ],
+   [
+    "Fred",
+    "Fred",
+    "br"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Yandaş",
+    "Mert Hakan Yandaş",
+    "tr"
+   ],
+   [
+    "Szymański",
+    "Sebastian Szymański",
+    "pl"
+   ],
+   [
+    "Batshuayi",
+    "Michy Batshuayi",
+    "be"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Beşiktaş",
+  "opp": "Galatasaray",
+  "score": "1-0",
+  "comp": "Superliga Turske, derbi",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Pobeda kod večitog rivala otvorila Bešiktašu put do prve titule posle sedam godina",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "halves",
+   "#fdb912",
+   "#a90432"
+  ],
+  "p": [
+   [
+    "Zengin",
+    "Tolga Zengin",
+    "tr"
+   ],
+   [
+    "Köybaşı",
+    "İsmail Köybaşı",
+    "tr"
+   ],
+   [
+    "Tošić",
+    "Duško Tošić",
+    "rs"
+   ],
+   [
+    "Marcelo",
+    "Marcelo Guedes",
+    "br"
+   ],
+   [
+    "Beck",
+    "Andreas Beck",
+    "de"
+   ],
+   [
+    "Hutchinson",
+    "Atiba Hutchinson",
+    "ca"
+   ],
+   [
+    "Özyakup",
+    "Oğuzhan Özyakup",
+    "tr"
+   ],
+   [
+    "Şahan",
+    "Olcay Şahan",
+    "tr"
+   ],
+   [
+    "Sosa",
+    "José Sosa",
+    "ar"
+   ],
+   [
+    "Quaresma",
+    "Ricardo Quaresma",
+    "pt"
+   ],
+   [
+    "Gómez",
+    "Mario Gómez",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Beşiktaş",
+  "opp": "Galatasaray",
+  "score": "3-0",
+  "comp": "Superliga Turske, derbi",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Bešiktaš sa tri gola razbio Galatasaraj u derbiju na Vodafon parku",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "halves",
+   "#fdb912",
+   "#a90432"
+  ],
+  "p": [
+   [
+    "Fabri",
+    "Fabri",
+    "es"
+   ],
+   [
+    "Adriano",
+    "Adriano",
+    "br"
+   ],
+   [
+    "Tošić",
+    "Duško Tošić",
+    "rs"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Gönül",
+    "Gökhan Gönül",
+    "tr"
+   ],
+   [
+    "Hutchinson",
+    "Atiba Hutchinson",
+    "ca"
+   ],
+   [
+    "Arslan",
+    "Tolgay Arslan",
+    "de"
+   ],
+   [
+    "Babel",
+    "Ryan Babel",
+    "nl"
+   ],
+   [
+    "Özyakup",
+    "Oğuzhan Özyakup",
+    "tr"
+   ],
+   [
+    "Quaresma",
+    "Ricardo Quaresma",
+    "pt"
+   ],
+   [
+    "Tosun",
+    "Cenk Tosun",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Trabzonspor",
+  "opp": "Antalyaspor",
+  "score": "2-2",
+  "comp": "Superliga Turske, 35. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Trabzonspor ponovo prvak Turske posle 38 godina, tri kola pre kraja",
+  "form": "4-1-4-1",
+  "kit": [
+   "stripes",
+   "#8a1538",
+   "#5ebfe8"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Çakır",
+    "Uğurcan Çakır",
+    "tr"
+   ],
+   [
+    "Puchacz",
+    "Tymoteusz Puchacz",
+    "pl"
+   ],
+   [
+    "Denswil",
+    "Stefano Denswil",
+    "sr"
+   ],
+   [
+    "Vitor Hugo",
+    "Vitor Hugo",
+    "br"
+   ],
+   [
+    "Toköz",
+    "Dorukhan Toköz",
+    "tr"
+   ],
+   [
+    "Siopis",
+    "Manolis Siopis",
+    "gr"
+   ],
+   [
+    "Djaniny",
+    "Djaniny",
+    "cv"
+   ],
+   [
+    "Hamšík",
+    "Marek Hamšík",
+    "sk"
+   ],
+   [
+    "Ömür",
+    "Abdülkadir Ömür",
+    "tr"
+   ],
+   [
+    "Višća",
+    "Edin Višća",
+    "ba"
+   ],
+   [
+    "Cornelius",
+    "Andreas Cornelius",
+    "dk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Başakşehir",
+  "opp": "Kayserispor",
+  "score": "1-0",
+  "comp": "Superliga Turske, 33. kolo",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Prva titula Bašakšehira, tek šestog različitog prvaka u istoriji Superlige",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#f47920",
+   "#1b2a4a"
+  ],
+  "okit": [
+   "stripes",
+   "#ffd200",
+   "#e30613"
+  ],
+  "p": [
+   [
+    "Günok",
+    "Mert Günok",
+    "tr"
+   ],
+   [
+    "Clichy",
+    "Gaël Clichy",
+    "fr"
+   ],
+   [
+    "Škrtel",
+    "Martin Škrtel",
+    "sk"
+   ],
+   [
+    "Epureanu",
+    "Alexandru Epureanu",
+    "md"
+   ],
+   [
+    "Caiçara",
+    "Júnior Caiçara",
+    "br"
+   ],
+   [
+    "Elia",
+    "Eljero Elia",
+    "nl"
+   ],
+   [
+    "Tekdemir",
+    "Mahmut Tekdemir",
+    "tr"
+   ],
+   [
+    "Kahveci",
+    "İrfan Can Kahveci",
+    "tr"
+   ],
+   [
+    "Višća",
+    "Edin Višća",
+    "ba"
+   ],
+   [
+    "Demba Ba",
+    "Demba Ba",
+    "sn"
+   ],
+   [
+    "Crivelli",
+    "Enzo Crivelli",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Shakhtar Donetsk",
+  "opp": "Dynamo Kyiv",
+  "score": "4-3",
+  "comp": "Premijer liga Ukrajine, derbi",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Sedam golova u Kijevu, Šahtar Paula Fonseke te sezone osvojio duplu krunu",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#f26522",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0055a5"
+  ],
+  "p": [
+   [
+    "Pyatov",
+    "Andriy Pyatov",
+    "ua"
+   ],
+   [
+    "Ismaily",
+    "Ismaily",
+    "br"
+   ],
+   [
+    "Rakitskyi",
+    "Yaroslav Rakitskyi",
+    "ua"
+   ],
+   [
+    "Kucher",
+    "Oleksandr Kucher",
+    "ua"
+   ],
+   [
+    "Srna",
+    "Darijo Srna",
+    "hr"
+   ],
+   [
+    "Stepanenko",
+    "Taras Stepanenko",
+    "ua"
+   ],
+   [
+    "Fred",
+    "Fred",
+    "br"
+   ],
+   [
+    "Bernard",
+    "Bernard",
+    "br"
+   ],
+   [
+    "Kovalenko",
+    "Viktor Kovalenko",
+    "ua"
+   ],
+   [
+    "Marlos",
+    "Marlos",
+    "ua"
+   ],
+   [
+    "Ferreyra",
+    "Facundo Ferreyra",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Dynamo Kyiv",
+  "opp": "Shakhtar Donetsk",
+  "score": "1-0",
+  "comp": "Premijer liga Ukrajine, derbi",
+  "season": "2014/15",
+  "y": 2014,
+  "note": "Dinamo te sezone osvojio duplu krunu bez poraza u prvenstvu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0055a5"
+  ],
+  "okit": [
+   "stripes",
+   "#f26522",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Rybka",
+    "Oleksandr Rybka",
+    "ua"
+   ],
+   [
+    "Burda",
+    "Mykyta Burda",
+    "ua"
+   ],
+   [
+    "Dragović",
+    "Aleksandar Dragović",
+    "at"
+   ],
+   [
+    "Danilo Silva",
+    "Danilo Silva",
+    "br"
+   ],
+   [
+    "Vida",
+    "Domagoj Vida",
+    "hr"
+   ],
+   [
+    "Veloso",
+    "Miguel Veloso",
+    "pt"
+   ],
+   [
+    "Sydorchuk",
+    "Serhiy Sydorchuk",
+    "ua"
+   ],
+   [
+    "Lens",
+    "Jeremain Lens",
+    "nl"
+   ],
+   [
+    "Belhanda",
+    "Younès Belhanda",
+    "ma"
+   ],
+   [
+    "Yarmolenko",
+    "Andriy Yarmolenko",
+    "ua"
+   ],
+   [
+    "Kravets",
+    "Artem Kravets",
+    "ua"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Dynamo Kyiv",
+  "opp": "Shakhtar Donetsk",
+  "score": "1-0",
+  "comp": "Premijer liga Ukrajine, derbi",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Lučesku pobedio bivši klub, Dinamo prekinuo Šahtarov niz od četiri titule",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0055a5"
+  ],
+  "okit": [
+   "stripes",
+   "#f26522",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Bushchan",
+    "Heorhiy Bushchan",
+    "ua"
+   ],
+   [
+    "Mykolenko",
+    "Vitaliy Mykolenko",
+    "ua"
+   ],
+   [
+    "Popov",
+    "Denys Popov",
+    "ua"
+   ],
+   [
+    "Zabarnyi",
+    "Illia Zabarnyi",
+    "ua"
+   ],
+   [
+    "Kędziora",
+    "Tomasz Kędziora",
+    "pl"
+   ],
+   [
+    "Andriyevskyi",
+    "Oleksandr Andriyevskyi",
+    "ua"
+   ],
+   [
+    "Shepelev",
+    "Volodymyr Shepelev",
+    "ua"
+   ],
+   [
+    "De Pena",
+    "Carlos de Pena",
+    "uy"
+   ],
+   [
+    "Buyalskyi",
+    "Vitaliy Buyalskyi",
+    "ua"
+   ],
+   [
+    "Karavaev",
+    "Oleksandr Karavaev",
+    "ua"
+   ],
+   [
+    "Besedin",
+    "Artem Besedin",
+    "ua"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Zenit",
+  "opp": "Spartak Moscow",
+  "score": "5-2",
+  "comp": "Premijer liga Rusije, derbi",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Sedam golova u Sankt Peterburgu u poslednjoj sezoni Vilaš-Boaša u Zenitu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#0094d9",
+   "#ffffff"
+  ],
+  "okit": [
+   "band",
+   "#d6001c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lodygin",
+    "Yuri Lodygin",
+    "ru"
+   ],
+   [
+    "Zhirkov",
+    "Yuri Zhirkov",
+    "ru"
+   ],
+   [
+    "Lombaerts",
+    "Nicolas Lombaerts",
+    "be"
+   ],
+   [
+    "Neto",
+    "Luís Neto",
+    "pt"
+   ],
+   [
+    "Smolnikov",
+    "Igor Smolnikov",
+    "ru"
+   ],
+   [
+    "Witsel",
+    "Axel Witsel",
+    "be"
+   ],
+   [
+    "Maurício",
+    "Maurício",
+    "br"
+   ],
+   [
+    "Hulk",
+    "Hulk",
+    "br"
+   ],
+   [
+    "Danny",
+    "Danny",
+    "pt"
+   ],
+   [
+    "Shatov",
+    "Oleg Shatov",
+    "ru"
+   ],
+   [
+    "Dzyuba",
+    "Artem Dzyuba",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Zenit",
+  "opp": "Spartak Moscow",
+  "score": "7-1",
+  "comp": "Premijer liga Rusije, derbi",
+  "season": "2021/22",
+  "y": 2021,
+  "note": "Zenit razbio Spartak na putu ka četvrtoj uzastopnoj tituli prvaka Rusije",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#0094d9",
+   "#ffffff"
+  ],
+  "okit": [
+   "band",
+   "#d6001c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Kritsyuk",
+    "Stanislav Kritsyuk",
+    "ru"
+   ],
+   [
+    "Rakitskyi",
+    "Yaroslav Rakitskyi",
+    "ua"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Chistyakov",
+    "Dmitri Chistyakov",
+    "ru"
+   ],
+   [
+    "Douglas Santos",
+    "Douglas Santos",
+    "br"
+   ],
+   [
+    "Wendel",
+    "Wendel",
+    "br"
+   ],
+   [
+    "Barrios",
+    "Wilmar Barrios",
+    "co"
+   ],
+   [
+    "Karavaev",
+    "Vyacheslav Karavaev",
+    "ru"
+   ],
+   [
+    "Claudinho",
+    "Claudinho",
+    "br"
+   ],
+   [
+    "Azmoun",
+    "Sardar Azmoun",
+    "ir"
+   ],
+   [
+    "Mostovoy",
+    "Andrei Mostovoy",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Spartak Moscow",
+  "opp": "Zenit",
+  "score": "2-1",
+  "comp": "Premijer liga Rusije, derbi",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Spartak iste sezone postao prvak Rusije prvi put posle 16 godina",
+  "form": "4-2-3-1",
+  "kit": [
+   "band",
+   "#d6001c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0094d9",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rebrov",
+    "Artyom Rebrov",
+    "ru"
+   ],
+   [
+    "Kombarov",
+    "Dmitri Kombarov",
+    "ru"
+   ],
+   [
+    "Taşçı",
+    "Serdar Taşçı",
+    "de"
+   ],
+   [
+    "Dzhikiya",
+    "Georgi Dzhikiya",
+    "ru"
+   ],
+   [
+    "Eshchenko",
+    "Andrei Eshchenko",
+    "ru"
+   ],
+   [
+    "Glushakov",
+    "Denis Glushakov",
+    "ru"
+   ],
+   [
+    "Fernando",
+    "Fernando",
+    "br"
+   ],
+   [
+    "Zobnin",
+    "Roman Zobnin",
+    "ru"
+   ],
+   [
+    "Ananidze",
+    "Jano Ananidze",
+    "ge"
+   ],
+   [
+    "Popov",
+    "Ivelin Popov",
+    "bg"
+   ],
+   [
+    "Promes",
+    "Quincy Promes",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "CSKA Moscow",
+  "opp": "Lokomotiv Moscow",
+  "score": "1-0",
+  "comp": "Premijer liga Rusije, 30. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Pobeda u poslednjem kolu donela CSKA odbranu titule prvaka Rusije",
+  "form": "4-2-3-1",
+  "kit": [
+   "halves",
+   "#e2001a",
+   "#004b93"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#00843d"
+  ],
+  "p": [
+   [
+    "Akinfeev",
+    "Igor Akinfeev",
+    "ru"
+   ],
+   [
+    "Shchennikov",
+    "Georgi Shchennikov",
+    "ru"
+   ],
+   [
+    "Ignashevich",
+    "Sergei Ignashevich",
+    "ru"
+   ],
+   [
+    "Berezutski",
+    "Vasili Berezutski",
+    "ru"
+   ],
+   [
+    "Mário Fernandes",
+    "Mário Fernandes",
+    "ru"
+   ],
+   [
+    "Elm",
+    "Rasmus Elm",
+    "se"
+   ],
+   [
+    "Wernbloom",
+    "Pontus Wernbloom",
+    "se"
+   ],
+   [
+    "Zuber",
+    "Steven Zuber",
+    "ch"
+   ],
+   [
+    "Dzagoev",
+    "Alan Dzagoev",
+    "ru"
+   ],
+   [
+    "Tošić",
+    "Zoran Tošić",
+    "rs"
+   ],
+   [
+    "Doumbia",
+    "Seydou Doumbia",
+    "ci"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "CSKA Moscow",
+  "opp": "Rubin Kazan",
+  "score": "1-0",
+  "comp": "Premijer liga Rusije, 30. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "CSKA osvojio titulu pobedom u Kazanju u poslednjem kolu sezone",
+  "form": "4-2-3-1",
+  "kit": [
+   "halves",
+   "#e2001a",
+   "#004b93"
+  ],
+  "okit": [
+   "solid",
+   "#9b1b30",
+   "#00a651"
+  ],
+  "p": [
+   [
+    "Akinfeev",
+    "Igor Akinfeev",
+    "ru"
+   ],
+   [
+    "Shchennikov",
+    "Georgi Shchennikov",
+    "ru"
+   ],
+   [
+    "Ignashevich",
+    "Sergei Ignashevich",
+    "ru"
+   ],
+   [
+    "Berezutski",
+    "Vasili Berezutski",
+    "ru"
+   ],
+   [
+    "Mário Fernandes",
+    "Mário Fernandes",
+    "ru"
+   ],
+   [
+    "Wernbloom",
+    "Pontus Wernbloom",
+    "se"
+   ],
+   [
+    "Natcho",
+    "Bibras Natcho",
+    "il"
+   ],
+   [
+    "Dzagoev",
+    "Alan Dzagoev",
+    "ru"
+   ],
+   [
+    "Eremenko",
+    "Roman Eremenko",
+    "fi"
+   ],
+   [
+    "Tošić",
+    "Zoran Tošić",
+    "rs"
+   ],
+   [
+    "Musa",
+    "Ahmed Musa",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lokomotiv Moscow",
+  "opp": "Zenit",
+  "score": "1-0",
+  "comp": "Premijer liga Rusije, 29. kolo",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Prva titula Lokomotive posle 14 godina, osigurana protiv Zenita",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#00843d"
+  ],
+  "okit": [
+   "solid",
+   "#0094d9",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Guilherme",
+    "Guilherme Marinato",
+    "ru"
+   ],
+   [
+    "Rybus",
+    "Maciej Rybus",
+    "pl"
+   ],
+   [
+    "Ćorluka",
+    "Vedran Ćorluka",
+    "hr"
+   ],
+   [
+    "Kvirkvelia",
+    "Solomon Kvirkvelia",
+    "ge"
+   ],
+   [
+    "Ignatyev",
+    "Vladislav Ignatyev",
+    "ru"
+   ],
+   [
+    "Denisov",
+    "Igor Denisov",
+    "ru"
+   ],
+   [
+    "Tarasov",
+    "Dmitri Tarasov",
+    "ru"
+   ],
+   [
+    "Manuel Fernandes",
+    "Manuel Fernandes",
+    "pt"
+   ],
+   [
+    "Miranchuk",
+    "Aleksei Miranchuk",
+    "ru"
+   ],
+   [
+    "Miranchuk",
+    "Anton Miranchuk",
+    "ru"
+   ],
+   [
+    "Farfán",
+    "Jefferson Farfán",
+    "pe"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Olympiacos",
+  "opp": "Panathinaikos",
+  "score": "3-0",
+  "comp": "Superliga Grčke, večiti derbi",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Olimpijakos na putu ka sedmoj uzastopnoj tituli prvaka Grčke",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#007a33",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Kapino",
+    "Stefanos Kapino",
+    "gr"
+   ],
+   [
+    "Retsos",
+    "Panagiotis Retsos",
+    "gr"
+   ],
+   [
+    "Da Costa",
+    "Manuel da Costa",
+    "ma"
+   ],
+   [
+    "Botía",
+    "Alberto Botía",
+    "es"
+   ],
+   [
+    "Figueiras",
+    "Diogo Figueiras",
+    "pt"
+   ],
+   [
+    "Milivojević",
+    "Luka Milivojević",
+    "rs"
+   ],
+   [
+    "André Martins",
+    "André Martins",
+    "pt"
+   ],
+   [
+    "Sebá",
+    "Sebá",
+    "br"
+   ],
+   [
+    "Fortounis",
+    "Kostas Fortounis",
+    "gr"
+   ],
+   [
+    "Elyounoussi",
+    "Tarik Elyounoussi",
+    "no"
+   ],
+   [
+    "Ideye",
+    "Brown Ideye",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Olympiacos",
+  "opp": "OFI",
+  "score": "2-0",
+  "comp": "Finale Kupa Grčke",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Olimpijakos kompletirao duplu krunu pod vođstvom Hosea Luisa Mendilibara",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Paschalakis",
+    "Alexandros Paschalakis",
+    "gr"
+   ],
+   [
+    "Ortega",
+    "Francisco Ortega",
+    "ar"
+   ],
+   [
+    "Pirola",
+    "Lorenzo Pirola",
+    "it"
+   ],
+   [
+    "Retsos",
+    "Panagiotis Retsos",
+    "gr"
+   ],
+   [
+    "Costinha",
+    "Costinha",
+    "pt"
+   ],
+   [
+    "Hezze",
+    "Santiago Hezze",
+    "ar"
+   ],
+   [
+    "Dani García",
+    "Dani García",
+    "es"
+   ],
+   [
+    "Gelson Martins",
+    "Gelson Martins",
+    "pt"
+   ],
+   [
+    "Chiquinho",
+    "Chiquinho",
+    "pt"
+   ],
+   [
+    "Rodinei",
+    "Rodinei",
+    "br"
+   ],
+   [
+    "El Kaabi",
+    "Ayoub El Kaabi",
+    "ma"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "PAOK",
+  "opp": "Levadiakos",
+  "score": "5-0",
+  "comp": "Superliga Grčke, 29. kolo",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Prva titula PAOK-a posle 34 godine, u sezoni bez ijednog poraza",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00843d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Paschalakis",
+    "Alexandros Paschalakis",
+    "gr"
+   ],
+   [
+    "Giannoulis",
+    "Dimitris Giannoulis",
+    "gr"
+   ],
+   [
+    "Crespo",
+    "José Ángel Crespo",
+    "es"
+   ],
+   [
+    "Varela",
+    "Fernando Varela",
+    "cv"
+   ],
+   [
+    "Léo Matos",
+    "Léo Matos",
+    "br"
+   ],
+   [
+    "Sérgio Oliveira",
+    "Sérgio Oliveira",
+    "pt"
+   ],
+   [
+    "Shakhov",
+    "Yevhen Shakhov",
+    "ua"
+   ],
+   [
+    "Biseswar",
+    "Diego Biseswar",
+    "sr"
+   ],
+   [
+    "Pelkas",
+    "Dimitris Pelkas",
+    "gr"
+   ],
+   [
+    "Limnios",
+    "Dimitris Limnios",
+    "gr"
+   ],
+   [
+    "Świderski",
+    "Karol Świderski",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "PAOK",
+  "opp": "Olympiacos",
+  "score": "2-1",
+  "comp": "Finale Kupa Grčke",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "PAOK u finalu Kupa savladao šampiona Olimpijakos",
+  "form": "3-4-3",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Paschalakis",
+    "Alexandros Paschalakis",
+    "gr"
+   ],
+   [
+    "Crespo",
+    "José Ángel Crespo",
+    "es"
+   ],
+   [
+    "Varela",
+    "Fernando Varela",
+    "cv"
+   ],
+   [
+    "Vieirinha",
+    "Vieirinha",
+    "pt"
+   ],
+   [
+    "Baba",
+    "Abdul Rahman Baba",
+    "gh"
+   ],
+   [
+    "Schwab",
+    "Stefan Schwab",
+    "at"
+   ],
+   [
+    "Douglas Augusto",
+    "Douglas Augusto",
+    "br"
+   ],
+   [
+    "Rodrigo Soares",
+    "Rodrigo Soares",
+    "br"
+   ],
+   [
+    "Warda",
+    "Amr Warda",
+    "eg"
+   ],
+   [
+    "Świderski",
+    "Karol Świderski",
+    "pl"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "AEK Athens",
+  "opp": "PAOK",
+  "score": "2-0",
+  "comp": "Finale Kupa Grčke",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "AEK kompletirao duplu krunu pod vođstvom Matijasa Aljmejde",
+  "form": "4-1-2-1-2",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Stanković",
+    "Cican Stanković",
+    "at"
+   ],
+   [
+    "Hajsafi",
+    "Ehsan Hajsafi",
+    "ir"
+   ],
+   [
+    "Vida",
+    "Domagoj Vida",
+    "hr"
+   ],
+   [
+    "Moukoudi",
+    "Harold Moukoudi",
+    "cm"
+   ],
+   [
+    "Rota",
+    "Lazaros Rota",
+    "gr"
+   ],
+   [
+    "Szymański",
+    "Damian Szymański",
+    "pl"
+   ],
+   [
+    "Gačinović",
+    "Mijat Gačinović",
+    "rs"
+   ],
+   [
+    "Eliasson",
+    "Niclas Eliasson",
+    "se"
+   ],
+   [
+    "Pineda",
+    "Orbelín Pineda",
+    "mx"
+   ],
+   [
+    "Zuber",
+    "Steven Zuber",
+    "ch"
+   ],
+   [
+    "Levi García",
+    "Levi García",
+    "tt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Panathinaikos",
+  "opp": "Olympiacos",
+  "score": "3-0",
+  "comp": "Superliga Grčke, večiti derbi",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Ubedljiva pobeda u Pireju pod vođstvom srpskog trenera Ivana Jovanovića",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#007a33",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Brignoli",
+    "Alberto Brignoli",
+    "it"
+   ],
+   [
+    "Mladenović",
+    "Filip Mladenović",
+    "rs"
+   ],
+   [
+    "Schenkeveld",
+    "Bart Schenkeveld",
+    "nl"
+   ],
+   [
+    "Arão",
+    "Willian Arão",
+    "br"
+   ],
+   [
+    "Vagiannidis",
+    "Georgios Vagiannidis",
+    "gr"
+   ],
+   [
+    "Pérez",
+    "Rubén Pérez",
+    "es"
+   ],
+   [
+    "Gnezda Čerin",
+    "Adam Gnezda Čerin",
+    "si"
+   ],
+   [
+    "Bernard",
+    "Bernard",
+    "br"
+   ],
+   [
+    "Đuričić",
+    "Filip Đuričić",
+    "rs"
+   ],
+   [
+    "Palacios",
+    "Sebastián Palacios",
+    "ar"
+   ],
+   [
+    "Ioannidis",
+    "Fotis Ioannidis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Club Brugge",
+  "opp": "Anderlecht",
+  "score": "5-0",
+  "comp": "Prva liga Belgije, derbi",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Briž Ivana Leka na putu ka tituli prvaka Belgije",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#0067b1",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#4c2583",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Butelle",
+    "Ludovic Butelle",
+    "fr"
+   ],
+   [
+    "Denswil",
+    "Stefano Denswil",
+    "sr"
+   ],
+   [
+    "Poulain",
+    "Benoît Poulain",
+    "fr"
+   ],
+   [
+    "Mechele",
+    "Brandon Mechele",
+    "be"
+   ],
+   [
+    "Limbombe",
+    "Anthony Limbombe",
+    "be"
+   ],
+   [
+    "Vanaken",
+    "Hans Vanaken",
+    "be"
+   ],
+   [
+    "Nakamba",
+    "Marvelous Nakamba",
+    "zw"
+   ],
+   [
+    "Vormer",
+    "Ruud Vormer",
+    "nl"
+   ],
+   [
+    "Cools",
+    "Dion Cools",
+    "my"
+   ],
+   [
+    "Diaby",
+    "Abdoulay Diaby",
+    "ml"
+   ],
+   [
+    "Wesley",
+    "Wesley Moraes",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Al-Hilal",
+  "opp": "Manchester City",
+  "score": "4-3 prod.",
+  "comp": "Svetsko klupsko prvenstvo, osmina finala",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Inzagijev Al Hilal posle produžetaka izbacio Gvardiolin Siti",
+  "form": "5-4-1",
+  "kit": [
+   "solid",
+   "#0033a0",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Bounou",
+    "Yassine Bounou",
+    "ma"
+   ],
+   [
+    "Al-Harbi",
+    "Moteb Al-Harbi",
+    "sa"
+   ],
+   [
+    "Lodi",
+    "Renan Lodi",
+    "br"
+   ],
+   [
+    "Koulibaly",
+    "Kalidou Koulibaly",
+    "sn"
+   ],
+   [
+    "Neves",
+    "Rúben Neves",
+    "pt"
+   ],
+   [
+    "Cancelo",
+    "João Cancelo",
+    "pt"
+   ],
+   [
+    "Al-Dawsari",
+    "Nasser Al-Dawsari",
+    "sa"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Kanno",
+    "Mohamed Kanno",
+    "sa"
+   ],
+   [
+    "Malcom",
+    "Malcom",
+    "br"
+   ],
+   [
+    "Marcos Leonardo",
+    "Marcos Leonardo",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Botafogo",
+  "opp": "Paris Saint-Germain",
+  "score": "1-0",
+  "comp": "Svetsko klupsko prvenstvo, grupna faza",
+  "season": "2025",
+  "y": 2025,
+  "note": "Aktuelni prvak Evrope pao protiv Botafoga na Rouz Boulu u Pasadeni",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "John",
+    "John Victor",
+    "br"
+   ],
+   [
+    "Alex Telles",
+    "Alex Telles",
+    "br"
+   ],
+   [
+    "Barboza",
+    "Alexander Barboza",
+    "ar"
+   ],
+   [
+    "Jair",
+    "Jair Cunha",
+    "br"
+   ],
+   [
+    "Vitinho",
+    "Vitinho",
+    "br"
+   ],
+   [
+    "Allan",
+    "Allan",
+    "br"
+   ],
+   [
+    "Gregore",
+    "Gregore",
+    "br"
+   ],
+   [
+    "Marlon Freitas",
+    "Marlon Freitas",
+    "br"
+   ],
+   [
+    "Savarino",
+    "Jefferson Savarino",
+    "ve"
+   ],
+   [
+    "Igor Jesus",
+    "Igor Jesus",
+    "br"
+   ],
+   [
+    "Artur",
+    "Artur",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Fluminense",
+  "opp": "Inter",
+  "score": "2-0",
+  "comp": "Svetsko klupsko prvenstvo, osmina finala",
+  "season": "2025",
+  "y": 2025,
+  "note": "Finalista Lige šampiona eliminisan od Fluminensea u Šarloti",
+  "form": "3-4-1-2",
+  "kit": [
+   "stripes",
+   "#8b1538",
+   "#00613c"
+  ],
+  "okit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Fábio",
+    "Fábio",
+    "br"
+   ],
+   [
+    "Freytes",
+    "Juan Pablo Freytes",
+    "ar"
+   ],
+   [
+    "Thiago Silva",
+    "Thiago Silva",
+    "br"
+   ],
+   [
+    "Ignácio",
+    "Ignácio",
+    "br"
+   ],
+   [
+    "Renê",
+    "Renê",
+    "br"
+   ],
+   [
+    "Martinelli",
+    "Martinelli",
+    "br"
+   ],
+   [
+    "Bernal",
+    "Facundo Bernal",
+    "uy"
+   ],
+   [
+    "Samuel Xavier",
+    "Samuel Xavier",
+    "br"
+   ],
+   [
+    "Nonato",
+    "Nonato",
+    "br"
+   ],
+   [
+    "Arias",
+    "Jhon Arias",
+    "co"
+   ],
+   [
+    "Cano",
+    "Germán Cano",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Flamengo",
+  "opp": "Chelsea",
+  "score": "3-1",
+  "comp": "Svetsko klupsko prvenstvo, grupna faza",
+  "season": "2025",
+  "y": 2025,
+  "note": "Preokret u Filadelfiji protiv tima koji je na kraju osvojio turnir",
+  "form": "4-2-3-1",
+  "kit": [
+   "hoops",
+   "#c8102e",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rossi",
+    "Agustín Rossi",
+    "ar"
+   ],
+   [
+    "Ayrton Lucas",
+    "Ayrton Lucas",
+    "br"
+   ],
+   [
+    "Léo Pereira",
+    "Léo Pereira",
+    "br"
+   ],
+   [
+    "Danilo",
+    "Danilo",
+    "br"
+   ],
+   [
+    "Wesley",
+    "Wesley",
+    "br"
+   ],
+   [
+    "Jorginho",
+    "Jorginho",
+    "it"
+   ],
+   [
+    "Pulgar",
+    "Erick Pulgar",
+    "cl"
+   ],
+   [
+    "Luiz Araújo",
+    "Luiz Araújo",
+    "br"
+   ],
+   [
+    "Arrascaeta",
+    "Giorgian de Arrascaeta",
+    "uy"
+   ],
+   [
+    "Gerson",
+    "Gerson",
+    "br"
+   ],
+   [
+    "Plata",
+    "Gonzalo Plata",
+    "ec"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Inter Miami",
+  "opp": "Porto",
+  "score": "2-1",
+  "comp": "Svetsko klupsko prvenstvo, grupna faza",
+  "season": "2025",
+  "y": 2025,
+  "note": "Prva pobeda nekog MLS kluba nad evropskim timom u zvaničnom takmičenju",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#f7b5cd",
+   "#231f20"
+  ],
+  "okit": [
+   "stripes",
+   "#003893",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ustari",
+    "Óscar Ustari",
+    "ar"
+   ],
+   [
+    "Allen",
+    "Noah Allen",
+    "gr"
+   ],
+   [
+    "Falcón",
+    "Maximiliano Falcón",
+    "uy"
+   ],
+   [
+    "Fray",
+    "Ian Fray",
+    "jm"
+   ],
+   [
+    "Weigandt",
+    "Marcelo Weigandt",
+    "ar"
+   ],
+   [
+    "Segovia",
+    "Telasco Segovia",
+    "ve"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Cremaschi",
+    "Benjamin Cremaschi",
+    "us"
+   ],
+   [
+    "Allende",
+    "Tadeo Allende",
+    "ar"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Al-Nassr",
+  "opp": "Al-Hilal",
+  "score": "3-1",
+  "comp": "Saudijska Pro liga, rijadski derbi",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Stefano Pioli nadigrao Žorža Žezusa u rijadskom derbiju",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#fdd116",
+   "#003087"
+  ],
+  "okit": [
+   "solid",
+   "#0033a0",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Bento",
+    "Bento",
+    "br"
+   ],
+   [
+    "Al-Najdi",
+    "Salem Al-Najdi",
+    "sa"
+   ],
+   [
+    "Lajami",
+    "Ali Lajami",
+    "sa"
+   ],
+   [
+    "Simakan",
+    "Mohamed Simakan",
+    "fr"
+   ],
+   [
+    "Al-Ghannam",
+    "Sultan Al-Ghannam",
+    "sa"
+   ],
+   [
+    "Mané",
+    "Sadio Mané",
+    "sn"
+   ],
+   [
+    "Al-Hassan",
+    "Ali Al-Hassan",
+    "sa"
+   ],
+   [
+    "Brozović",
+    "Marcelo Brozović",
+    "hr"
+   ],
+   [
+    "Yahya",
+    "Ayman Yahya",
+    "sa"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Durán",
+    "Jhon Durán",
+    "co"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Al-Ittihad",
+  "opp": "Al-Hilal",
+  "score": "4-1",
+  "comp": "Saudijska Pro liga, 21. kolo",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Al Itihad Lorana Blana deklasirao Al Hilal na putu ka tituli",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#ffd100",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#0033a0",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rajković",
+    "Predrag Rajković",
+    "rs"
+   ],
+   [
+    "Kadesh",
+    "Hassan Kadesh",
+    "sa"
+   ],
+   [
+    "Danilo Pereira",
+    "Danilo Pereira",
+    "pt"
+   ],
+   [
+    "Al-Mousa",
+    "Saad Al-Mousa",
+    "sa"
+   ],
+   [
+    "Shanqeeti",
+    "Muhannad Shanqeeti",
+    "sa"
+   ],
+   [
+    "Fabinho",
+    "Fabinho",
+    "br"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "Bergwijn",
+    "Steven Bergwijn",
+    "nl"
+   ],
+   [
+    "Aouar",
+    "Houssem Aouar",
+    "dz"
+   ],
+   [
+    "Diaby",
+    "Moussa Diaby",
+    "fr"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Al-Ahli",
+  "opp": "Al-Hilal",
+  "score": "3-2",
+  "comp": "Saudijska Pro liga, 23. kolo",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Al Ahli iste sezone osvojio azijsku Ligu šampiona elite",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#006a4e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0033a0",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mendy",
+    "Édouard Mendy",
+    "sn"
+   ],
+   [
+    "Balobaid",
+    "Saad Balobaid",
+    "sa"
+   ],
+   [
+    "Ibañez",
+    "Roger Ibañez",
+    "br"
+   ],
+   [
+    "Demiral",
+    "Merih Demiral",
+    "tr"
+   ],
+   [
+    "Majrashi",
+    "Ali Majrashi",
+    "sa"
+   ],
+   [
+    "Al-Johani",
+    "Ziyad Al-Johani",
+    "sa"
+   ],
+   [
+    "Kessié",
+    "Franck Kessié",
+    "ci"
+   ],
+   [
+    "Galeno",
+    "Galeno",
+    "br"
+   ],
+   [
+    "Gabri Veiga",
+    "Gabri Veiga",
+    "es"
+   ],
+   [
+    "Mahrez",
+    "Riyad Mahrez",
+    "dz"
+   ],
+   [
+    "Toney",
+    "Ivan Toney",
+    "gb-eng"
+   ]
+  ]
  }
 ]
