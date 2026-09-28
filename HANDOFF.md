@@ -17,7 +17,7 @@ Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 ## Published
 Artifact (private, claude.ai): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h (v1, 330 entries). Republish: Artifact publish with `url`, `file_path` = index.html, `files` = every `flags/*.svg` mapped to itself.
 
-## Data status (412 entries built)
+## Data status (467 entries built)
 DONE (in `data/`, verified against box scores / Wikipedia / ESPN / Opta):
 | file | scope | n |
 |---|---|---|
@@ -28,12 +28,12 @@ DONE (in `data/`, verified against box scores / Wikipedia / ESPN / Opta):
 | f10_euro_copa.json | Euros, Copa América, AFCON, Nations League, Asian Cup, Gold Cup, Olympics (no Serbia) | 60 |
 | f12_srb_nat.json | Serbia football NT (+U20 2015, U19 2013) | 22 |
 | f01_ucl.json | Champions League 2009/10–2024/25, finals + legendary nights | 60 |
+| f02_uel.json | Europa/Conference League, Super Cup, Club World Cup finals + famous nights | 55 |
 | f04_partial.json | English non-big-six clubs, domestic (complete) | 55 |
 
 MISSING — generate each with one agent (prompt: "Read SPEC.md and follow it exactly. Scope: … Target N. Output data/<file>. Run validate.py until OK."):
 | file | scope | target |
 |---|---|---|
-| f02_uel.json | Europa League, Conference League, UEFA Super Cup, Club World Cup, 2009–2025: both finalists of every UEL final 2010–2025 and UECL finals 2022–2025 + famous nights (Liverpool 4-3 Dortmund 2016, Eintracht at Barça 2022…). No Serbian clubs. | 55 |
 | f03_eng_big.json | Man Utd, Man City, Liverpool, Chelsea, Arsenal, Tottenham — DOMESTIC only (PL, FA Cup, League Cup, Community Shield), ~9 per club across many seasons (City 3-2 QPR 2012, Utd 8-2 Arsenal, City 6-1 Utd, Liverpool 13/14, 19/20, Chelsea 16/17 3-4-3, Spurs 16/17, Arteta's Arsenal, Slot's Liverpool 24/25…). | 55 |
 | f05_esp.json | Spanish clubs, DOMESTIC only (La Liga, Copa, Supercopa): Barça 5-0 Real 2010, Real 11/12, Atlético 13/14 decider, Valencia (Emery era; 2019 Copa with Rodrigo, Garay, Parejo, Gayà), Sevilla, Villarreal, Málaga 12/13, Athletic Bielsa, Real Sociedad, Betis 2022, Girona 23/24, Celta, Getafe, Levante, Eibar, Depor, Osasuna 2023, Mallorca 2025. | 55 |
 | f06_ita.json | Italian clubs, DOMESTIC only: Inter 09/10, Milan 10/11 & 21/22, Juve Conte/Allegri, Napoli Mazzarri/Sarri/Spalletti, Roma, Lazio, Atalanta Gasperini, Fiorentina, Udinese, Sampdoria 09/10, Palermo, Torino, Sassuolo, Bologna 2025 Coppa, Verona, Empoli. | 55 |
