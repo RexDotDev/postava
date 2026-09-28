@@ -14,7 +14,7 @@ Each puzzle is one real match: the teams, the score, the competition and the sea
 - 6 tries per player. **Hard** mode gives 4 tries and hides the flags.
 - **Daily** gives everyone the same lineup for the day. Stats stay in your browser.
 
-The lineups cover football from 2009 (club competitions, domestic leagues, national teams) and basketball from 2012 (NBA, Serbia's national team and clubs, EuroLeague 2019–2025), 827 matches in all.
+The lineups cover football from 2009 (club competitions, domestic leagues, national teams) and basketball (NBA from 2012, EuroLeague 2019–2025, and national teams from the 1992 Dream Team to EuroBasket 2025), 702 matches in all.
 
 ## Run it locally
 

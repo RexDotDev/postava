@@ -21,28 +21,29 @@ Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 - GitHub: `.github/workflows/check.yml` runs on every pull request and push to `main` (job `validate-and-build`: `validate.py` on each data file, then `build.py` must leave no changes). `.github/rulesets/protect-main.json` is the ruleset for `main` (pull request required, check `validate-and-build` required, no force pushes or deletion); import it under Settings → Rules → Rulesets. Dependabot keeps the workflow actions up to date.
 - claude.ai Artifact (private): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h. Republish: Artifact publish with `url`, `file_path` = artifact.html, `files` = every `flags/*.svg` mapped to itself.
 
-## Data status (827 entries built: fb 652, bb 175)
+## Data status (702 entries built: fb 489, bb 213)
 All files in `data/` pass `validate.py`. `build.py` only ships EuroLeague (`cat: euro`) matches from 2019–2025 (`YEARS` in build.py); the 29 older entries stay in b02_euro.json but are skipped.
 | file | scope | n | how verified |
 |---|---|---|---|
 | b01_nba.json | NBA starting fives 2012–2025 | 55 | box scores |
-| b02_euro.json | EuroLeague 2012–2025 (no Serbian clubs); only 2019–2025 built (70) | 99 | box scores; the 49 added 2019–2025 games come straight from the official EuroLeague feed (`tools/gen_euroleague.py`: starters, positions, nationality) |
-| b03_srb.json | Serbia basketball NT + opponents + Zvezda/Partizan/Mega | 50 | box scores |
-| f01_ucl.json | Champions League 2009/10–2024/25, finals + legendary nights | 60 | web |
-| f02_uel.json | Europa/Conference League finals, UEFA Super Cup, Club World Cup, famous EL nights | 64 | 55 from the local session (web), plus 9 Super Cup / Club World Cup finals (7 Transfermarkt, 2 from memory: Real Madrid Super Cups 2022, 2024) |
+| b02_euro.json | EuroLeague 2012–2025 (no Serbian clubs); only 2019–2025 built (67) | 96 | box scores; the 49 added 2019–2025 games come straight from the official EuroLeague feed (`tools/gen_euroleague.py`: starters, positions, nationality) |
+| b04_nat_legends.json | Basketball national teams, legendary games 1989–2025: Dream Team 1992, USA gold medals, Yugoslavia's 1989–2002 finals, Spain, Argentina, Greece, Lithuania, France, Germany; plus the Serbia, USA, Slovenia and Germany finals of 2014–2023 | 43 | official Olympic reports and FIBA box scores (starter flags), Wikipedia box scores, transcribed FIBA box scores (piratasdelbasket.net) for the 1989–2003 games; two sources agree or the game was dropped |
+| b05_nat_recent.json | Basketball national teams 2008–2025: Olympics, World Cups and EuroBasket finals, semi-finals, bronze games, quarter-finals and upsets | 48 | official FIBA game pages (per-player starter flag), official Olympic reports, ESPN and Basketball-Reference box scores |
+| f01_ucl.json | Champions League 2009/10–2024/25, finals + legendary nights | 57 | web |
+| f02_uel.json | Europa/Conference League finals, UEFA Super Cup, Club World Cup, famous EL nights | 56 | 55 from the local session (web), plus 9 Super Cup / Club World Cup finals (7 Transfermarkt, 2 from memory: Real Madrid Super Cups 2022, 2024) |
 | f03_eng_big.json | Big six, domestic only (~9 per club) | 55 | 47 Transfermarkt, 5 StatsBomb, 4 web |
-| f04_partial.json | English non-big-six clubs | 55 | web |
-| f04_eng_cult.json | English non-big-six clubs, extra team+seasons not in f04_partial | 7 | Transfermarkt |
-| f05_esp.json | Spanish clubs, domestic only | 55 | 32 StatsBomb, 22 Transfermarkt, 1 web |
-| f06_ita.json | Italian clubs, domestic only | 74 | 55 from the local session (web), plus 19 extra team+seasons (web / Transfermarkt) |
-| f07_ger_fra.json | German + French clubs, domestic only | 55 | 10 web, 45 StatsBomb (many are ordinary league games: Leverkusen 15/16 & 23/24 opponents, Ligue 1 15/16, PSG 21/22–22/23 opponents) |
-| f08_rest.json | Clubs outside ENG/ESP/ITA/GER/FRA/SRB, domestic/non-UEFA | 60 | 11 web (Libertadores finals), 49 Transfermarkt |
-| f09_wc.json | World Cups 2010–2022 + famous qualifiers (no Serbia) | 60 | web |
-| f10_euro_copa.json | Euros, Copa América, AFCON, Nations League, Asian Cup, Gold Cup, Olympics (no Serbia) | 60 | web |
-| f11_srb_clubs.json | Crvena zvezda 11, Partizan 9, Vojvodina 5 (target was 45) | 25 | 7 web, 18 Transfermarkt |
-| f12_srb_nat.json | Serbia football NT (+U20 2015, U19 2013) | 22 | web |
+| f04_partial.json | English clubs outside the big six (Everton, Aston Villa, Newcastle, West Ham, Leicester, Leeds, Southampton) | 21 | web |
+| f04_eng_cult.json | Same clubs, extra team+seasons not in f04_partial | 2 | Transfermarkt |
+| f05_esp.json | Spanish clubs, domestic only | 44 | 32 StatsBomb, 22 Transfermarkt, 1 web |
+| f06_ita.json | Italian clubs, domestic only | 60 | 55 from the local session (web), plus 19 extra team+seasons (web / Transfermarkt) |
+| f07_ger_fra.json | German + French clubs, domestic only | 34 | 10 web, 45 StatsBomb (many are ordinary league games: Leverkusen 15/16 & 23/24 opponents, Ligue 1 15/16, PSG 21/22–22/23 opponents) |
+| f08_rest.json | Clubs outside ENG/ESP/ITA/GER/FRA (Dutch, Portuguese, Scottish, Turkish, Ukrainian, South American and a few others), domestic/non-UEFA | 40 | 11 web (Libertadores finals), 49 Transfermarkt |
+| f09_wc.json | World Cups 2010–2022 + famous qualifiers | 60 | web |
+| f10_euro_copa.json | Euros, Copa América, AFCON, Nations League, Asian Cup, Gold Cup, Olympics | 60 | web |
 
-Still thin: f11_srb_clubs.json (25/45). The Transfermarkt dataset has no Serbian lineups before 2012/13, no Kup Srbije, and Superliga only from 2024/25, so Partizan CL 2010/11, cup finals and older derbies need web verification.
+Removed on purpose: the Serbia category (clubs and national teams), and the lineups of lesser-known clubs (Greek, Russian and Saudi clubs, most English, Spanish, Italian, German and French sides outside the big names). They are in the git history (commit "Remove the Serbia category and lesser-known clubs") if you want any back.
+
+Legend games we could not confirm are not in the data: the 1990 World Championship final (Yugoslavia), USSR 1972 and 1988, Lithuania 1992 and 1996, Croatia 1992 final, Italy 2004, Greece 2006, France 2000, USA 1984 and 1988, Yugoslavia 1980 and 1988. Add them only with a box score that marks the starters.
 
 Verification sources that work without scraping match-report sites:
 - Transfermarkt dataset (lineups 2012/13+, per-match positions and formation): `https://media.githubusercontent.com/media/thivvu-glitch/BINA_Projekt/HEAD/Data/{game_lineups,games,players,clubs}.csv`
@@ -57,6 +58,6 @@ Verification sources that work without scraping match-report sites:
 - The accent colour (selected player, active filter, focus ring) follows the kit of the team on screen (`teamAccent` in `src.html`).
 
 ## Possible next steps
-- Extend f11_srb_clubs.json toward 45 (needs web access for pre-2012 and domestic cup matches).
+- Basketball national teams: the FIBA game pages (`fiba.basketball/en/history/...` and `/en/events/.../games/...`) carry a per-player starter flag in the page data, which makes 2009+ games easy to verify. Do not use API keys taken from page source.
 - More EuroLeague games: `python3 tools/gen_euroleague.py --write` (raise PER_SEASON). Check nationality: the feed reports passports, so naturalized national-team players need CC_OVERRIDE.
 - Spot-check left/right order in a few lineups (formation and side are sometimes inferred; player identity is not).
