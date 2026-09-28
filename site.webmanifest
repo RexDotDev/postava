@@ -1,0 +1,14 @@
+{
+  "name": "Squads",
+  "short_name": "Squads",
+  "description": "Guess the real starting lineup of famous football and basketball matches.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d1524",
+  "theme_color": "#0d1524",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}

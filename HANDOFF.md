@@ -9,7 +9,9 @@ Goal: 500+ football lineups + ~155 basketball.
 - `build.py` — merges `data/*.json`, validates, drops bad/dup entries, strips leading initials ("V. Milinković-Savić" → "Milinković-Savić"), fetches missing flags (flagcdn.com) into `flags/`, writes `index.html` and `artifact.html`.
 - `validate.py <file>` — schema check (run on every data file).
 - `SPEC.md` — data schema + quality rules. Every data agent must read it.
-- `index.html` — built standalone page (full `<!doctype html>` document) for static hosting: GitHub Pages (branch `main`, folder `/`) or Vercel (framework "Other", no build command, output `.`). `.nojekyll` keeps Pages from running Jekyll.
+- `index.html` + `data.<hash>.json` — built standalone site for static hosting: GitHub Pages (branch `main`, folder `/`) or Vercel (framework "Other", no build command, output `.`). The page loads the lineups from the content-hashed JSON (new name on every data change, so it can be cached forever; `vercel.json` sets the cache headers, `.vercelignore` keeps sources off the site, `.nojekyll` stops Jekyll on Pages).
+- `icon.svg`, `apple-touch-icon.png`, `icon-512.png`, `og.png` (1200×630 link preview), `site.webmanifest` — site icons and share image. Regenerate the PNGs with `node tools/make_images.mjs` (Playwright) from `icon.svg` and `tools/og.html`.
+- `SITE_URL` in `build.py` (or the `SITE_URL` env var) — set it to the public address once known (e.g. `https://squads.vercel.app`) and rebuild: link previews need an absolute `og:image` URL.
 - `artifact.html` — the same page without `<html>/<head>`, for the claude.ai Artifact (the publisher adds them).
 - `flags/<cc>.svg` — nationality flags referenced as relative `flags/xx.svg`.
 
