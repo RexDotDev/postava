@@ -32,6 +32,7 @@
   --text:#f2f1ec; --muted:#9ba39d; --faint:#6a726c;
   --hit:#2f8a55; --near:#b8922e; --miss:#2a302d; --bad:#b4483c;
   --team:#f2f1ec;
+  --team-ink:#0b0e0d;
   --grass1:#1b4c2c; --grass2:#1f5532; --wood1:#b48656; --wood2:#aa7d4f;
   --cond:"Archivo","Arial Narrow","Roboto Condensed",sans-serif;
   --body:"Archivo",system-ui,-apple-system,"Segoe UI",sans-serif;
@@ -100,8 +101,8 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
 .shirt{position:relative;width:clamp(40px,11.5vw,56px);aspect-ratio:1;transition:transform .15s ease}
 .shirt svg{display:block;width:100%;height:100%;filter:drop-shadow(0 4px 3px rgba(0,0,0,.35))}
 .pl:hover .shirt{transform:translateY(-2px)}
-.pl.on .shirt{transform:scale(1.1)}
-.pl.on .shirt::before{content:"";position:absolute;inset:-7px;border:2px solid var(--team);border-radius:50%;box-shadow:0 0 0 3px rgba(0,0,0,.25)}
+.pl.on .shirt{transform:translateY(-3px)}
+.pl.on .shirt::before{content:"";position:absolute;z-index:-1;left:-30%;right:-30%;bottom:calc(-9% - 3px);height:38%;border-radius:50%;border:2px solid var(--team);background:radial-gradient(closest-side,color-mix(in srgb,var(--team) 55%,transparent),color-mix(in srgb,var(--team) 10%,transparent));box-shadow:0 0 0 1px rgba(0,0,0,.4),0 0 16px color-mix(in srgb,var(--team) 45%,transparent)}
 .flag{position:absolute;right:-4px;bottom:4px;width:40%;aspect-ratio:4/3;object-fit:cover;border-radius:2px;box-shadow:0 0 0 1.5px rgba(10,13,12,.9);background:#0b0e0d}
 .tag{font:600 11px/1.4 var(--body);background:rgba(10,13,12,.82);border-radius:4px;padding:1px 6px;white-space:nowrap;max-width:100%;overflow:hidden;text-overflow:ellipsis;font-variant-numeric:tabular-nums;backdrop-filter:blur(2px)}
 .tag .t{color:var(--muted);font-weight:500}
@@ -115,7 +116,9 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .pl.ok .tag{background:var(--hit)}
 .pl.fail .tag{background:var(--bad)}
-.pl.on .tag{box-shadow:0 0 0 1.5px var(--team)}
+.pl.on .tag{position:relative;box-shadow:0 0 0 1.5px var(--team)}
+.pl.on .tag.open{background:var(--team);color:var(--team-ink);box-shadow:none}
+.pl.on .tag.open .t{color:inherit;opacity:.7}
 .foot{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:14px;flex-wrap:wrap}
 .count{font:800 30px/1 var(--cond);font-stretch:72%;font-variant-numeric:tabular-nums;display:flex;align-items:baseline;gap:10px}
 .count small{font:500 13px var(--body);color:var(--muted)}
@@ -436,7 +439,9 @@ function render() {
   $('#hard').checked = S.hard;
   if (!e) return;
   const [main, rest] = e.score.match(/^(\S+)\s*(.*)$/).slice(1);
-  document.documentElement.style.setProperty('--team', teamAccent(e.kit));
+  const accent = teamAccent(e.kit), root = document.documentElement.style;
+  root.setProperty('--team', accent);
+  root.setProperty('--team-ink', lum(accent) > .19 ? '#0b0e0d' : '#fff');  // text on an accent-filled surface
   $('#match').innerHTML = `<div class="comp">${g.daily ? '<b>Daily</b> · ' : ''}${esc(e.comp)} · ${esc(seasonLabel(e))} <span class="no">#${e.no}</span></div>
     <div class="teams"><div class="side home"><span>${esc(e.team)}</span>${kit(e.kit, e.sport === 'bb')}</div>
     <div class="score">${esc(main)}${rest ? `<small>${esc(rest)}</small>` : ''}</div>
