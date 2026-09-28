@@ -1,9 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="Squads: guess the real starting lineup of famous football and basketball matches.">
 <title>Squads</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -142,9 +136,6 @@ button:focus-visible,.toggle:focus-within{outline:2px solid var(--amber);outline
 @media (max-width:400px){.top{gap:6px}.brand{font-size:21px;letter-spacing:.03em}.seg button{padding:5px 7px;font-size:12px}}
 @media (max-width:340px){.brand{font-size:18px}.seg{padding:2px}.seg button{padding:5px 5px;font-size:11px}.icon{width:32px;height:32px}}
 </style>
-</head>
-<body>
-
 
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><filter id="wob"><feTurbulence type="fractalNoise" baseFrequency=".045" numOctaves="1" seed="7"/><feDisplacementMap in="SourceGraphic" scale="2.4"/></filter></svg>
 
@@ -504,6 +495,3 @@ document.addEventListener('keydown', ev => {
 if (!E()) newGame(false); else { const g = G(), e = E(); act = isOver(g, e) ? 0 : nextOpen(g, e, e.p.length - 1); render(); }
 if (!S.help) $('#help').hidden = false;
 </script>
-
-</body>
-</html>

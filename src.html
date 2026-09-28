@@ -128,11 +128,13 @@ button:focus-visible,.toggle:focus-within{outline:2px solid var(--amber);outline
 .sw{width:18px;height:18px;border-radius:4px}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 @media (max-width:520px){
-  .brand{font-size:26px}.seg button{padding:6px 11px;font-size:13px}
+  .top{gap:8px}.brand{font-size:24px}.seg button{padding:6px 9px;font-size:13px}
   .score{font-size:32px}.side{font-size:14px;flex-direction:column;gap:4px}.side.home{flex-direction:column-reverse;align-items:center;text-align:center}.side.away{align-items:center;text-align:center}.side svg{width:28px;height:28px}
   .tag{font-size:10px;padding:1px 4px}
   .tag.open{width:min(calc(var(--n) * 8px + 8px),100%)}.tag.open .t{display:none}
 }
+@media (max-width:400px){.top{gap:6px}.brand{font-size:21px;letter-spacing:.03em}.seg button{padding:5px 7px;font-size:12px}}
+@media (max-width:340px){.brand{font-size:18px}.seg{padding:2px}.seg button{padding:5px 5px;font-size:11px}.icon{width:32px;height:32px}}
 </style>
 
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><filter id="wob"><feTurbulence type="fractalNoise" baseFrequency=".045" numOctaves="1" seed="7"/><feDisplacementMap in="SourceGraphic" scale="2.4"/></filter></svg>

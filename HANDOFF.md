@@ -6,16 +6,17 @@ Goal: 500+ football lineups + ~155 basketball.
 
 ## Files
 - `src.html` — the whole game (UI + logic). Data is injected at `/*DATA*/[]`.
-- `build.py` — merges `data/*.json`, validates, drops bad/dup entries, strips leading initials ("V. Milinković-Savić" → "Milinković-Savić"), fetches missing flags (flagcdn.com) into `flags/`, writes `index.html`.
+- `build.py` — merges `data/*.json`, validates, drops bad/dup entries, strips leading initials ("V. Milinković-Savić" → "Milinković-Savić"), fetches missing flags (flagcdn.com) into `flags/`, writes `index.html` and `artifact.html`.
 - `validate.py <file>` — schema check (run on every data file).
 - `SPEC.md` — data schema + quality rules. Every data agent must read it.
-- `index.html` — built artifact body (no <html>/<head>: the Artifact publisher wraps it). For a standalone/GitHub Pages copy, prepend `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">`.
+- `index.html` — built standalone page (full `<!doctype html>` document) for static hosting: GitHub Pages (branch `main`, folder `/`) or Vercel (framework "Other", no build command, output `.`). `.nojekyll` keeps Pages from running Jekyll.
+- `artifact.html` — the same page without `<html>/<head>`, for the claude.ai Artifact (the publisher adds them).
 - `flags/<cc>.svg` — nationality flags referenced as relative `flags/xx.svg`.
 
 Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 
 ## Published
-Artifact (private, claude.ai): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h (v5, 827 entries). Republish: Artifact publish with `url`, `file_path` = index.html, `files` = every `flags/*.svg` mapped to itself.
+Artifact (private, claude.ai): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h (v5, 827 entries). Republish: Artifact publish with `url`, `file_path` = artifact.html, `files` = every `flags/*.svg` mapped to itself.
 
 ## Data status (827 entries built: fb 652, bb 175)
 All files in `data/` pass `validate.py`. `build.py` only ships EuroLeague (`cat: euro`) matches from 2019–2025 (`YEARS` in build.py); the 29 older entries stay in b02_euro.json but are skipped.
@@ -55,4 +56,4 @@ Verification sources that worked from a cloud session where Wikipedia/ESPN/world
 - Extend f11_srb_clubs.json toward 45 (needs web access for pre-2012 and domestic cup matches).
 - More EuroLeague games: `python3 tools/gen_euroleague.py --write` (raise PER_SEASON). Check nationality: the feed reports passports, so naturalized national-team players need CC_OVERRIDE.
 - Spot-check left/right order in a few lineups (agents flagged formation/side doubts, never player identity).
-- Optional: GitHub Pages (make repo public, add full `<head>` wrapper as `index.html`).
+- Public hosting: `index.html` is ready. GitHub Pages needs the repo public (free plan) + Settings → Pages → Deploy from branch `main` `/`; Vercel works with the private repo (import it, framework "Other").
