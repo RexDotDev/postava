@@ -11,7 +11,7 @@ Goal: 500+ football lineups + ~155 basketball.
 - `SPEC.md` — data schema + quality rules. Every data agent must read it.
 - `index.html` + `data.<hash>.json` — built standalone site for static hosting: GitHub Pages (branch `main`, folder `/`) or Vercel (framework "Other", no build command, output `.`). The page loads the lineups from the content-hashed JSON (new name on every data change, so it can be cached forever; `vercel.json` sets the cache headers, `.vercelignore` keeps sources off the site, `.nojekyll` stops Jekyll on Pages).
 - `icon.svg`, `apple-touch-icon.png`, `icon-512.png`, `og.png` (1200×630 link preview), `site.webmanifest` — site icons and share image. Regenerate the PNGs with `node tools/make_images.mjs` (Playwright) from `icon.svg` and `tools/og.html`.
-- `SITE_URL` in `build.py` (or the `SITE_URL` env var) — set it to the public address once known (e.g. `https://squads.vercel.app`) and rebuild: link previews need an absolute `og:image` URL.
+- `SITE_URL` in `build.py` (or the `SITE_URL` env var) — public address of the site, currently `https://postava-beta.vercel.app` (Vercel project `postava`, team reljas-projects). Change it with a custom domain and rebuild: link previews need an absolute `og:image` URL.
 - `artifact.html` — the same page without `<html>/<head>`, for the claude.ai Artifact (the publisher adds them).
 - `flags/<cc>.svg` — nationality flags referenced as relative `flags/xx.svg`.
 
