@@ -37,16 +37,13 @@ python3 -m http.server 8000   # then open http://localhost:8000
 | `flags/` | Nationality flags as SVG. |
 | `tools/` | Optional helpers: EuroLeague lineups from the official feed (`gen_euroleague.py`, needs `pycountry`) and the share image and icons (`make_images.mjs`, needs Playwright). |
 | `MAINTAINING.md` | Notes for maintainers: deployment, data status and sources. |
+| `.github/` | The pull request check, issue forms and the ruleset for `main`. |
 
 The built files (`index.html`, `data.<hash>.json`) are committed, so any static host can serve the repository root with no build step. The live site is on Vercel.
 
-## Adding or fixing lineups
+## Contributing
 
-1. Read `SPEC.md`. Each match is one JSON object: teams, score, competition, season, formation, kits and the eleven (or five) starters in pitch order.
-2. Add it to the right file in `data/` and run `python3 validate.py <file>` until it prints `OK`.
-3. Run `python3 build.py` and check the puzzle in the browser.
-
-A wrong player ruins a puzzle, so link the source you used (a match report or box score) in the pull request.
+Lineup fixes and new matches are welcome. Report a wrong lineup with the issue form, or follow [CONTRIBUTING.md](CONTRIBUTING.md) to change the data yourself. Every pull request is checked automatically: each data file must pass `validate.py`, and the committed site must match a fresh build. Security issues go through [SECURITY.md](SECURITY.md).
 
 ## Sources and credits
 

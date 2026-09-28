@@ -1,0 +1,28 @@
+name: Wrong lineup
+description: A player, position, score or other detail in a puzzle is wrong.
+title: "Wrong lineup: "
+labels: [data]
+body:
+  - type: input
+    id: match
+    attributes:
+      label: Match
+      description: Teams, competition and season as shown in the game, or the puzzle number.
+      placeholder: "Lazio 3-2 Juventus, Supercoppa Italiana 2017/18"
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: The detail in the game and what it should be.
+      placeholder: "The left back is shown as X; the player who started there was Y."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A link to a match report or box score that shows the correct lineup.
+    validations:
+      required: true
