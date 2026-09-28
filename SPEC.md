@@ -13,8 +13,8 @@ and fix everything it reports until it prints OK.
 ## Object schema
 {
   "sport": "fb",                 // "fb" football | "bb" basketball
-  "cat": "club",                 // fb: "club" | "nat" | "srb"   bb: "nba" | "euro" | "srb"
-                                 //   "srb" = Serbian clubs (Red Star Belgrade, Partizan, Vojvodina, Mega...) AND Serbian national teams
+  "cat": "club",                 // fb: "club" | "nat"   bb: "nba" | "euro" | "nat"
+                                 //   "nat" = national teams (basketball: legendary teams and games, e.g. USA Dream Team 1992)
   "team": "Leicester City",      // team whose starting lineup is the puzzle (English name: "Serbia", "Red Star Belgrade", "USA")
   "opp": "Manchester City",      // opponent
   "score": "3-1",                // TEAM's score first. Pens/ET/OT: "1-1 (4-3 pen.)", "2-1 a.e.t.", basketball "95-88" / "101-98 OT"
@@ -67,5 +67,8 @@ ORDER (critical, it drives pitch placement):
 4. At most one entry per team per season in your file. The same club in different seasons is great.
 5. Mix: ~60% instantly recognisable iconic teams, ~40% deeper cuts that a serious fan still knows.
 6. Stay strictly inside your assigned scope (other agents cover other scopes; overlap creates duplicates).
-7. Dates are from the 2009 calendar year onward for football, 2012 onward for basketball. Do not include matches
+7. Dates are from the 2009 calendar year onward for football, 2012 onward for basketball (basketball national
+   teams, cat "nat", may go back to 1970). Teams that no longer exist (Yugoslavia, USSR, Unified Team, Serbia and
+   Montenegro) have no flag: give each player the modern country he was born in or later played for (Divac "rs",
+   Kukoč "hr", Sabonis "lt"). Do not include matches
    from after July 2025 unless you verified them with WebSearch.

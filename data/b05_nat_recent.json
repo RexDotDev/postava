@@ -1,0 +1,2354 @@
+[
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "USA",
+  "score": "81-101",
+  "comp": "Olympics 2008, semi-final",
+  "season": "2008",
+  "y": 2008,
+  "note": "Argentina's biggest star reinjured his foot in the first quarter and never returned",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0a2463",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "Prigioni",
+    "Pablo Prigioni",
+    "ar"
+   ],
+   [
+    "Ginóbili",
+    "Manu Ginóbili",
+    "ar"
+   ],
+   [
+    "Delfino",
+    "Carlos Delfino",
+    "ar"
+   ],
+   [
+    "Scola",
+    "Luis Scola",
+    "ar"
+   ],
+   [
+    "Oberto",
+    "Fabricio Oberto",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "China",
+  "opp": "USA",
+  "score": "70-101",
+  "comp": "Olympics 2008, group stage",
+  "season": "2008",
+  "y": 2008,
+  "note": "Host nation's opener against the Redeem Team on the tournament's first day",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#de2910",
+   "#ffde00"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "p": [
+   [
+    "Liu Wei",
+    "Liu Wei",
+    "cn"
+   ],
+   [
+    "Sun Yue",
+    "Sun Yue",
+    "cn"
+   ],
+   [
+    "Zhu Fangyu",
+    "Zhu Fangyu",
+    "cn"
+   ],
+   [
+    "Yi Jianlian",
+    "Yi Jianlian",
+    "cn"
+   ],
+   [
+    "Yao",
+    "Yao Ming",
+    "cn"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Greece",
+  "opp": "Argentina",
+  "score": "78-80",
+  "comp": "Olympics 2008, quarter-final",
+  "season": "2008",
+  "y": 2008,
+  "note": "Argentina survived by two points and went on to win bronze",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0d5eaf",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Diamantidis",
+    "Dimitris Diamantidis",
+    "gr"
+   ],
+   [
+    "Spanoulis",
+    "Vassilis Spanoulis",
+    "gr"
+   ],
+   [
+    "Vasilopoulos",
+    "Panagiotis Vasilopoulos",
+    "gr"
+   ],
+   [
+    "Fotsis",
+    "Antonis Fotsis",
+    "gr"
+   ],
+   [
+    "Tsartsaris",
+    "Kostas Tsartsaris",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Lithuania",
+  "opp": "Spain",
+  "score": "86-91",
+  "comp": "Olympics 2008, semi-final",
+  "season": "2008",
+  "y": 2008,
+  "note": "Five points short of the final; bronze hopes ended against Argentina two days later",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#fdb913",
+   "#006a44"
+  ],
+  "okit": [
+   "solid",
+   "#aa151b",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Jasikevičius",
+    "Šarūnas Jasikevičius",
+    "lt"
+   ],
+   [
+    "Kaukėnas",
+    "Rimantas Kaukėnas",
+    "lt"
+   ],
+   [
+    "Šiškauskas",
+    "Ramūnas Šiškauskas",
+    "lt"
+   ],
+   [
+    "Lavrinovič",
+    "Kšyštof Lavrinovič",
+    "lt"
+   ],
+   [
+    "Javtokas",
+    "Robertas Javtokas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Greece",
+  "opp": "Slovenia",
+  "score": "57-56",
+  "comp": "EuroBasket 2009, bronze medal game",
+  "season": "2009",
+  "y": 2009,
+  "note": "Bronze decided by a single point in Katowice",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0d5eaf"
+  ],
+  "okit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Spanoulis",
+    "Vassilis Spanoulis",
+    "gr"
+   ],
+   [
+    "Zisis",
+    "Nikos Zisis",
+    "gr"
+   ],
+   [
+    "Perperoglou",
+    "Efstratios Perperoglou",
+    "gr"
+   ],
+   [
+    "Fotsis",
+    "Antonis Fotsis",
+    "gr"
+   ],
+   [
+    "Bourousis",
+    "Ioannis Bourousis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Spain",
+  "score": "85-98",
+  "comp": "EuroBasket 2011, final",
+  "season": "2011",
+  "y": 2011,
+  "note": "Silver: Spain retained the European crown in Kaunas with a 13-point win",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "p": [
+   [
+    "Parker",
+    "Tony Parker",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "Pietrus",
+    "Florent Pietrus",
+    "fr"
+   ],
+   [
+    "Diaw",
+    "Boris Diaw",
+    "fr"
+   ],
+   [
+    "Noah",
+    "Joakim Noah",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Macedonia",
+  "opp": "Lithuania",
+  "score": "67-65",
+  "comp": "EuroBasket 2011, quarter-final",
+  "season": "2011",
+  "y": 2011,
+  "note": "Two-point upset of hosts Lithuania in Kaunas sent Macedonia into the semi-finals",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d20000",
+   "#ffe600"
+  ],
+  "okit": [
+   "solid",
+   "#006a44",
+   "#fdb913"
+  ],
+  "p": [
+   [
+    "McCalebb",
+    "Bo McCalebb",
+    "mk"
+   ],
+   [
+    "Ilievski",
+    "Vlado Ilievski",
+    "mk"
+   ],
+   [
+    "Stojanovski",
+    "Vojdan Stojanovski",
+    "mk"
+   ],
+   [
+    "Antić",
+    "Pero Antić",
+    "mk"
+   ],
+   [
+    "Samardžiski",
+    "Predrag Samardžiski",
+    "mk"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Russia",
+  "opp": "Macedonia",
+  "score": "72-68",
+  "comp": "EuroBasket 2011, bronze medal game",
+  "season": "2011",
+  "y": 2011,
+  "note": "Bronze for Russia, four years after their 2007 European title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#d52b1e"
+  ],
+  "okit": [
+   "solid",
+   "#d20000",
+   "#ffe600"
+  ],
+  "p": [
+   [
+    "Ponkrashov",
+    "Anton Ponkrashov",
+    "ru"
+   ],
+   [
+    "Bykov",
+    "Sergey Bykov",
+    "ru"
+   ],
+   [
+    "Kirilenko",
+    "Andrei Kirilenko",
+    "ru"
+   ],
+   [
+    "Vorontsevich",
+    "Andrey Vorontsevich",
+    "ru"
+   ],
+   [
+    "Mozgov",
+    "Timofey Mozgov",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Lithuania",
+  "opp": "USA",
+  "score": "94-99",
+  "comp": "Olympics 2012, group stage",
+  "season": "2012",
+  "y": 2012,
+  "note": "The Americans' toughest group test, a five-point escape in London",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#fdb913",
+   "#006a44"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "p": [
+   [
+    "Jasikevičius",
+    "Šarūnas Jasikevičius",
+    "lt"
+   ],
+   [
+    "Pocius",
+    "Martynas Pocius",
+    "lt"
+   ],
+   [
+    "Šeibutis",
+    "Renaldas Šeibutis",
+    "lt"
+   ],
+   [
+    "Kleiza",
+    "Linas Kleiza",
+    "lt"
+   ],
+   [
+    "Valančiūnas",
+    "Jonas Valančiūnas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Russia",
+  "opp": "Argentina",
+  "score": "81-77",
+  "comp": "Olympics 2012, bronze medal game",
+  "season": "2012",
+  "y": 2012,
+  "note": "Russia's first Olympic men's basketball medal since the Soviet era",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d52b1e",
+   "#0039a6"
+  ],
+  "okit": [
+   "solid",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Shved",
+    "Alexey Shved",
+    "ru"
+   ],
+   [
+    "Ponkrashov",
+    "Anton Ponkrashov",
+    "ru"
+   ],
+   [
+    "Kirilenko",
+    "Andrei Kirilenko",
+    "ru"
+   ],
+   [
+    "Khryapa",
+    "Viktor Khryapa",
+    "ru"
+   ],
+   [
+    "Kaun",
+    "Sasha Kaun",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "USA",
+  "score": "100-107",
+  "comp": "Olympics 2012, final",
+  "season": "2012",
+  "y": 2012,
+  "note": "Second straight Olympic final against the Americans, decided by seven points",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#aa151b",
+   "#f1bf00"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "p": [
+   [
+    "Calderón",
+    "José Calderón",
+    "es"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "Rudy",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Pau Gasol",
+    "Pau Gasol",
+    "es"
+   ],
+   [
+    "Marc Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Croatia",
+  "opp": "Ukraine",
+  "score": "84-72",
+  "comp": "EuroBasket 2013, quarter-final",
+  "season": "2013",
+  "y": 2013,
+  "note": "Quarter-final win sent Croatia into the last four, where Lithuania awaited",
+  "form": "5",
+  "kit": [
+   "checks",
+   "#ed1c24",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffd500",
+   "#0057b7"
+  ],
+  "p": [
+   [
+    "Ukić",
+    "Roko Ukić",
+    "hr"
+   ],
+   [
+    "Simon",
+    "Krunoslav Simon",
+    "hr"
+   ],
+   [
+    "Bogdanović",
+    "Bojan Bogdanović",
+    "hr"
+   ],
+   [
+    "Markota",
+    "Damir Markota",
+    "hr"
+   ],
+   [
+    "Tomić",
+    "Ante Tomić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "Croatia",
+  "score": "92-66",
+  "comp": "EuroBasket 2013, bronze medal game",
+  "season": "2013",
+  "y": 2013,
+  "note": "Bronze after a narrow semi-final loss to France",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "okit": [
+   "checks",
+   "#ed1c24",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Calderón",
+    "José Calderón",
+    "es"
+   ],
+   [
+    "Fernández",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Claver",
+    "Víctor Claver",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Spain",
+  "score": "65-52",
+  "comp": "World Cup 2014, quarter-final",
+  "season": "2014",
+  "y": 2014,
+  "note": "Stunned the hosts in Madrid with a 65-52 defensive masterclass",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#aa151b",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Heurtel",
+    "Thomas Heurtel",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "Gelabale",
+    "Mickaël Gelabale",
+    "fr"
+   ],
+   [
+    "Diaw",
+    "Boris Diaw",
+    "fr"
+   ],
+   [
+    "Lauvergne",
+    "Joffrey Lauvergne",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Serbia",
+  "score": "81-68",
+  "comp": "EuroBasket 2015, bronze medal game",
+  "season": "2015",
+  "y": 2015,
+  "note": "Bronze in Lille after an overtime semi-final loss to Spain",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Parker",
+    "Tony Parker",
+    "fr"
+   ],
+   [
+    "De Colo",
+    "Nando De Colo",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "Diaw",
+    "Boris Diaw",
+    "fr"
+   ],
+   [
+    "Gobert",
+    "Rudy Gobert",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Italy",
+  "opp": "Spain",
+  "score": "105-98",
+  "comp": "EuroBasket 2015, group stage",
+  "season": "2015",
+  "y": 2015,
+  "note": "Group-phase shock in Berlin; Spain still went on to win the tournament",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "p": [
+   [
+    "Cinciarini",
+    "Andrea Cinciarini",
+    "it"
+   ],
+   [
+    "Belinelli",
+    "Marco Belinelli",
+    "it"
+   ],
+   [
+    "Gentile",
+    "Alessandro Gentile",
+    "it"
+   ],
+   [
+    "Gallinari",
+    "Danilo Gallinari",
+    "it"
+   ],
+   [
+    "Bargnani",
+    "Andrea Bargnani",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Lithuania",
+  "opp": "Spain",
+  "score": "63-80",
+  "comp": "EuroBasket 2015, final",
+  "season": "2015",
+  "y": 2015,
+  "note": "Second straight silver for Lithuania as Spain took a third EuroBasket title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006a44",
+   "#fdb913"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "p": [
+   [
+    "Kalnietis",
+    "Mantas Kalnietis",
+    "lt"
+   ],
+   [
+    "Seibutis",
+    "Renaldas Seibutis",
+    "lt"
+   ],
+   [
+    "Mačiulis",
+    "Jonas Mačiulis",
+    "lt"
+   ],
+   [
+    "Jankūnas",
+    "Paulius Jankūnas",
+    "lt"
+   ],
+   [
+    "Valančiūnas",
+    "Jonas Valančiūnas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Australia",
+  "opp": "Serbia",
+  "score": "61-87",
+  "comp": "Olympics 2016, semi-final",
+  "season": "2016",
+  "y": 2016,
+  "note": "Serbia won by 26 on the way to silver; the Boomers then lost bronze by a single point",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "okit": [
+   "solid",
+   "#c6363c",
+   "#0c4076"
+  ],
+  "p": [
+   [
+    "Dellavedova",
+    "Matthew Dellavedova",
+    "au"
+   ],
+   [
+    "Mills",
+    "Patty Mills",
+    "au"
+   ],
+   [
+    "Ingles",
+    "Joe Ingles",
+    "au"
+   ],
+   [
+    "Baynes",
+    "Aron Baynes",
+    "au"
+   ],
+   [
+    "Bogut",
+    "Andrew Bogut",
+    "au"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Brazil",
+  "opp": "Spain",
+  "score": "66-65",
+  "comp": "Olympics 2016, group stage",
+  "season": "2016",
+  "y": 2016,
+  "note": "Home crowd in Rio saw the hosts edge the reigning European champions",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "okit": [
+   "solid",
+   "#aa151b",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Huertas",
+    "Marcelo Huertas",
+    "br"
+   ],
+   [
+    "Leandrinho",
+    "Leandro Barbosa",
+    "br"
+   ],
+   [
+    "Marquinhos",
+    "Marquinhos",
+    "br"
+   ],
+   [
+    "Lima",
+    "Augusto Lima",
+    "br"
+   ],
+   [
+    "Nenê",
+    "Nenê",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Croatia",
+  "opp": "Serbia",
+  "score": "83-86",
+  "comp": "Olympics 2016, quarter-final",
+  "season": "2016",
+  "y": 2016,
+  "note": "Ex-Yugoslav derby in Rio; the winners went on to take silver",
+  "form": "5",
+  "kit": [
+   "checks",
+   "#de2400",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c6363c",
+   "#0c4076"
+  ],
+  "p": [
+   [
+    "Ukić",
+    "Roko Ukić",
+    "hr"
+   ],
+   [
+    "Šimon",
+    "Krunoslav Šimon",
+    "hr"
+   ],
+   [
+    "Bogdanović",
+    "Bojan Bogdanović",
+    "hr"
+   ],
+   [
+    "Šarić",
+    "Dario Šarić",
+    "hr"
+   ],
+   [
+    "Bilan",
+    "Miro Bilan",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "Australia",
+  "score": "89-88",
+  "comp": "Olympics 2016, bronze medal game",
+  "season": "2016",
+  "y": 2016,
+  "note": "Decided by two free throws with 5.4 seconds left in a Carioca Arena thriller",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#aa151b",
+   "#f1bf00"
+  ],
+  "okit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Llull",
+    "Sergio Llull",
+    "es"
+   ],
+   [
+    "Rudy",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Pau Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Latvia",
+  "opp": "Slovenia",
+  "score": "97-103",
+  "comp": "EuroBasket 2017, quarter-final",
+  "season": "2017",
+  "y": 2017,
+  "note": "A 200-point quarter-final; Slovenia went on to win the title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#9e1b32",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Strēlnieks",
+    "Jānis Strēlnieks",
+    "lv"
+   ],
+   [
+    "Bertāns",
+    "Dairis Bertāns",
+    "lv"
+   ],
+   [
+    "Timma",
+    "Jānis Timma",
+    "lv"
+   ],
+   [
+    "Šmits",
+    "Rolands Šmits",
+    "lv"
+   ],
+   [
+    "Porziņģis",
+    "Kristaps Porziņģis",
+    "lv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "Russia",
+  "score": "93-85",
+  "comp": "EuroBasket 2017, bronze medal game",
+  "season": "2017",
+  "y": 2017,
+  "note": "Bronze after a heavy semi-final defeat by eventual champions Slovenia",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#d52b1e"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "San Emeterio",
+    "Fernando San Emeterio",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Pau Gasol",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "France",
+  "score": "80-66",
+  "comp": "World Cup 2019, semi-final",
+  "season": "2019",
+  "y": 2019,
+  "note": "A 28-point night from the 39-year-old sent them to a first World Cup final since 2002",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Campazzo",
+    "Facundo Campazzo",
+    "ar"
+   ],
+   [
+    "Brussino",
+    "Nicolás Brussino",
+    "ar"
+   ],
+   [
+    "Garino",
+    "Patricio Garino",
+    "ar"
+   ],
+   [
+    "Scola",
+    "Luis Scola",
+    "ar"
+   ],
+   [
+    "Delía",
+    "Marcos Delía",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Australia",
+  "opp": "Spain",
+  "score": "88-95 2OT",
+  "comp": "World Cup 2019, semi-final",
+  "season": "2019",
+  "y": 2019,
+  "note": "Double-overtime heartbreak; the guard scored 34 in a losing cause",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "okit": [
+   "solid",
+   "#aa151b",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Dellavedova",
+    "Matthew Dellavedova",
+    "au"
+   ],
+   [
+    "Mills",
+    "Patty Mills",
+    "au"
+   ],
+   [
+    "Ingles",
+    "Joe Ingles",
+    "au"
+   ],
+   [
+    "Landale",
+    "Jock Landale",
+    "au"
+   ],
+   [
+    "Baynes",
+    "Aron Baynes",
+    "au"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Australia",
+  "score": "67-59",
+  "comp": "World Cup 2019, bronze medal game",
+  "season": "2019",
+  "y": 2019,
+  "note": "Bronze after a fourth-quarter comeback, days after the USA upset",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "p": [
+   [
+    "Ntilikina",
+    "Frank Ntilikina",
+    "fr"
+   ],
+   [
+    "Fournier",
+    "Evan Fournier",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "M'Baye",
+    "Amath M'Baye",
+    "fr"
+   ],
+   [
+    "Gobert",
+    "Rudy Gobert",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "France",
+  "score": "79-89",
+  "comp": "World Cup 2019, quarter-final",
+  "season": "2019",
+  "y": 2019,
+  "note": "Ended a 58-game international winning streak; the Americans finished seventh",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "okit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Walker",
+    "Kemba Walker",
+    "us"
+   ],
+   [
+    "Mitchell",
+    "Donovan Mitchell",
+    "us"
+   ],
+   [
+    "Harris",
+    "Joe Harris",
+    "us"
+   ],
+   [
+    "Barnes",
+    "Harrison Barnes",
+    "us"
+   ],
+   [
+    "Turner",
+    "Myles Turner",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Slovenia",
+  "opp": "Argentina",
+  "score": "118-100",
+  "comp": "Olympics 2020, group stage",
+  "season": "2020",
+  "y": 2021,
+  "note": "Slovenia's Olympic basketball debut and a 48-point night for its young star",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#005da4",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Blažič",
+    "Jaka Blažič",
+    "si"
+   ],
+   [
+    "Dragić",
+    "Zoran Dragić",
+    "si"
+   ],
+   [
+    "Čančar",
+    "Vlatko Čančar",
+    "si"
+   ],
+   [
+    "Tobey",
+    "Mike Tobey",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "USA",
+  "score": "81-95",
+  "comp": "Olympics 2020, quarter-final",
+  "season": "2020",
+  "y": 2021,
+  "note": "A 38-point night from the point guard was not enough against the Americans",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#aa151b",
+   "#f1bf00"
+  ],
+  "okit": [
+   "solid",
+   "#0a2463",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Abalde",
+    "Alberto Abalde",
+    "es"
+   ],
+   [
+    "Rudy",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Claver",
+    "Víctor Claver",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Finland",
+  "opp": "Croatia",
+  "score": "94-86",
+  "comp": "EuroBasket 2022, round of 16",
+  "season": "2022",
+  "y": 2022,
+  "note": "Round-of-16 win over Croatia sent Finland to the quarter-finals, where Spain awaited",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0057b8"
+  ],
+  "okit": [
+   "checks",
+   "#ed1c24",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Maxhuni",
+    "Edon Maxhuni",
+    "fi"
+   ],
+   [
+    "Salin",
+    "Sasu Salin",
+    "fi"
+   ],
+   [
+    "Jantunen",
+    "Mikael Jantunen",
+    "fi"
+   ],
+   [
+    "Markkanen",
+    "Lauri Markkanen",
+    "fi"
+   ],
+   [
+    "Huff",
+    "Shawn Huff",
+    "fi"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Spain",
+  "score": "76-88",
+  "comp": "EuroBasket 2022, final",
+  "season": "2022",
+  "y": 2022,
+  "note": "Beaten in the Berlin final after crushing Poland 95-54 in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#002654",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "p": [
+   [
+    "Albicy",
+    "Andrew Albicy",
+    "fr"
+   ],
+   [
+    "Fournier",
+    "Evan Fournier",
+    "fr"
+   ],
+   [
+    "Tarpey",
+    "Terry Tarpey",
+    "fr"
+   ],
+   [
+    "Yabusele",
+    "Guerschon Yabusele",
+    "fr"
+   ],
+   [
+    "Gobert",
+    "Rudy Gobert",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Germany",
+  "opp": "Poland",
+  "score": "82-69",
+  "comp": "EuroBasket 2022, bronze medal game",
+  "season": "2022",
+  "y": 2022,
+  "note": "Germany's first EuroBasket medal since the 2005 silver",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#dc143c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Schröder",
+    "Dennis Schröder",
+    "de"
+   ],
+   [
+    "Obst",
+    "Andreas Obst",
+    "de"
+   ],
+   [
+    "Wagner",
+    "Franz Wagner",
+    "de"
+   ],
+   [
+    "Theis",
+    "Daniel Theis",
+    "de"
+   ],
+   [
+    "Voigtmann",
+    "Johannes Voigtmann",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Greece",
+  "opp": "Germany",
+  "score": "96-107",
+  "comp": "EuroBasket 2022, quarter-final",
+  "season": "2022",
+  "y": 2022,
+  "note": "Quarter-final loss in Berlin to Germany, who went on to win bronze",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0d5eaf",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Calathes",
+    "Nick Calathes",
+    "gr"
+   ],
+   [
+    "Dorsey",
+    "Tyler Dorsey",
+    "gr"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Antetokounmpo",
+    "Giannis Antetokounmpo",
+    "gr"
+   ],
+   [
+    "Papagiannis",
+    "Georgios Papagiannis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Italy",
+  "opp": "Serbia",
+  "score": "94-86",
+  "comp": "EuroBasket 2022, round of 16",
+  "season": "2022",
+  "y": 2022,
+  "note": "Round-of-16 upset ended Serbia's tournament; France then beat Italy in the quarter-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Spissu",
+    "Marco Spissu",
+    "it"
+   ],
+   [
+    "Tonut",
+    "Stefano Tonut",
+    "it"
+   ],
+   [
+    "Fontecchio",
+    "Simone Fontecchio",
+    "it"
+   ],
+   [
+    "Polonara",
+    "Achille Polonara",
+    "it"
+   ],
+   [
+    "Melli",
+    "Nicolò Melli",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Poland",
+  "opp": "Slovenia",
+  "score": "90-87",
+  "comp": "EuroBasket 2022, quarter-final",
+  "season": "2022",
+  "y": 2022,
+  "note": "Quarter-final upset of Slovenia; France then beat Poland 95-54 in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#dc143c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Slaughter",
+    "A.J. Slaughter",
+    "pl"
+   ],
+   [
+    "Sokołowski",
+    "Michał Sokołowski",
+    "pl"
+   ],
+   [
+    "Ponitka",
+    "Mateusz Ponitka",
+    "pl"
+   ],
+   [
+    "Cel",
+    "Aaron Cel",
+    "pl"
+   ],
+   [
+    "Balcerowski",
+    "Aleksander Balcerowski",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "France",
+  "score": "88-76",
+  "comp": "EuroBasket 2022, final",
+  "season": "2022",
+  "y": 2022,
+  "note": "Fourth EuroBasket title for Spain, won in Berlin",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "okit": [
+   "solid",
+   "#002654",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Brown",
+    "Lorenzo Brown",
+    "es"
+   ],
+   [
+    "Fernández",
+    "Jaime Fernández",
+    "es"
+   ],
+   [
+    "López-Arostegui",
+    "Xabi López-Arostegui",
+    "es"
+   ],
+   [
+    "Pradilla",
+    "Jaime Pradilla",
+    "es"
+   ],
+   [
+    "Hernangómez",
+    "Willy Hernangómez",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Italy",
+  "opp": "Serbia",
+  "score": "78-76",
+  "comp": "World Cup 2023, second round",
+  "season": "2023",
+  "y": 2023,
+  "note": "Rallied from 16 down; the winger's 30 points sealed a famous comeback",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#195ccd",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c6363c",
+   "#0c4076"
+  ],
+  "p": [
+   [
+    "Spissu",
+    "Marco Spissu",
+    "it"
+   ],
+   [
+    "Tonut",
+    "Stefano Tonut",
+    "it"
+   ],
+   [
+    "Fontecchio",
+    "Simone Fontecchio",
+    "it"
+   ],
+   [
+    "Polonara",
+    "Achille Polonara",
+    "it"
+   ],
+   [
+    "Melli",
+    "Nicolò Melli",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Latvia",
+  "opp": "Spain",
+  "score": "74-69",
+  "comp": "World Cup 2023, second round",
+  "season": "2023",
+  "y": 2023,
+  "note": "Toppled the defending champions with a 27-point fourth quarter",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#9d2235",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#aa151b",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Žagars",
+    "Artūrs Žagars",
+    "lv"
+   ],
+   [
+    "A. Kurucs",
+    "Artūrs Kurucs",
+    "lv"
+   ],
+   [
+    "Bertāns",
+    "Dāvis Bertāns",
+    "lv"
+   ],
+   [
+    "R. Kurucs",
+    "Rodions Kurucs",
+    "lv"
+   ],
+   [
+    "Šmits",
+    "Rolands Šmits",
+    "lv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Lithuania",
+  "opp": "USA",
+  "score": "110-104",
+  "comp": "World Cup 2023, second round",
+  "season": "2023",
+  "y": 2023,
+  "note": "A 14-of-25 three-point barrage sank the Americans in Manila",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#fdb913",
+   "#006a44"
+  ],
+  "okit": [
+   "solid",
+   "#0a2463",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "Jokubaitis",
+    "Rokas Jokubaitis",
+    "lt"
+   ],
+   [
+    "Normantas",
+    "Margiris Normantas",
+    "lt"
+   ],
+   [
+    "Sedekerskis",
+    "Tadas Sedekerskis",
+    "lt"
+   ],
+   [
+    "Brazdeikis",
+    "Ignas Brazdeikis",
+    "lt"
+   ],
+   [
+    "Valančiūnas",
+    "Jonas Valančiūnas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Germany",
+  "score": "111-113",
+  "comp": "World Cup 2023, semi-final",
+  "season": "2023",
+  "y": 2023,
+  "note": "224 combined points in Manila; the Germans went on to win the title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Brunson",
+    "Jalen Brunson",
+    "us"
+   ],
+   [
+    "Edwards",
+    "Anthony Edwards",
+    "us"
+   ],
+   [
+    "Bridges",
+    "Mikal Bridges",
+    "us"
+   ],
+   [
+    "Hart",
+    "Josh Hart",
+    "us"
+   ],
+   [
+    "Jackson",
+    "Jaren Jackson Jr.",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Germany",
+  "opp": "France",
+  "score": "69-73",
+  "comp": "Olympics 2024, semi-final",
+  "season": "2024",
+  "y": 2024,
+  "note": "Four-point loss to the hosts in Paris; a bronze-medal game against Serbia followed",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Schröder",
+    "Dennis Schröder",
+    "de"
+   ],
+   [
+    "Obst",
+    "Andreas Obst",
+    "de"
+   ],
+   [
+    "Wagner",
+    "Franz Wagner",
+    "de"
+   ],
+   [
+    "Theis",
+    "Daniel Theis",
+    "de"
+   ],
+   [
+    "Voigtmann",
+    "Johannes Voigtmann",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "South Sudan",
+  "opp": "Puerto Rico",
+  "score": "90-79",
+  "comp": "Olympics 2024, group stage",
+  "season": "2024",
+  "y": 2024,
+  "note": "First Olympic game, first win, in front of nearly 27,000 fans in Lille",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d21034",
+   "#078930"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#d0102c"
+  ],
+  "p": [
+   [
+    "Jones",
+    "Carlik Jones",
+    "ss"
+   ],
+   [
+    "Shayok",
+    "Marial Shayok",
+    "ss"
+   ],
+   [
+    "Kuol",
+    "Bul Kuol",
+    "ss"
+   ],
+   [
+    "Omot",
+    "Nuni Omot",
+    "ss"
+   ],
+   [
+    "Gabriel",
+    "Wenyen Gabriel",
+    "ss"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Serbia",
+  "score": "95-91",
+  "comp": "Olympics 2024, semi-final",
+  "season": "2024",
+  "y": 2024,
+  "note": "Came back from 17 down against the reigning MVP's team",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "okit": [
+   "solid",
+   "#c6363c",
+   "#0c4076"
+  ],
+  "p": [
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Booker",
+    "Devin Booker",
+    "us"
+   ],
+   [
+    "Holiday",
+    "Jrue Holiday",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Embiid",
+    "Joel Embiid",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Finland",
+  "opp": "Serbia",
+  "score": "92-86",
+  "comp": "EuroBasket 2025, round of 16",
+  "season": "2025",
+  "y": 2025,
+  "note": "Round-of-16 stunner in Riga launched Finland's run to the semi-finals",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0057b8"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Little",
+    "Miro Little",
+    "fi"
+   ],
+   [
+    "Grandison",
+    "Jacob Grandison",
+    "fi"
+   ],
+   [
+    "Valtonen",
+    "Elias Valtonen",
+    "fi"
+   ],
+   [
+    "Jantunen",
+    "Mikael Jantunen",
+    "fi"
+   ],
+   [
+    "Markkanen",
+    "Lauri Markkanen",
+    "fi"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Georgia",
+  "opp": "France",
+  "score": "80-70",
+  "comp": "EuroBasket 2025, round of 16",
+  "season": "2025",
+  "y": 2025,
+  "note": "Round-of-16 upset of France sent Georgia into the quarter-finals",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Baldwin",
+    "Kamar Baldwin",
+    "ge"
+   ],
+   [
+    "Sanadze",
+    "Duda Sanadze",
+    "ge"
+   ],
+   [
+    "Shengelia",
+    "Tornike Shengelia",
+    "ge"
+   ],
+   [
+    "Mamukelashvili",
+    "Sandro Mamukelashvili",
+    "ge"
+   ],
+   [
+    "Bitadze",
+    "Goga Bitadze",
+    "ge"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Greece",
+  "opp": "Finland",
+  "score": "92-89",
+  "comp": "EuroBasket 2025, bronze medal game",
+  "season": "2025",
+  "y": 2025,
+  "note": "Bronze in Riga, two days after a 94-68 semi-final defeat by Turkey",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0d5eaf"
+  ],
+  "okit": [
+   "solid",
+   "#0057b8",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sloukas",
+    "Kostas Sloukas",
+    "gr"
+   ],
+   [
+    "Dorsey",
+    "Tyler Dorsey",
+    "gr"
+   ],
+   [
+    "Katsivelis",
+    "Dimitris Katsivelis",
+    "gr"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Antetokounmpo",
+    "Giannis Antetokounmpo",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Slovenia",
+  "opp": "Italy",
+  "score": "84-77",
+  "comp": "EuroBasket 2025, round of 16",
+  "season": "2025",
+  "y": 2025,
+  "note": "Round-of-16 win; Slovenia lost the quarter-final to eventual champions Germany",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Nikolić",
+    "Aleksej Nikolić",
+    "si"
+   ],
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Hrovat",
+    "Gregor Hrovat",
+    "si"
+   ],
+   [
+    "Murić",
+    "Edo Murić",
+    "si"
+   ],
+   [
+    "Krampelj",
+    "Martin Krampelj",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Turkey",
+  "opp": "Germany",
+  "score": "83-88",
+  "comp": "EuroBasket 2025, final",
+  "season": "2025",
+  "y": 2025,
+  "note": "Turkey's first EuroBasket final since 2001; Germany took the title in Riga",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30a17",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Larkin",
+    "Shane Larkin",
+    "tr"
+   ],
+   [
+    "Hazer",
+    "Şehmus Hazer",
+    "tr"
+   ],
+   [
+    "Osman",
+    "Cedi Osman",
+    "tr"
+   ],
+   [
+    "Osmani",
+    "Ercan Osmani",
+    "tr"
+   ],
+   [
+    "Şengün",
+    "Alperen Şengün",
+    "tr"
+   ]
+  ]
+ }
+]

@@ -2207,55 +2207,6 @@
  {
   "sport": "bb",
   "cat": "euro",
-  "team": "Virtus Bologna",
-  "opp": "Anadolu Efes",
-  "score": "67-64",
-  "comp": "EuroLeague, play-in",
-  "season": "2023/24",
-  "y": 2024,
-  "note": "Play-in in Istanbul: Virtus knock out Efes, coach Luca Banchi",
-  "form": "5",
-  "kit": [
-   "solid",
-   "#000000",
-   "#ffffff"
-  ],
-  "okit": [
-   "solid",
-   "#1b3b8c",
-   "#ffffff"
-  ],
-  "p": [
-   [
-    "Hackett",
-    "Daniel Hackett",
-    "it"
-   ],
-   [
-    "Belinelli",
-    "Marco Belinelli",
-    "it"
-   ],
-   [
-    "Cordinier",
-    "Isaïa Cordinier",
-    "fr"
-   ],
-   [
-    "Shengelia",
-    "Tornike Shengelia",
-    "ge"
-   ],
-   [
-    "Dunston",
-    "Bryant Dunston",
-    "am"
-   ]
-  ]
- },
- {
-  "sport": "bb",
-  "cat": "euro",
   "team": "Panathinaikos",
   "opp": "Fenerbahçe",
   "score": "76-82",
@@ -3179,55 +3130,6 @@
     "Eric",
     "Michael Eric",
     "ng"
-   ]
-  ]
- },
- {
-  "sport": "bb",
-  "cat": "euro",
-  "team": "Zenit St Petersburg",
-  "opp": "Barcelona",
-  "score": "53-79",
-  "comp": "EuroLeague, playoffs, Game 5",
-  "season": "2020/21",
-  "y": 2021,
-  "note": "Lost the playoff series 3-2",
-  "form": "5",
-  "kit": [
-   "solid",
-   "#0f69b4",
-   "#ffffff"
-  ],
-  "okit": [
-   "stripes",
-   "#a50044",
-   "#004d98"
-  ],
-  "p": [
-   [
-    "Pangos",
-    "Kevin Pangos",
-    "ca"
-   ],
-   [
-    "Hollins",
-    "Austin Hollins",
-    "us"
-   ],
-   [
-    "Rivers",
-    "Kc Rivers",
-    "us"
-   ],
-   [
-    "Thomas",
-    "Will Thomas",
-    "us"
-   ],
-   [
-    "Black",
-    "Tarik Black",
-    "us"
    ]
   ]
  },
@@ -4687,55 +4589,6 @@
     "Tavares",
     "Walter Tavares",
     "cv"
-   ]
-  ]
- },
- {
-  "sport": "bb",
-  "cat": "euro",
-  "team": "Paris Basketball",
-  "opp": "Fenerbahçe",
-  "score": "88-98 OT",
-  "comp": "EuroLeague, playoffs, Game 3",
-  "season": "2024/25",
-  "y": 2025,
-  "note": "Lost the playoff series 3-0",
-  "form": "5",
-  "kit": [
-   "solid",
-   "#0a0a0a",
-   "#ffffff"
-  ],
-  "okit": [
-   "solid",
-   "#0b1f4b",
-   "#ffd200"
-  ],
-  "p": [
-   [
-    "Shorts",
-    "Tj Shorts",
-    "mk"
-   ],
-   [
-    "Ward",
-    "Tyson Ward",
-    "us"
-   ],
-   [
-    "Malcolm",
-    "Collin Malcolm",
-    "us"
-   ],
-   [
-    "Jantunen",
-    "Mikael Jantunen",
-    "fi"
-   ],
-   [
-    "Hayes",
-    "Kevarrius Hayes",
-    "us"
    ]
   ]
  },

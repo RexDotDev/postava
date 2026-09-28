@@ -8,7 +8,7 @@
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
-<link rel="preload" href="data.12d83e268b.json" as="fetch" crossorigin>
+<link rel="preload" href="data.086615683b.json" as="fetch" crossorigin>
 <link rel="canonical" href="https://www.guessthesquad.com/">
 <meta property="og:url" content="https://www.guessthesquad.com/">
 <meta property="og:type" content="website">
@@ -283,13 +283,13 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
       <span class="sw" style="background:var(--miss);box-shadow:inset 0 0 0 1px var(--line2)"></span><span>not in the name</span>
     </div>
     <p>6 tries per player. <b>Hard</b> gives 4 tries and hides the flags. Skip accents and spaces: č/ć = C, š = S, ž = Z, đ = DJ, Van Dijk = VANDIJK.</p>
-    <p>Football from 2009. Basketball: NBA and Serbia from 2012, EuroLeague 2019–2025.</p>
+    <p>Football from 2009. Basketball: NBA from 2012, EuroLeague 2019–2025, national teams from 1989.</p>
     <button class="btn primary" id="helpClose">Play</button>
   </div>
 </div>
 
 <script type="module">
-const DATA = await fetch('data.12d83e268b.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+const DATA = await fetch('data.086615683b.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .catch(err => { document.getElementById('match').innerHTML = '<div class="comp">Could not load the lineups. Please reload.</div>'; throw err; });
 const KEY = 'postava:v1';
 const $ = s => document.querySelector(s);
@@ -299,8 +299,8 @@ const norm = s => s.replace(/đ/g,'dj').replace(/Đ/g,'Dj').replace(/[øØ]/g,'o
   .normalize('NFD').replace(/[^A-Za-z]/g,'').toUpperCase();
 const hash = s => { let h = 5381; for (const c of s) h = (h * 33 ^ c.charCodeAt(0)) >>> 0; return h; };
 const MAXT = hard => hard ? 4 : 6;
-const CATS = {fb:[['all','All'],['club','Clubs'],['nat','National teams'],['srb','Serbia']],
-              bb:[['all','All'],['nba','NBA'],['euro','EuroLeague'],['srb','Serbia']]};
+const CATS = {fb:[['all','All'],['club','Clubs'],['nat','National teams']],
+              bb:[['all','All'],['nba','NBA'],['euro','EuroLeague'],['nat','National teams']]};
 const BBPOS = ['Point guard','Shooting guard','Small forward','Power forward','Center'];
 
 // "Milinković-Savić" -> [10, '-', 5]: letter groups (typed) and the hyphens, spaces and apostrophes between them (shown, not typed)
@@ -325,6 +325,7 @@ const blank = () => ({sport:'fb', cat:{fb:'all', bb:'all'}, hard:false, help:fal
   stats:{fb:{g:0,p:0,h:0,x:0}, bb:{g:0,p:0,h:0,x:0}}});
 let S;
 try { S = Object.assign(blank(), JSON.parse(localStorage.getItem(KEY)) || {}); } catch (e) { S = blank(); }
+for (const sp of ['fb', 'bb']) if (!CATS[sp].some(([k]) => k === S.cat?.[sp])) S.cat = {...S.cat, [sp]: 'all'};  // a saved filter that no longer exists
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} };
 let act = 0, buf = '', open = false, fresh = -1, shakeRow = false;
 const wide = () => matchMedia('(min-width:900px)').matches;
