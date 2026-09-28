@@ -106,8 +106,12 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
 .tag{font:600 11px/1.4 var(--body);background:rgba(10,13,12,.82);border-radius:4px;padding:1px 6px;white-space:nowrap;max-width:100%;overflow:hidden;text-overflow:ellipsis;font-variant-numeric:tabular-nums;backdrop-filter:blur(2px)}
 .tag .t{color:var(--muted);font-weight:500}
 .tag.open{display:flex;align-items:center;gap:5px;box-sizing:border-box;width:min(calc(var(--n) * 8px + 34px),100%)}
-.dash{flex:1 1 auto;min-width:0;display:flex;gap:clamp(1px,calc(24px / var(--n)),3px);align-items:center;height:1.4em}
+.dash{flex:1 1 auto;min-width:0;display:flex;gap:clamp(1px,calc(24px / var(--n)),3px);align-items:flex-end;height:1.4em;padding-bottom:.28em;box-sizing:border-box}
 .dash i{flex:1 1 0;min-width:0;height:2px;background:currentColor;border-radius:1px}
+.dash b{flex:none;width:clamp(4px,calc(48px / var(--n)),7px)}
+.dash .hy{width:clamp(5px,calc(64px / var(--n)),9px)}
+.dash .hy{height:2px;background:currentColor;border-radius:1px;align-self:center;margin-top:.28em}
+.dash .ap{width:2px;height:.4em;background:currentColor;border-radius:1px;align-self:flex-start;margin-top:.1em;opacity:.75}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .pl.ok .tag{background:var(--hit)}
 .pl.fail .tag{background:var(--bad)}
@@ -131,6 +135,9 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
 .board{container-type:inline-size;display:grid;gap:clamp(2px,calc(60px / var(--n)),5px);justify-content:center;grid-template-columns:repeat(var(--n),minmax(0,48px))}
 .tile{aspect-ratio:1;display:grid;place-items:center;border:2px solid var(--line2);border-radius:4px;font:800 min(26px,calc(100cqw / var(--n) * .58))/1 var(--cond);font-stretch:80%;text-transform:uppercase}
 .tile.f{border-color:#6b746e}
+.tsep{align-self:center;justify-self:center}
+.tsep.hy{width:70%;height:3px;border-radius:2px;background:var(--muted)}
+.tsep.ap{width:3px;height:22%;border-radius:2px;background:var(--muted);align-self:start;margin-top:8%}
 .tile.hit{background:var(--hit);border-color:var(--hit)}
 .tile.near{background:var(--near);border-color:var(--near)}
 .tile.miss{background:var(--miss);border-color:var(--miss);color:var(--muted)}
@@ -262,7 +269,7 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
 <div class="modal" id="help" hidden>
   <div class="card" role="dialog" aria-modal="true" aria-labelledby="helpTitle">
     <h2 id="helpTitle">How to play</h2>
-    <p>Each puzzle is a real match and its real starting lineup. Tap a shirt and type the name the player is known by: usually the surname (Vardy, Van Dijk, Tadić), or the one name for players known by one (Xavi, Neymar). Each dash is one letter.</p>
+    <p>Each puzzle is a real match and its real starting lineup. Tap a shirt and type the name the player is known by: usually the surname (Vardy, Van Dijk, Tadić), or the one name for players known by one (Xavi, Neymar). Each dash is one letter; hyphens and spaces in a name are shown but not typed.</p>
     <div class="ex">
       <div class="row"><span class="tile hit">V</span><span class="tile miss">I</span><span class="tile near">D</span><span class="tile near">A</span><span class="tile miss">L</span></div>
       <small>Guess VIDAL when the answer is VARDY</small>
@@ -293,7 +300,21 @@ const CATS = {fb:[['all','All'],['club','Clubs'],['nat','National teams'],['srb'
               bb:[['all','All'],['nba','NBA'],['euro','EuroLeague'],['srb','Serbia']]};
 const BBPOS = ['Point guard','Shooting guard','Small forward','Power forward','Center'];
 
-DATA.forEach((e, i) => { e.no = i + 1; e.id = [e.sport, e.team, e.season, e.comp].join('|'); e.keys = e.p.map(p => norm(p[0])); });
+// "Milinković-Savić" -> [10, '-', 5]: letter groups (typed) and the hyphens, spaces and apostrophes between them (shown, not typed)
+function shape(name) {
+  const out = [];
+  for (const part of name.split(/([^\p{L}]+)/u)) {
+    if (!part) continue;
+    if (/^\p{L}/u.test(part)) { const n = norm(part).length; if (n) out.push(n); }
+    else if (out.length) out.push(/-/.test(part) ? '-' : /['’]/.test(part) ? "'" : ' ');
+  }
+  while (typeof out[out.length - 1] === 'string') out.pop();
+  return out;
+}
+DATA.forEach((e, i) => {
+  e.no = i + 1; e.id = [e.sport, e.team, e.season, e.comp].join('|'); e.keys = e.p.map(p => norm(p[0]));
+  e.shapes = e.p.map((p, j) => { const sh = shape(p[0]); return sh.reduce((a, x) => a + (typeof x === 'number' ? x : 0), 0) === e.keys[j].length ? sh : [e.keys[j].length]; });
+});
 const BYID = new Map(DATA.map(e => [e.id, e]));
 
 // ---------- state ----------
@@ -423,7 +444,7 @@ function render() {
   const over = isOver(g, e);
   $('#field').innerHTML = (e.sport === 'bb' ? court() : pitch()) + spots(e).map(([x, y], i) => {
     const st = status(g, e, i), t = g.g[i].length, len = e.keys[i].length;
-    const tag = st === 'open' ? `${dash(len)}<span class="t">${t}/${MAXT(g.hard)}</span>` : esc(e.p[i][0]);
+    const tag = st === 'open' ? `${dash(e.shapes[i])}<span class="t">${t}/${MAXT(g.hard)}</span>` : esc(e.p[i][0]);
     return `<button class="pl ${st}${i === act ? ' on' : ''}" data-i="${i}" style="left:${x}%;top:${y}%"
       aria-label="${posName(e, i)}, ${st === 'open' ? len + ' letters' : esc(e.p[i][1])}" title="${st === 'open' ? '' : esc(e.p[i][1])}">
       <span class="shirt">${kit(e.kit, e.sport === 'bb')}${flagImg(g, e.p[i][2])}</span><span class="tag${st === 'open' ? ' open' : ''}" style="--n:${len}">${tag}</span></button>`;
@@ -434,7 +455,8 @@ function render() {
   renderPanel();
   renderResult();
 }
-function dash(n) { return `<span class="dash" aria-hidden="true">${'<i></i>'.repeat(n)}</span>`; }
+const SEP = {'-': 'hy', "'": 'ap', ' ': 'sp'};
+function dash(sh) { return `<span class="dash" aria-hidden="true">${sh.map(x => typeof x === 'number' ? '<i></i>'.repeat(x) : `<b class="${SEP[x]}"></b>`).join('')}</span>`; }
 function statLine() {
   const s = S.stats[S.sport];
   return s.g ? `played ${s.g} · guessed ${Math.round(100 * s.h / s.p)}%` : '';
@@ -445,7 +467,7 @@ function renderPanel() {
   $('#mini').innerHTML = kit(e.kit, e.sport === 'bb') + flagImg(g, e.p[i][2]);
   $('#pos').textContent = posName(e, i);
   $('#plen').style.setProperty('--n', len);
-  $('#plen').innerHTML = `<span class="sr">${len} letters</span>${dash(len)}<span>guess ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}</span>`;
+  $('#plen').innerHTML = `<span class="sr">${len} letters</span>${dash(e.shapes[i])}<span>guess ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}</span>`;
   renderBoard();
   const ans = $('#answer');
   ans.hidden = st === 'open';
@@ -468,16 +490,21 @@ function evalWord(w, a) {
 }
 function renderBoard() {
   const g = G(), e = E(), i = act, a = e.keys[i], max = MAXT(g.hard), st = status(g, e, i);
-  const b = $('#board');
+  const b = $('#board'), sh = e.shapes[i];
   b.style.setProperty('--n', a.length);
+  b.style.gridTemplateColumns = sh.map(x => typeof x === 'number' ? `repeat(${x},minmax(0,48px))` : x === ' ' ? 'minmax(0,16px)' : 'minmax(0,14px)').join(' ');
   let h = '';
   for (let r = 0; r < max; r++) {
     const w = g.g[i][r], cur = r === g.g[i].length && st === 'open';
     const res = w ? evalWord(w, a) : null;
-    for (let j = 0; j < a.length; j++) {
-      if (w) h += `<div class="tile ${res[j]}${fresh === r ? ' rev' : ''}" style="animation-delay:${j * 70}ms">${w[j]}</div>`;
-      else if (cur) h += `<div class="tile${buf[j] ? ' f' : ''}${shakeRow ? ' row-shake' : ''}">${buf[j] || ''}</div>`;
-      else h += `<div class="tile"></div>`;
+    let j = 0;
+    for (const x of sh) {
+      if (typeof x !== 'number') { h += `<div class="tsep ${SEP[x]}"></div>`; continue; }
+      for (const end = j + x; j < end; j++) {
+        if (w) h += `<div class="tile ${res[j]}${fresh === r ? ' rev' : ''}" style="animation-delay:${j * 70}ms">${w[j]}</div>`;
+        else if (cur) h += `<div class="tile${buf[j] ? ' f' : ''}${shakeRow ? ' row-shake' : ''}">${buf[j] || ''}</div>`;
+        else h += `<div class="tile"></div>`;
+      }
     }
   }
   b.innerHTML = h;
