@@ -2448,5 +2448,2391 @@
     "hr"
    ]
   ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "Anadolu Efes",
+  "score": "73-92",
+  "comp": "EuroLeague, Final Four, semi-final",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Final Four in Vitoria-Gasteiz: out in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Muhammed",
+    "Ali Muhammed",
+    "tr"
+   ],
+   [
+    "Green",
+    "Erick Green",
+    "us"
+   ],
+   [
+    "Gudurić",
+    "Marko Gudurić",
+    "rs"
+   ],
+   [
+    "Melli",
+    "Nicolò Melli",
+    "it"
+   ],
+   [
+    "Düverioğlu",
+    "Ahmet Düverioğlu",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "CSKA Moscow",
+  "score": "90-95",
+  "comp": "EuroLeague, Final Four, semi-final",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Final Four in Vitoria-Gasteiz: out in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Campazzo",
+    "Facundo Campazzo",
+    "ar"
+   ],
+   [
+    "Fernández",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Taylor",
+    "Jeffery Taylor",
+    "se"
+   ],
+   [
+    "Randolph",
+    "Anthony Randolph",
+    "si"
+   ],
+   [
+    "Tavares",
+    "Walter Tavares",
+    "cv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Barcelona",
+  "opp": "Anadolu Efes",
+  "score": "71-80",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Pangos",
+    "Kevin Pangos",
+    "ca"
+   ],
+   [
+    "Ribas",
+    "Pau Ribas",
+    "es"
+   ],
+   [
+    "Singleton",
+    "Chris Singleton",
+    "us"
+   ],
+   [
+    "Claver",
+    "Víctor Claver",
+    "es"
+   ],
+   [
+    "Tomić",
+    "Ante Tomić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Žalgiris",
+  "opp": "Fenerbahçe",
+  "score": "82-99",
+  "comp": "EuroLeague, playoffs, Game 4",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Lost the playoff series 3-1",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006a44",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "Grigonis",
+    "Marius Grigonis",
+    "lt"
+   ],
+   [
+    "Westermann",
+    "Leo Westermann",
+    "fr"
+   ],
+   [
+    "Ulanovas",
+    "Edgaras Ulanovas",
+    "lt"
+   ],
+   [
+    "White",
+    "Aaron White",
+    "us"
+   ],
+   [
+    "Davies",
+    "Brandon Davies",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Panathinaikos",
+  "opp": "Real Madrid",
+  "score": "82-89",
+  "comp": "EuroLeague, playoffs, Game 3",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Lost the playoff series 3-0",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Calathes",
+    "Nick Calathes",
+    "gr"
+   ],
+   [
+    "Lojeski",
+    "Matt Lojeski",
+    "us"
+   ],
+   [
+    "Gist",
+    "James Gist",
+    "us"
+   ],
+   [
+    "Papapetrou",
+    "Ioannis Papapetrou",
+    "gr"
+   ],
+   [
+    "Papagiannis",
+    "Georgios Papagiannis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Bayern Munich",
+  "opp": "Olimpia Milano",
+  "score": "93-87",
+  "comp": "EuroLeague, round 18",
+  "season": "2018/19",
+  "y": 2019,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Dedovic",
+    "Nihad Dedovic",
+    "de"
+   ],
+   [
+    "Barthel",
+    "Danilo Barthel",
+    "de"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Radošević",
+    "Leon Radošević",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olimpia Milano",
+  "opp": "Bayern Munich",
+  "score": "87-93",
+  "comp": "EuroLeague, round 18",
+  "season": "2018/19",
+  "y": 2019,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "James",
+    "Mike James",
+    "us"
+   ],
+   [
+    "Bertāns",
+    "Dairis Bertāns",
+    "lv"
+   ],
+   [
+    "Micov",
+    "Vladimir Micov",
+    "rs"
+   ],
+   [
+    "Brooks",
+    "Jeff Brooks",
+    "it"
+   ],
+   [
+    "Gudaitis",
+    "Arturas Gudaitis",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olimpia Milano",
+  "opp": "Anadolu Efes",
+  "score": "76-81",
+  "comp": "EuroLeague, round 10",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Season cancelled in March 2020 because of the pandemic",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rodríguez",
+    "Sergio Rodríguez",
+    "es"
+   ],
+   [
+    "Roll",
+    "Michael Roll",
+    "tn"
+   ],
+   [
+    "Micov",
+    "Vladimir Micov",
+    "rs"
+   ],
+   [
+    "Scola",
+    "Luis Scola",
+    "ar"
+   ],
+   [
+    "Tarczewski",
+    "Kaleb Tarczewski",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Anadolu Efes",
+  "opp": "Olimpia Milano",
+  "score": "81-76",
+  "comp": "EuroLeague, round 10",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Season cancelled in March 2020 because of the pandemic",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Beaubois",
+    "Rodrigue Beaubois",
+    "fr"
+   ],
+   [
+    "Micić",
+    "Vasilije Micić",
+    "rs"
+   ],
+   [
+    "Simon",
+    "Krunoslav Simon",
+    "hr"
+   ],
+   [
+    "Singleton",
+    "Chris Singleton",
+    "us"
+   ],
+   [
+    "Pleiß",
+    "Tibor Pleiß",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Maccabi Tel Aviv",
+  "opp": "Anadolu Efes",
+  "score": "77-75",
+  "comp": "EuroLeague, round 27",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Season cancelled in March 2020 because of the pandemic",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Wilbekin",
+    "Scottie Wilbekin",
+    "tr"
+   ],
+   [
+    "Bryant",
+    "Elijah Bryant",
+    "us"
+   ],
+   [
+    "Zoosman",
+    "Yovel Zoosman",
+    "il"
+   ],
+   [
+    "Acy",
+    "Quincy Acy",
+    "us"
+   ],
+   [
+    "Hunter",
+    "Othello Hunter",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Baskonia",
+  "opp": "Fenerbahçe",
+  "score": "65-79",
+  "comp": "EuroLeague, round 18",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Season cancelled in March 2020 because of the pandemic",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3a8c",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "Henry",
+    "Pierria Henry",
+    "us"
+   ],
+   [
+    "Janning",
+    "Matt Janning",
+    "us"
+   ],
+   [
+    "Shields",
+    "Shavon Shields",
+    "dk"
+   ],
+   [
+    "Shengelia",
+    "Tornike Shengelia",
+    "ge"
+   ],
+   [
+    "Eric",
+    "Michael Eric",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "Baskonia",
+  "score": "79-65",
+  "comp": "EuroLeague, round 18",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Season cancelled in March 2020 because of the pandemic",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#0a3a8c",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "De Colo",
+    "Nando De Colo",
+    "fr"
+   ],
+   [
+    "Westermann",
+    "Leo Westermann",
+    "fr"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Williams",
+    "Derrick Williams",
+    "us"
+   ],
+   [
+    "Thomas",
+    "Malcolm Thomas",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Panathinaikos",
+  "opp": "Real Madrid",
+  "score": "75-87",
+  "comp": "EuroLeague, round 16",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Season cancelled in March 2020 because of the pandemic",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Fredette",
+    "Jimmer Fredette",
+    "us"
+   ],
+   [
+    "Calathes",
+    "Nick Calathes",
+    "gr"
+   ],
+   [
+    "Thomas",
+    "Deshaun Thomas",
+    "us"
+   ],
+   [
+    "Papapetrou",
+    "Ioannis Papapetrou",
+    "gr"
+   ],
+   [
+    "Papagiannis",
+    "Georgios Papagiannis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Panathinaikos",
+  "score": "87-75",
+  "comp": "EuroLeague, round 16",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Season cancelled in March 2020 because of the pandemic",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Campazzo",
+    "Facundo Campazzo",
+    "ar"
+   ],
+   [
+    "Deck",
+    "Gabriel Deck",
+    "ar"
+   ],
+   [
+    "Taylor",
+    "Jeffery Taylor",
+    "se"
+   ],
+   [
+    "Randolph",
+    "Anthony Randolph",
+    "si"
+   ],
+   [
+    "Tavares",
+    "Walter Tavares",
+    "cv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "CSKA Moscow",
+  "opp": "Anadolu Efes",
+  "score": "86-89",
+  "comp": "EuroLeague, Final Four, semi-final",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Final Four in Cologne: out in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Hackett",
+    "Daniel Hackett",
+    "it"
+   ],
+   [
+    "Hilliard",
+    "Darrun Hilliard",
+    "us"
+   ],
+   [
+    "Kurbanov",
+    "Nikita Kurbanov",
+    "ru"
+   ],
+   [
+    "Shengelia",
+    "Tornike Shengelia",
+    "ge"
+   ],
+   [
+    "Eric",
+    "Michael Eric",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Zenit St Petersburg",
+  "opp": "Barcelona",
+  "score": "53-79",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0f69b4",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Pangos",
+    "Kevin Pangos",
+    "ca"
+   ],
+   [
+    "Hollins",
+    "Austin Hollins",
+    "us"
+   ],
+   [
+    "Rivers",
+    "Kc Rivers",
+    "us"
+   ],
+   [
+    "Thomas",
+    "Will Thomas",
+    "us"
+   ],
+   [
+    "Black",
+    "Tarik Black",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Anadolu Efes",
+  "score": "83-88",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Carroll",
+    "Jaycee Carroll",
+    "us"
+   ],
+   [
+    "Alocén",
+    "Carlos Alocén",
+    "es"
+   ],
+   [
+    "Abalde",
+    "Alberto Abalde",
+    "es"
+   ],
+   [
+    "Garuba",
+    "Usman Garuba",
+    "es"
+   ],
+   [
+    "Tyus",
+    "Alex Tyus",
+    "il"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "CSKA Moscow",
+  "score": "68-85",
+  "comp": "EuroLeague, playoffs, Game 3",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Lost the playoff series 3-0",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "De Colo",
+    "Nando De Colo",
+    "fr"
+   ],
+   [
+    "Gudurić",
+    "Marko Gudurić",
+    "rs"
+   ],
+   [
+    "Biberović",
+    "Tarik Biberović",
+    "tr"
+   ],
+   [
+    "Düverioğlu",
+    "Ahmet Düverioğlu",
+    "tr"
+   ],
+   [
+    "Veselý",
+    "Jan Veselý",
+    "cz"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Panathinaikos",
+  "opp": "Anadolu Efes",
+  "score": "65-85",
+  "comp": "EuroLeague, round 31",
+  "season": "2020/21",
+  "y": 2021,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sant-Roos",
+    "Howard Sant-Roos",
+    "cu"
+   ],
+   [
+    "Hezonja",
+    "Mario Hezonja",
+    "hr"
+   ],
+   [
+    "Papapetrou",
+    "Ioannis Papapetrou",
+    "gr"
+   ],
+   [
+    "Mitoglou",
+    "Konstantinos Mitoglou",
+    "gr"
+   ],
+   [
+    "Papagiannis",
+    "Georgios Papagiannis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Žalgiris",
+  "opp": "Real Madrid",
+  "score": "90-93",
+  "comp": "EuroLeague, round 7",
+  "season": "2020/21",
+  "y": 2020,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006a44",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Walkup",
+    "Thomas Walkup",
+    "us"
+   ],
+   [
+    "Vasturia",
+    "Steve Vasturia",
+    "us"
+   ],
+   [
+    "Grigonis",
+    "Marius Grigonis",
+    "lt"
+   ],
+   [
+    "Hayes-Davis",
+    "Nigel Hayes-Davis",
+    "us"
+   ],
+   [
+    "Lauvergne",
+    "Joffrey Lauvergne",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Maccabi Tel Aviv",
+  "opp": "Žalgiris",
+  "score": "85-57",
+  "comp": "EuroLeague, round 8",
+  "season": "2020/21",
+  "y": 2020,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "okit": [
+   "solid",
+   "#006a44",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Wilbekin",
+    "Scottie Wilbekin",
+    "tr"
+   ],
+   [
+    "Bryant",
+    "Elijah Bryant",
+    "us"
+   ],
+   [
+    "Cohen",
+    "Sandy Cohen",
+    "us"
+   ],
+   [
+    "Caloiaro",
+    "Angelo Caloiaro",
+    "us"
+   ],
+   [
+    "Žižić",
+    "Ante Žižić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "83-86",
+  "comp": "EuroLeague, Final Four, semi-final",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Final Four in Belgrade: out in the semi-final",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Laprovittola",
+    "Nicolas Laprovittola",
+    "ar"
+   ],
+   [
+    "Calathes",
+    "Nick Calathes",
+    "gr"
+   ],
+   [
+    "Exum",
+    "Dante Exum",
+    "au"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Şanlı",
+    "Sertaç Şanlı",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Monaco",
+  "opp": "Olympiacos",
+  "score": "88-94",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "James",
+    "Mike James",
+    "us"
+   ],
+   [
+    "Ouattara",
+    "Yakuba Ouattara",
+    "fr"
+   ],
+   [
+    "Westermann",
+    "Leo Westermann",
+    "fr"
+   ],
+   [
+    "Thomas",
+    "Will Thomas",
+    "us"
+   ],
+   [
+    "Motiejūnas",
+    "Donatas Motiejūnas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Bayern Munich",
+  "opp": "Barcelona",
+  "score": "72-81",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Weiler-Babb",
+    "Nick Weiler-Babb",
+    "de"
+   ],
+   [
+    "Dedovic",
+    "Nihad Dedovic",
+    "de"
+   ],
+   [
+    "Rubit",
+    "Augustine Rubit",
+    "us"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Radošević",
+    "Leon Radošević",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olimpia Milano",
+  "opp": "Anadolu Efes",
+  "score": "70-75",
+  "comp": "EuroLeague, playoffs, Game 4",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Lost the playoff series 3-1",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rodríguez",
+    "Sergio Rodríguez",
+    "es"
+   ],
+   [
+    "Hall",
+    "Devon Hall",
+    "us"
+   ],
+   [
+    "Shields",
+    "Shavon Shields",
+    "dk"
+   ],
+   [
+    "Bentil",
+    "Benjamin Bentil",
+    "gh"
+   ],
+   [
+    "Hines",
+    "Kyle Hines",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Maccabi Tel Aviv",
+  "opp": "Real Madrid",
+  "score": "76-87",
+  "comp": "EuroLeague, playoffs, Game 3",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Lost the playoff series 3-0",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Wilbekin",
+    "Scottie Wilbekin",
+    "tr"
+   ],
+   [
+    "Evans",
+    "Keenan Evans",
+    "us"
+   ],
+   [
+    "Nunnally",
+    "James Nunnally",
+    "us"
+   ],
+   [
+    "Williams",
+    "Derrick Williams",
+    "us"
+   ],
+   [
+    "Žižić",
+    "Ante Žižić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Žalgiris",
+  "opp": "Baskonia",
+  "score": "72-68",
+  "comp": "EuroLeague, round 13",
+  "season": "2021/22",
+  "y": 2021,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006a44",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0a3a8c",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "Kalnietis",
+    "Mantas Kalnietis",
+    "lt"
+   ],
+   [
+    "Strēlnieks",
+    "Janis Strēlnieks",
+    "lv"
+   ],
+   [
+    "Milaknis",
+    "Arturas Milaknis",
+    "lt"
+   ],
+   [
+    "Cavanaugh",
+    "Tyler Cavanaugh",
+    "us"
+   ],
+   [
+    "Nebo",
+    "Josh Nebo",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Baskonia",
+  "opp": "Žalgiris",
+  "score": "68-72",
+  "comp": "EuroLeague, round 13",
+  "season": "2021/22",
+  "y": 2021,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3a8c",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#006a44",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Granger",
+    "Jayson Granger",
+    "uy"
+   ],
+   [
+    "Baldwin",
+    "Wade Baldwin",
+    "us"
+   ],
+   [
+    "Giedraitis",
+    "Rokas Giedraitis",
+    "lt"
+   ],
+   [
+    "Sedekerskis",
+    "Tadas Sedekerskis",
+    "lt"
+   ],
+   [
+    "Enoch",
+    "Steven Enoch",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "66-78",
+  "comp": "EuroLeague, Final Four, semi-final",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Final Four in Kaunas: out in the semi-final",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Laprovittola",
+    "Nicolas Laprovittola",
+    "ar"
+   ],
+   [
+    "Satoranský",
+    "Tomas Satoranský",
+    "cz"
+   ],
+   [
+    "Abrines",
+    "Alex Abrines",
+    "es"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Şanlı",
+    "Sertaç Şanlı",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Maccabi Tel Aviv",
+  "opp": "Monaco",
+  "score": "86-97",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Baldwin",
+    "Wade Baldwin",
+    "us"
+   ],
+   [
+    "Brown",
+    "Lorenzo Brown",
+    "es"
+   ],
+   [
+    "Colson",
+    "Bonzie Colson",
+    "us"
+   ],
+   [
+    "Poythress",
+    "Alex Poythress",
+    "us"
+   ],
+   [
+    "Martin",
+    "Jarell Martin",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "Olympiacos",
+  "score": "72-84",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Calathes",
+    "Nick Calathes",
+    "gr"
+   ],
+   [
+    "Dorsey",
+    "Tyler Dorsey",
+    "gr"
+   ],
+   [
+    "Pierre",
+    "Dyshawn Pierre",
+    "ca"
+   ],
+   [
+    "Hayes-Davis",
+    "Nigel Hayes-Davis",
+    "us"
+   ],
+   [
+    "Jekiri",
+    "Tonye Jekiri",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Žalgiris",
+  "opp": "Barcelona",
+  "score": "66-77",
+  "comp": "EuroLeague, playoffs, Game 3",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Lost the playoff series 3-0",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006a44",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Taylor",
+    "Isaiah Taylor",
+    "us"
+   ],
+   [
+    "Brazdeikis",
+    "Ignas Brazdeikis",
+    "lt"
+   ],
+   [
+    "Butkevičius",
+    "Arnas Butkevičius",
+    "lt"
+   ],
+   [
+    "Ulanovas",
+    "Edgaras Ulanovas",
+    "lt"
+   ],
+   [
+    "Šmits",
+    "Rolands Šmits",
+    "lv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olimpia Milano",
+  "opp": "Žalgiris",
+  "score": "62-71",
+  "comp": "EuroLeague, round 8",
+  "season": "2022/23",
+  "y": 2022,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#006a44",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Pangos",
+    "Kevin Pangos",
+    "ca"
+   ],
+   [
+    "Hall",
+    "Devon Hall",
+    "us"
+   ],
+   [
+    "Thomas",
+    "Deshaun Thomas",
+    "us"
+   ],
+   [
+    "Melli",
+    "Nicolò Melli",
+    "it"
+   ],
+   [
+    "Hines",
+    "Kyle Hines",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Bayern Munich",
+  "opp": "Maccabi Tel Aviv",
+  "score": "82-90",
+  "comp": "EuroLeague, round 25",
+  "season": "2022/23",
+  "y": 2023,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "p": [
+   [
+    "Winston",
+    "Cassius Winston",
+    "us"
+   ],
+   [
+    "Weiler-Babb",
+    "Nick Weiler-Babb",
+    "de"
+   ],
+   [
+    "Bonga",
+    "Isaac Bonga",
+    "de"
+   ],
+   [
+    "Wimberg",
+    "Niklas Wimberg",
+    "de"
+   ],
+   [
+    "Gillespie",
+    "Freddie Gillespie",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Panathinaikos",
+  "opp": "Olimpia Milano",
+  "score": "76-78",
+  "comp": "EuroLeague, round 25",
+  "season": "2022/23",
+  "y": 2023,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lee",
+    "Paris Lee",
+    "cm"
+   ],
+   [
+    "Ponitka",
+    "Mateusz Ponitka",
+    "pl"
+   ],
+   [
+    "Bacon",
+    "Dwayne Bacon",
+    "us"
+   ],
+   [
+    "Williams",
+    "Derrick Williams",
+    "us"
+   ],
+   [
+    "Papagiannis",
+    "Georgios Papagiannis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "Panathinaikos",
+  "score": "57-73",
+  "comp": "EuroLeague, Final Four, semi-final",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Final Four in Berlin: out in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Wilbekin",
+    "Scottie Wilbekin",
+    "tr"
+   ],
+   [
+    "Calathes",
+    "Nick Calathes",
+    "gr"
+   ],
+   [
+    "Pierre",
+    "Dyshawn Pierre",
+    "ca"
+   ],
+   [
+    "Hayes-Davis",
+    "Nigel Hayes-Davis",
+    "us"
+   ],
+   [
+    "Motley",
+    "Johnathan Motley",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olympiacos",
+  "opp": "Real Madrid",
+  "score": "76-87",
+  "comp": "EuroLeague, Final Four, semi-final",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Final Four in Berlin: out in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Canaan",
+    "Isaiah Canaan",
+    "us"
+   ],
+   [
+    "Walkup",
+    "Thomas Walkup",
+    "us"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Peters",
+    "Alec Peters",
+    "us"
+   ],
+   [
+    "Fall",
+    "Moustapha Fall",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Barcelona",
+  "opp": "Olympiacos",
+  "score": "59-63",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Laprovittola",
+    "Nicolas Laprovittola",
+    "ar"
+   ],
+   [
+    "Satoranský",
+    "Tomas Satoranský",
+    "cz"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Parker",
+    "Jabari Parker",
+    "us"
+   ],
+   [
+    "Veselý",
+    "Jan Veselý",
+    "cz"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Baskonia",
+  "opp": "Real Madrid",
+  "score": "98-102",
+  "comp": "EuroLeague, playoffs, Game 3",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Lost the playoff series 3-0",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3a8c",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Miller-McIntyre",
+    "Codi Miller-McIntyre",
+    "bg"
+   ],
+   [
+    "Marinković",
+    "Vanja Marinković",
+    "rs"
+   ],
+   [
+    "Rogkavopoulos",
+    "Nikolaos Rogkavopoulos",
+    "gr"
+   ],
+   [
+    "Sedekerskis",
+    "Tadas Sedekerskis",
+    "lt"
+   ],
+   [
+    "Costello",
+    "Matthew Costello",
+    "ci"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Anadolu Efes",
+  "opp": "Virtus Bologna",
+  "score": "64-67",
+  "comp": "EuroLeague, play-in",
+  "season": "2023/24",
+  "y": 2024,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Larkin",
+    "Shane Larkin",
+    "tr"
+   ],
+   [
+    "Hollatz",
+    "Justus Hollatz",
+    "de"
+   ],
+   [
+    "Clyburn",
+    "Will Clyburn",
+    "us"
+   ],
+   [
+    "Osmani",
+    "Ercan Osmani",
+    "tr"
+   ],
+   [
+    "Pleiß",
+    "Tibor Pleiß",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Bayern Munich",
+  "opp": "Real Madrid",
+  "score": "73-88",
+  "comp": "EuroLeague, round 14",
+  "season": "2023/24",
+  "y": 2023,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Edwards",
+    "Carsen Edwards",
+    "us"
+   ],
+   [
+    "Bolmaro",
+    "Leandro Bolmaro",
+    "ar"
+   ],
+   [
+    "Bonga",
+    "Isaac Bonga",
+    "de"
+   ],
+   [
+    "Booker",
+    "Devin Booker",
+    "us"
+   ],
+   [
+    "Ibaka",
+    "Serge Ibaka",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olimpia Milano",
+  "opp": "Baskonia",
+  "score": "73-88",
+  "comp": "EuroLeague, round 29",
+  "season": "2023/24",
+  "y": 2024,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0a3a8c",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "Napier",
+    "Shabazz Napier",
+    "us"
+   ],
+   [
+    "Hall",
+    "Devon Hall",
+    "us"
+   ],
+   [
+    "Shields",
+    "Shavon Shields",
+    "dk"
+   ],
+   [
+    "Melli",
+    "Nicolò Melli",
+    "it"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olympiacos",
+  "opp": "Monaco",
+  "score": "68-78",
+  "comp": "EuroLeague, Final Four, semi-final",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Final Four in Abu Dhabi: out in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Williams-Goss",
+    "Nigel Williams-Goss",
+    "us"
+   ],
+   [
+    "Fournier",
+    "Evan Fournier",
+    "fr"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Vezenkov",
+    "Sasha Vezenkov",
+    "bg"
+   ],
+   [
+    "Fall",
+    "Moustapha Fall",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Anadolu Efes",
+  "opp": "Panathinaikos",
+  "score": "67-75",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Larkin",
+    "Shane Larkin",
+    "tr"
+   ],
+   [
+    "Bryant",
+    "Elijah Bryant",
+    "us"
+   ],
+   [
+    "Dozier",
+    "Pj Dozier",
+    "us"
+   ],
+   [
+    "Osmani",
+    "Ercan Osmani",
+    "tr"
+   ],
+   [
+    "Poirier",
+    "Vincent Poirier",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Barcelona",
+  "opp": "Monaco",
+  "score": "84-85",
+  "comp": "EuroLeague, playoffs, Game 5",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Lost the playoff series 3-2",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Punter",
+    "Kevin Punter",
+    "us"
+   ],
+   [
+    "Satoranský",
+    "Tomas Satoranský",
+    "cz"
+   ],
+   [
+    "Anderson",
+    "Justin Anderson",
+    "us"
+   ],
+   [
+    "Parker",
+    "Jabari Parker",
+    "us"
+   ],
+   [
+    "Fall",
+    "Youssoupha Fall",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Olympiacos",
+  "score": "84-86",
+  "comp": "EuroLeague, playoffs, Game 4",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Lost the playoff series 3-1",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Feliz",
+    "Andres Feliz",
+    "do"
+   ],
+   [
+    "Abalde",
+    "Alberto Abalde",
+    "es"
+   ],
+   [
+    "Hezonja",
+    "Mario Hezonja",
+    "hr"
+   ],
+   [
+    "Musa",
+    "Džanan Musa",
+    "ba"
+   ],
+   [
+    "Tavares",
+    "Walter Tavares",
+    "cv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Paris Basketball",
+  "opp": "Fenerbahçe",
+  "score": "88-98 OT",
+  "comp": "EuroLeague, playoffs, Game 3",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Lost the playoff series 3-0",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a0a0a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "Shorts",
+    "Tj Shorts",
+    "mk"
+   ],
+   [
+    "Ward",
+    "Tyson Ward",
+    "us"
+   ],
+   [
+    "Malcolm",
+    "Collin Malcolm",
+    "us"
+   ],
+   [
+    "Jantunen",
+    "Mikael Jantunen",
+    "fi"
+   ],
+   [
+    "Hayes",
+    "Kevarrius Hayes",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Bayern Munich",
+  "opp": "Real Madrid",
+  "score": "71-93",
+  "comp": "EuroLeague, play-in",
+  "season": "2024/25",
+  "y": 2025,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Obst",
+    "Andreas Obst",
+    "de"
+   ],
+   [
+    "Weiler-Babb",
+    "Nick Weiler-Babb",
+    "de"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Booker",
+    "Devin Booker",
+    "us"
+   ],
+   [
+    "Voigtmann",
+    "Johannes Voigtmann",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Maccabi Tel Aviv",
+  "opp": "Panathinaikos",
+  "score": "92-99",
+  "comp": "EuroLeague, round 31",
+  "season": "2024/25",
+  "y": 2025,
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "okit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Blatt",
+    "Tamir Blatt",
+    "il"
+   ],
+   [
+    "Jokubaitis",
+    "Rokas Jokubaitis",
+    "lt"
+   ],
+   [
+    "Randolph",
+    "Levi Randolph",
+    "us"
+   ],
+   [
+    "Sorkin",
+    "Roman Sorkin",
+    "il"
+   ],
+   [
+    "Williams",
+    "Trevion Williams",
+    "us"
+   ]
+  ]
  }
 ]

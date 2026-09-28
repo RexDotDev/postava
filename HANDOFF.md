@@ -15,14 +15,14 @@ Goal: 500+ football lineups + ~155 basketball.
 Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 
 ## Published
-Artifact (private, claude.ai): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h (v3, 778 entries). Republish: Artifact publish with `url`, `file_path` = index.html, `files` = every `flags/*.svg` mapped to itself.
+Artifact (private, claude.ai): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h (v5, 827 entries). Republish: Artifact publish with `url`, `file_path` = index.html, `files` = every `flags/*.svg` mapped to itself.
 
-## Data status (778 entries built: fb 652, bb 126)
+## Data status (827 entries built: fb 652, bb 175)
 All files in `data/` pass `validate.py`. `build.py` only ships EuroLeague (`cat: euro`) matches from 2019–2025 (`YEARS` in build.py); the 29 older entries stay in b02_euro.json but are skipped.
 | file | scope | n | how verified |
 |---|---|---|---|
 | b01_nba.json | NBA starting fives 2012–2025 | 55 | box scores |
-| b02_euro.json | EuroLeague 2012–2025 (no Serbian clubs); only 2019–2025 built (21) | 50 | box scores |
+| b02_euro.json | EuroLeague 2012–2025 (no Serbian clubs); only 2019–2025 built (70) | 99 | box scores; the 49 added 2019–2025 games come straight from the official EuroLeague feed (`tools/gen_euroleague.py`: starters, positions, nationality) |
 | b03_srb.json | Serbia basketball NT + opponents + Zvezda/Partizan/Mega | 50 | box scores |
 | f01_ucl.json | Champions League 2009/10–2024/25, finals + legendary nights | 60 | web |
 | f02_uel.json | Europa/Conference League finals, UEFA Super Cup, Club World Cup, famous EL nights | 64 | 55 from the local session (web), plus 9 Super Cup / Club World Cup finals (7 Transfermarkt, 2 from memory: Real Madrid Super Cups 2022, 2024) |
@@ -53,6 +53,6 @@ Verification sources that worked from a cloud session where Wikipedia/ESPN/world
 
 ## Possible next steps
 - Extend f11_srb_clubs.json toward 45 (needs web access for pre-2012 and domestic cup matches).
-- EuroLeague 2019–2025 has only 21 built entries; add more verified 2019–2025 games to b02_euro.json.
+- More EuroLeague games: `python3 tools/gen_euroleague.py --write` (raise PER_SEASON). Check nationality: the feed reports passports, so naturalized national-team players need CC_OVERRIDE.
 - Spot-check left/right order in a few lineups (agents flagged formation/side doubts, never player identity).
 - Optional: GitHub Pages (make repo public, add full `<head>` wrapper as `index.html`).
