@@ -67,7 +67,7 @@ IOC = {"SLO": "si", "GER": "de", "NED": "nl", "SUI": "ch", "CRO": "hr", "GRE": "
        "IRI": "ir", "LIB": "lb", "GUI": "gn", "NIG": "ne", "BAH": "bs", "GAB": "ga", "CGO": "cg", "BUR": "bf", "MAD": "mg",
        "LBA": "ly", "GUA": "gt", "HAI": "ht", "ISV": "vi", "BAR": "bb", "CRC": "cr", "HON": "hn", "ESA": "sv", "MON": "mc",
        "KSA": "sa", "UAE": "ae", "GAM": "gm", "TAN": "tz", "ZIM": "zw", "SUD": "sd", "ALG": "dz", "INA": "id", "MAS": "my",
-       "VIE": "vn", "TPE": "tw", "MGL": "mn", "SRI": "lk", "NEP": "np", "BAN": "bd", "KUW": "kw", "OMA": "om", "YEM": "ye"}
+       "VIE": "vn", "TPE": "tw", "MGL": "mn", "SRI": "lk", "NEP": "np", "BAN": "bd", "KUW": "kw", "OMA": "om", "YEM": "ye", "CHA": "td", "TOG": "tg", "CAF": "cf", "COD": "cd"}
 
 def cc3(code):
     if code in SPECIAL_CC: return SPECIAL_CC[code]
