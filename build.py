@@ -1,6 +1,6 @@
 # Merge data/*.json -> index.html + data.<hash>.json (standalone site for GitHub Pages / Vercel),
 # artifact.html (Artifact body, data inlined) + flags/.   Usage: python3 build.py
-import json, glob, os, re, sys, shutil, urllib.request, hashlib, html as htmlmod
+import json, glob, os, re, sys, urllib.request, hashlib, html as htmlmod
 # Public address of the site. Link previews (Open Graph) need absolute image URLs, so set this once the
 # domain is known, e.g. "https://squads.vercel.app", and rebuild. Empty = relative URLs (previews may lack the image).
 SITE_URL = os.environ.get("SITE_URL", "https://postava-beta.vercel.app").rstrip("/")
@@ -30,11 +30,8 @@ os.makedirs(os.path.join(D, "flags"), exist_ok=True)
 for cc in sorted({p[2] for o in out for p in o["p"]}):
     dst = os.path.join(D, "flags", cc + ".svg")
     if os.path.exists(dst): continue
-    src_f = os.path.expanduser(f"~/Desktop/barjak/flags/{cc}.svg")
-    if os.path.exists(src_f): shutil.copy(src_f, dst)
-    else:
-        try: urllib.request.urlretrieve(f"https://flagcdn.com/{cc}.svg", dst)
-        except Exception as ex: print("FLAG MISSING", cc, ex)
+    try: urllib.request.urlretrieve(f"https://flagcdn.com/{cc}.svg", dst)
+    except Exception as ex: print("FLAG MISSING", cc, ex)
 js = json.dumps(out, ensure_ascii=True, separators=(",", ":")).replace("</", "<\\/")
 tpl = open(os.path.join(D, "src.html"), encoding="utf-8").read()
 MARK = "<script>\nconst DATA = /*DATA*/[];"

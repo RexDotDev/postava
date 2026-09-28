@@ -7,7 +7,7 @@ a wrong player in a lineup ruins the puzzle.
 
 ## Output
 Write ONE UTF-8 JSON file (an array of objects) to the path given in your task. Then run:
-    python3 ~/Desktop/postava/validate.py <your file>
+    python3 validate.py <your file>
 and fix everything it reports until it prints OK.
 
 ## Object schema
