@@ -1973,5 +1973,2375 @@
     "gb-eng"
    ]
   ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sevilla",
+  "opp": "Liverpool",
+  "score": "3-1",
+  "comp": "Finale Lige Evrope",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Treća uzastopna titula Lige Evrope, preokret posle 0-1 na poluvremenu u Bazelu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#d4001f"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Soria",
+    "David Soria",
+    "es"
+   ],
+   [
+    "Escudero",
+    "Sergio Escudero",
+    "es"
+   ],
+   [
+    "Carriço",
+    "Daniel Carriço",
+    "pt"
+   ],
+   [
+    "Rami",
+    "Adil Rami",
+    "fr"
+   ],
+   [
+    "Mariano",
+    "Mariano",
+    "br"
+   ],
+   [
+    "N'Zonzi",
+    "Steven N'Zonzi",
+    "fr"
+   ],
+   [
+    "Krychowiak",
+    "Grzegorz Krychowiak",
+    "pl"
+   ],
+   [
+    "Vitolo",
+    "Vitolo",
+    "es"
+   ],
+   [
+    "Banega",
+    "Éver Banega",
+    "ar"
+   ],
+   [
+    "Coke",
+    "Coke",
+    "es"
+   ],
+   [
+    "Gameiro",
+    "Kévin Gameiro",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Marseille",
+  "score": "3-0",
+  "comp": "Finale Lige Evrope",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Treći trofej Lige Evrope za Atletiko; kažnjeni Simeone finale u Lionu gledao sa tribina",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#2faee0"
+  ],
+  "p": [
+   [
+    "Oblak",
+    "Jan Oblak",
+    "si"
+   ],
+   [
+    "Lucas Hernández",
+    "Lucas Hernández",
+    "fr"
+   ],
+   [
+    "Godín",
+    "Diego Godín",
+    "uy"
+   ],
+   [
+    "Giménez",
+    "José María Giménez",
+    "uy"
+   ],
+   [
+    "Vrsaljko",
+    "Šime Vrsaljko",
+    "hr"
+   ],
+   [
+    "Koke",
+    "Koke",
+    "es"
+   ],
+   [
+    "Saúl",
+    "Saúl Ñíguez",
+    "es"
+   ],
+   [
+    "Gabi",
+    "Gabi",
+    "es"
+   ],
+   [
+    "Correa",
+    "Ángel Correa",
+    "ar"
+   ],
+   [
+    "Diego Costa",
+    "Diego Costa",
+    "es"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Marseille",
+  "opp": "Atlético Madrid",
+  "score": "0-3",
+  "comp": "Finale Lige Evrope",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Treće izgubljeno finale Kupa UEFA / Lige Evrope za Marselj, posle 1999. i 2004.",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#2faee0"
+  ],
+  "okit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mandanda",
+    "Steve Mandanda",
+    "fr"
+   ],
+   [
+    "Amavi",
+    "Jordan Amavi",
+    "fr"
+   ],
+   [
+    "Luiz Gustavo",
+    "Luiz Gustavo",
+    "br"
+   ],
+   [
+    "Rami",
+    "Adil Rami",
+    "fr"
+   ],
+   [
+    "Sarr",
+    "Bouna Sarr",
+    "sn"
+   ],
+   [
+    "Sanson",
+    "Morgan Sanson",
+    "fr"
+   ],
+   [
+    "Anguissa",
+    "André-Frank Zambo Anguissa",
+    "cm"
+   ],
+   [
+    "Ocampos",
+    "Lucas Ocampos",
+    "ar"
+   ],
+   [
+    "Payet",
+    "Dimitri Payet",
+    "fr"
+   ],
+   [
+    "Thauvin",
+    "Florian Thauvin",
+    "fr"
+   ],
+   [
+    "Germain",
+    "Valère Germain",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Villarreal",
+  "opp": "Manchester United",
+  "score": "1-1 (11-10 pen.)",
+  "comp": "Finale Lige Evrope",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Prvi veliki trofej u istoriji kluba; u penal-seriji u Gdanjsku pucala su sva 22 igrača",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#ffe667",
+   "#005187"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rulli",
+    "Gerónimo Rulli",
+    "ar"
+   ],
+   [
+    "Pedraza",
+    "Alfonso Pedraza",
+    "es"
+   ],
+   [
+    "Pau Torres",
+    "Pau Torres",
+    "es"
+   ],
+   [
+    "Albiol",
+    "Raúl Albiol",
+    "es"
+   ],
+   [
+    "Foyth",
+    "Juan Foyth",
+    "ar"
+   ],
+   [
+    "Trigueros",
+    "Manu Trigueros",
+    "es"
+   ],
+   [
+    "Parejo",
+    "Dani Parejo",
+    "es"
+   ],
+   [
+    "Capoue",
+    "Étienne Capoue",
+    "fr"
+   ],
+   [
+    "Yéremy Pino",
+    "Yéremy Pino",
+    "es"
+   ],
+   [
+    "Bacca",
+    "Carlos Bacca",
+    "co"
+   ],
+   [
+    "Gerard Moreno",
+    "Gerard Moreno",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Villarreal",
+  "score": "1-1 (10-11 pen.)",
+  "comp": "Finale Lige Evrope",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Solskjerovo jedino finale na klupi Junajteda, izgubljeno tek posle 22 penala",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffe667",
+   "#005187"
+  ],
+  "p": [
+   [
+    "De Gea",
+    "David de Gea",
+    "es"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Lindelöf",
+    "Victor Lindelöf",
+    "se"
+   ],
+   [
+    "Bailly",
+    "Eric Bailly",
+    "ci"
+   ],
+   [
+    "Wan-Bissaka",
+    "Aaron Wan-Bissaka",
+    "cd"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "McTominay",
+    "Scott McTominay",
+    "gb-sct"
+   ],
+   [
+    "Rashford",
+    "Marcus Rashford",
+    "gb-eng"
+   ],
+   [
+    "Bruno Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "Greenwood",
+    "Mason Greenwood",
+    "gb-eng"
+   ],
+   [
+    "Cavani",
+    "Edinson Cavani",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Eintracht Frankfurt",
+  "opp": "Rangers",
+  "score": "1-1 (5-4 pen.)",
+  "comp": "Finale Lige Evrope",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Prvi evropski trofej posle 42 godine, bez ijednog poraza u celom takmičenju",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#1b458f",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Trapp",
+    "Kevin Trapp",
+    "de"
+   ],
+   [
+    "Ndicka",
+    "Evan Ndicka",
+    "ci"
+   ],
+   [
+    "Tuta",
+    "Tuta",
+    "br"
+   ],
+   [
+    "Touré",
+    "Almamy Touré",
+    "ml"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Rode",
+    "Sebastian Rode",
+    "de"
+   ],
+   [
+    "Sow",
+    "Djibril Sow",
+    "ch"
+   ],
+   [
+    "Knauff",
+    "Ansgar Knauff",
+    "de"
+   ],
+   [
+    "Kamada",
+    "Daichi Kamada",
+    "jp"
+   ],
+   [
+    "Lindstrøm",
+    "Jesper Lindstrøm",
+    "dk"
+   ],
+   [
+    "Borré",
+    "Rafael Santos Borré",
+    "co"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Rangers",
+  "opp": "Eintracht Frankfurt",
+  "score": "1-1 (4-5 pen.)",
+  "comp": "Finale Lige Evrope",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Prvo evropsko finale Rendžersa posle 2008; poraz tek u penal-seriji u Sevilji",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#1b458f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "McGregor",
+    "Allan McGregor",
+    "gb-sct"
+   ],
+   [
+    "Barišić",
+    "Borna Barišić",
+    "hr"
+   ],
+   [
+    "Bassey",
+    "Calvin Bassey",
+    "ng"
+   ],
+   [
+    "Goldson",
+    "Connor Goldson",
+    "gb-eng"
+   ],
+   [
+    "Tavernier",
+    "James Tavernier",
+    "gb-eng"
+   ],
+   [
+    "Jack",
+    "Ryan Jack",
+    "gb-sct"
+   ],
+   [
+    "Lundstram",
+    "John Lundstram",
+    "gb-eng"
+   ],
+   [
+    "Kamara",
+    "Glen Kamara",
+    "fi"
+   ],
+   [
+    "Kent",
+    "Ryan Kent",
+    "gb-eng"
+   ],
+   [
+    "Aribo",
+    "Joe Aribo",
+    "ng"
+   ],
+   [
+    "Wright",
+    "Scott Wright",
+    "gb-sct"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sevilla",
+  "opp": "Roma",
+  "score": "1-1 (4-1 pen.)",
+  "comp": "Finale Lige Evrope",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Sedma titula Lige Evrope u Budimpešti; Sevilja je i dalje bez poraza u finalima LE",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#d4001f"
+  ],
+  "okit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "p": [
+   [
+    "Bono",
+    "Yassine Bounou",
+    "ma"
+   ],
+   [
+    "Telles",
+    "Alex Telles",
+    "br"
+   ],
+   [
+    "Gudelj",
+    "Nemanja Gudelj",
+    "rs"
+   ],
+   [
+    "Badé",
+    "Loïc Badé",
+    "fr"
+   ],
+   [
+    "Navas",
+    "Jesús Navas",
+    "es"
+   ],
+   [
+    "Rakitić",
+    "Ivan Rakitić",
+    "hr"
+   ],
+   [
+    "Fernando",
+    "Fernando",
+    "br"
+   ],
+   [
+    "Bryan Gil",
+    "Bryan Gil",
+    "es"
+   ],
+   [
+    "Óliver",
+    "Óliver Torres",
+    "es"
+   ],
+   [
+    "Ocampos",
+    "Lucas Ocampos",
+    "ar"
+   ],
+   [
+    "En-Nesyri",
+    "Youssef En-Nesyri",
+    "ma"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Roma",
+  "opp": "Sevilla",
+  "score": "1-1 (1-4 pen.)",
+  "comp": "Finale Lige Evrope",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Murinjo izgubio prvo evropsko finale u karijeri, posle pet pobeda",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#d4001f"
+  ],
+  "p": [
+   [
+    "Rui Patrício",
+    "Rui Patrício",
+    "pt"
+   ],
+   [
+    "Ibañez",
+    "Roger Ibañez",
+    "br"
+   ],
+   [
+    "Smalling",
+    "Chris Smalling",
+    "gb-eng"
+   ],
+   [
+    "Mancini",
+    "Gianluca Mancini",
+    "it"
+   ],
+   [
+    "Spinazzola",
+    "Leonardo Spinazzola",
+    "it"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Cristante",
+    "Bryan Cristante",
+    "it"
+   ],
+   [
+    "Çelik",
+    "Zeki Çelik",
+    "tr"
+   ],
+   [
+    "Pellegrini",
+    "Lorenzo Pellegrini",
+    "it"
+   ],
+   [
+    "Dybala",
+    "Paulo Dybala",
+    "ar"
+   ],
+   [
+    "Abraham",
+    "Tammy Abraham",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atalanta",
+  "opp": "Bayer Leverkusen",
+  "score": "3-0",
+  "comp": "Finale Lige Evrope",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Prvi evropski trofej Atalante; Gasperini prekinuo Leverkuzenov niz od 51 meča bez poraza",
+  "form": "3-4-2-1",
+  "kit": [
+   "stripes",
+   "#1e71b8",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Musso",
+    "Juan Musso",
+    "ar"
+   ],
+   [
+    "Kolašinac",
+    "Sead Kolašinac",
+    "ba"
+   ],
+   [
+    "Hien",
+    "Isak Hien",
+    "se"
+   ],
+   [
+    "Djimsiti",
+    "Berat Djimsiti",
+    "al"
+   ],
+   [
+    "Ruggeri",
+    "Matteo Ruggeri",
+    "it"
+   ],
+   [
+    "Koopmeiners",
+    "Teun Koopmeiners",
+    "nl"
+   ],
+   [
+    "Éderson",
+    "Éderson",
+    "br"
+   ],
+   [
+    "Zappacosta",
+    "Davide Zappacosta",
+    "it"
+   ],
+   [
+    "Lookman",
+    "Ademola Lookman",
+    "ng"
+   ],
+   [
+    "De Ketelaere",
+    "Charles De Ketelaere",
+    "be"
+   ],
+   [
+    "Scamacca",
+    "Gianluca Scamacca",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayer Leverkusen",
+  "opp": "Atalanta",
+  "score": "0-3",
+  "comp": "Finale Lige Evrope",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Jedini poraz u sezoni duple krune: kraj niza od 51 utakmice bez poraza",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#1e71b8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Kovář",
+    "Matěj Kovář",
+    "cz"
+   ],
+   [
+    "Hincapié",
+    "Piero Hincapié",
+    "ec"
+   ],
+   [
+    "Tah",
+    "Jonathan Tah",
+    "de"
+   ],
+   [
+    "Tapsoba",
+    "Edmond Tapsoba",
+    "bf"
+   ],
+   [
+    "Grimaldo",
+    "Alejandro Grimaldo",
+    "es"
+   ],
+   [
+    "Palacios",
+    "Exequiel Palacios",
+    "ar"
+   ],
+   [
+    "Xhaka",
+    "Granit Xhaka",
+    "ch"
+   ],
+   [
+    "Stanišić",
+    "Josip Stanišić",
+    "hr"
+   ],
+   [
+    "Wirtz",
+    "Florian Wirtz",
+    "de"
+   ],
+   [
+    "Frimpong",
+    "Jeremie Frimpong",
+    "nl"
+   ],
+   [
+    "Adli",
+    "Amine Adli",
+    "ma"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Manchester United",
+  "score": "1-0",
+  "comp": "Finale Lige Evrope",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Prvi trofej posle 17 godina, u sezoni završenoj na 17. mestu Premijer lige",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Vicario",
+    "Guglielmo Vicario",
+    "it"
+   ],
+   [
+    "Udogie",
+    "Destiny Udogie",
+    "it"
+   ],
+   [
+    "Van de Ven",
+    "Micky van de Ven",
+    "nl"
+   ],
+   [
+    "Romero",
+    "Cristian Romero",
+    "ar"
+   ],
+   [
+    "Porro",
+    "Pedro Porro",
+    "es"
+   ],
+   [
+    "Sarr",
+    "Pape Matar Sarr",
+    "sn"
+   ],
+   [
+    "Bissouma",
+    "Yves Bissouma",
+    "ml"
+   ],
+   [
+    "Bentancur",
+    "Rodrigo Bentancur",
+    "uy"
+   ],
+   [
+    "Richarlison",
+    "Richarlison",
+    "br"
+   ],
+   [
+    "Solanke",
+    "Dominic Solanke",
+    "gb-eng"
+   ],
+   [
+    "Johnson",
+    "Brennan Johnson",
+    "gb-wls"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Tottenham Hotspur",
+  "score": "0-1",
+  "comp": "Finale Lige Evrope",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Poraz u Bilbau značio je sezonu bez trofeja i bez evropskih takmičenja",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "p": [
+   [
+    "Onana",
+    "André Onana",
+    "cm"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Maguire",
+    "Harry Maguire",
+    "gb-eng"
+   ],
+   [
+    "Yoro",
+    "Leny Yoro",
+    "fr"
+   ],
+   [
+    "Dorgu",
+    "Patrick Dorgu",
+    "dk"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Bruno Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "Mazraoui",
+    "Noussair Mazraoui",
+    "ma"
+   ],
+   [
+    "Mount",
+    "Mason Mount",
+    "gb-eng"
+   ],
+   [
+    "Amad",
+    "Amad Diallo",
+    "ci"
+   ],
+   [
+    "Højlund",
+    "Rasmus Højlund",
+    "dk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Olympiacos",
+  "opp": "Fiorentina",
+  "score": "1-0 prod.",
+  "comp": "Finale Lige konferencija",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Prvi evropski trofej nekog grčkog kluba, golom u 116. minutu u Atini",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#482e92",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Tzolakis",
+    "Konstantinos Tzolakis",
+    "gr"
+   ],
+   [
+    "Ortega",
+    "Francisco Ortega",
+    "ar"
+   ],
+   [
+    "Carmo",
+    "David Carmo",
+    "ao"
+   ],
+   [
+    "Retsos",
+    "Panagiotis Retsos",
+    "gr"
+   ],
+   [
+    "Rodinei",
+    "Rodinei",
+    "br"
+   ],
+   [
+    "Iborra",
+    "Vicente Iborra",
+    "es"
+   ],
+   [
+    "Hezze",
+    "Santiago Hezze",
+    "ar"
+   ],
+   [
+    "Podence",
+    "Daniel Podence",
+    "pt"
+   ],
+   [
+    "Chiquinho",
+    "Chiquinho",
+    "pt"
+   ],
+   [
+    "Fortounis",
+    "Kostas Fortounis",
+    "gr"
+   ],
+   [
+    "El Kaabi",
+    "Ayoub El Kaabi",
+    "ma"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Fiorentina",
+  "opp": "Olympiacos",
+  "score": "0-1 prod.",
+  "comp": "Finale Lige konferencija",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Drugo uzastopno izgubljeno finale Lige konferencija, posle Praga 2023.",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#482e92",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Terracciano",
+    "Pietro Terracciano",
+    "it"
+   ],
+   [
+    "Biraghi",
+    "Cristiano Biraghi",
+    "it"
+   ],
+   [
+    "Martínez Quarta",
+    "Lucas Martínez Quarta",
+    "ar"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Dodô",
+    "Dodô",
+    "br"
+   ],
+   [
+    "Mandragora",
+    "Rolando Mandragora",
+    "it"
+   ],
+   [
+    "Arthur",
+    "Arthur Melo",
+    "br"
+   ],
+   [
+    "Kouamé",
+    "Christian Kouamé",
+    "ci"
+   ],
+   [
+    "Bonaventura",
+    "Giacomo Bonaventura",
+    "it"
+   ],
+   [
+    "Nico González",
+    "Nicolás González",
+    "ar"
+   ],
+   [
+    "Belotti",
+    "Andrea Belotti",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Real Betis",
+  "score": "4-1",
+  "comp": "Finale Lige konferencija",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Čelsi postao prvi klub koji je osvojio sva UEFA klupska takmičenja",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#00954c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jørgensen",
+    "Filip Jørgensen",
+    "dk"
+   ],
+   [
+    "Cucurella",
+    "Marc Cucurella",
+    "es"
+   ],
+   [
+    "Badiashile",
+    "Benoît Badiashile",
+    "fr"
+   ],
+   [
+    "Chalobah",
+    "Trevoh Chalobah",
+    "gb-eng"
+   ],
+   [
+    "Gusto",
+    "Malo Gusto",
+    "fr"
+   ],
+   [
+    "Enzo",
+    "Enzo Fernández",
+    "ar"
+   ],
+   [
+    "Caicedo",
+    "Moisés Caicedo",
+    "ec"
+   ],
+   [
+    "Madueke",
+    "Noni Madueke",
+    "gb-eng"
+   ],
+   [
+    "Palmer",
+    "Cole Palmer",
+    "gb-eng"
+   ],
+   [
+    "Neto",
+    "Pedro Neto",
+    "pt"
+   ],
+   [
+    "Jackson",
+    "Nicolas Jackson",
+    "sn"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Betis",
+  "opp": "Chelsea",
+  "score": "1-4",
+  "comp": "Finale Lige konferencija",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Prvo evropsko finale u istoriji Betisa; na poluvremenu u Vroclavu vodili su 1-0",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#00954c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Adrián",
+    "Adrián San Miguel",
+    "es"
+   ],
+   [
+    "Rodríguez",
+    "Ricardo Rodríguez",
+    "ch"
+   ],
+   [
+    "Natan",
+    "Natan",
+    "br"
+   ],
+   [
+    "Bartra",
+    "Marc Bartra",
+    "es"
+   ],
+   [
+    "Sabaly",
+    "Youssouf Sabaly",
+    "sn"
+   ],
+   [
+    "Fornals",
+    "Pablo Fornals",
+    "es"
+   ],
+   [
+    "Cardoso",
+    "Johnny Cardoso",
+    "us"
+   ],
+   [
+    "Abde",
+    "Abde Ezzalzouli",
+    "ma"
+   ],
+   [
+    "Isco",
+    "Isco",
+    "es"
+   ],
+   [
+    "Antony",
+    "Antony",
+    "br"
+   ],
+   [
+    "Bakambu",
+    "Cédric Bakambu",
+    "cd"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayern Munich",
+  "opp": "Chelsea",
+  "score": "2-2 (5-4 pen.)",
+  "comp": "UEFA Superkup",
+  "season": "2013/14",
+  "y": 2013,
+  "note": "Gvardiola protiv Murinja u Pragu; izjednačenje u 121. minutu, pa penali",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Alaba",
+    "David Alaba",
+    "at"
+   ],
+   [
+    "Dante",
+    "Dante",
+    "br"
+   ],
+   [
+    "Boateng",
+    "Jérôme Boateng",
+    "de"
+   ],
+   [
+    "Rafinha",
+    "Rafinha",
+    "br"
+   ],
+   [
+    "Lahm",
+    "Philipp Lahm",
+    "de"
+   ],
+   [
+    "Ribéry",
+    "Franck Ribéry",
+    "fr"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ],
+   [
+    "Robben",
+    "Arjen Robben",
+    "nl"
+   ],
+   [
+    "Mandžukić",
+    "Mario Mandžukić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Real Madrid",
+  "score": "1-2",
+  "comp": "UEFA Superkup",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Murinjo protiv bivšeg kluba u Skoplju; Zidanov Real uzeo drugi Superkup zaredom",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "De Gea",
+    "David de Gea",
+    "es"
+   ],
+   [
+    "Darmian",
+    "Matteo Darmian",
+    "it"
+   ],
+   [
+    "Smalling",
+    "Chris Smalling",
+    "gb-eng"
+   ],
+   [
+    "Lindelöf",
+    "Victor Lindelöf",
+    "se"
+   ],
+   [
+    "Lingard",
+    "Jesse Lingard",
+    "gb-eng"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Herrera",
+    "Ander Herrera",
+    "es"
+   ],
+   [
+    "Valencia",
+    "Antonio Valencia",
+    "ec"
+   ],
+   [
+    "Mkhitaryan",
+    "Henrikh Mkhitaryan",
+    "am"
+   ],
+   [
+    "Lukaku",
+    "Romelu Lukaku",
+    "be"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Real Madrid",
+  "score": "4-2 prod.",
+  "comp": "UEFA Superkup",
+  "season": "2018/19",
+  "y": 2018,
+  "note": "Prvi madridski derbi u finalu Superkupa, u Talinu; prvi gol već posle 49 sekundi",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Oblak",
+    "Jan Oblak",
+    "si"
+   ],
+   [
+    "Lucas Hernández",
+    "Lucas Hernández",
+    "fr"
+   ],
+   [
+    "Godín",
+    "Diego Godín",
+    "uy"
+   ],
+   [
+    "Savić",
+    "Stefan Savić",
+    "me"
+   ],
+   [
+    "Juanfran",
+    "Juanfran",
+    "es"
+   ],
+   [
+    "Koke",
+    "Koke",
+    "es"
+   ],
+   [
+    "Saúl",
+    "Saúl Ñíguez",
+    "es"
+   ],
+   [
+    "Rodri",
+    "Rodri",
+    "es"
+   ],
+   [
+    "Lemar",
+    "Thomas Lemar",
+    "fr"
+   ],
+   [
+    "Diego Costa",
+    "Diego Costa",
+    "es"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Liverpool",
+  "score": "2-2 (4-5 pen.)",
+  "comp": "UEFA Superkup",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Prvo veliko muško UEFA finale koje je sudila žena, Stefani Frapar, u Istanbulu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Kepa",
+    "Kepa Arrizabalaga",
+    "es"
+   ],
+   [
+    "Emerson",
+    "Emerson Palmieri",
+    "it"
+   ],
+   [
+    "Zouma",
+    "Kurt Zouma",
+    "fr"
+   ],
+   [
+    "Christensen",
+    "Andreas Christensen",
+    "dk"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Kovačić",
+    "Mateo Kovačić",
+    "hr"
+   ],
+   [
+    "Jorginho",
+    "Jorginho",
+    "it"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "Pulisic",
+    "Christian Pulisic",
+    "us"
+   ],
+   [
+    "Giroud",
+    "Olivier Giroud",
+    "fr"
+   ],
+   [
+    "Pedro",
+    "Pedro",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "San Lorenzo",
+  "score": "2-0",
+  "comp": "Svetsko klupsko prvenstvo, finale",
+  "season": "2014/15",
+  "y": 2014,
+  "note": "Prva titula klupskog prvaka sveta u FIFA formatu, 22. uzastopna pobeda Reala",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#1c3f94",
+   "#e30613"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Carvajal",
+    "Dani Carvajal",
+    "es"
+   ],
+   [
+    "Isco",
+    "Isco",
+    "es"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "James",
+    "James Rodríguez",
+    "co"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ],
+   [
+    "Bale",
+    "Gareth Bale",
+    "gb-wls"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Kashima Antlers",
+  "score": "4-2 prod.",
+  "comp": "Svetsko klupsko prvenstvo, finale",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Kašima je u Jokohami vodila 2-1, a Real se spasao i slavio tek u produžecima",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "solid",
+   "#b71c1c",
+   "#1c2a5a"
+  ],
+  "p": [
+   [
+    "Navas",
+    "Keylor Navas",
+    "cr"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Carvajal",
+    "Dani Carvajal",
+    "es"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ],
+   [
+    "Lucas Vázquez",
+    "Lucas Vázquez",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Flamengo",
+  "score": "1-0 prod.",
+  "comp": "Svetsko klupsko prvenstvo, finale",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Prva titula klupskog prvaka sveta za Liverpul, u Dohi protiv prvaka Južne Amerike",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "hoops",
+   "#c52613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Alisson",
+    "Alisson",
+    "br"
+   ],
+   [
+    "Robertson",
+    "Andrew Robertson",
+    "gb-sct"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "Gomez",
+    "Joe Gomez",
+    "gb-eng"
+   ],
+   [
+    "Alexander-Arnold",
+    "Trent Alexander-Arnold",
+    "gb-eng"
+   ],
+   [
+    "Keïta",
+    "Naby Keïta",
+    "gn"
+   ],
+   [
+    "Henderson",
+    "Jordan Henderson",
+    "gb-eng"
+   ],
+   [
+    "Oxlade-Chamberlain",
+    "Alex Oxlade-Chamberlain",
+    "gb-eng"
+   ],
+   [
+    "Mané",
+    "Sadio Mané",
+    "sn"
+   ],
+   [
+    "Firmino",
+    "Roberto Firmino",
+    "br"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayern Munich",
+  "opp": "Tigres",
+  "score": "1-0",
+  "comp": "Svetsko klupsko prvenstvo, finale",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Šesti trofej u manje od godinu dana, kao Barselona 2009.",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#fdb913",
+   "#003a70"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Davies",
+    "Alphonso Davies",
+    "ca"
+   ],
+   [
+    "Lucas Hernández",
+    "Lucas Hernández",
+    "fr"
+   ],
+   [
+    "Süle",
+    "Niklas Süle",
+    "de"
+   ],
+   [
+    "Pavard",
+    "Benjamin Pavard",
+    "fr"
+   ],
+   [
+    "Alaba",
+    "David Alaba",
+    "at"
+   ],
+   [
+    "Kimmich",
+    "Joshua Kimmich",
+    "de"
+   ],
+   [
+    "Coman",
+    "Kingsley Coman",
+    "fr"
+   ],
+   [
+    "Gnabry",
+    "Serge Gnabry",
+    "de"
+   ],
+   [
+    "Sané",
+    "Leroy Sané",
+    "de"
+   ],
+   [
+    "Lewandowski",
+    "Robert Lewandowski",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Palmeiras",
+  "score": "2-1 prod.",
+  "comp": "Svetsko klupsko prvenstvo, finale",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Prva titula klupskog prvaka sveta za Čelsi, rešena u produžecima u Abu Dabiju",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#006437",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mendy",
+    "Édouard Mendy",
+    "sn"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Thiago Silva",
+    "Thiago Silva",
+    "br"
+   ],
+   [
+    "Christensen",
+    "Andreas Christensen",
+    "dk"
+   ],
+   [
+    "Hudson-Odoi",
+    "Callum Hudson-Odoi",
+    "gb-eng"
+   ],
+   [
+    "Kovačić",
+    "Mateo Kovačić",
+    "hr"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Havertz",
+    "Kai Havertz",
+    "de"
+   ],
+   [
+    "Mount",
+    "Mason Mount",
+    "gb-eng"
+   ],
+   [
+    "Lukaku",
+    "Romelu Lukaku",
+    "be"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Fluminense",
+  "score": "4-0",
+  "comp": "Svetsko klupsko prvenstvo, finale",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Peti trofej Sitija u 2023. i prvi naslov klupskog prvaka sveta, u Džedi",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#870a28",
+   "#00613c"
+  ],
+  "p": [
+   [
+    "Ederson",
+    "Ederson",
+    "br"
+   ],
+   [
+    "Aké",
+    "Nathan Aké",
+    "nl"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Dias",
+    "Rúben Dias",
+    "pt"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Rodri",
+    "Rodri",
+    "es"
+   ],
+   [
+    "Lewis",
+    "Rico Lewis",
+    "gb-eng"
+   ],
+   [
+    "Grealish",
+    "Jack Grealish",
+    "gb-eng"
+   ],
+   [
+    "Foden",
+    "Phil Foden",
+    "gb-eng"
+   ],
+   [
+    "Bernardo",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "Álvarez",
+    "Julián Álvarez",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Dortmund",
+  "opp": "Liverpool",
+  "score": "3-4",
+  "comp": "Liga Evrope, četvrtfinale, revanš",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Klop protiv bivšeg kluba: BVB vodio 3-1 na Enfildu, a ispao posle gola u 91. minutu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#fde100",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Weidenfeller",
+    "Roman Weidenfeller",
+    "de"
+   ],
+   [
+    "Schmelzer",
+    "Marcel Schmelzer",
+    "de"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Sokratis",
+    "Sokratis Papastathopoulos",
+    "gr"
+   ],
+   [
+    "Piszczek",
+    "Łukasz Piszczek",
+    "pl"
+   ],
+   [
+    "Castro",
+    "Gonzalo Castro",
+    "de"
+   ],
+   [
+    "Weigl",
+    "Julian Weigl",
+    "de"
+   ],
+   [
+    "Kagawa",
+    "Shinji Kagawa",
+    "jp"
+   ],
+   [
+    "Reus",
+    "Marco Reus",
+    "de"
+   ],
+   [
+    "Aubameyang",
+    "Pierre-Emerick Aubameyang",
+    "ga"
+   ],
+   [
+    "Mkhitaryan",
+    "Henrikh Mkhitaryan",
+    "am"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Eintracht Frankfurt",
+  "score": "2-3",
+  "comp": "Liga Evrope, četvrtfinale, revanš",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Oko 30.000 navijača Ajntrahta na Kamp Nouu; Barsa ispala posle 1-1 u Frankfurtu",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Ter Stegen",
+    "Marc-André ter Stegen",
+    "de"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Eric García",
+    "Eric García",
+    "es"
+   ],
+   [
+    "Araújo",
+    "Ronald Araújo",
+    "uy"
+   ],
+   [
+    "Mingueza",
+    "Óscar Mingueza",
+    "es"
+   ],
+   [
+    "Gavi",
+    "Gavi",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Pedri",
+    "Pedri",
+    "es"
+   ],
+   [
+    "Ferran Torres",
+    "Ferran Torres",
+    "es"
+   ],
+   [
+    "Aubameyang",
+    "Pierre-Emerick Aubameyang",
+    "ga"
+   ],
+   [
+    "Dembélé",
+    "Ousmane Dembélé",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Eintracht Frankfurt",
+  "opp": "Benfica",
+  "score": "2-0",
+  "comp": "Liga Evrope, četvrtfinale, revanš",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Preokret posle 2-4 u Lisabonu vodio je Frankfurt do polufinala protiv Čelsija",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#000000",
+   "#e1000f"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Trapp",
+    "Kevin Trapp",
+    "de"
+   ],
+   [
+    "Falette",
+    "Simon Falette",
+    "gn"
+   ],
+   [
+    "Hasebe",
+    "Makoto Hasebe",
+    "jp"
+   ],
+   [
+    "Abraham",
+    "David Abraham",
+    "ar"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Fernandes",
+    "Gelson Fernandes",
+    "ch"
+   ],
+   [
+    "Rode",
+    "Sebastian Rode",
+    "de"
+   ],
+   [
+    "Da Costa",
+    "Danny da Costa",
+    "de"
+   ],
+   [
+    "Gačinović",
+    "Mijat Gačinović",
+    "rs"
+   ],
+   [
+    "Rebić",
+    "Ante Rebić",
+    "hr"
+   ],
+   [
+    "Jović",
+    "Luka Jović",
+    "rs"
+   ]
+  ]
  }
 ]
