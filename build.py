@@ -3,7 +3,7 @@
 import json, glob, os, re, sys, urllib.request, hashlib, html as htmlmod
 # Public address of the site. Link previews (Open Graph) need absolute image URLs, so set this once the
 # domain is known, e.g. "https://squads.vercel.app", and rebuild. Empty = relative URLs (previews may lack the image).
-SITE_URL = os.environ.get("SITE_URL", "https://postava-beta.vercel.app").rstrip("/")
+SITE_URL = os.environ.get("SITE_URL", "https://www.guessthesquad.com").rstrip("/")
 sys.path.insert(0, os.path.dirname(__file__))
 D = os.path.dirname(os.path.abspath(__file__))
 import importlib.util

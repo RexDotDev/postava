@@ -10,14 +10,14 @@ UI and all data text (comp, note, team names) are in English. The repository is 
 - `SPEC.md` — data schema + quality rules. Read it before adding lineups.
 - `index.html` + `data.<hash>.json` — built standalone site for static hosting: GitHub Pages (branch `main`, folder `/`) or Vercel (framework "Other", no build command, output `.`). The page loads the lineups from the content-hashed JSON (new name on every data change, so it can be cached forever; `vercel.json` sets the cache headers, `.vercelignore` keeps sources off the site, `.nojekyll` stops Jekyll on Pages).
 - `icon.svg`, `apple-touch-icon.png`, `icon-512.png`, `og.png` (1200×630 link preview), `site.webmanifest` — site icons and share image. Regenerate the PNGs with `node tools/make_images.mjs` (Playwright) from `icon.svg` and `tools/og.html`.
-- `SITE_URL` in `build.py` (or the `SITE_URL` env var) — public address of the site, currently `https://postava-beta.vercel.app` (Vercel project `postava`, team reljas-projects). Change it with a custom domain and rebuild: link previews need an absolute `og:image` URL.
+- `SITE_URL` in `build.py` (or the `SITE_URL` env var) — public address of the site, currently `https://www.guessthesquad.com` (Vercel project `postava`, team reljas-projects). Change it with a custom domain and rebuild: link previews need an absolute `og:image` URL.
 - `artifact.html` — the same page with the data inlined and without `<html>/<head>`, for the claude.ai Artifact (the publisher adds them). Built locally, not committed.
 - `flags/<cc>.svg` — nationality flags referenced as relative `flags/xx.svg`.
 
 Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 
 ## Deployment
-- Site: https://postava-beta.vercel.app — Vercel project `postava` (team reljas-projects), connected to this repository. Every push to `main` redeploys; pull requests get preview deployments. No build step: Vercel serves the committed `index.html`, `data.<hash>.json`, `flags/` and icons.
+- Site: https://www.guessthesquad.com (apex `guessthesquad.com` redirects to www; the domain was bought through Vercel; `postava-beta.vercel.app` still serves the same deployment) — Vercel project `postava` (team reljas-projects), connected to this repository. Every push to `main` redeploys; pull requests get preview deployments. No build step: Vercel serves the committed `index.html`, `data.<hash>.json`, `flags/` and icons.
 - claude.ai Artifact (private): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h. Republish: Artifact publish with `url`, `file_path` = artifact.html, `files` = every `flags/*.svg` mapped to itself.
 
 ## Data status (827 entries built: fb 652, bb 175)

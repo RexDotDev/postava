@@ -2,7 +2,7 @@
 
 Guess the starting lineup of real football and basketball matches.
 
-**Play:** https://postava-beta.vercel.app
+**Play:** [guessthesquad.com](https://www.guessthesquad.com)
 
 ![Squads: a football pitch with a shirt and a row of dashes for every player](og.png)
 
