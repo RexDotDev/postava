@@ -1,0 +1,394 @@
+[
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Serbia",
+  "opp": "USA",
+  "score": "92-129",
+  "comp": "World Cup 2014, final",
+  "season": "2014",
+  "y": 2014,
+  "note": "Silver in Madrid; Kyrie Irving named tournament MVP",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Nemanja Bjelica",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Serbia",
+  "score": "129-92",
+  "comp": "World Cup 2014, final",
+  "season": "2014",
+  "y": 2014,
+  "note": "Second consecutive world title for the USA",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Irving",
+    "Kyrie Irving",
+    "us"
+   ],
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Harden",
+    "James Harden",
+    "us"
+   ],
+   [
+    "Faried",
+    "Kenneth Faried",
+    "us"
+   ],
+   [
+    "Davis",
+    "Anthony Davis",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Serbia",
+  "opp": "USA",
+  "score": "66-96",
+  "comp": "Olympics 2016, final",
+  "season": "2016",
+  "y": 2016,
+  "note": "Olympic silver; Kevin Durant's 30 points led the USA",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Mačvan",
+    "Milan Mačvan",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Serbia",
+  "score": "96-66",
+  "comp": "Olympics 2016, final",
+  "season": "2016",
+  "y": 2016,
+  "note": "A third straight Olympic gold and a farewell for coach Krzyzewski",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Irving",
+    "Kyrie Irving",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Klay Thompson",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Anthony",
+    "Carmelo Anthony",
+    "us"
+   ],
+   [
+    "Jordan",
+    "DeAndre Jordan",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Serbia",
+  "opp": "Slovenia",
+  "score": "85-93",
+  "comp": "EuroBasket 2017, final",
+  "season": "2017",
+  "y": 2017,
+  "note": "Goran Dragić's 35 points give Slovenia their first European title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Mačvan",
+    "Milan Mačvan",
+    "rs"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Slovenia",
+  "opp": "Serbia",
+  "score": "93-85",
+  "comp": "EuroBasket 2017, final",
+  "season": "2017",
+  "y": 2017,
+  "note": "Slovenia's first-ever European title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Dragić",
+    "Goran Dragić",
+    "si"
+   ],
+   [
+    "Blažič",
+    "Jaka Blažič",
+    "si"
+   ],
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Murić",
+    "Edo Murić",
+    "si"
+   ],
+   [
+    "Vidmar",
+    "Gašper Vidmar",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Germany",
+  "opp": "Serbia",
+  "score": "83-77",
+  "comp": "World Cup 2023, final",
+  "season": "2023",
+  "y": 2023,
+  "note": "Germany's first world title, won without a single defeat",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Schröder",
+    "Dennis Schröder",
+    "de"
+   ],
+   [
+    "Obst",
+    "Andreas Obst",
+    "de"
+   ],
+   [
+    "Wagner",
+    "Franz Wagner",
+    "de"
+   ],
+   [
+    "Voigtmann",
+    "Johannes Voigtmann",
+    "de"
+   ],
+   [
+    "Theis",
+    "Daniel Theis",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Serbia",
+  "opp": "Germany",
+  "score": "77-83",
+  "comp": "World Cup 2023, final",
+  "season": "2023",
+  "y": 2023,
+  "note": "Schröder's 28 points delivered Germany's first world title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "S. Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "N. Jović",
+    "Nikola Jović",
+    "rs"
+   ],
+   [
+    "Milutinov",
+    "Nikola Milutinov",
+    "rs"
+   ]
+  ]
+ }
+]

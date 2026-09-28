@@ -14,8 +14,9 @@ def check(o, i):
     if e: return e
     sp = o["sport"]
     if sp not in ("fb","bb"): e.append("bad sport")
-    if o["cat"] not in ({"club","nat","srb"} if sp=="fb" else {"nba","euro","srb"}): e.append("bad cat")
-    if not isinstance(o["y"], int) or not (2009 if sp=="fb" else 2012) <= o["y"] <= 2026: e.append("bad y")
+    if o["cat"] not in ({"club","nat"} if sp=="fb" else {"nba","euro","nat"}): e.append("bad cat")
+    lo = 1970 if (sp=="bb" and o["cat"]=="nat") else 2009 if sp=="fb" else 2012   # basketball legends reach back to 1970
+    if not isinstance(o["y"], int) or not lo <= o["y"] <= 2026: e.append("bad y")
     for k in ("kit","okit"):
         v = o[k]
         if not (isinstance(v,list) and len(v)==3 and v[0] in PAT and HEX.match(v[1]) and HEX.match(v[2])): e.append(f"bad {k} {v}")
