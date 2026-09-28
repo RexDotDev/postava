@@ -49,3 +49,4 @@ for i,o in enumerate(data):
     seen.add(ts)
     if errs: bad += 1; print(f"#{i} {o.get('team')} {o.get('season')}: " + "; ".join(errs))
 print(f"{len(data)} entries, {bad} with errors" if bad else f"OK {len(data)} entries")
+sys.exit(1 if bad else 0)

@@ -5,3 +5,5 @@ tools/
 *.md
 src.html
 artifact.html
+.github/
+.gitattributes

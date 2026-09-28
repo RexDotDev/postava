@@ -6,7 +6,7 @@ UI and all data text (comp, note, team names) are in English. The repository is 
 ## Files
 - `src.html` — the whole game (UI + logic). Data is injected at `/*DATA*/[]`.
 - `build.py` — merges `data/*.json`, validates, drops bad/dup entries, strips leading initials ("V. Milinković-Savić" → "Milinković-Savić"), fetches missing flags (flagcdn.com) into `flags/`, writes `index.html`, `data.<hash>.json` and `artifact.html`.
-- `validate.py <file>` — schema check (run on every data file).
+- `validate.py <file>` — schema check (run on every data file; exits 1 on errors).
 - `SPEC.md` — data schema + quality rules. Read it before adding lineups.
 - `index.html` + `data.<hash>.json` — built standalone site for static hosting: GitHub Pages (branch `main`, folder `/`) or Vercel (framework "Other", no build command, output `.`). The page loads the lineups from the content-hashed JSON (new name on every data change, so it can be cached forever; `vercel.json` sets the cache headers, `.vercelignore` keeps sources off the site, `.nojekyll` stops Jekyll on Pages).
 - `icon.svg`, `apple-touch-icon.png`, `icon-512.png`, `og.png` (1200×630 link preview), `site.webmanifest` — site icons and share image. Regenerate the PNGs with `node tools/make_images.mjs` (Playwright) from `icon.svg` and `tools/og.html`.
@@ -18,6 +18,7 @@ Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 
 ## Deployment
 - Site: https://www.guessthesquad.com (apex `guessthesquad.com` redirects to www; the domain was bought through Vercel; `postava-beta.vercel.app` still serves the same deployment) — Vercel project `postava` (team reljas-projects), connected to this repository. Every push to `main` redeploys; pull requests get preview deployments. No build step: Vercel serves the committed `index.html`, `data.<hash>.json`, `flags/` and icons.
+- GitHub: `.github/workflows/check.yml` runs on every pull request and push to `main` (job `validate-and-build`: `validate.py` on each data file, then `build.py` must leave no changes). `.github/rulesets/protect-main.json` is the ruleset for `main` (pull request required, check `validate-and-build` required, no force pushes or deletion); import it under Settings → Rules → Rulesets. Dependabot keeps the workflow actions up to date.
 - claude.ai Artifact (private): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h. Republish: Artifact publish with `url`, `file_path` = artifact.html, `files` = every `flags/*.svg` mapped to itself.
 
 ## Data status (827 entries built: fb 652, bb 175)
