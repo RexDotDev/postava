@@ -1,4 +1,5 @@
-# Merge data/*.json -> index.html (artifact body) + flags/. Usage: python3 build.py
+# Merge data/*.json -> index.html (standalone page for GitHub Pages / Vercel), artifact.html (Artifact body) + flags/.
+# Usage: python3 build.py
 import json, glob, os, re, sys, shutil, urllib.request
 sys.path.insert(0, os.path.dirname(__file__))
 D = os.path.dirname(os.path.abspath(__file__))
@@ -33,6 +34,12 @@ for cc in sorted({p[2] for o in out for p in o["p"]}):
         except Exception as ex: print("FLAG MISSING", cc, ex)
 js = json.dumps(out, ensure_ascii=True, separators=(",", ":")).replace("</", "<\\/")
 html = open(os.path.join(D, "src.html"), encoding="utf-8").read().replace("/*DATA*/[]", js, 1)
-open(os.path.join(D, "index.html"), "w", encoding="utf-8").write(html)
+open(os.path.join(D, "artifact.html"), "w", encoding="utf-8").write(html)  # the Artifact publisher adds <html>/<head>
+cut = html.index("</style>") + len("</style>")
+page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+        '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'
+        '<meta name="description" content="Squads: guess the real starting lineup of famous football and basketball matches.">\n'
+        f'{html[:cut]}\n</head>\n<body>\n{html[cut:]}\n</body>\n</html>\n')
+open(os.path.join(D, "index.html"), "w", encoding="utf-8").write(page)
 fb = sum(o["sport"] == "fb" for o in out)
 print(f"built {len(out)} entries (fb {fb}, bb {len(out)-fb}), dropped {drop}, outside year window {skip}, flags {len(os.listdir(os.path.join(D,'flags')))}")
