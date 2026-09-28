@@ -2,6 +2,1280 @@
  {
   "sport": "bb",
   "cat": "nat",
+  "team": "Yugoslavia",
+  "opp": "Greece",
+  "score": "98-77",
+  "comp": "EuroBasket 1989, final",
+  "season": "1989",
+  "y": 1989,
+  "note": "Title won at home in Zagreb, the fourth European crown",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b3f8f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0d5eaf"
+  ],
+  "p": [
+   [
+    "Zdovc",
+    "Jure Zdovc",
+    "si"
+   ],
+   [
+    "Petrović",
+    "Dražen Petrović",
+    "hr"
+   ],
+   [
+    "Paspalj",
+    "Žarko Paspalj",
+    "me"
+   ],
+   [
+    "Rađa",
+    "Dino Rađa",
+    "hr"
+   ],
+   [
+    "Divac",
+    "Vlade Divac",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Yugoslavia",
+  "opp": "Italy",
+  "score": "88-73",
+  "comp": "EuroBasket 1991, final",
+  "season": "1991",
+  "y": 1991,
+  "note": "Last major final for the unified Yugoslavia",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0b3f8f"
+  ],
+  "okit": [
+   "solid",
+   "#0057b8",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sretenović",
+    "Zoran Sretenović",
+    "rs"
+   ],
+   [
+    "Perasović",
+    "Velimir Perasović",
+    "hr"
+   ],
+   [
+    "Kukoč",
+    "Toni Kukoč",
+    "hr"
+   ],
+   [
+    "Rađa",
+    "Dino Rađa",
+    "hr"
+   ],
+   [
+    "Divac",
+    "Vlade Divac",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Croatia",
+  "score": "117-85",
+  "comp": "Olympics 1992, final",
+  "season": "1992",
+  "y": 1992,
+  "note": "The original Dream Team's Olympic coronation in Barcelona",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "checks",
+   "#ffffff",
+   "#e30613"
+  ],
+  "p": [
+   [
+    "Johnson",
+    "Magic Johnson",
+    "us"
+   ],
+   [
+    "Jordan",
+    "Michael Jordan",
+    "us"
+   ],
+   [
+    "Pippen",
+    "Scottie Pippen",
+    "us"
+   ],
+   [
+    "Malone",
+    "Karl Malone",
+    "us"
+   ],
+   [
+    "Ewing",
+    "Patrick Ewing",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Yugoslavia",
+  "opp": "Lithuania",
+  "score": "96-90",
+  "comp": "EuroBasket 1995, final",
+  "season": "1995",
+  "y": 1995,
+  "note": "First title after the sanctions; Lithuania briefly refused to play on after fouls",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b3f8f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#006a44",
+   "#fdb913"
+  ],
+  "p": [
+   [
+    "Đorđević",
+    "Aleksandar Đorđević",
+    "rs"
+   ],
+   [
+    "Danilović",
+    "Predrag Danilović",
+    "rs"
+   ],
+   [
+    "Bodiroga",
+    "Dejan Bodiroga",
+    "rs"
+   ],
+   [
+    "Savić",
+    "Zoran Savić",
+    "rs"
+   ],
+   [
+    "Divac",
+    "Vlade Divac",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Yugoslavia",
+  "score": "95-69",
+  "comp": "Olympics 1996, final",
+  "season": "1996",
+  "y": 1996,
+  "note": "Dream Team III takes Atlanta gold, but Yugoslavia stays level for a half",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "okit": [
+   "solid",
+   "#0b3d91",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Payton",
+    "Gary Payton",
+    "us"
+   ],
+   [
+    "Miller",
+    "Reggie Miller",
+    "us"
+   ],
+   [
+    "Pippen",
+    "Scottie Pippen",
+    "us"
+   ],
+   [
+    "Malone",
+    "Karl Malone",
+    "us"
+   ],
+   [
+    "Olajuwon",
+    "Hakeem Olajuwon",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Yugoslavia",
+  "opp": "USA",
+  "score": "69-95",
+  "comp": "Olympics 1996, final",
+  "season": "1996",
+  "y": 1996,
+  "note": "Silver in Atlanta against the second Dream Team",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b3f8f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1c2d6b"
+  ],
+  "p": [
+   [
+    "Đorđević",
+    "Aleksandar Đorđević",
+    "rs"
+   ],
+   [
+    "Danilović",
+    "Predrag Danilović",
+    "rs"
+   ],
+   [
+    "Bodiroga",
+    "Dejan Bodiroga",
+    "rs"
+   ],
+   [
+    "Paspalj",
+    "Žarko Paspalj",
+    "me"
+   ],
+   [
+    "Divac",
+    "Vlade Divac",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Yugoslavia",
+  "opp": "Italy",
+  "score": "61-49",
+  "comp": "EuroBasket 1997, final",
+  "season": "1997",
+  "y": 1997,
+  "note": "Second straight European title in a low-scoring final in Barcelona",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0b3f8f"
+  ],
+  "okit": [
+   "solid",
+   "#0057b8",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Đorđević",
+    "Aleksandar Đorđević",
+    "rs"
+   ],
+   [
+    "Danilović",
+    "Predrag Danilović",
+    "rs"
+   ],
+   [
+    "Bodiroga",
+    "Dejan Bodiroga",
+    "rs"
+   ],
+   [
+    "Savić",
+    "Zoran Savić",
+    "rs"
+   ],
+   [
+    "Rebrača",
+    "Željko Rebrača",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Yugoslavia",
+  "opp": "Russia",
+  "score": "64-62",
+  "comp": "World Championship 1998, final",
+  "season": "1998",
+  "y": 1998,
+  "note": "Depleted squad without its Atlanta stars won by two points",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b3f8f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#d52b1e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Đorđević",
+    "Aleksandar Đorđević",
+    "rs"
+   ],
+   [
+    "Obradović",
+    "Saša Obradović",
+    "rs"
+   ],
+   [
+    "Bodiroga",
+    "Dejan Bodiroga",
+    "rs"
+   ],
+   [
+    "Topić",
+    "Milenko Topić",
+    "rs"
+   ],
+   [
+    "Rebrača",
+    "Željko Rebrača",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Lithuania",
+  "score": "85-83",
+  "comp": "Olympics 2000, semi-final",
+  "season": "2000",
+  "y": 2000,
+  "note": "A last-second Lithuanian three-pointer rims out and the USA survives by two",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#006a44"
+  ],
+  "p": [
+   [
+    "Payton",
+    "Gary Payton",
+    "us"
+   ],
+   [
+    "Houston",
+    "Allan Houston",
+    "us"
+   ],
+   [
+    "Carter",
+    "Vince Carter",
+    "us"
+   ],
+   [
+    "Garnett",
+    "Kevin Garnett",
+    "us"
+   ],
+   [
+    "Mourning",
+    "Alonzo Mourning",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Yugoslavia",
+  "opp": "Turkey",
+  "score": "78-69",
+  "comp": "EuroBasket 2001, final",
+  "season": "2001",
+  "y": 2001,
+  "note": "Eighth European title, the last under the Yugoslav name",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b3f8f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30a17",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jarić",
+    "Marko Jarić",
+    "rs"
+   ],
+   [
+    "Gurović",
+    "Milan Gurović",
+    "rs"
+   ],
+   [
+    "Stojaković",
+    "Peja Stojaković",
+    "rs"
+   ],
+   [
+    "Drobnjak",
+    "Predrag Drobnjak",
+    "me"
+   ],
+   [
+    "Tomašević",
+    "Dejan Tomašević",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "USA",
+  "score": "87-80",
+  "comp": "World Championship 2002, second round",
+  "season": "2002",
+  "y": 2002,
+  "note": "The USA's first defeat with NBA players, ending a 58-game winning streak",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0a3161",
+   "#e2231a"
+  ],
+  "p": [
+   [
+    "Sánchez",
+    "Pepe Sánchez",
+    "ar"
+   ],
+   [
+    "Ginóbili",
+    "Manu Ginóbili",
+    "ar"
+   ],
+   [
+    "Sconochini",
+    "Hugo Sconochini",
+    "ar"
+   ],
+   [
+    "Wolkowyski",
+    "Rubén Wolkowyski",
+    "ar"
+   ],
+   [
+    "Oberto",
+    "Fabricio Oberto",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Yugoslavia",
+  "opp": "Argentina",
+  "score": "84-77 OT",
+  "comp": "World Championship 2002, final",
+  "season": "2002",
+  "y": 2002,
+  "note": "Overtime thriller; Argentina had beaten the USA earlier in the tournament",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b3f8f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#74acdf"
+  ],
+  "p": [
+   [
+    "Vujanić",
+    "Miloš Vujanić",
+    "rs"
+   ],
+   [
+    "Gurović",
+    "Milan Gurović",
+    "rs"
+   ],
+   [
+    "Stojaković",
+    "Peja Stojaković",
+    "rs"
+   ],
+   [
+    "Koturović",
+    "Dejan Koturović",
+    "rs"
+   ],
+   [
+    "Divac",
+    "Vlade Divac",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Lithuania",
+  "opp": "Spain",
+  "score": "93-84",
+  "comp": "EuroBasket 2003, final",
+  "season": "2003",
+  "y": 2003,
+  "note": "First European title since 1939, won in Stockholm",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#fdb913",
+   "#006a44"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "p": [
+   [
+    "Jasikevičius",
+    "Šarūnas Jasikevičius",
+    "lt"
+   ],
+   [
+    "Macijauskas",
+    "Arvydas Macijauskas",
+    "lt"
+   ],
+   [
+    "Štombergas",
+    "Saulius Štombergas",
+    "lt"
+   ],
+   [
+    "M. Žukauskas",
+    "Mindaugas Žukauskas",
+    "lt"
+   ],
+   [
+    "E. Žukauskas",
+    "Eurelijus Žukauskas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "Italy",
+  "score": "84-69",
+  "comp": "Olympics 2004, final",
+  "season": "2004",
+  "y": 2004,
+  "note": "Olympic gold, a day after beating the USA in the semi-final",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0a4da2",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sánchez",
+    "Pepe Sánchez",
+    "ar"
+   ],
+   [
+    "Ginóbili",
+    "Manu Ginóbili",
+    "ar"
+   ],
+   [
+    "Nocioni",
+    "Andrés Nocioni",
+    "ar"
+   ],
+   [
+    "Scola",
+    "Luis Scola",
+    "ar"
+   ],
+   [
+    "Wolkowyski",
+    "Rubén Wolkowyski",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Argentina",
+  "score": "81-89",
+  "comp": "Olympics 2004, semi-final",
+  "season": "2004",
+  "y": 2004,
+  "note": "First Olympic loss for an NBA-stocked USA team, to Argentina's Golden Generation",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#75aadb"
+  ],
+  "p": [
+   [
+    "Marbury",
+    "Stephon Marbury",
+    "us"
+   ],
+   [
+    "Iverson",
+    "Allen Iverson",
+    "us"
+   ],
+   [
+    "Jefferson",
+    "Richard Jefferson",
+    "us"
+   ],
+   [
+    "Odom",
+    "Lamar Odom",
+    "us"
+   ],
+   [
+    "Duncan",
+    "Tim Duncan",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Greece",
+  "opp": "Germany",
+  "score": "78-62",
+  "comp": "EuroBasket 2005, final",
+  "season": "2005",
+  "y": 2005,
+  "note": "Second European title, 18 years after the first, won in Belgrade",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1f5fae",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Zisis",
+    "Nikos Zisis",
+    "gr"
+   ],
+   [
+    "Hatzivrettas",
+    "Nikos Hatzivrettas",
+    "gr"
+   ],
+   [
+    "Diamantidis",
+    "Dimitris Diamantidis",
+    "gr"
+   ],
+   [
+    "Tsartsaris",
+    "Kostas Tsartsaris",
+    "gr"
+   ],
+   [
+    "Papadopoulos",
+    "Lazaros Papadopoulos",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "Greece",
+  "score": "70-47",
+  "comp": "World Championship 2006, final",
+  "season": "2006",
+  "y": 2006,
+  "note": "Spain's first world title, won without its injured star big man",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "okit": [
+   "solid",
+   "#1f5fae",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Calderón",
+    "José Calderón",
+    "es"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "Jiménez",
+    "Carlos Jiménez",
+    "es"
+   ],
+   [
+    "Reyes",
+    "Felipe Reyes",
+    "es"
+   ],
+   [
+    "Garbajosa",
+    "Jorge Garbajosa",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "USA",
+  "score": "107-118",
+  "comp": "Olympics 2008, final",
+  "season": "2008",
+  "y": 2008,
+  "note": "A 17-year-old point guard and a classic the USA only just survived",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#ffc400"
+  ],
+  "okit": [
+   "solid",
+   "#0a3161",
+   "#e2231a"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "Jiménez",
+    "Carlos Jiménez",
+    "es"
+   ],
+   [
+    "Reyes",
+    "Felipe Reyes",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Pau Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Spain",
+  "score": "118-107",
+  "comp": "Olympics 2008, final",
+  "season": "2008",
+  "y": 2008,
+  "note": "The Redeem Team wins back gold in a classic against the reigning world champions",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "p": [
+   [
+    "Kidd",
+    "Jason Kidd",
+    "us"
+   ],
+   [
+    "Bryant",
+    "Kobe Bryant",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Anthony",
+    "Carmelo Anthony",
+    "us"
+   ],
+   [
+    "Howard",
+    "Dwight Howard",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "Serbia",
+  "score": "85-63",
+  "comp": "EuroBasket 2009, final",
+  "season": "2009",
+  "y": 2009,
+  "note": "Spain's first European gold after six lost finals",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1c3f94"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "Rudy",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Garbajosa",
+    "Jorge Garbajosa",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Pau Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Turkey",
+  "opp": "USA",
+  "score": "64-81",
+  "comp": "World Championship 2010, final",
+  "season": "2010",
+  "y": 2010,
+  "note": "Host nation's first World Championship final, played in Istanbul",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30a17",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "p": [
+   [
+    "Tunçeri",
+    "Kerem Tunçeri",
+    "tr"
+   ],
+   [
+    "Onan",
+    "Ömer Onan",
+    "tr"
+   ],
+   [
+    "Türkoğlu",
+    "Hedo Türkoğlu",
+    "tr"
+   ],
+   [
+    "Ilyasova",
+    "Ersan İlyasova",
+    "tr"
+   ],
+   [
+    "Aşık",
+    "Ömer Aşık",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Turkey",
+  "score": "81-64",
+  "comp": "World Championship 2010, final",
+  "season": "2010",
+  "y": 2010,
+  "note": "A young, star-light squad ends a 16-year wait for a world title in Istanbul",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#e30a17"
+  ],
+  "p": [
+   [
+    "Rose",
+    "Derrick Rose",
+    "us"
+   ],
+   [
+    "Billups",
+    "Chauncey Billups",
+    "us"
+   ],
+   [
+    "Iguodala",
+    "Andre Iguodala",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Odom",
+    "Lamar Odom",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "France",
+  "score": "98-85",
+  "comp": "EuroBasket 2011, final",
+  "season": "2011",
+  "y": 2011,
+  "note": "Back-to-back European champions, decided in Kaunas",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "okit": [
+   "solid",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Calderón",
+    "José Calderón",
+    "es"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "Rudy",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "P. Gasol",
+    "Pau Gasol",
+    "es"
+   ],
+   [
+    "M. Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "Spain",
+  "score": "107-100",
+  "comp": "Olympics 2012, final",
+  "season": "2012",
+  "y": 2012,
+  "note": "Spain pushes the USA to the brink again in a London rematch of the 2008 final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "p": [
+   [
+    "Paul",
+    "Chris Paul",
+    "us"
+   ],
+   [
+    "Bryant",
+    "Kobe Bryant",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Chandler",
+    "Tyson Chandler",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Lithuania",
+  "score": "80-66",
+  "comp": "EuroBasket 2013, final",
+  "season": "2013",
+  "y": 2013,
+  "note": "First-ever European title, built on a dominant second quarter (31-12)",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#006a44",
+   "#fdb913"
+  ],
+  "p": [
+   [
+    "Parker",
+    "Tony Parker",
+    "fr"
+   ],
+   [
+    "Gelabale",
+    "Mickaël Gelabale",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "Diaw",
+    "Boris Diaw",
+    "fr"
+   ],
+   [
+    "Ajinça",
+    "Alexis Ajinça",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Lithuania",
+  "opp": "France",
+  "score": "66-80",
+  "comp": "EuroBasket 2013, final",
+  "season": "2013",
+  "y": 2013,
+  "note": "Lost the final in Ljubljana to a first-time European champion",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006a44",
+   "#fdb913"
+  ],
+  "okit": [
+   "solid",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Kalnietis",
+    "Mantas Kalnietis",
+    "lt"
+   ],
+   [
+    "Seibutis",
+    "Renaldas Seibutis",
+    "lt"
+   ],
+   [
+    "Kleiza",
+    "Linas Kleiza",
+    "lt"
+   ],
+   [
+    "Mačiulis",
+    "Jonas Mačiulis",
+    "lt"
+   ],
+   [
+    "Lavrinovič",
+    "Darjuš Lavrinovič",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
   "team": "Serbia",
   "opp": "USA",
   "score": "92-129",
@@ -94,6 +1368,55 @@
     "Davis",
     "Anthony Davis",
     "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "Lithuania",
+  "score": "80-63",
+  "comp": "EuroBasket 2015, final",
+  "season": "2015",
+  "y": 2015,
+  "note": "Third European title in four editions, before a record crowd in Lille",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "okit": [
+   "solid",
+   "#0b5d3b",
+   "#fdb913"
+  ],
+  "p": [
+   [
+    "Llull",
+    "Sergio Llull",
+    "es"
+   ],
+   [
+    "Ribas",
+    "Pau Ribas",
+    "es"
+   ],
+   [
+    "Rudy",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Pau Gasol",
+    "es"
    ]
   ]
  },
@@ -296,6 +1619,251 @@
  {
   "sport": "bb",
   "cat": "nat",
+  "team": "Spain",
+  "opp": "Argentina",
+  "score": "95-75",
+  "comp": "World Cup 2019, final",
+  "season": "2019",
+  "y": 2019,
+  "note": "Second world title, 13 years after the first, unbeaten in China",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#75aadb"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Rudy",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Hernangómez",
+    "Juancho Hernangómez",
+    "es"
+   ],
+   [
+    "Oriola",
+    "Pierre Oriola",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Australia",
+  "opp": "Slovenia",
+  "score": "107-93",
+  "comp": "Olympics 2020, bronze medal game",
+  "season": "2020",
+  "y": 2021,
+  "note": "Australia's first-ever Olympic men's basketball medal",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "okit": [
+   "solid",
+   "#005da4",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mills",
+    "Patty Mills",
+    "au"
+   ],
+   [
+    "Thybulle",
+    "Matisse Thybulle",
+    "au"
+   ],
+   [
+    "Ingles",
+    "Joe Ingles",
+    "au"
+   ],
+   [
+    "Kay",
+    "Nick Kay",
+    "au"
+   ],
+   [
+    "Landale",
+    "Jock Landale",
+    "au"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "USA",
+  "score": "82-87",
+  "comp": "Olympics 2020, final",
+  "season": "2020",
+  "y": 2021,
+  "note": "Rematch of the group-stage upset that ended USA's 25-game Olympic win streak",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "p": [
+   [
+    "De Colo",
+    "Nando De Colo",
+    "fr"
+   ],
+   [
+    "Fournier",
+    "Evan Fournier",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "Yabusele",
+    "Guerschon Yabusele",
+    "fr"
+   ],
+   [
+    "Gobert",
+    "Rudy Gobert",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "France",
+  "score": "87-82",
+  "comp": "Olympics 2020, final",
+  "season": "2020",
+  "y": 2021,
+  "note": "Gold after a shock opening loss to the same opponent, played a year late",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0055a4"
+  ],
+  "p": [
+   [
+    "Lillard",
+    "Damian Lillard",
+    "us"
+   ],
+   [
+    "Booker",
+    "Devin Booker",
+    "us"
+   ],
+   [
+    "Holiday",
+    "Jrue Holiday",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Adebayo",
+    "Bam Adebayo",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Canada",
+  "opp": "USA",
+  "score": "127-118 OT",
+  "comp": "World Cup 2023, bronze medal game",
+  "season": "2023",
+  "y": 2023,
+  "note": "Canada's first global medal in 87 years, sealed in overtime",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d52b1e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "p": [
+   [
+    "SGA",
+    "Shai Gilgeous-Alexander",
+    "ca"
+   ],
+   [
+    "Dort",
+    "Luguentz Dort",
+    "ca"
+   ],
+   [
+    "Barrett",
+    "RJ Barrett",
+    "ca"
+   ],
+   [
+    "Brooks",
+    "Dillon Brooks",
+    "ca"
+   ],
+   [
+    "Powell",
+    "Dwight Powell",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
   "team": "Germany",
   "opp": "Serbia",
   "score": "83-77",
@@ -388,6 +1956,153 @@
     "Milutinov",
     "Nikola Milutinov",
     "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "USA",
+  "score": "87-98",
+  "comp": "Olympics 2024, final",
+  "season": "2024",
+  "y": 2024,
+  "note": "Home-soil Olympic final in Paris; second straight silver behind the Americans",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a2463"
+  ],
+  "p": [
+   [
+    "Ntilikina",
+    "Frank Ntilikina",
+    "fr"
+   ],
+   [
+    "Cordinier",
+    "Isaia Cordinier",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "Yabusele",
+    "Guerschon Yabusele",
+    "fr"
+   ],
+   [
+    "Wembanyama",
+    "Victor Wembanyama",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "USA",
+  "opp": "France",
+  "score": "98-87",
+  "comp": "Olympics 2024, final",
+  "season": "2024",
+  "y": 2024,
+  "note": "A fifth straight Olympic title, sealed against the host nation and its towering star",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0055a4"
+  ],
+  "p": [
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Booker",
+    "Devin Booker",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Embiid",
+    "Joel Embiid",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Germany",
+  "opp": "Turkey",
+  "score": "88-83",
+  "comp": "EuroBasket 2025, final",
+  "season": "2025",
+  "y": 2025,
+  "note": "World champions add the European crown, finishing the tournament unbeaten",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e30a17",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Schröder",
+    "Dennis Schröder",
+    "de"
+   ],
+   [
+    "Obst",
+    "Andreas Obst",
+    "de"
+   ],
+   [
+    "Wagner",
+    "Franz Wagner",
+    "de"
+   ],
+   [
+    "Bonga",
+    "Isaac Bonga",
+    "de"
+   ],
+   [
+    "Theis",
+    "Daniel Theis",
+    "de"
    ]
   ]
  }
