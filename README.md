@@ -58,4 +58,4 @@ Squads is a fan project and is not affiliated with any club, league or competiti
 
 ## License
 
-No license has been chosen yet, so the code is all rights reserved for now.
+The code is released under the [MIT License](LICENSE). The lineup data in `data/` is compiled from the public sources listed above; StatsBomb Open Data keeps its own terms, which ask for attribution.
