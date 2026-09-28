@@ -1,0 +1,2846 @@
+[
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Inter",
+  "opp": "Milan",
+  "score": "4-0",
+  "comp": "Serija A, 2. kolo",
+  "season": "2009/10",
+  "y": 2009,
+  "note": "Murinjov Inter ponizio Milan na startu sezone trostruke krune",
+  "form": "4-3-1-2",
+  "kit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Júlio César",
+    "Júlio César",
+    "br"
+   ],
+   [
+    "Chivu",
+    "Cristian Chivu",
+    "ro"
+   ],
+   [
+    "Samuel",
+    "Walter Samuel",
+    "ar"
+   ],
+   [
+    "Lúcio",
+    "Lúcio",
+    "br"
+   ],
+   [
+    "Maicon",
+    "Maicon",
+    "br"
+   ],
+   [
+    "Thiago Motta",
+    "Thiago Motta",
+    "it"
+   ],
+   [
+    "Stanković",
+    "Dejan Stanković",
+    "rs"
+   ],
+   [
+    "Zanetti",
+    "Javier Zanetti",
+    "ar"
+   ],
+   [
+    "Sneijder",
+    "Wesley Sneijder",
+    "nl"
+   ],
+   [
+    "Eto'o",
+    "Samuel Eto'o",
+    "cm"
+   ],
+   [
+    "Milito",
+    "Diego Milito",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Milan",
+  "opp": "Inter",
+  "score": "0-4",
+  "comp": "Serija A, 2. kolo",
+  "season": "2009/10",
+  "y": 2009,
+  "note": "Leonardov debi u derbiju: najteži poraz od Intera još od 1974.",
+  "form": "4-3-1-2",
+  "kit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Storari",
+    "Marco Storari",
+    "it"
+   ],
+   [
+    "Jankulovski",
+    "Marek Jankulovski",
+    "cz"
+   ],
+   [
+    "Thiago Silva",
+    "Thiago Silva",
+    "br"
+   ],
+   [
+    "Nesta",
+    "Alessandro Nesta",
+    "it"
+   ],
+   [
+    "Zambrotta",
+    "Gianluca Zambrotta",
+    "it"
+   ],
+   [
+    "Flamini",
+    "Mathieu Flamini",
+    "fr"
+   ],
+   [
+    "Pirlo",
+    "Andrea Pirlo",
+    "it"
+   ],
+   [
+    "Gattuso",
+    "Gennaro Gattuso",
+    "it"
+   ],
+   [
+    "Ronaldinho",
+    "Ronaldinho",
+    "br"
+   ],
+   [
+    "Borriello",
+    "Marco Borriello",
+    "it"
+   ],
+   [
+    "Pato",
+    "Alexandre Pato",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Inter",
+  "opp": "Palermo",
+  "score": "3-1",
+  "comp": "Finale Kupa Italije",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Leonardov Inter brani Kup; poslednji trofej generacije trostruke krune",
+  "form": "4-3-1-2",
+  "kit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#f5a9c8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Júlio César",
+    "Júlio César",
+    "br"
+   ],
+   [
+    "Chivu",
+    "Cristian Chivu",
+    "ro"
+   ],
+   [
+    "Ranocchia",
+    "Andrea Ranocchia",
+    "it"
+   ],
+   [
+    "Lúcio",
+    "Lúcio",
+    "br"
+   ],
+   [
+    "Nagatomo",
+    "Yuto Nagatomo",
+    "jp"
+   ],
+   [
+    "Stanković",
+    "Dejan Stanković",
+    "rs"
+   ],
+   [
+    "Thiago Motta",
+    "Thiago Motta",
+    "it"
+   ],
+   [
+    "Zanetti",
+    "Javier Zanetti",
+    "ar"
+   ],
+   [
+    "Sneijder",
+    "Wesley Sneijder",
+    "nl"
+   ],
+   [
+    "Pazzini",
+    "Giampaolo Pazzini",
+    "it"
+   ],
+   [
+    "Eto'o",
+    "Samuel Eto'o",
+    "cm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Palermo",
+  "opp": "Inter",
+  "score": "1-3",
+  "comp": "Finale Kupa Italije",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Prvo finale Kupa za Palermo posle 1979. godine",
+  "form": "4-3-2-1",
+  "kit": [
+   "solid",
+   "#f5a9c8",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Sirigu",
+    "Salvatore Sirigu",
+    "it"
+   ],
+   [
+    "Balzaretti",
+    "Federico Balzaretti",
+    "it"
+   ],
+   [
+    "Goian",
+    "Dorin Goian",
+    "ro"
+   ],
+   [
+    "Muñoz",
+    "Ezequiel Muñoz",
+    "ar"
+   ],
+   [
+    "Cassani",
+    "Mattia Cassani",
+    "it"
+   ],
+   [
+    "Nocerino",
+    "Antonio Nocerino",
+    "it"
+   ],
+   [
+    "Acquah",
+    "Afriyie Acquah",
+    "gh"
+   ],
+   [
+    "Migliaccio",
+    "Giulio Migliaccio",
+    "it"
+   ],
+   [
+    "Pastore",
+    "Javier Pastore",
+    "ar"
+   ],
+   [
+    "Iličić",
+    "Josip Iličić",
+    "si"
+   ],
+   [
+    "Hernández",
+    "Abel Hernández",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Milan",
+  "opp": "Inter",
+  "score": "3-0",
+  "comp": "Serija A, 31. kolo",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Alegrijev Milan derbijem trasirao put do titule",
+  "form": "4-3-1-2",
+  "kit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Abbiati",
+    "Christian Abbiati",
+    "it"
+   ],
+   [
+    "Zambrotta",
+    "Gianluca Zambrotta",
+    "it"
+   ],
+   [
+    "Thiago Silva",
+    "Thiago Silva",
+    "br"
+   ],
+   [
+    "Nesta",
+    "Alessandro Nesta",
+    "it"
+   ],
+   [
+    "Abate",
+    "Ignazio Abate",
+    "it"
+   ],
+   [
+    "Seedorf",
+    "Clarence Seedorf",
+    "nl"
+   ],
+   [
+    "Van Bommel",
+    "Mark van Bommel",
+    "nl"
+   ],
+   [
+    "Gattuso",
+    "Gennaro Gattuso",
+    "it"
+   ],
+   [
+    "Boateng",
+    "Kevin-Prince Boateng",
+    "gh"
+   ],
+   [
+    "Robinho",
+    "Robinho",
+    "br"
+   ],
+   [
+    "Pato",
+    "Alexandre Pato",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Napoli",
+  "score": "0-3",
+  "comp": "Serija A, 19. kolo",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Delnerijev Juventus pao u Napulju u sezoni završenoj na 7. mestu",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Storari",
+    "Marco Storari",
+    "it"
+   ],
+   [
+    "Traoré",
+    "Armand Traoré",
+    "sn"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Grygera",
+    "Zdeněk Grygera",
+    "cz"
+   ],
+   [
+    "Pepe",
+    "Simone Pepe",
+    "it"
+   ],
+   [
+    "Aquilani",
+    "Alberto Aquilani",
+    "it"
+   ],
+   [
+    "Marchisio",
+    "Claudio Marchisio",
+    "it"
+   ],
+   [
+    "Krasić",
+    "Miloš Krasić",
+    "rs"
+   ],
+   [
+    "Amauri",
+    "Amauri",
+    "it"
+   ],
+   [
+    "Toni",
+    "Luca Toni",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Juventus",
+  "score": "3-0",
+  "comp": "Serija A, 19. kolo",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Mazarijev Napoli pobedom završio polusezonu na drugom mestu",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Sanctis",
+    "Morgan De Sanctis",
+    "it"
+   ],
+   [
+    "Campagnaro",
+    "Hugo Campagnaro",
+    "ar"
+   ],
+   [
+    "Cannavaro",
+    "Paolo Cannavaro",
+    "it"
+   ],
+   [
+    "Grava",
+    "Gianluca Grava",
+    "it"
+   ],
+   [
+    "Dossena",
+    "Andrea Dossena",
+    "it"
+   ],
+   [
+    "Pazienza",
+    "Michele Pazienza",
+    "it"
+   ],
+   [
+    "Gargano",
+    "Walter Gargano",
+    "uy"
+   ],
+   [
+    "Maggio",
+    "Christian Maggio",
+    "it"
+   ],
+   [
+    "Lavezzi",
+    "Ezequiel Lavezzi",
+    "ar"
+   ],
+   [
+    "Hamšík",
+    "Marek Hamšík",
+    "sk"
+   ],
+   [
+    "Cavani",
+    "Edinson Cavani",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Cagliari",
+  "score": "2-0",
+  "comp": "Serija A, 37. kolo",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Konteov Juventus u Trstu osvaja prvu titulu posle Kalčopolija, bez poraza",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "halves",
+   "#a50021",
+   "#002350"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Pepe",
+    "Simone Pepe",
+    "it"
+   ],
+   [
+    "Marchisio",
+    "Claudio Marchisio",
+    "it"
+   ],
+   [
+    "Pirlo",
+    "Andrea Pirlo",
+    "it"
+   ],
+   [
+    "Vidal",
+    "Arturo Vidal",
+    "cl"
+   ],
+   [
+    "Lichtsteiner",
+    "Stephan Lichtsteiner",
+    "ch"
+   ],
+   [
+    "Vučinić",
+    "Mirko Vučinić",
+    "me"
+   ],
+   [
+    "Matri",
+    "Alessandro Matri",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Juventus",
+  "score": "2-0",
+  "comp": "Finale Kupa Italije",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Prvi trofej Napolija posle 1990. i jedini poraz Juventusa te sezone",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Sanctis",
+    "Morgan De Sanctis",
+    "it"
+   ],
+   [
+    "Aronica",
+    "Salvatore Aronica",
+    "it"
+   ],
+   [
+    "Cannavaro",
+    "Paolo Cannavaro",
+    "it"
+   ],
+   [
+    "Campagnaro",
+    "Hugo Campagnaro",
+    "ar"
+   ],
+   [
+    "Dossena",
+    "Andrea Dossena",
+    "it"
+   ],
+   [
+    "Inler",
+    "Gökhan Inler",
+    "ch"
+   ],
+   [
+    "Džemaili",
+    "Blerim Džemaili",
+    "ch"
+   ],
+   [
+    "Maggio",
+    "Christian Maggio",
+    "it"
+   ],
+   [
+    "Lavezzi",
+    "Ezequiel Lavezzi",
+    "ar"
+   ],
+   [
+    "Hamšík",
+    "Marek Hamšík",
+    "sk"
+   ],
+   [
+    "Cavani",
+    "Edinson Cavani",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Napoli",
+  "score": "4-2 prod.",
+  "comp": "Superkup Italije, Peking",
+  "season": "2012/13",
+  "y": 2012,
+  "note": "Konte suspendovan, pa je tim sa klupe vodio njegov pomoćnik Karera",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Lúcio",
+    "Lúcio",
+    "br"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Asamoah",
+    "Kwadwo Asamoah",
+    "gh"
+   ],
+   [
+    "Marchisio",
+    "Claudio Marchisio",
+    "it"
+   ],
+   [
+    "Pirlo",
+    "Andrea Pirlo",
+    "it"
+   ],
+   [
+    "Vidal",
+    "Arturo Vidal",
+    "cl"
+   ],
+   [
+    "Lichtsteiner",
+    "Stephan Lichtsteiner",
+    "ch"
+   ],
+   [
+    "Giovinco",
+    "Sebastian Giovinco",
+    "it"
+   ],
+   [
+    "Matri",
+    "Alessandro Matri",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Juventus",
+  "score": "2-4 prod.",
+  "comp": "Superkup Italije, Peking",
+  "season": "2012/13",
+  "y": 2012,
+  "note": "Napoli završio sa devet igrača i u znak protesta preskočio dodelu medalja",
+  "form": "3-5-1-1",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Sanctis",
+    "Morgan De Sanctis",
+    "it"
+   ],
+   [
+    "Britos",
+    "Miguel Britos",
+    "uy"
+   ],
+   [
+    "Cannavaro",
+    "Paolo Cannavaro",
+    "it"
+   ],
+   [
+    "Campagnaro",
+    "Hugo Campagnaro",
+    "ar"
+   ],
+   [
+    "Zúñiga",
+    "Camilo Zúñiga",
+    "co"
+   ],
+   [
+    "Hamšík",
+    "Marek Hamšík",
+    "sk"
+   ],
+   [
+    "Inler",
+    "Gökhan Inler",
+    "ch"
+   ],
+   [
+    "Behrami",
+    "Valon Behrami",
+    "ch"
+   ],
+   [
+    "Maggio",
+    "Christian Maggio",
+    "it"
+   ],
+   [
+    "Pandev",
+    "Goran Pandev",
+    "mk"
+   ],
+   [
+    "Cavani",
+    "Edinson Cavani",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Roma",
+  "score": "3-0",
+  "comp": "Serija A, 18. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Juventus sezone rekordnih 102 boda slomio glavnog rivala za titulu",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Asamoah",
+    "Kwadwo Asamoah",
+    "gh"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Pirlo",
+    "Andrea Pirlo",
+    "it"
+   ],
+   [
+    "Vidal",
+    "Arturo Vidal",
+    "cl"
+   ],
+   [
+    "Lichtsteiner",
+    "Stephan Lichtsteiner",
+    "ch"
+   ],
+   [
+    "Tevez",
+    "Carlos Tevez",
+    "ar"
+   ],
+   [
+    "Llorente",
+    "Fernando Llorente",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Roma",
+  "opp": "Juventus",
+  "score": "0-3",
+  "comp": "Serija A, 18. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Garsijina Roma, drugoplasirana te sezone, završila meč sa devet igrača",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Sanctis",
+    "Morgan De Sanctis",
+    "it"
+   ],
+   [
+    "Dodô",
+    "Dodô",
+    "br"
+   ],
+   [
+    "Castán",
+    "Leandro Castán",
+    "br"
+   ],
+   [
+    "Benatia",
+    "Medhi Benatia",
+    "ma"
+   ],
+   [
+    "Maicon",
+    "Maicon",
+    "br"
+   ],
+   [
+    "Strootman",
+    "Kevin Strootman",
+    "nl"
+   ],
+   [
+    "De Rossi",
+    "Daniele De Rossi",
+    "it"
+   ],
+   [
+    "Pjanić",
+    "Miralem Pjanić",
+    "ba"
+   ],
+   [
+    "Ljajić",
+    "Adem Ljajić",
+    "rs"
+   ],
+   [
+    "Totti",
+    "Francesco Totti",
+    "it"
+   ],
+   [
+    "Gervinho",
+    "Gervinho",
+    "ci"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Fiorentina",
+  "opp": "Juventus",
+  "score": "4-2",
+  "comp": "Serija A, 8. kolo",
+  "season": "2013/14",
+  "y": 2013,
+  "note": "Montelina Fiorentina za dvadeset minuta preokrenula 0-2 u 4-2",
+  "form": "4-3-2-1",
+  "kit": [
+   "solid",
+   "#482e92",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Neto",
+    "Neto",
+    "br"
+   ],
+   [
+    "Pasqual",
+    "Manuel Pasqual",
+    "it"
+   ],
+   [
+    "Savić",
+    "Stefan Savić",
+    "me"
+   ],
+   [
+    "Rodríguez",
+    "Gonzalo Rodríguez",
+    "ar"
+   ],
+   [
+    "Roncaglia",
+    "Facundo Roncaglia",
+    "ar"
+   ],
+   [
+    "Ambrosini",
+    "Massimo Ambrosini",
+    "it"
+   ],
+   [
+    "Pizarro",
+    "David Pizarro",
+    "cl"
+   ],
+   [
+    "Aquilani",
+    "Alberto Aquilani",
+    "it"
+   ],
+   [
+    "Borja Valero",
+    "Borja Valero",
+    "es"
+   ],
+   [
+    "Cuadrado",
+    "Juan Cuadrado",
+    "co"
+   ],
+   [
+    "Rossi",
+    "Giuseppe Rossi",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Fiorentina",
+  "score": "3-1",
+  "comp": "Finale Kupa Italije",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Prvi trofej Benitezovog Napolija, u finalu obeleženom neredima pre početka",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#482e92",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Reina",
+    "Pepe Reina",
+    "es"
+   ],
+   [
+    "Ghoulam",
+    "Faouzi Ghoulam",
+    "dz"
+   ],
+   [
+    "Fernández",
+    "Federico Fernández",
+    "ar"
+   ],
+   [
+    "Albiol",
+    "Raúl Albiol",
+    "es"
+   ],
+   [
+    "Henrique",
+    "Henrique",
+    "br"
+   ],
+   [
+    "Jorginho",
+    "Jorginho",
+    "it"
+   ],
+   [
+    "Inler",
+    "Gökhan Inler",
+    "ch"
+   ],
+   [
+    "Insigne",
+    "Lorenzo Insigne",
+    "it"
+   ],
+   [
+    "Hamšík",
+    "Marek Hamšík",
+    "sk"
+   ],
+   [
+    "Callejón",
+    "José Callejón",
+    "es"
+   ],
+   [
+    "Higuaín",
+    "Gonzalo Higuaín",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Lazio",
+  "score": "2-1 prod.",
+  "comp": "Finale Kupa Italije",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Deseti Kup Italije za Juventus, prvi posle dvadeset godina",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#87d8f7",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Storari",
+    "Marco Storari",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Evra",
+    "Patrice Evra",
+    "fr"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Pirlo",
+    "Andrea Pirlo",
+    "it"
+   ],
+   [
+    "Vidal",
+    "Arturo Vidal",
+    "cl"
+   ],
+   [
+    "Lichtsteiner",
+    "Stephan Lichtsteiner",
+    "ch"
+   ],
+   [
+    "Tevez",
+    "Carlos Tevez",
+    "ar"
+   ],
+   [
+    "Llorente",
+    "Fernando Llorente",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lazio",
+  "opp": "Juventus",
+  "score": "1-2 prod.",
+  "comp": "Finale Kupa Italije",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Pjolijev Lacio poveo u 4. minutu, a pao tek u produžecima",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#87d8f7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Berisha",
+    "Etrit Berisha",
+    "al"
+   ],
+   [
+    "Radu",
+    "Ștefan Radu",
+    "ro"
+   ],
+   [
+    "Gentiletti",
+    "Santiago Gentiletti",
+    "ar"
+   ],
+   [
+    "de Vrij",
+    "Stefan de Vrij",
+    "nl"
+   ],
+   [
+    "Lulić",
+    "Senad Lulić",
+    "ba"
+   ],
+   [
+    "Cataldi",
+    "Danilo Cataldi",
+    "it"
+   ],
+   [
+    "Parolo",
+    "Marco Parolo",
+    "it"
+   ],
+   [
+    "Basta",
+    "Dušan Basta",
+    "rs"
+   ],
+   [
+    "Felipe Anderson",
+    "Felipe Anderson",
+    "br"
+   ],
+   [
+    "Klose",
+    "Miroslav Klose",
+    "de"
+   ],
+   [
+    "Candreva",
+    "Antonio Candreva",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Juventus",
+  "score": "2-2 (6-5 pen.)",
+  "comp": "Superkup Italije, Doha",
+  "season": "2014/15",
+  "y": 2014,
+  "note": "Benitezov Napoli osvojio Superkup u Dohi posle duge serije penala",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rafael",
+    "Rafael Cabral",
+    "br"
+   ],
+   [
+    "Ghoulam",
+    "Faouzi Ghoulam",
+    "dz"
+   ],
+   [
+    "Koulibaly",
+    "Kalidou Koulibaly",
+    "sn"
+   ],
+   [
+    "Albiol",
+    "Raúl Albiol",
+    "es"
+   ],
+   [
+    "Maggio",
+    "Christian Maggio",
+    "it"
+   ],
+   [
+    "Gargano",
+    "Walter Gargano",
+    "uy"
+   ],
+   [
+    "David López",
+    "David López",
+    "es"
+   ],
+   [
+    "De Guzmán",
+    "Jonathan de Guzmán",
+    "nl"
+   ],
+   [
+    "Hamšík",
+    "Marek Hamšík",
+    "sk"
+   ],
+   [
+    "Callejón",
+    "José Callejón",
+    "es"
+   ],
+   [
+    "Higuaín",
+    "Gonzalo Higuaín",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Milan",
+  "score": "1-0 prod.",
+  "comp": "Finale Kupa Italije",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Alegrijev Juventus kompletirao drugu uzastopnu duplu krunu",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Neto",
+    "Neto",
+    "br"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Rugani",
+    "Daniele Rugani",
+    "it"
+   ],
+   [
+    "Evra",
+    "Patrice Evra",
+    "fr"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Hernanes",
+    "Hernanes",
+    "br"
+   ],
+   [
+    "Lemina",
+    "Mario Lemina",
+    "ga"
+   ],
+   [
+    "Lichtsteiner",
+    "Stephan Lichtsteiner",
+    "ch"
+   ],
+   [
+    "Mandžukić",
+    "Mario Mandžukić",
+    "hr"
+   ],
+   [
+    "Dybala",
+    "Paulo Dybala",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Milan",
+  "opp": "Juventus",
+  "score": "0-1 prod.",
+  "comp": "Finale Kupa Italije",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Brokijev Milan izdržao do 110. minuta finala u Rimu",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Donnarumma",
+    "Gianluigi Donnarumma",
+    "it"
+   ],
+   [
+    "De Sciglio",
+    "Mattia De Sciglio",
+    "it"
+   ],
+   [
+    "Romagnoli",
+    "Alessio Romagnoli",
+    "it"
+   ],
+   [
+    "Zapata",
+    "Cristián Zapata",
+    "co"
+   ],
+   [
+    "Calabria",
+    "Davide Calabria",
+    "it"
+   ],
+   [
+    "Poli",
+    "Andrea Poli",
+    "it"
+   ],
+   [
+    "Montolivo",
+    "Riccardo Montolivo",
+    "it"
+   ],
+   [
+    "Kucka",
+    "Juraj Kucka",
+    "sk"
+   ],
+   [
+    "Bonaventura",
+    "Giacomo Bonaventura",
+    "it"
+   ],
+   [
+    "Bacca",
+    "Carlos Bacca",
+    "co"
+   ],
+   [
+    "Honda",
+    "Keisuke Honda",
+    "jp"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Lazio",
+  "score": "2-0",
+  "comp": "Finale Kupa Italije",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Treći uzastopni Kup Italije za Juventus, prvi takav niz u istoriji",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#87d8f7",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Neto",
+    "Neto",
+    "br"
+   ],
+   [
+    "Alex Sandro",
+    "Alex Sandro",
+    "br"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Rincón",
+    "Tomás Rincón",
+    "ve"
+   ],
+   [
+    "Marchisio",
+    "Claudio Marchisio",
+    "it"
+   ],
+   [
+    "Mandžukić",
+    "Mario Mandžukić",
+    "hr"
+   ],
+   [
+    "Dybala",
+    "Paulo Dybala",
+    "ar"
+   ],
+   [
+    "Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Higuaín",
+    "Gonzalo Higuaín",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lazio",
+  "opp": "Juventus",
+  "score": "0-2",
+  "comp": "Finale Kupa Italije",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Prvo finale Simonea Inzagija na klupi Lacija",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#87d8f7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Strakosha",
+    "Thomas Strakosha",
+    "al"
+   ],
+   [
+    "Wallace",
+    "Wallace",
+    "br"
+   ],
+   [
+    "de Vrij",
+    "Stefan de Vrij",
+    "nl"
+   ],
+   [
+    "Bastos",
+    "Bastos",
+    "ao"
+   ],
+   [
+    "Lulić",
+    "Senad Lulić",
+    "ba"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Biglia",
+    "Lucas Biglia",
+    "ar"
+   ],
+   [
+    "Parolo",
+    "Marco Parolo",
+    "it"
+   ],
+   [
+    "Basta",
+    "Dušan Basta",
+    "rs"
+   ],
+   [
+    "Keita",
+    "Keita Baldé",
+    "sn"
+   ],
+   [
+    "Immobile",
+    "Ciro Immobile",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Milan",
+  "opp": "Juventus",
+  "score": "1-1 (4-3 pen.)",
+  "comp": "Superkup Italije, Doha",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Montelin Milan osvojio prvi trofej posle pet godina",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Donnarumma",
+    "Gianluigi Donnarumma",
+    "it"
+   ],
+   [
+    "De Sciglio",
+    "Mattia De Sciglio",
+    "it"
+   ],
+   [
+    "Romagnoli",
+    "Alessio Romagnoli",
+    "it"
+   ],
+   [
+    "Paletta",
+    "Gabriel Paletta",
+    "it"
+   ],
+   [
+    "Abate",
+    "Ignazio Abate",
+    "it"
+   ],
+   [
+    "Bertolacci",
+    "Andrea Bertolacci",
+    "it"
+   ],
+   [
+    "Locatelli",
+    "Manuel Locatelli",
+    "it"
+   ],
+   [
+    "Kucka",
+    "Juraj Kucka",
+    "sk"
+   ],
+   [
+    "Bonaventura",
+    "Giacomo Bonaventura",
+    "it"
+   ],
+   [
+    "Bacca",
+    "Carlos Bacca",
+    "co"
+   ],
+   [
+    "Suso",
+    "Suso",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Milan",
+  "score": "4-0",
+  "comp": "Finale Kupa Italije",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Četvrta uzastopna dupla kruna Alegrijevog Juventusa",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Asamoah",
+    "Kwadwo Asamoah",
+    "gh"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Benatia",
+    "Medhi Benatia",
+    "ma"
+   ],
+   [
+    "Cuadrado",
+    "Juan Cuadrado",
+    "co"
+   ],
+   [
+    "Matuidi",
+    "Blaise Matuidi",
+    "fr"
+   ],
+   [
+    "Pjanić",
+    "Miralem Pjanić",
+    "ba"
+   ],
+   [
+    "Khedira",
+    "Sami Khedira",
+    "de"
+   ],
+   [
+    "Douglas Costa",
+    "Douglas Costa",
+    "br"
+   ],
+   [
+    "Mandžukić",
+    "Mario Mandžukić",
+    "hr"
+   ],
+   [
+    "Dybala",
+    "Paulo Dybala",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Milan",
+  "opp": "Juventus",
+  "score": "0-4",
+  "comp": "Finale Kupa Italije",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Gatuzov Milan izdržao poluvreme, a onda primio četiri gola",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Donnarumma",
+    "Gianluigi Donnarumma",
+    "it"
+   ],
+   [
+    "Rodríguez",
+    "Ricardo Rodríguez",
+    "ch"
+   ],
+   [
+    "Romagnoli",
+    "Alessio Romagnoli",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Calabria",
+    "Davide Calabria",
+    "it"
+   ],
+   [
+    "Bonaventura",
+    "Giacomo Bonaventura",
+    "it"
+   ],
+   [
+    "Locatelli",
+    "Manuel Locatelli",
+    "it"
+   ],
+   [
+    "Kessié",
+    "Franck Kessié",
+    "ci"
+   ],
+   [
+    "Çalhanoğlu",
+    "Hakan Çalhanoğlu",
+    "tr"
+   ],
+   [
+    "Cutrone",
+    "Patrick Cutrone",
+    "it"
+   ],
+   [
+    "Suso",
+    "Suso",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Juventus",
+  "score": "1-0",
+  "comp": "Serija A, 34. kolo",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Sarijev Napoli pobedio u 90. minutu i prišao na bod od vrha",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Reina",
+    "Pepe Reina",
+    "es"
+   ],
+   [
+    "Mário Rui",
+    "Mário Rui",
+    "pt"
+   ],
+   [
+    "Koulibaly",
+    "Kalidou Koulibaly",
+    "sn"
+   ],
+   [
+    "Albiol",
+    "Raúl Albiol",
+    "es"
+   ],
+   [
+    "Hysaj",
+    "Elseid Hysaj",
+    "al"
+   ],
+   [
+    "Hamšík",
+    "Marek Hamšík",
+    "sk"
+   ],
+   [
+    "Jorginho",
+    "Jorginho",
+    "it"
+   ],
+   [
+    "Allan",
+    "Allan",
+    "br"
+   ],
+   [
+    "Insigne",
+    "Lorenzo Insigne",
+    "it"
+   ],
+   [
+    "Mertens",
+    "Dries Mertens",
+    "be"
+   ],
+   [
+    "Callejón",
+    "José Callejón",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Juventus",
+  "score": "0-0 (4-2 pen.)",
+  "comp": "Finale Kupa Italije",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Gatuzov prvi trofej kao trener, pred praznim tribinama Olimpika",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Meret",
+    "Alex Meret",
+    "it"
+   ],
+   [
+    "Mário Rui",
+    "Mário Rui",
+    "pt"
+   ],
+   [
+    "Koulibaly",
+    "Kalidou Koulibaly",
+    "sn"
+   ],
+   [
+    "Maksimović",
+    "Nikola Maksimović",
+    "rs"
+   ],
+   [
+    "Di Lorenzo",
+    "Giovanni Di Lorenzo",
+    "it"
+   ],
+   [
+    "Zieliński",
+    "Piotr Zieliński",
+    "pl"
+   ],
+   [
+    "Demme",
+    "Diego Demme",
+    "de"
+   ],
+   [
+    "Fabián Ruiz",
+    "Fabián Ruiz",
+    "es"
+   ],
+   [
+    "Insigne",
+    "Lorenzo Insigne",
+    "it"
+   ],
+   [
+    "Mertens",
+    "Dries Mertens",
+    "be"
+   ],
+   [
+    "Callejón",
+    "José Callejón",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Napoli",
+  "score": "0-0 (2-4 pen.)",
+  "comp": "Finale Kupa Italije",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Sarijev Juventus izgubio finale na penale posle pauze zbog pandemije",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Alex Sandro",
+    "Alex Sandro",
+    "br"
+   ],
+   [
+    "De Ligt",
+    "Matthijs de Ligt",
+    "nl"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Cuadrado",
+    "Juan Cuadrado",
+    "co"
+   ],
+   [
+    "Matuidi",
+    "Blaise Matuidi",
+    "fr"
+   ],
+   [
+    "Pjanić",
+    "Miralem Pjanić",
+    "ba"
+   ],
+   [
+    "Bentancur",
+    "Rodrigo Bentancur",
+    "uy"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Dybala",
+    "Paulo Dybala",
+    "ar"
+   ],
+   [
+    "Douglas Costa",
+    "Douglas Costa",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Inter",
+  "opp": "Milan",
+  "score": "3-0",
+  "comp": "Serija A, 23. kolo",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Konteov Inter pobedom u derbiju pobegao ka tituli",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Handanović",
+    "Samir Handanović",
+    "si"
+   ],
+   [
+    "Bastoni",
+    "Alessandro Bastoni",
+    "it"
+   ],
+   [
+    "de Vrij",
+    "Stefan de Vrij",
+    "nl"
+   ],
+   [
+    "Škriniar",
+    "Milan Škriniar",
+    "sk"
+   ],
+   [
+    "Perišić",
+    "Ivan Perišić",
+    "hr"
+   ],
+   [
+    "Eriksen",
+    "Christian Eriksen",
+    "dk"
+   ],
+   [
+    "Brozović",
+    "Marcelo Brozović",
+    "hr"
+   ],
+   [
+    "Barella",
+    "Nicolò Barella",
+    "it"
+   ],
+   [
+    "Hakimi",
+    "Achraf Hakimi",
+    "ma"
+   ],
+   [
+    "Lukaku",
+    "Romelu Lukaku",
+    "be"
+   ],
+   [
+    "Lautaro",
+    "Lautaro Martínez",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Milan",
+  "opp": "Inter",
+  "score": "0-3",
+  "comp": "Serija A, 23. kolo",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Pjolijev Milan izgubio derbi u borbi za vrh tabele",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Donnarumma",
+    "Gianluigi Donnarumma",
+    "it"
+   ],
+   [
+    "Theo Hernández",
+    "Theo Hernández",
+    "fr"
+   ],
+   [
+    "Romagnoli",
+    "Alessio Romagnoli",
+    "it"
+   ],
+   [
+    "Kjær",
+    "Simon Kjær",
+    "dk"
+   ],
+   [
+    "Calabria",
+    "Davide Calabria",
+    "it"
+   ],
+   [
+    "Tonali",
+    "Sandro Tonali",
+    "it"
+   ],
+   [
+    "Kessié",
+    "Franck Kessié",
+    "ci"
+   ],
+   [
+    "Rebić",
+    "Ante Rebić",
+    "hr"
+   ],
+   [
+    "Çalhanoğlu",
+    "Hakan Çalhanoğlu",
+    "tr"
+   ],
+   [
+    "Saelemaekers",
+    "Alexis Saelemaekers",
+    "be"
+   ],
+   [
+    "Ibrahimović",
+    "Zlatan Ibrahimović",
+    "se"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Milan",
+  "opp": "Sassuolo",
+  "score": "3-0",
+  "comp": "Serija A, 38. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Pjolijev Milan u poslednjem kolu osvaja prvu titulu posle 11 godina",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#00a752",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Maignan",
+    "Mike Maignan",
+    "fr"
+   ],
+   [
+    "Theo Hernández",
+    "Theo Hernández",
+    "fr"
+   ],
+   [
+    "Tomori",
+    "Fikayo Tomori",
+    "gb-eng"
+   ],
+   [
+    "Kalulu",
+    "Pierre Kalulu",
+    "fr"
+   ],
+   [
+    "Calabria",
+    "Davide Calabria",
+    "it"
+   ],
+   [
+    "Tonali",
+    "Sandro Tonali",
+    "it"
+   ],
+   [
+    "Kessié",
+    "Franck Kessié",
+    "ci"
+   ],
+   [
+    "Leão",
+    "Rafael Leão",
+    "pt"
+   ],
+   [
+    "Krunić",
+    "Rade Krunić",
+    "ba"
+   ],
+   [
+    "Saelemaekers",
+    "Alexis Saelemaekers",
+    "be"
+   ],
+   [
+    "Giroud",
+    "Olivier Giroud",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sassuolo",
+  "opp": "Milan",
+  "score": "0-3",
+  "comp": "Serija A, 38. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Dionizijev Sasuolo gledao slavlje Milana na svom stadionu",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#00a752",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Consigli",
+    "Andrea Consigli",
+    "it"
+   ],
+   [
+    "Kyriakopoulos",
+    "Georgios Kyriakopoulos",
+    "gr"
+   ],
+   [
+    "Ferrari",
+    "Gian Marco Ferrari",
+    "it"
+   ],
+   [
+    "Ayhan",
+    "Kaan Ayhan",
+    "tr"
+   ],
+   [
+    "Müldür",
+    "Mert Müldür",
+    "tr"
+   ],
+   [
+    "Frattesi",
+    "Davide Frattesi",
+    "it"
+   ],
+   [
+    "Lopez",
+    "Maxime Lopez",
+    "fr"
+   ],
+   [
+    "Matheus Henrique",
+    "Matheus Henrique",
+    "br"
+   ],
+   [
+    "Raspadori",
+    "Giacomo Raspadori",
+    "it"
+   ],
+   [
+    "Scamacca",
+    "Gianluca Scamacca",
+    "it"
+   ],
+   [
+    "Berardi",
+    "Domenico Berardi",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Juventus",
+  "score": "5-1",
+  "comp": "Serija A, 18. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Spaletijev Napoli razbio Juventus na putu ka prvoj tituli posle 33 godine",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Meret",
+    "Alex Meret",
+    "it"
+   ],
+   [
+    "Mário Rui",
+    "Mário Rui",
+    "pt"
+   ],
+   [
+    "Kim",
+    "Kim Min-jae",
+    "kr"
+   ],
+   [
+    "Rrahmani",
+    "Amir Rrahmani",
+    "xk"
+   ],
+   [
+    "Di Lorenzo",
+    "Giovanni Di Lorenzo",
+    "it"
+   ],
+   [
+    "Zieliński",
+    "Piotr Zieliński",
+    "pl"
+   ],
+   [
+    "Lobotka",
+    "Stanislav Lobotka",
+    "sk"
+   ],
+   [
+    "Anguissa",
+    "André-Frank Zambo Anguissa",
+    "cm"
+   ],
+   [
+    "Kvaratskhelia",
+    "Khvicha Kvaratskhelia",
+    "ge"
+   ],
+   [
+    "Osimhen",
+    "Victor Osimhen",
+    "ng"
+   ],
+   [
+    "Politano",
+    "Matteo Politano",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Juventus",
+  "opp": "Napoli",
+  "score": "1-5",
+  "comp": "Serija A, 18. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Kraj Juventusove serije od osam pobeda bez primljenog gola",
+  "form": "3-5-1-1",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Szczęsny",
+    "Wojciech Szczęsny",
+    "pl"
+   ],
+   [
+    "Alex Sandro",
+    "Alex Sandro",
+    "br"
+   ],
+   [
+    "Bremer",
+    "Gleison Bremer",
+    "br"
+   ],
+   [
+    "Danilo",
+    "Danilo",
+    "br"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Rabiot",
+    "Adrien Rabiot",
+    "fr"
+   ],
+   [
+    "Locatelli",
+    "Manuel Locatelli",
+    "it"
+   ],
+   [
+    "McKennie",
+    "Weston McKennie",
+    "us"
+   ],
+   [
+    "Chiesa",
+    "Federico Chiesa",
+    "it"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Milik",
+    "Arkadiusz Milik",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Milan",
+  "opp": "Inter",
+  "score": "3-2",
+  "comp": "Superkup Italije, Rijad",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Konseisaov Milan u finalu preokrenuo 0-2 u 3-2",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Maignan",
+    "Mike Maignan",
+    "fr"
+   ],
+   [
+    "Theo Hernández",
+    "Theo Hernández",
+    "fr"
+   ],
+   [
+    "Thiaw",
+    "Malick Thiaw",
+    "de"
+   ],
+   [
+    "Tomori",
+    "Fikayo Tomori",
+    "gb-eng"
+   ],
+   [
+    "Emerson",
+    "Emerson Royal",
+    "br"
+   ],
+   [
+    "Fofana",
+    "Youssouf Fofana",
+    "fr"
+   ],
+   [
+    "Musah",
+    "Yunus Musah",
+    "us"
+   ],
+   [
+    "Pulisic",
+    "Christian Pulisic",
+    "us"
+   ],
+   [
+    "Reijnders",
+    "Tijjani Reijnders",
+    "nl"
+   ],
+   [
+    "Jiménez",
+    "Álex Jiménez",
+    "es"
+   ],
+   [
+    "Morata",
+    "Álvaro Morata",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Inter",
+  "opp": "Milan",
+  "score": "2-3",
+  "comp": "Superkup Italije, Rijad",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Inzagijev Inter vodio 2-0, a onda ispustio trofej u nadoknadi",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Sommer",
+    "Yann Sommer",
+    "ch"
+   ],
+   [
+    "Bastoni",
+    "Alessandro Bastoni",
+    "it"
+   ],
+   [
+    "de Vrij",
+    "Stefan de Vrij",
+    "nl"
+   ],
+   [
+    "Bisseck",
+    "Yann Aurel Bisseck",
+    "de"
+   ],
+   [
+    "Dimarco",
+    "Federico Dimarco",
+    "it"
+   ],
+   [
+    "Mkhitaryan",
+    "Henrikh Mkhitaryan",
+    "am"
+   ],
+   [
+    "Çalhanoğlu",
+    "Hakan Çalhanoğlu",
+    "tr"
+   ],
+   [
+    "Barella",
+    "Nicolò Barella",
+    "it"
+   ],
+   [
+    "Dumfries",
+    "Denzel Dumfries",
+    "nl"
+   ],
+   [
+    "Lautaro",
+    "Lautaro Martínez",
+    "ar"
+   ],
+   [
+    "Taremi",
+    "Mehdi Taremi",
+    "ir"
+   ]
+  ]
+ }
+]
