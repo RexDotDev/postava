@@ -2842,5 +2842,1506 @@
     "ir"
    ]
   ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atalanta",
+  "opp": "Lazio",
+  "score": "0-2",
+  "comp": "Finale Kupa Italije",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Gasperinijeva Atalanta u prvom finalu Kupa posle 1996. pala u poslednjih deset minuta",
+  "form": "3-4-1-2",
+  "kit": [
+   "stripes",
+   "#1e71b8",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#87d8f7",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Gollini",
+    "Pierluigi Gollini",
+    "it"
+   ],
+   [
+    "Masiello",
+    "Andrea Masiello",
+    "it"
+   ],
+   [
+    "Palomino",
+    "José Luis Palomino",
+    "ar"
+   ],
+   [
+    "Djimsiti",
+    "Berat Djimsiti",
+    "al"
+   ],
+   [
+    "Castagne",
+    "Timothy Castagne",
+    "be"
+   ],
+   [
+    "Freuler",
+    "Remo Freuler",
+    "ch"
+   ],
+   [
+    "De Roon",
+    "Marten de Roon",
+    "nl"
+   ],
+   [
+    "Hateboer",
+    "Hans Hateboer",
+    "nl"
+   ],
+   [
+    "Gómez",
+    "Alejandro Gómez",
+    "ar"
+   ],
+   [
+    "Zapata",
+    "Duván Zapata",
+    "co"
+   ],
+   [
+    "Iličić",
+    "Josip Iličić",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atalanta",
+  "opp": "Milan",
+  "score": "5-0",
+  "comp": "Serija A, 17. kolo",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Gasperinijeva Atalanta pred Božić deklasirala Pjolijev Milan",
+  "form": "3-4-2-1",
+  "kit": [
+   "stripes",
+   "#1e71b8",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Gollini",
+    "Pierluigi Gollini",
+    "it"
+   ],
+   [
+    "Djimsiti",
+    "Berat Djimsiti",
+    "al"
+   ],
+   [
+    "Palomino",
+    "José Luis Palomino",
+    "ar"
+   ],
+   [
+    "Toloi",
+    "Rafael Tolói",
+    "it"
+   ],
+   [
+    "Gosens",
+    "Robin Gosens",
+    "de"
+   ],
+   [
+    "Pašalić",
+    "Mario Pašalić",
+    "hr"
+   ],
+   [
+    "De Roon",
+    "Marten de Roon",
+    "nl"
+   ],
+   [
+    "Castagne",
+    "Timothy Castagne",
+    "be"
+   ],
+   [
+    "Gómez",
+    "Alejandro Gómez",
+    "ar"
+   ],
+   [
+    "Malinovskyi",
+    "Ruslan Malinovskyi",
+    "ua"
+   ],
+   [
+    "Iličić",
+    "Josip Iličić",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atalanta",
+  "opp": "Juventus",
+  "score": "1-2",
+  "comp": "Finale Kupa Italije",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Atalanta izgubila drugo finale Kupa Italije u tri sezone, ovog puta od Pirlovog Juventusa",
+  "form": "3-4-2-1",
+  "kit": [
+   "stripes",
+   "#1e71b8",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Gollini",
+    "Pierluigi Gollini",
+    "it"
+   ],
+   [
+    "Palomino",
+    "José Luis Palomino",
+    "ar"
+   ],
+   [
+    "Romero",
+    "Cristian Romero",
+    "ar"
+   ],
+   [
+    "Toloi",
+    "Rafael Tolói",
+    "it"
+   ],
+   [
+    "Gosens",
+    "Robin Gosens",
+    "de"
+   ],
+   [
+    "Freuler",
+    "Remo Freuler",
+    "ch"
+   ],
+   [
+    "De Roon",
+    "Marten de Roon",
+    "nl"
+   ],
+   [
+    "Hateboer",
+    "Hans Hateboer",
+    "nl"
+   ],
+   [
+    "Pessina",
+    "Matteo Pessina",
+    "it"
+   ],
+   [
+    "Malinovskyi",
+    "Ruslan Malinovskyi",
+    "ua"
+   ],
+   [
+    "Zapata",
+    "Duván Zapata",
+    "co"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Udinese",
+  "opp": "Roma",
+  "score": "4-0",
+  "comp": "Serija A, 5. kolo",
+  "season": "2022/23",
+  "y": 2022,
+  "note": "Sotilov Udineze naneo Murinjovoj Romi prvi poraz u sezoni",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "p": [
+   [
+    "Silvestri",
+    "Marco Silvestri",
+    "it"
+   ],
+   [
+    "Pérez",
+    "Nehuén Pérez",
+    "ar"
+   ],
+   [
+    "Bijol",
+    "Jaka Bijol",
+    "si"
+   ],
+   [
+    "Becão",
+    "Rodrigo Becão",
+    "br"
+   ],
+   [
+    "Udogie",
+    "Destiny Udogie",
+    "it"
+   ],
+   [
+    "Samardžić",
+    "Lazar Samardžić",
+    "rs"
+   ],
+   [
+    "Walace",
+    "Walace",
+    "br"
+   ],
+   [
+    "Arslan",
+    "Tolgay Arslan",
+    "de"
+   ],
+   [
+    "Pereyra",
+    "Roberto Pereyra",
+    "ar"
+   ],
+   [
+    "Deulofeu",
+    "Gerard Deulofeu",
+    "es"
+   ],
+   [
+    "Success",
+    "Isaac Success",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sampdoria",
+  "opp": "Juventus",
+  "score": "3-2",
+  "comp": "Serija A, 13. kolo",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Đampaolova Sampdorija vodila 3-0 protiv aktuelnog šampiona Italije",
+  "form": "4-3-1-2",
+  "kit": [
+   "band",
+   "#1b5aa6",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Viviano",
+    "Emiliano Viviano",
+    "it"
+   ],
+   [
+    "Strinić",
+    "Ivan Strinić",
+    "hr"
+   ],
+   [
+    "Ferrari",
+    "Gian Marco Ferrari",
+    "it"
+   ],
+   [
+    "Silvestre",
+    "Matías Silvestre",
+    "ar"
+   ],
+   [
+    "Bereszyński",
+    "Bartosz Bereszyński",
+    "pl"
+   ],
+   [
+    "Praet",
+    "Dennis Praet",
+    "be"
+   ],
+   [
+    "Torreira",
+    "Lucas Torreira",
+    "uy"
+   ],
+   [
+    "Barreto",
+    "Édgar Barreto",
+    "py"
+   ],
+   [
+    "Ramírez",
+    "Gastón Ramírez",
+    "uy"
+   ],
+   [
+    "Zapata",
+    "Duván Zapata",
+    "co"
+   ],
+   [
+    "Quagliarella",
+    "Fabio Quagliarella",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sampdoria",
+  "opp": "Genoa",
+  "score": "1-0",
+  "comp": "Serija A, 5. kolo",
+  "season": "2014/15",
+  "y": 2014,
+  "note": "Mihajlović dobio i drugi gradski derbi kao trener Sampdorije",
+  "form": "4-3-3",
+  "kit": [
+   "band",
+   "#1b5aa6",
+   "#ffffff"
+  ],
+  "okit": [
+   "halves",
+   "#a51e36",
+   "#0f1f3d"
+  ],
+  "p": [
+   [
+    "Viviano",
+    "Emiliano Viviano",
+    "it"
+   ],
+   [
+    "Regini",
+    "Vasco Regini",
+    "it"
+   ],
+   [
+    "Romagnoli",
+    "Alessio Romagnoli",
+    "it"
+   ],
+   [
+    "Silvestre",
+    "Matías Silvestre",
+    "ar"
+   ],
+   [
+    "De Silvestri",
+    "Lorenzo De Silvestri",
+    "it"
+   ],
+   [
+    "Soriano",
+    "Roberto Soriano",
+    "it"
+   ],
+   [
+    "Palombo",
+    "Angelo Palombo",
+    "it"
+   ],
+   [
+    "Obiang",
+    "Pedro Obiang",
+    "gq"
+   ],
+   [
+    "Éder",
+    "Éder",
+    "it"
+   ],
+   [
+    "Okaka",
+    "Stefano Okaka",
+    "it"
+   ],
+   [
+    "Gabbiadini",
+    "Manolo Gabbiadini",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Torino",
+  "opp": "Juventus",
+  "score": "2-1",
+  "comp": "Serija A, 32. kolo",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Venturin Torino dobio gradski derbi prvi put posle 20 godina",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#8b1e1e",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Padelli",
+    "Daniele Padelli",
+    "it"
+   ],
+   [
+    "Moretti",
+    "Emiliano Moretti",
+    "it"
+   ],
+   [
+    "Glik",
+    "Kamil Glik",
+    "pl"
+   ],
+   [
+    "Maksimović",
+    "Nikola Maksimović",
+    "rs"
+   ],
+   [
+    "Darmian",
+    "Matteo Darmian",
+    "it"
+   ],
+   [
+    "El Kaddouri",
+    "Omar El Kaddouri",
+    "ma"
+   ],
+   [
+    "Gazzi",
+    "Alessandro Gazzi",
+    "it"
+   ],
+   [
+    "Benassi",
+    "Marco Benassi",
+    "it"
+   ],
+   [
+    "Bruno Peres",
+    "Bruno Peres",
+    "br"
+   ],
+   [
+    "Maxi López",
+    "Maxi López",
+    "ar"
+   ],
+   [
+    "Quagliarella",
+    "Fabio Quagliarella",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Verona",
+  "opp": "Juventus",
+  "score": "2-1",
+  "comp": "Serija A, 23. kolo",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Jurićeva Verona preokretom srušila Sarijev Juventus",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#1e3c8c",
+   "#ffd400"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Silvestri",
+    "Marco Silvestri",
+    "it"
+   ],
+   [
+    "Kumbulla",
+    "Marash Kumbulla",
+    "al"
+   ],
+   [
+    "Günter",
+    "Koray Günter",
+    "de"
+   ],
+   [
+    "Rrahmani",
+    "Amir Rrahmani",
+    "xk"
+   ],
+   [
+    "Lazović",
+    "Darko Lazović",
+    "rs"
+   ],
+   [
+    "Veloso",
+    "Miguel Veloso",
+    "pt"
+   ],
+   [
+    "Amrabat",
+    "Sofyan Amrabat",
+    "ma"
+   ],
+   [
+    "Faraoni",
+    "Davide Faraoni",
+    "it"
+   ],
+   [
+    "Pessina",
+    "Matteo Pessina",
+    "it"
+   ],
+   [
+    "Zaccagni",
+    "Mattia Zaccagni",
+    "it"
+   ],
+   [
+    "Borini",
+    "Fabio Borini",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Empoli",
+  "opp": "Roma",
+  "score": "2-1",
+  "comp": "Serija A, 38. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Golom u nadoknadi poslednjeg kola Empoli izborio opstanak u Seriji A",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#0057a8",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "p": [
+   [
+    "Caprile",
+    "Elia Caprile",
+    "it"
+   ],
+   [
+    "Luperto",
+    "Sebastiano Luperto",
+    "it"
+   ],
+   [
+    "Ismajli",
+    "Ardian Ismajli",
+    "al"
+   ],
+   [
+    "Bereszyński",
+    "Bartosz Bereszyński",
+    "pl"
+   ],
+   [
+    "Cacace",
+    "Liberato Cacace",
+    "nz"
+   ],
+   [
+    "Bastoni",
+    "Simone Bastoni",
+    "it"
+   ],
+   [
+    "Marin",
+    "Răzvan Marin",
+    "ro"
+   ],
+   [
+    "Maleh",
+    "Youssef Maleh",
+    "ma"
+   ],
+   [
+    "Gyasi",
+    "Emmanuel Gyasi",
+    "gh"
+   ],
+   [
+    "Destro",
+    "Mattia Destro",
+    "it"
+   ],
+   [
+    "Cancellieri",
+    "Matteo Cancellieri",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bologna",
+  "opp": "Milan",
+  "score": "1-0",
+  "comp": "Finale Kupa Italije",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Italjanova Bolonja osvojila Kup Italije prvi put posle 1974. godine",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a3162b",
+   "#1b2a4a"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Skorupski",
+    "Łukasz Skorupski",
+    "pl"
+   ],
+   [
+    "Miranda",
+    "Juan Miranda",
+    "es"
+   ],
+   [
+    "Lucumí",
+    "Jhon Lucumí",
+    "co"
+   ],
+   [
+    "Beukema",
+    "Sam Beukema",
+    "nl"
+   ],
+   [
+    "Holm",
+    "Emil Holm",
+    "se"
+   ],
+   [
+    "Freuler",
+    "Remo Freuler",
+    "ch"
+   ],
+   [
+    "Ferguson",
+    "Lewis Ferguson",
+    "gb-sct"
+   ],
+   [
+    "Fabbian",
+    "Giovanni Fabbian",
+    "it"
+   ],
+   [
+    "Ndoye",
+    "Dan Ndoye",
+    "ch"
+   ],
+   [
+    "Castro",
+    "Santiago Castro",
+    "ar"
+   ],
+   [
+    "Orsolini",
+    "Riccardo Orsolini",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Roma",
+  "opp": "Genoa",
+  "score": "3-2",
+  "comp": "Serija A, 38. kolo",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Totijev oproštaj; gol u 90. minutu doneo Spaletijevoj Romi drugo mesto",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "okit": [
+   "halves",
+   "#a51e36",
+   "#0f1f3d"
+  ],
+  "p": [
+   [
+    "Szczęsny",
+    "Wojciech Szczęsny",
+    "pl"
+   ],
+   [
+    "Emerson",
+    "Emerson Palmieri",
+    "it"
+   ],
+   [
+    "Fazio",
+    "Federico Fazio",
+    "ar"
+   ],
+   [
+    "Manolas",
+    "Kostas Manolas",
+    "gr"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Strootman",
+    "Kevin Strootman",
+    "nl"
+   ],
+   [
+    "De Rossi",
+    "Daniele De Rossi",
+    "it"
+   ],
+   [
+    "El Shaarawy",
+    "Stephan El Shaarawy",
+    "it"
+   ],
+   [
+    "Nainggolan",
+    "Radja Nainggolan",
+    "be"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ],
+   [
+    "Džeko",
+    "Edin Džeko",
+    "ba"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Roma",
+  "opp": "Lazio",
+  "score": "3-0",
+  "comp": "Serija A, 30. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Murinjov revanš za jesenji poraz: prvi dobijeni derbi Rima",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "okit": [
+   "solid",
+   "#87d8f7",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rui Patrício",
+    "Rui Patrício",
+    "pt"
+   ],
+   [
+    "Ibañez",
+    "Roger Ibañez",
+    "br"
+   ],
+   [
+    "Smalling",
+    "Chris Smalling",
+    "gb-eng"
+   ],
+   [
+    "Mancini",
+    "Gianluca Mancini",
+    "it"
+   ],
+   [
+    "Zalewski",
+    "Nicola Zalewski",
+    "pl"
+   ],
+   [
+    "Oliveira",
+    "Sérgio Oliveira",
+    "pt"
+   ],
+   [
+    "Cristante",
+    "Bryan Cristante",
+    "it"
+   ],
+   [
+    "Karsdorp",
+    "Rick Karsdorp",
+    "nl"
+   ],
+   [
+    "Pellegrini",
+    "Lorenzo Pellegrini",
+    "it"
+   ],
+   [
+    "Mkhitaryan",
+    "Henrikh Mkhitaryan",
+    "am"
+   ],
+   [
+    "Abraham",
+    "Tammy Abraham",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Napoli",
+  "opp": "Cagliari",
+  "score": "2-0",
+  "comp": "Serija A, 38. kolo",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Konteov Napoli u poslednjem kolu osvojio četvrtu titulu u istoriji kluba",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#12a0d7",
+   "#ffffff"
+  ],
+  "okit": [
+   "halves",
+   "#a6192e",
+   "#0b2346"
+  ],
+  "p": [
+   [
+    "Meret",
+    "Alex Meret",
+    "it"
+   ],
+   [
+    "Spinazzola",
+    "Leonardo Spinazzola",
+    "it"
+   ],
+   [
+    "Olivera",
+    "Mathías Olivera",
+    "uy"
+   ],
+   [
+    "Rrahmani",
+    "Amir Rrahmani",
+    "xk"
+   ],
+   [
+    "Di Lorenzo",
+    "Giovanni Di Lorenzo",
+    "it"
+   ],
+   [
+    "McTominay",
+    "Scott McTominay",
+    "gb-sct"
+   ],
+   [
+    "Gilmour",
+    "Billy Gilmour",
+    "gb-sct"
+   ],
+   [
+    "Anguissa",
+    "André-Frank Zambo Anguissa",
+    "cm"
+   ],
+   [
+    "Raspadori",
+    "Giacomo Raspadori",
+    "it"
+   ],
+   [
+    "Lukaku",
+    "Romelu Lukaku",
+    "be"
+   ],
+   [
+    "Politano",
+    "Matteo Politano",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Fiorentina",
+  "opp": "Inter",
+  "score": "1-2",
+  "comp": "Finale Kupa Italije",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Italjanova Fiorentina povela u 3. minutu; prvo od dva izgubljena finala za dve nedelje",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#482e92",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Terracciano",
+    "Pietro Terracciano",
+    "it"
+   ],
+   [
+    "Biraghi",
+    "Cristiano Biraghi",
+    "it"
+   ],
+   [
+    "Martínez Quarta",
+    "Lucas Martínez Quarta",
+    "ar"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Dodô",
+    "Dodô",
+    "br"
+   ],
+   [
+    "Bonaventura",
+    "Giacomo Bonaventura",
+    "it"
+   ],
+   [
+    "Amrabat",
+    "Sofyan Amrabat",
+    "ma"
+   ],
+   [
+    "González",
+    "Nicolás González",
+    "ar"
+   ],
+   [
+    "Castrovilli",
+    "Gaetano Castrovilli",
+    "it"
+   ],
+   [
+    "Ikoné",
+    "Jonathan Ikoné",
+    "fr"
+   ],
+   [
+    "Cabral",
+    "Arthur Cabral",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Inter",
+  "opp": "Fiorentina",
+  "score": "2-1",
+  "comp": "Finale Kupa Italije",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Inzagijev Inter odbranio Kup Italije pred finale Lige šampiona u Istanbulu",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#482e92",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Handanović",
+    "Samir Handanović",
+    "si"
+   ],
+   [
+    "Bastoni",
+    "Alessandro Bastoni",
+    "it"
+   ],
+   [
+    "Acerbi",
+    "Francesco Acerbi",
+    "it"
+   ],
+   [
+    "Darmian",
+    "Matteo Darmian",
+    "it"
+   ],
+   [
+    "Dimarco",
+    "Federico Dimarco",
+    "it"
+   ],
+   [
+    "Çalhanoğlu",
+    "Hakan Çalhanoğlu",
+    "tr"
+   ],
+   [
+    "Brozović",
+    "Marcelo Brozović",
+    "hr"
+   ],
+   [
+    "Barella",
+    "Nicolò Barella",
+    "it"
+   ],
+   [
+    "Dumfries",
+    "Denzel Dumfries",
+    "nl"
+   ],
+   [
+    "Džeko",
+    "Edin Džeko",
+    "ba"
+   ],
+   [
+    "Lautaro",
+    "Lautaro Martínez",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Inter",
+  "opp": "Milan",
+  "score": "2-1",
+  "comp": "Serija A, 33. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Inter pobedom u derbiju osvojio 20. titulu i drugu zvezdu na grbu",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#0068a8",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Sommer",
+    "Yann Sommer",
+    "ch"
+   ],
+   [
+    "Bastoni",
+    "Alessandro Bastoni",
+    "it"
+   ],
+   [
+    "Acerbi",
+    "Francesco Acerbi",
+    "it"
+   ],
+   [
+    "Pavard",
+    "Benjamin Pavard",
+    "fr"
+   ],
+   [
+    "Dimarco",
+    "Federico Dimarco",
+    "it"
+   ],
+   [
+    "Mkhitaryan",
+    "Henrikh Mkhitaryan",
+    "am"
+   ],
+   [
+    "Çalhanoğlu",
+    "Hakan Çalhanoğlu",
+    "tr"
+   ],
+   [
+    "Barella",
+    "Nicolò Barella",
+    "it"
+   ],
+   [
+    "Darmian",
+    "Matteo Darmian",
+    "it"
+   ],
+   [
+    "Thuram",
+    "Marcus Thuram",
+    "fr"
+   ],
+   [
+    "Lautaro",
+    "Lautaro Martínez",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sassuolo",
+  "opp": "Milan",
+  "score": "4-3",
+  "comp": "Serija A, 19. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Milan je vodio 2-0, a dan posle poraza otpušten je Alegri",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#00a752",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Pegolo",
+    "Gianluca Pegolo",
+    "it"
+   ],
+   [
+    "Longhi",
+    "Alessandro Longhi",
+    "it"
+   ],
+   [
+    "Ariaudo",
+    "Lorenzo Ariaudo",
+    "it"
+   ],
+   [
+    "Antei",
+    "Luca Antei",
+    "it"
+   ],
+   [
+    "Gazzola",
+    "Marcello Gazzola",
+    "it"
+   ],
+   [
+    "Kurtić",
+    "Jasmin Kurtić",
+    "si"
+   ],
+   [
+    "Magnanelli",
+    "Francesco Magnanelli",
+    "it"
+   ],
+   [
+    "Chibsah",
+    "Raman Chibsah",
+    "gh"
+   ],
+   [
+    "Ziegler",
+    "Reto Ziegler",
+    "ch"
+   ],
+   [
+    "Zaza",
+    "Simone Zaza",
+    "it"
+   ],
+   [
+    "Berardi",
+    "Domenico Berardi",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lazio",
+  "opp": "Juventus",
+  "score": "3-1",
+  "comp": "Superkup Italije, Rijad",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Inzagijev Lacio drugi put za dve nedelje pobedio Sarijev Juventus sa 3-1",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#87d8f7",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Strakosha",
+    "Thomas Strakosha",
+    "al"
+   ],
+   [
+    "Radu",
+    "Ștefan Radu",
+    "ro"
+   ],
+   [
+    "Acerbi",
+    "Francesco Acerbi",
+    "it"
+   ],
+   [
+    "Luiz Felipe",
+    "Luiz Felipe",
+    "it"
+   ],
+   [
+    "Lulić",
+    "Senad Lulić",
+    "ba"
+   ],
+   [
+    "Luis Alberto",
+    "Luis Alberto",
+    "es"
+   ],
+   [
+    "Lucas",
+    "Lucas Leiva",
+    "br"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Lazzari",
+    "Manuel Lazzari",
+    "it"
+   ],
+   [
+    "Correa",
+    "Joaquín Correa",
+    "ar"
+   ],
+   [
+    "Immobile",
+    "Ciro Immobile",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Roma",
+  "opp": "Juventus",
+  "score": "1-0",
+  "comp": "Serija A, 25. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Prva pobeda Murinjove Rome nad Juventusom",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#8e1f2f",
+   "#f0bc42"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rui Patrício",
+    "Rui Patrício",
+    "pt"
+   ],
+   [
+    "Ibañez",
+    "Roger Ibañez",
+    "br"
+   ],
+   [
+    "Smalling",
+    "Chris Smalling",
+    "gb-eng"
+   ],
+   [
+    "Mancini",
+    "Gianluca Mancini",
+    "it"
+   ],
+   [
+    "Spinazzola",
+    "Leonardo Spinazzola",
+    "it"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Cristante",
+    "Bryan Cristante",
+    "it"
+   ],
+   [
+    "Zalewski",
+    "Nicola Zalewski",
+    "pl"
+   ],
+   [
+    "Pellegrini",
+    "Lorenzo Pellegrini",
+    "it"
+   ],
+   [
+    "Wijnaldum",
+    "Georginio Wijnaldum",
+    "nl"
+   ],
+   [
+    "Dybala",
+    "Paulo Dybala",
+    "ar"
+   ]
+  ]
  }
 ]
