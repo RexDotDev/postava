@@ -1,0 +1,2452 @@
+[
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Litvanija",
+  "score": "63-56",
+  "comp": "Evrobasket 2013, prvi krug",
+  "season": "Evrobasket 2013 - prvi krug",
+  "y": 2013,
+  "note": "Pobeda nad Litvanijom, koja je kasnije stigla do finala turnira",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#fdb913",
+   "#006a44"
+  ],
+  "p": [
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Nedović",
+    "Nemanja Nedović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Gagić",
+    "Đorđe Gagić",
+    "rs"
+   ],
+   [
+    "Krstić",
+    "Nenad Krstić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Francuska",
+  "score": "77-65",
+  "comp": "Evrobasket 2013, drugi krug",
+  "season": "Evrobasket 2013 - drugi krug",
+  "y": 2013,
+  "note": "Srbija savladala Francusku, budućeg evropskog šampiona",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#002395",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Nedović",
+    "Nemanja Nedović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Nemanja Bjelica",
+    "rs"
+   ],
+   [
+    "Krstić",
+    "Nenad Krstić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Brazil",
+  "score": "84-56",
+  "comp": "SP 2014, četvrtfinale",
+  "season": "SP 2014 - četvrtfinale",
+  "y": 2014,
+  "note": "Revanš Brazilu za poraz u grupi: ubedljivih +28 u Madridu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Nemanja Bjelica",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Francuska",
+  "score": "90-85",
+  "comp": "SP 2014, polufinale",
+  "season": "SP 2014 - polufinale",
+  "y": 2014,
+  "note": "Srbija u finalu Mundobasketa u prvoj godini Đorđevića na klupi",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#002395",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Nemanja Bjelica",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "SAD",
+  "score": "92-129",
+  "comp": "SP 2014, finale",
+  "season": "SP 2014 - finale",
+  "y": 2014,
+  "note": "Srebro u Madridu; Kajri Irving proglašen za MVP-ja turnira",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Nemanja Bjelica",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Španija",
+  "score": "80-70",
+  "comp": "Evrobasket 2015, grupna faza",
+  "season": "Evrobasket 2015 - grupa",
+  "y": 2015,
+  "note": "Srbija savladala Španiju, koja je na kraju osvojila titulu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Nemanja Bjelica",
+    "rs"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Litvanija",
+  "score": "64-67",
+  "comp": "Evrobasket 2015, polufinale",
+  "season": "Evrobasket 2015 - polufinale",
+  "y": 2015,
+  "note": "Srbija neporažena do polufinala, a turnir završila na 4. mestu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#fdb913",
+   "#006a44"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Nemanja Bjelica",
+    "rs"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "SAD",
+  "score": "91-94",
+  "comp": "OI 2016, grupna faza",
+  "season": "OI 2016 - grupa",
+  "y": 2016,
+  "note": "Amerikanci u grupi u Riju slavili sa samo tri poena razlike",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Birčević",
+    "Stefan Birčević",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Hrvatska",
+  "score": "86-83",
+  "comp": "OI 2016, četvrtfinale",
+  "season": "OI 2016 - četvrtfinale",
+  "y": 2016,
+  "note": "Tesan balkanski derbi u četvrtfinalu olimpijskog turnira u Riju",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "checks",
+   "#ff0000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Mačvan",
+    "Milan Mačvan",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Australija",
+  "score": "87-61",
+  "comp": "OI 2016, polufinale",
+  "season": "OI 2016 - polufinale",
+  "y": 2016,
+  "note": "Srbija razbila Australiju i izborila olimpijsko finale",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00843d",
+   "#ffcd00"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Mačvan",
+    "Milan Mačvan",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "SAD",
+  "score": "66-96",
+  "comp": "OI 2016, finale",
+  "season": "OI 2016 - finale",
+  "y": 2016,
+  "note": "Olimpijsko srebro; Kevin Durant sa 30 poena predvodio SAD",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Stefan Marković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Mačvan",
+    "Milan Mačvan",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Rusija",
+  "score": "87-79",
+  "comp": "Evrobasket 2017, polufinale",
+  "season": "Evrobasket 2017 - polufinale",
+  "y": 2017,
+  "note": "Švedovih 33 poena nisu bila dovoljna Rusiji u Istanbulu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0039a6"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Birčević",
+    "Stefan Birčević",
+    "rs"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Slovenija",
+  "score": "85-93",
+  "comp": "Evrobasket 2017, finale",
+  "season": "Evrobasket 2017 - finale",
+  "y": 2017,
+  "note": "Goran Dragić sa 35 poena doneo Sloveniji prvu evropsku titulu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Mačvan",
+    "Milan Mačvan",
+    "rs"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Španija",
+  "score": "69-81",
+  "comp": "SP 2019, drugi krug",
+  "season": "SP 2019 - drugi krug",
+  "y": 2019,
+  "note": "Poraz od Španije, kasnijeg svetskog šampiona, u Vuhanu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Birčević",
+    "Stefan Birčević",
+    "rs"
+   ],
+   [
+    "Milutinov",
+    "Nikola Milutinov",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Argentina",
+  "score": "87-97",
+  "comp": "SP 2019, četvrtfinale",
+  "season": "SP 2019 - četvrtfinale",
+  "y": 2019,
+  "note": "Skola i Kampaco izbacili favorizovanu Srbiju u četvrtfinalu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ],
+   [
+    "Raduljica",
+    "Miroslav Raduljica",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "SAD",
+  "score": "94-89",
+  "comp": "SP 2019, plasman 5-8",
+  "season": "SP 2019 - plasman 5-8",
+  "y": 2019,
+  "note": "Prva pobeda Srbije nad SAD; Amerikanci završili tek sedmi",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ],
+   [
+    "Milutinov",
+    "Nikola Milutinov",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Italija",
+  "score": "95-102",
+  "comp": "OKT Beograd 2021, finale",
+  "season": "OKT 2021 - finale",
+  "y": 2021,
+  "note": "Italija u Beogradu uzela vizu za Tokio, Srbija ostala bez OI",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0064b4",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Avramović",
+    "Aleksa Avramović",
+    "rs"
+   ],
+   [
+    "Anđušić",
+    "Danilo Anđušić",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Nemanja Bjelica",
+    "rs"
+   ],
+   [
+    "Marjanović",
+    "Boban Marjanović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Italija",
+  "score": "86-94",
+  "comp": "Evrobasket 2022, osmina finala",
+  "season": "Evrobasket 2022 - osmina finala",
+  "y": 2022,
+  "note": "Italija u Berlinu izbacila favorizovanu Srbiju već u osmini finala",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0064b4",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Micić",
+    "Vasilije Micić",
+    "rs"
+   ],
+   [
+    "Marinković",
+    "Vanja Marinković",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Litvanija",
+  "score": "87-68",
+  "comp": "SP 2023, četvrtfinale",
+  "season": "SP 2023 - četvrtfinale",
+  "y": 2023,
+  "note": "Srbija i bez Jokića ubedljiva protiv Litvanije u Manili",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#fdb913",
+   "#006a44"
+  ],
+  "p": [
+   [
+    "S. Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "N. Jović",
+    "Nikola Jović",
+    "rs"
+   ],
+   [
+    "Milutinov",
+    "Nikola Milutinov",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Kanada",
+  "score": "95-86",
+  "comp": "SP 2023, polufinale",
+  "season": "SP 2023 - polufinale",
+  "y": 2023,
+  "note": "Srbija zaustavila Kanadu Šej Gildžus-Aleksandera i otišla u finale",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#d80621",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "S. Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "N. Jović",
+    "Nikola Jović",
+    "rs"
+   ],
+   [
+    "Milutinov",
+    "Nikola Milutinov",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Nemačka",
+  "score": "77-83",
+  "comp": "SP 2023, finale",
+  "season": "SP 2023 - finale",
+  "y": 2023,
+  "note": "Šreder sa 28 poena doneo Nemačkoj prvu svetsku titulu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "S. Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "N. Jović",
+    "Nikola Jović",
+    "rs"
+   ],
+   [
+    "Milutinov",
+    "Nikola Milutinov",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Australija",
+  "score": "95-90 OT",
+  "comp": "OI 2024, četvrtfinale",
+  "season": "OI 2024 - četvrtfinale",
+  "y": 2024,
+  "note": "Preokret od -24 u Parizu i pobeda posle produžetka",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00843d",
+   "#ffcd00"
+  ],
+  "p": [
+   [
+    "Avramović",
+    "Aleksa Avramović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "Petrušev",
+    "Filip Petrušev",
+    "rs"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "SAD",
+  "score": "91-95",
+  "comp": "OI 2024, polufinale",
+  "season": "OI 2024 - polufinale",
+  "y": 2024,
+  "note": "Srbija vodila 17 razlike, Stef Kari sa 36 poena spasao SAD",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "p": [
+   [
+    "Avramović",
+    "Aleksa Avramović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "Petrušev",
+    "Filip Petrušev",
+    "rs"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Nemačka",
+  "score": "93-83",
+  "comp": "OI 2024, utakmica za bronzu",
+  "season": "OI 2024 - za bronzu",
+  "y": 2024,
+  "note": "Olimpijska bronza i revanš Nemačkoj za finale SP 2023",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Avramović",
+    "Aleksa Avramović",
+    "rs"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "Petrušev",
+    "Filip Petrušev",
+    "rs"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Finska",
+  "score": "86-92",
+  "comp": "Evrobasket 2025, osmina finala",
+  "season": "Evrobasket 2025 - osmina finala",
+  "y": 2025,
+  "note": "Veliki favorit ispao u Rigi od Finske predvođene Markanenom",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#002f6c"
+  ],
+  "p": [
+   [
+    "Avramović",
+    "Aleksa Avramović",
+    "rs"
+   ],
+   [
+    "Gudurić",
+    "Marko Gudurić",
+    "rs"
+   ],
+   [
+    "Jović",
+    "Nikola Jović",
+    "rs"
+   ],
+   [
+    "Petrušev",
+    "Filip Petrušev",
+    "rs"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "SAD",
+  "opp": "Srbija",
+  "score": "129-92",
+  "comp": "SP 2014, finale",
+  "season": "SP 2014 - finale",
+  "y": 2014,
+  "note": "Druga uzastopna svetska titula za SAD",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Irving",
+    "Kyrie Irving",
+    "us"
+   ],
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Harden",
+    "James Harden",
+    "us"
+   ],
+   [
+    "Faried",
+    "Kenneth Faried",
+    "us"
+   ],
+   [
+    "Davis",
+    "Anthony Davis",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "SAD",
+  "opp": "Srbija",
+  "score": "96-66",
+  "comp": "OI 2016, finale",
+  "season": "OI 2016 - finale",
+  "y": 2016,
+  "note": "Treće uzastopno olimpijsko zlato i oproštaj trenera Šeševskog",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3161",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Irving",
+    "Kyrie Irving",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Klay Thompson",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Anthony",
+    "Carmelo Anthony",
+    "us"
+   ],
+   [
+    "Jordan",
+    "DeAndre Jordan",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Slovenija",
+  "opp": "Srbija",
+  "score": "93-85",
+  "comp": "Evrobasket 2017, finale",
+  "season": "Evrobasket 2017 - finale",
+  "y": 2017,
+  "note": "Prva evropska titula u istoriji Slovenije",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Dragić",
+    "Goran Dragić",
+    "si"
+   ],
+   [
+    "Blažič",
+    "Jaka Blažič",
+    "si"
+   ],
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Murić",
+    "Edo Murić",
+    "si"
+   ],
+   [
+    "Vidmar",
+    "Gašper Vidmar",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Italija",
+  "opp": "Srbija",
+  "score": "102-95",
+  "comp": "OKT Beograd 2021, finale",
+  "season": "OKT 2021 - finale",
+  "y": 2021,
+  "note": "Pobeda u Beogradu vratila Italiju na OI prvi put posle 2004.",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0064b4",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mannion",
+    "Nico Mannion",
+    "it"
+   ],
+   [
+    "Tonut",
+    "Stefano Tonut",
+    "it"
+   ],
+   [
+    "Fontecchio",
+    "Simone Fontecchio",
+    "it"
+   ],
+   [
+    "Polonara",
+    "Achille Polonara",
+    "it"
+   ],
+   [
+    "Melli",
+    "Nicolò Melli",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Nemačka",
+  "opp": "Srbija",
+  "score": "83-77",
+  "comp": "SP 2023, finale",
+  "season": "SP 2023 - finale",
+  "y": 2023,
+  "note": "Prva svetska titula Nemačke, osvojena bez ijednog poraza",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Schröder",
+    "Dennis Schröder",
+    "de"
+   ],
+   [
+    "Obst",
+    "Andreas Obst",
+    "de"
+   ],
+   [
+    "Wagner",
+    "Franz Wagner",
+    "de"
+   ],
+   [
+    "Voigtmann",
+    "Johannes Voigtmann",
+    "de"
+   ],
+   [
+    "Theis",
+    "Daniel Theis",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Finska",
+  "opp": "Srbija",
+  "score": "92-86",
+  "comp": "Evrobasket 2025, osmina finala",
+  "season": "Evrobasket 2025 - osmina finala",
+  "y": 2025,
+  "note": "Najveće iznenađenje turnira: Finska izbacila Srbiju i stigla do polufinala",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#002f6c"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Little",
+    "Miro Little",
+    "fi"
+   ],
+   [
+    "Valtonen",
+    "Elias Valtonen",
+    "fi"
+   ],
+   [
+    "Grandison",
+    "Jacob Grandison",
+    "fi"
+   ],
+   [
+    "Jantunen",
+    "Mikael Jantunen",
+    "fi"
+   ],
+   [
+    "Markkanen",
+    "Lauri Markkanen",
+    "fi"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Panathinaikos",
+  "score": "69-68",
+  "comp": "Evroliga, Top 16",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Pobeda poenom razlike nad Panatinaikosom u poslednjem kolu Top 16",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Williams",
+    "Marcus Williams",
+    "us"
+   ],
+   [
+    "Blažič",
+    "Jaka Blažič",
+    "si"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Luka Mitrović",
+    "rs"
+   ],
+   [
+    "Marjanović",
+    "Boban Marjanović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Real Madrid",
+  "score": "94-88",
+  "comp": "Evroliga, regularni deo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Zvezda savladala aktuelnog evropskog šampiona",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Lazić",
+    "Branko Lazić",
+    "rs"
+   ],
+   [
+    "Simonović",
+    "Marko Simonović",
+    "rs"
+   ],
+   [
+    "Miller",
+    "Quincy Miller",
+    "us"
+   ],
+   [
+    "Zirbes",
+    "Maik Zirbes",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "CSKA Moskva",
+  "score": "78-67",
+  "comp": "Evroliga, regularni deo",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Zvezda savladala CSKA, branioca evropske titule",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Jović",
+    "Stefan Jović",
+    "rs"
+   ],
+   [
+    "Jenkins",
+    "Charles Jenkins",
+    "us"
+   ],
+   [
+    "Dangubić",
+    "Nemanja Dangubić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Luka Mitrović",
+    "rs"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Cedevita",
+  "score": "77-61",
+  "comp": "ABA liga, finale, 3. utakmica",
+  "season": "2016/17 - ABA finale",
+  "y": 2017,
+  "note": "Treća uzastopna ABA titula, finale dobijeno sa 3-0",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#f58220",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jenkins",
+    "Charles Jenkins",
+    "us"
+   ],
+   [
+    "Lazić",
+    "Branko Lazić",
+    "rs"
+   ],
+   [
+    "Dangubić",
+    "Nemanja Dangubić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Luka Mitrović",
+    "rs"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Real Madrid",
+  "score": "87-83",
+  "comp": "Evroliga, regularni deo",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Zvezda slavila u Madridu protiv budućeg evropskog šampiona",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Rochestie",
+    "Taylor Rochestie",
+    "me"
+   ],
+   [
+    "Feldeine",
+    "James Feldeine",
+    "do"
+   ],
+   [
+    "Dangubić",
+    "Nemanja Dangubić",
+    "rs"
+   ],
+   [
+    "Bjelica",
+    "Milko Bjelica",
+    "me"
+   ],
+   [
+    "Lessort",
+    "Mathias Lessort",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Budućnost",
+  "score": "97-54",
+  "comp": "ABA liga, finale, 5. utakmica",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Majstorica dobijena sa +43 za četvrtu ABA titulu kluba",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0053a0",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Baron",
+    "Billy Baron",
+    "us"
+   ],
+   [
+    "Lazić",
+    "Branko Lazić",
+    "rs"
+   ],
+   [
+    "Davidovac",
+    "Dejan Davidovac",
+    "rs"
+   ],
+   [
+    "Faye",
+    "Mouhammad Faye",
+    "sn"
+   ],
+   [
+    "Ojo",
+    "Michael Ojo",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Real Madrid",
+  "score": "79-77",
+  "comp": "Evroliga, regularni deo",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Zvezda slavila u Madridu sa dva poena razlike",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Walden",
+    "Corey Walden",
+    "us"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "Radanov",
+    "Aleksa Radanov",
+    "rs"
+   ],
+   [
+    "Reath",
+    "Duop Reath",
+    "au"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Partizan",
+  "score": "80-77",
+  "comp": "ABA liga, finale, 5. utakmica",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Zvezda odbranila ABA titulu u majstorici večitog derbija",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Wolters",
+    "Nate Wolters",
+    "us"
+   ],
+   [
+    "Hollins",
+    "Austin Hollins",
+    "us"
+   ],
+   [
+    "Lazić",
+    "Branko Lazić",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Partizan",
+  "score": "76-73",
+  "comp": "Evroliga, regularni deo",
+  "season": "2022/23",
+  "y": 2022,
+  "note": "Zvezda dobila prvi evroligaški derbi sezone kao gost",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Vildoza",
+    "Luca Vildoza",
+    "ar"
+   ],
+   [
+    "Lazić",
+    "Branko Lazić",
+    "rs"
+   ],
+   [
+    "Dobrić",
+    "Ognjen Dobrić",
+    "rs"
+   ],
+   [
+    "Bentil",
+    "Ben Bentil",
+    "gh"
+   ],
+   [
+    "Kuzmić",
+    "Ognjen Kuzmić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Partizan",
+  "score": "82-76",
+  "comp": "ABA liga, finale, 3. utakmica",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Zvezda osvojila ABA ligu sa 3-0 u finalu protiv Partizana",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Yago",
+    "Yago dos Santos",
+    "br"
+   ],
+   [
+    "Nedović",
+    "Nemanja Nedović",
+    "rs"
+   ],
+   [
+    "Lazić",
+    "Branko Lazić",
+    "rs"
+   ],
+   [
+    "Davidovac",
+    "Dejan Davidovac",
+    "rs"
+   ],
+   [
+    "Bolomboy",
+    "Joel Bolomboy",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Partizan",
+  "score": "73-71",
+  "comp": "Evroliga, regularni deo",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Tesna pobeda Zvezde u revanšu evroligaškog derbija",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Miller-McIntyre",
+    "Codi Miller-McIntyre",
+    "bg"
+   ],
+   [
+    "Davidovac",
+    "Dejan Davidovac",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Brown",
+    "John Brown III",
+    "us"
+   ],
+   [
+    "Bolomboy",
+    "Joel Bolomboy",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Partizan",
+  "opp": "CSKA Moskva",
+  "score": "73-72",
+  "comp": "Evroliga, Top 16",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Partizan savladao moćni CSKA poenom razlike",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Kinsey",
+    "Tarence Kinsey",
+    "us"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Andrić",
+    "Mihajilo Andrić",
+    "rs"
+   ],
+   [
+    "Lauvergne",
+    "Joffrey Lauvergne",
+    "fr"
+   ],
+   [
+    "Milutinov",
+    "Nikola Milutinov",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Partizan",
+  "opp": "Crvena zvezda",
+  "score": "112-84",
+  "comp": "ABA liga, finale, 4. utakmica",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Partizan ubedljivom pobedom izjednačio seriju na 2-2",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Trifunović",
+    "Uroš Trifunović",
+    "rs"
+   ],
+   [
+    "Moore",
+    "Dallas Moore",
+    "us"
+   ],
+   [
+    "Punter",
+    "Kevin Punter",
+    "us"
+   ],
+   [
+    "LeDay",
+    "Zach LeDay",
+    "us"
+   ],
+   [
+    "Smailagić",
+    "Alen Smailagić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Partizan",
+  "opp": "Real Madrid",
+  "score": "89-87",
+  "comp": "Evroliga, plej-of, 1. utakmica",
+  "season": "2022/23 - EL PO 1",
+  "y": 2023,
+  "note": "Partizan poveo 1-0 u Madridu, ali je serija na kraju pripala Realu",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Trifunović",
+    "Uroš Trifunović",
+    "rs"
+   ],
+   [
+    "Avramović",
+    "Aleksa Avramović",
+    "rs"
+   ],
+   [
+    "Punter",
+    "Kevin Punter",
+    "us"
+   ],
+   [
+    "LeDay",
+    "Zach LeDay",
+    "us"
+   ],
+   [
+    "Smailagić",
+    "Alen Smailagić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Partizan",
+  "opp": "Crvena zvezda",
+  "score": "96-85",
+  "comp": "ABA liga, finale, 5. utakmica",
+  "season": "2022/23 - ABA finale",
+  "y": 2023,
+  "note": "Prva ABA titula Partizana posle deset godina",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Madar",
+    "Yam Madar",
+    "il"
+   ],
+   [
+    "Punter",
+    "Kevin Punter",
+    "us"
+   ],
+   [
+    "Nunnally",
+    "James Nunnally",
+    "us"
+   ],
+   [
+    "LeDay",
+    "Zach LeDay",
+    "us"
+   ],
+   [
+    "Smailagić",
+    "Alen Smailagić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Partizan",
+  "opp": "Crvena zvezda",
+  "score": "88-86",
+  "comp": "Evroliga, regularni deo",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Partizan dobio evroligaški derbi sa dva poena razlike",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jaramaz",
+    "Ognjen Jaramaz",
+    "rs"
+   ],
+   [
+    "Punter",
+    "Kevin Punter",
+    "us"
+   ],
+   [
+    "Nunnally",
+    "James Nunnally",
+    "us"
+   ],
+   [
+    "LeDay",
+    "Zach LeDay",
+    "us"
+   ],
+   [
+    "Kaminsky",
+    "Frank Kaminsky",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Partizan",
+  "opp": "Crvena zvezda",
+  "score": "89-77",
+  "comp": "Evroliga, regularni deo",
+  "season": "2024/25",
+  "y": 2024,
+  "note": "Ubedljiva pobeda Partizana u gostima u evroligaškom derbiju",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ntilikina",
+    "Frank Ntilikina",
+    "fr"
+   ],
+   [
+    "Brown",
+    "Sterling Brown",
+    "us"
+   ],
+   [
+    "Bonga",
+    "Isaac Bonga",
+    "de"
+   ],
+   [
+    "Mike",
+    "Isaiah Mike",
+    "us"
+   ],
+   [
+    "Davies",
+    "Brandon Davies",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Partizan",
+  "opp": "Budućnost",
+  "score": "90-75",
+  "comp": "ABA liga, finale, 4. utakmica",
+  "season": "2024/25 - ABA finale",
+  "y": 2025,
+  "note": "Partizan osvojio ABA ligu sa 3-1 u finalu protiv Budućnosti",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0053a0",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Jones",
+    "Carlik Jones",
+    "ss"
+   ],
+   [
+    "Marinković",
+    "Vanja Marinković",
+    "rs"
+   ],
+   [
+    "Brown",
+    "Sterling Brown",
+    "us"
+   ],
+   [
+    "Bonga",
+    "Isaac Bonga",
+    "de"
+   ],
+   [
+    "Davies",
+    "Brandon Davies",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "srb",
+  "team": "Mega",
+  "opp": "Partizan",
+  "score": "88-86",
+  "comp": "ABA liga, 4. kolo",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Mladi tim Mege iznenadio Partizan sa dva poena razlike",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ff0088",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Topić",
+    "Nikola Topić",
+    "rs"
+   ],
+   [
+    "Đurišić",
+    "Nikola Đurišić",
+    "rs"
+   ],
+   [
+    "Malovec",
+    "Timotej Malovec",
+    "sk"
+   ],
+   [
+    "Jelavić",
+    "Andrija Jelavić",
+    "hr"
+   ],
+   [
+    "Plavšić",
+    "Uroš Plavšić",
+    "rs"
+   ]
+  ]
+ }
+]

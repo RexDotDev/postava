@@ -1,0 +1,4742 @@
+[
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Španija",
+  "opp": "Italija",
+  "score": "4-0",
+  "comp": "EP 2012, finale",
+  "season": "2012",
+  "y": 2012,
+  "note": "Najubedljivije finale EP i odbrana titule; Španija igrala bez klasičnog napadača",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "okit": [
+   "solid",
+   "#1f5fae",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Jordi Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Arbeloa",
+    "Álvaro Arbeloa",
+    "es"
+   ],
+   [
+    "Xabi Alonso",
+    "Xabi Alonso",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Xavi",
+    "Xavi",
+    "es"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Fàbregas",
+    "Cesc Fàbregas",
+    "es"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Italija",
+  "opp": "Španija",
+  "score": "0-4",
+  "comp": "EP 2012, finale",
+  "season": "2012",
+  "y": 2012,
+  "note": "Italija igrala sa desetoricom posle povrede Tijaga Mote",
+  "form": "4-1-2-1-2",
+  "kit": [
+   "solid",
+   "#1f5fae",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Abate",
+    "Ignazio Abate",
+    "it"
+   ],
+   [
+    "Pirlo",
+    "Andrea Pirlo",
+    "it"
+   ],
+   [
+    "De Rossi",
+    "Daniele De Rossi",
+    "it"
+   ],
+   [
+    "Marchisio",
+    "Claudio Marchisio",
+    "it"
+   ],
+   [
+    "Montolivo",
+    "Riccardo Montolivo",
+    "it"
+   ],
+   [
+    "Cassano",
+    "Antonio Cassano",
+    "it"
+   ],
+   [
+    "Balotelli",
+    "Mario Balotelli",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Grčka",
+  "opp": "Rusija",
+  "score": "1-0",
+  "comp": "EP 2012, grupa A",
+  "season": "2012",
+  "y": 2012,
+  "note": "Grci izbacili favorizovanu Rusiju i prošli u četvrtfinale",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0d5eaf"
+  ],
+  "okit": [
+   "solid",
+   "#d52b1e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sifakis",
+    "Michalis Sifakis",
+    "gr"
+   ],
+   [
+    "Tzavelas",
+    "Georgios Tzavelas",
+    "gr"
+   ],
+   [
+    "Papadopoulos",
+    "Kyriakos Papadopoulos",
+    "gr"
+   ],
+   [
+    "Sokratis",
+    "Sokratis Papastathopoulos",
+    "gr"
+   ],
+   [
+    "Torosidis",
+    "Vasilis Torosidis",
+    "gr"
+   ],
+   [
+    "Maniatis",
+    "Giannis Maniatis",
+    "gr"
+   ],
+   [
+    "Katsouranis",
+    "Kostas Katsouranis",
+    "gr"
+   ],
+   [
+    "Samaras",
+    "Georgios Samaras",
+    "gr"
+   ],
+   [
+    "Karagounis",
+    "Giorgos Karagounis",
+    "gr"
+   ],
+   [
+    "Salpingidis",
+    "Dimitris Salpingidis",
+    "gr"
+   ],
+   [
+    "Gekas",
+    "Theofanis Gekas",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Portugal",
+  "opp": "Francuska",
+  "score": "1-0 prod.",
+  "comp": "EP 2016, finale",
+  "season": "2016",
+  "y": 2016,
+  "note": "Prva velika titula Portugala; Eder presudio u 109. minutu",
+  "form": "4-1-2-1-2",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "okit": [
+   "solid",
+   "#1d2b5b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rui Patrício",
+    "Rui Patrício",
+    "pt"
+   ],
+   [
+    "Guerreiro",
+    "Raphaël Guerreiro",
+    "pt"
+   ],
+   [
+    "Fonte",
+    "José Fonte",
+    "pt"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Cédric",
+    "Cédric Soares",
+    "pt"
+   ],
+   [
+    "William Carvalho",
+    "William Carvalho",
+    "pt"
+   ],
+   [
+    "João Mário",
+    "João Mário",
+    "pt"
+   ],
+   [
+    "Renato Sanches",
+    "Renato Sanches",
+    "pt"
+   ],
+   [
+    "Adrien Silva",
+    "Adrien Silva",
+    "pt"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Nani",
+    "Nani",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Francuska",
+  "opp": "Portugal",
+  "score": "0-1 prod.",
+  "comp": "EP 2016, finale",
+  "season": "2016",
+  "y": 2016,
+  "note": "Domaćin izgubio finale u Sen Deniju; Žinjak pogodio stativu u 92. minutu",
+  "form": "4-4-1-1",
+  "kit": [
+   "solid",
+   "#1d2b5b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Evra",
+    "Patrice Evra",
+    "fr"
+   ],
+   [
+    "Umtiti",
+    "Samuel Umtiti",
+    "fr"
+   ],
+   [
+    "Koscielny",
+    "Laurent Koscielny",
+    "fr"
+   ],
+   [
+    "Sagna",
+    "Bacary Sagna",
+    "fr"
+   ],
+   [
+    "Payet",
+    "Dimitri Payet",
+    "fr"
+   ],
+   [
+    "Matuidi",
+    "Blaise Matuidi",
+    "fr"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Sissoko",
+    "Moussa Sissoko",
+    "fr"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ],
+   [
+    "Giroud",
+    "Olivier Giroud",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Vels",
+  "opp": "Belgija",
+  "score": "3-1",
+  "comp": "EP 2016, četvrtfinale",
+  "season": "2016",
+  "y": 2016,
+  "note": "Vels u polufinalu na prvom velikom turniru posle SP 1958.",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#d30731",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Hennessey",
+    "Wayne Hennessey",
+    "gb-wls"
+   ],
+   [
+    "Davies",
+    "Ben Davies",
+    "gb-wls"
+   ],
+   [
+    "Williams",
+    "Ashley Williams",
+    "gb-wls"
+   ],
+   [
+    "Chester",
+    "James Chester",
+    "gb-wls"
+   ],
+   [
+    "Taylor",
+    "Neil Taylor",
+    "gb-wls"
+   ],
+   [
+    "Allen",
+    "Joe Allen",
+    "gb-wls"
+   ],
+   [
+    "Ledley",
+    "Joe Ledley",
+    "gb-wls"
+   ],
+   [
+    "Ramsey",
+    "Aaron Ramsey",
+    "gb-wls"
+   ],
+   [
+    "Gunter",
+    "Chris Gunter",
+    "gb-wls"
+   ],
+   [
+    "Bale",
+    "Gareth Bale",
+    "gb-wls"
+   ],
+   [
+    "Robson-Kanu",
+    "Hal Robson-Kanu",
+    "gb-wls"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Island",
+  "opp": "Engleska",
+  "score": "2-1",
+  "comp": "EP 2016, osmina finala",
+  "season": "2016",
+  "y": 2016,
+  "note": "Najveće iznenađenje EP: zemlja od 330.000 stanovnika izbacila Englesku",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#02529c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d2b5b"
+  ],
+  "p": [
+   [
+    "Halldórsson",
+    "Hannes Þór Halldórsson",
+    "is"
+   ],
+   [
+    "Skúlason",
+    "Ari Freyr Skúlason",
+    "is"
+   ],
+   [
+    "R. Sigurðsson",
+    "Ragnar Sigurðsson",
+    "is"
+   ],
+   [
+    "Árnason",
+    "Kári Árnason",
+    "is"
+   ],
+   [
+    "Sævarsson",
+    "Birkir Már Sævarsson",
+    "is"
+   ],
+   [
+    "Bjarnason",
+    "Birkir Bjarnason",
+    "is"
+   ],
+   [
+    "Gunnarsson",
+    "Aron Gunnarsson",
+    "is"
+   ],
+   [
+    "G. Sigurðsson",
+    "Gylfi Sigurðsson",
+    "is"
+   ],
+   [
+    "Guðmundsson",
+    "Jóhann Berg Guðmundsson",
+    "is"
+   ],
+   [
+    "Böðvarsson",
+    "Jón Daði Böðvarsson",
+    "is"
+   ],
+   [
+    "Sigþórsson",
+    "Kolbeinn Sigþórsson",
+    "is"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Italija",
+  "opp": "Španija",
+  "score": "2-0",
+  "comp": "EP 2016, osmina finala",
+  "season": "2016",
+  "y": 2016,
+  "note": "Konteova Italija izbacila dvostrukog branioca titule",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#1f5fae",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "De Sciglio",
+    "Mattia De Sciglio",
+    "it"
+   ],
+   [
+    "Giaccherini",
+    "Emanuele Giaccherini",
+    "it"
+   ],
+   [
+    "De Rossi",
+    "Daniele De Rossi",
+    "it"
+   ],
+   [
+    "Parolo",
+    "Marco Parolo",
+    "it"
+   ],
+   [
+    "Florenzi",
+    "Alessandro Florenzi",
+    "it"
+   ],
+   [
+    "Pellè",
+    "Graziano Pellè",
+    "it"
+   ],
+   [
+    "Éder",
+    "Éder",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Hrvatska",
+  "opp": "Španija",
+  "score": "2-1",
+  "comp": "EP 2016, grupa D",
+  "season": "2016",
+  "y": 2016,
+  "note": "Hrvatska bez Modrića i Mandžukića preokrenula i osvojila grupu",
+  "form": "4-2-3-1",
+  "kit": [
+   "checks",
+   "#e4002b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Subašić",
+    "Danijel Subašić",
+    "hr"
+   ],
+   [
+    "Vrsaljko",
+    "Šime Vrsaljko",
+    "hr"
+   ],
+   [
+    "Jedvaj",
+    "Tin Jedvaj",
+    "hr"
+   ],
+   [
+    "Ćorluka",
+    "Vedran Ćorluka",
+    "hr"
+   ],
+   [
+    "Srna",
+    "Darijo Srna",
+    "hr"
+   ],
+   [
+    "Badelj",
+    "Milan Badelj",
+    "hr"
+   ],
+   [
+    "Rog",
+    "Marko Rog",
+    "hr"
+   ],
+   [
+    "Pjaca",
+    "Marko Pjaca",
+    "hr"
+   ],
+   [
+    "Rakitić",
+    "Ivan Rakitić",
+    "hr"
+   ],
+   [
+    "Perišić",
+    "Ivan Perišić",
+    "hr"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Mađarska",
+  "opp": "Portugal",
+  "score": "3-3",
+  "comp": "EP 2016, grupa F",
+  "season": "2016",
+  "y": 2016,
+  "note": "Luda utakmica u Lionu: Mađarska tri puta vodila i osvojila grupu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "p": [
+   [
+    "Király",
+    "Gábor Király",
+    "hu"
+   ],
+   [
+    "Korhut",
+    "Mihály Korhut",
+    "hu"
+   ],
+   [
+    "Juhász",
+    "Roland Juhász",
+    "hu"
+   ],
+   [
+    "Guzmics",
+    "Richárd Guzmics",
+    "hu"
+   ],
+   [
+    "Lang",
+    "Ádám Lang",
+    "hu"
+   ],
+   [
+    "Pintér",
+    "Ádám Pintér",
+    "hu"
+   ],
+   [
+    "Elek",
+    "Ákos Elek",
+    "hu"
+   ],
+   [
+    "Dzsudzsák",
+    "Balázs Dzsudzsák",
+    "hu"
+   ],
+   [
+    "Gera",
+    "Zoltán Gera",
+    "hu"
+   ],
+   [
+    "Lovrencsics",
+    "Gergő Lovrencsics",
+    "hu"
+   ],
+   [
+    "Szalai",
+    "Ádám Szalai",
+    "hu"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Italija",
+  "opp": "Engleska",
+  "score": "1-1 (3-2 pen.)",
+  "comp": "EP 2020, finale",
+  "season": "2020",
+  "y": 2021,
+  "note": "Italija prvak Evrope na Vembliju, prvi put posle 1968.",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#1f5fae",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d2b5b"
+  ],
+  "p": [
+   [
+    "Donnarumma",
+    "Gianluigi Donnarumma",
+    "it"
+   ],
+   [
+    "Emerson",
+    "Emerson Palmieri",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Di Lorenzo",
+    "Giovanni Di Lorenzo",
+    "it"
+   ],
+   [
+    "Verratti",
+    "Marco Verratti",
+    "it"
+   ],
+   [
+    "Jorginho",
+    "Jorginho",
+    "it"
+   ],
+   [
+    "Barella",
+    "Nicolò Barella",
+    "it"
+   ],
+   [
+    "Insigne",
+    "Lorenzo Insigne",
+    "it"
+   ],
+   [
+    "Immobile",
+    "Ciro Immobile",
+    "it"
+   ],
+   [
+    "Chiesa",
+    "Federico Chiesa",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Engleska",
+  "opp": "Danska",
+  "score": "2-1 prod.",
+  "comp": "EP 2020, polufinale",
+  "season": "2020",
+  "y": 2021,
+  "note": "Prvo finale Engleske na velikom turniru posle 1966.",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1d2b5b"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Pickford",
+    "Jordan Pickford",
+    "gb-eng"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Maguire",
+    "Harry Maguire",
+    "gb-eng"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Rice",
+    "Declan Rice",
+    "gb-eng"
+   ],
+   [
+    "Phillips",
+    "Kalvin Phillips",
+    "gb-eng"
+   ],
+   [
+    "Sterling",
+    "Raheem Sterling",
+    "gb-eng"
+   ],
+   [
+    "Mount",
+    "Mason Mount",
+    "gb-eng"
+   ],
+   [
+    "Saka",
+    "Bukayo Saka",
+    "gb-eng"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Danska",
+  "opp": "Engleska",
+  "score": "1-2 prod.",
+  "comp": "EP 2020, polufinale",
+  "season": "2020",
+  "y": 2021,
+  "note": "Danska stigla do polufinala posle kolapsa Kristijana Eriksena na otvaranju",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d2b5b"
+  ],
+  "p": [
+   [
+    "Schmeichel",
+    "Kasper Schmeichel",
+    "dk"
+   ],
+   [
+    "Vestergaard",
+    "Jannik Vestergaard",
+    "dk"
+   ],
+   [
+    "Kjær",
+    "Simon Kjær",
+    "dk"
+   ],
+   [
+    "Christensen",
+    "Andreas Christensen",
+    "dk"
+   ],
+   [
+    "Mæhle",
+    "Joakim Mæhle",
+    "dk"
+   ],
+   [
+    "Delaney",
+    "Thomas Delaney",
+    "dk"
+   ],
+   [
+    "Højbjerg",
+    "Pierre-Emile Højbjerg",
+    "dk"
+   ],
+   [
+    "Stryger Larsen",
+    "Jens Stryger Larsen",
+    "dk"
+   ],
+   [
+    "Damsgaard",
+    "Mikkel Damsgaard",
+    "dk"
+   ],
+   [
+    "Dolberg",
+    "Kasper Dolberg",
+    "dk"
+   ],
+   [
+    "Braithwaite",
+    "Martin Braithwaite",
+    "dk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Švajcarska",
+  "opp": "Francuska",
+  "score": "3-3 (5-4 pen.)",
+  "comp": "EP 2020, osmina finala",
+  "season": "2020",
+  "y": 2021,
+  "note": "Švajcarci preokrenuli 1-3 i izbacili svetskog prvaka",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#d52b1e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1d2b5b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sommer",
+    "Yann Sommer",
+    "ch"
+   ],
+   [
+    "Rodriguez",
+    "Ricardo Rodriguez",
+    "ch"
+   ],
+   [
+    "Akanji",
+    "Manuel Akanji",
+    "ch"
+   ],
+   [
+    "Elvedi",
+    "Nico Elvedi",
+    "ch"
+   ],
+   [
+    "Zuber",
+    "Steven Zuber",
+    "ch"
+   ],
+   [
+    "Xhaka",
+    "Granit Xhaka",
+    "ch"
+   ],
+   [
+    "Freuler",
+    "Remo Freuler",
+    "ch"
+   ],
+   [
+    "Widmer",
+    "Silvan Widmer",
+    "ch"
+   ],
+   [
+    "Shaqiri",
+    "Xherdan Shaqiri",
+    "ch"
+   ],
+   [
+    "Embolo",
+    "Breel Embolo",
+    "ch"
+   ],
+   [
+    "Seferović",
+    "Haris Seferović",
+    "ch"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Češka",
+  "opp": "Holandija",
+  "score": "2-0",
+  "comp": "EP 2020, osmina finala",
+  "season": "2020",
+  "y": 2021,
+  "note": "Holandija ostala sa desetoricom posle crvenog kartona De Lihta",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#d7141a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#f36c21",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Vaclík",
+    "Tomáš Vaclík",
+    "cz"
+   ],
+   [
+    "Kadeřábek",
+    "Pavel Kadeřábek",
+    "cz"
+   ],
+   [
+    "Kalas",
+    "Tomáš Kalas",
+    "cz"
+   ],
+   [
+    "Čelůstka",
+    "Ondřej Čelůstka",
+    "cz"
+   ],
+   [
+    "Coufal",
+    "Vladimír Coufal",
+    "cz"
+   ],
+   [
+    "Souček",
+    "Tomáš Souček",
+    "cz"
+   ],
+   [
+    "Holeš",
+    "Tomáš Holeš",
+    "cz"
+   ],
+   [
+    "Ševčík",
+    "Petr Ševčík",
+    "cz"
+   ],
+   [
+    "Barák",
+    "Antonín Barák",
+    "cz"
+   ],
+   [
+    "Masopust",
+    "Lukáš Masopust",
+    "cz"
+   ],
+   [
+    "Schick",
+    "Patrik Schick",
+    "cz"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Španija",
+  "opp": "Engleska",
+  "score": "2-1",
+  "comp": "EP 2024, finale",
+  "season": "2024",
+  "y": 2024,
+  "note": "Rekordna četvrta titula Španije, sa sedam pobeda iz sedam utakmica",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d2b5b"
+  ],
+  "p": [
+   [
+    "Unai Simón",
+    "Unai Simón",
+    "es"
+   ],
+   [
+    "Cucurella",
+    "Marc Cucurella",
+    "es"
+   ],
+   [
+    "Laporte",
+    "Aymeric Laporte",
+    "es"
+   ],
+   [
+    "Le Normand",
+    "Robin Le Normand",
+    "es"
+   ],
+   [
+    "Carvajal",
+    "Dani Carvajal",
+    "es"
+   ],
+   [
+    "Fabián",
+    "Fabián Ruiz",
+    "es"
+   ],
+   [
+    "Rodri",
+    "Rodri",
+    "es"
+   ],
+   [
+    "Nico Williams",
+    "Nico Williams",
+    "es"
+   ],
+   [
+    "Olmo",
+    "Dani Olmo",
+    "es"
+   ],
+   [
+    "Yamal",
+    "Lamine Yamal",
+    "es"
+   ],
+   [
+    "Morata",
+    "Álvaro Morata",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Engleska",
+  "opp": "Holandija",
+  "score": "2-1",
+  "comp": "EP 2024, polufinale",
+  "season": "2024",
+  "y": 2024,
+  "note": "Votkins u 90. minutu odveo Engleze u drugo uzastopno finale EP",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1d2b5b"
+  ],
+  "okit": [
+   "solid",
+   "#f36c21",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Pickford",
+    "Jordan Pickford",
+    "gb-eng"
+   ],
+   [
+    "Guéhi",
+    "Marc Guéhi",
+    "gb-eng"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Trippier",
+    "Kieran Trippier",
+    "gb-eng"
+   ],
+   [
+    "Rice",
+    "Declan Rice",
+    "gb-eng"
+   ],
+   [
+    "Mainoo",
+    "Kobbie Mainoo",
+    "gb-eng"
+   ],
+   [
+    "Saka",
+    "Bukayo Saka",
+    "gb-eng"
+   ],
+   [
+    "Bellingham",
+    "Jude Bellingham",
+    "gb-eng"
+   ],
+   [
+    "Foden",
+    "Phil Foden",
+    "gb-eng"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Gruzija",
+  "opp": "Portugal",
+  "score": "2-0",
+  "comp": "EP 2024, grupa F",
+  "season": "2024",
+  "y": 2024,
+  "note": "Debitant Gruzija pobedila Portugal i prošla grupu",
+  "form": "5-3-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#da291c"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "p": [
+   [
+    "Mamardashvili",
+    "Giorgi Mamardashvili",
+    "ge"
+   ],
+   [
+    "Dvali",
+    "Lasha Dvali",
+    "ge"
+   ],
+   [
+    "Lochoshvili",
+    "Luka Lochoshvili",
+    "ge"
+   ],
+   [
+    "Kashia",
+    "Guram Kashia",
+    "ge"
+   ],
+   [
+    "Gvelesiani",
+    "Giorgi Gvelesiani",
+    "ge"
+   ],
+   [
+    "Kakabadze",
+    "Otar Kakabadze",
+    "ge"
+   ],
+   [
+    "Kiteishvili",
+    "Otar Kiteishvili",
+    "ge"
+   ],
+   [
+    "Kochorashvili",
+    "Giorgi Kochorashvili",
+    "ge"
+   ],
+   [
+    "Chakvetadze",
+    "Giorgi Chakvetadze",
+    "ge"
+   ],
+   [
+    "Kvaratskhelia",
+    "Khvicha Kvaratskhelia",
+    "ge"
+   ],
+   [
+    "Mikautadze",
+    "Georges Mikautadze",
+    "ge"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Holandija",
+  "opp": "Turska",
+  "score": "2-1",
+  "comp": "EP 2024, četvrtfinale",
+  "season": "2024",
+  "y": 2024,
+  "note": "Preokret u poslednjih 20 minuta za holandsko polufinale",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#f36c21",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e30a17",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Verbruggen",
+    "Bart Verbruggen",
+    "nl"
+   ],
+   [
+    "Aké",
+    "Nathan Aké",
+    "nl"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "De Vrij",
+    "Stefan de Vrij",
+    "nl"
+   ],
+   [
+    "Dumfries",
+    "Denzel Dumfries",
+    "nl"
+   ],
+   [
+    "Reijnders",
+    "Tijjani Reijnders",
+    "nl"
+   ],
+   [
+    "Schouten",
+    "Jerdy Schouten",
+    "nl"
+   ],
+   [
+    "Simons",
+    "Xavi Simons",
+    "nl"
+   ],
+   [
+    "Gakpo",
+    "Cody Gakpo",
+    "nl"
+   ],
+   [
+    "Memphis",
+    "Memphis Depay",
+    "nl"
+   ],
+   [
+    "Bergwijn",
+    "Steven Bergwijn",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Nemačka",
+  "opp": "Škotska",
+  "score": "5-1",
+  "comp": "EP 2024, grupa A",
+  "season": "2024",
+  "y": 2024,
+  "note": "Utakmica otvaranja EP u Minhenu, rekordna pobeda na startu turnira",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#1c2957",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Mittelstädt",
+    "Maximilian Mittelstädt",
+    "de"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Tah",
+    "Jonathan Tah",
+    "de"
+   ],
+   [
+    "Kimmich",
+    "Joshua Kimmich",
+    "de"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Andrich",
+    "Robert Andrich",
+    "de"
+   ],
+   [
+    "Wirtz",
+    "Florian Wirtz",
+    "de"
+   ],
+   [
+    "Gündoğan",
+    "İlkay Gündoğan",
+    "de"
+   ],
+   [
+    "Musiala",
+    "Jamal Musiala",
+    "de"
+   ],
+   [
+    "Havertz",
+    "Kai Havertz",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Austrija",
+  "opp": "Holandija",
+  "score": "3-2",
+  "comp": "EP 2024, grupa D",
+  "season": "2024",
+  "y": 2024,
+  "note": "Austrija osvojila grupu ispred Francuske i Holandije",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ed2939",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#f36c21",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Pentz",
+    "Patrick Pentz",
+    "at"
+   ],
+   [
+    "Prass",
+    "Alexander Prass",
+    "at"
+   ],
+   [
+    "Wöber",
+    "Maximilian Wöber",
+    "at"
+   ],
+   [
+    "Lienhart",
+    "Philipp Lienhart",
+    "at"
+   ],
+   [
+    "Posch",
+    "Stefan Posch",
+    "at"
+   ],
+   [
+    "Grillitsch",
+    "Florian Grillitsch",
+    "at"
+   ],
+   [
+    "Seiwald",
+    "Nicolas Seiwald",
+    "at"
+   ],
+   [
+    "Schmid",
+    "Romano Schmid",
+    "at"
+   ],
+   [
+    "Sabitzer",
+    "Marcel Sabitzer",
+    "at"
+   ],
+   [
+    "Wimmer",
+    "Patrick Wimmer",
+    "at"
+   ],
+   [
+    "Arnautović",
+    "Marko Arnautović",
+    "at"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Turska",
+  "opp": "Austrija",
+  "score": "2-1",
+  "comp": "EP 2024, osmina finala",
+  "season": "2024",
+  "y": 2024,
+  "note": "Dva gola štopera posle kornera i Turska u četvrtfinalu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e30a17",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ed2939",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Günok",
+    "Mert Günok",
+    "tr"
+   ],
+   [
+    "Kadıoğlu",
+    "Ferdi Kadıoğlu",
+    "tr"
+   ],
+   [
+    "Bardakcı",
+    "Abdülkerim Bardakcı",
+    "tr"
+   ],
+   [
+    "Demiral",
+    "Merih Demiral",
+    "tr"
+   ],
+   [
+    "Müldür",
+    "Mert Müldür",
+    "tr"
+   ],
+   [
+    "Ayhan",
+    "Kaan Ayhan",
+    "tr"
+   ],
+   [
+    "Yüksek",
+    "İsmail Yüksek",
+    "tr"
+   ],
+   [
+    "Yıldız",
+    "Kenan Yıldız",
+    "tr"
+   ],
+   [
+    "Kökçü",
+    "Orkun Kökçü",
+    "tr"
+   ],
+   [
+    "Barış Alper",
+    "Barış Alper Yılmaz",
+    "tr"
+   ],
+   [
+    "Güler",
+    "Arda Güler",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Albanija",
+  "opp": "Hrvatska",
+  "score": "2-2",
+  "comp": "EP 2024, grupa B",
+  "season": "2024",
+  "y": 2024,
+  "note": "Albanija izjednačila u 95. minutu protiv Hrvatske",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#e41e20",
+   "#000000"
+  ],
+  "okit": [
+   "checks",
+   "#e4002b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Strakosha",
+    "Thomas Strakosha",
+    "al"
+   ],
+   [
+    "Mitaj",
+    "Mario Mitaj",
+    "al"
+   ],
+   [
+    "Ajeti",
+    "Arlind Ajeti",
+    "al"
+   ],
+   [
+    "Djimsiti",
+    "Berat Djimsiti",
+    "al"
+   ],
+   [
+    "Hysaj",
+    "Elseid Hysaj",
+    "al"
+   ],
+   [
+    "Laçi",
+    "Qazim Laçi",
+    "al"
+   ],
+   [
+    "Asllani",
+    "Kristjan Asllani",
+    "al"
+   ],
+   [
+    "Ramadani",
+    "Ylber Ramadani",
+    "al"
+   ],
+   [
+    "Bajrami",
+    "Nedim Bajrami",
+    "al"
+   ],
+   [
+    "Manaj",
+    "Rey Manaj",
+    "al"
+   ],
+   [
+    "Asani",
+    "Jasir Asani",
+    "al"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Slovačka",
+  "opp": "Belgija",
+  "score": "1-0",
+  "comp": "EP 2024, grupa E",
+  "season": "2024",
+  "y": 2024,
+  "note": "Iznenađenje u Frankfurtu: Belgiji VAR poništio dva gola",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0b4ea2"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Dúbravka",
+    "Martin Dúbravka",
+    "sk"
+   ],
+   [
+    "Hancko",
+    "Dávid Hancko",
+    "sk"
+   ],
+   [
+    "Škriniar",
+    "Milan Škriniar",
+    "sk"
+   ],
+   [
+    "Vavro",
+    "Denis Vavro",
+    "sk"
+   ],
+   [
+    "Pekarík",
+    "Peter Pekarík",
+    "sk"
+   ],
+   [
+    "Duda",
+    "Ondrej Duda",
+    "sk"
+   ],
+   [
+    "Lobotka",
+    "Stanislav Lobotka",
+    "sk"
+   ],
+   [
+    "Kucka",
+    "Juraj Kucka",
+    "sk"
+   ],
+   [
+    "Haraslín",
+    "Lukáš Haraslín",
+    "sk"
+   ],
+   [
+    "Boženík",
+    "Róbert Boženík",
+    "sk"
+   ],
+   [
+    "Schranz",
+    "Ivan Schranz",
+    "sk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Urugvaj",
+  "opp": "Paragvaj",
+  "score": "3-0",
+  "comp": "Kopa Amerika 2011, finale",
+  "season": "2011",
+  "y": 2011,
+  "note": "Rekordna 15. titula Urugvaja u Buenos Ajresu",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#5cbfeb",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#d52b1e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Muslera",
+    "Fernando Muslera",
+    "uy"
+   ],
+   [
+    "Cáceres",
+    "Martín Cáceres",
+    "uy"
+   ],
+   [
+    "Coates",
+    "Sebastián Coates",
+    "uy"
+   ],
+   [
+    "Lugano",
+    "Diego Lugano",
+    "uy"
+   ],
+   [
+    "M. Pereira",
+    "Maxi Pereira",
+    "uy"
+   ],
+   [
+    "Á. Pereira",
+    "Álvaro Pereira",
+    "uy"
+   ],
+   [
+    "Arévalo Ríos",
+    "Egidio Arévalo Ríos",
+    "uy"
+   ],
+   [
+    "Pérez",
+    "Diego Pérez",
+    "uy"
+   ],
+   [
+    "González",
+    "Álvaro González",
+    "uy"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ],
+   [
+    "Forlán",
+    "Diego Forlán",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Čile",
+  "opp": "Argentina",
+  "score": "0-0 (4-1 pen.)",
+  "comp": "Kopa Amerika 2015, finale",
+  "season": "2015",
+  "y": 2015,
+  "note": "Prva titula u istoriji Čilea, osvojena u Santjagu",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#d52b1e",
+   "#0039a6"
+  ],
+  "okit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Bravo",
+    "Claudio Bravo",
+    "cl"
+   ],
+   [
+    "Medel",
+    "Gary Medel",
+    "cl"
+   ],
+   [
+    "Díaz",
+    "Marcelo Díaz",
+    "cl"
+   ],
+   [
+    "Silva",
+    "Francisco Silva",
+    "cl"
+   ],
+   [
+    "Beausejour",
+    "Jean Beausejour",
+    "cl"
+   ],
+   [
+    "Vidal",
+    "Arturo Vidal",
+    "cl"
+   ],
+   [
+    "Aránguiz",
+    "Charles Aránguiz",
+    "cl"
+   ],
+   [
+    "Isla",
+    "Mauricio Isla",
+    "cl"
+   ],
+   [
+    "Valdivia",
+    "Jorge Valdivia",
+    "cl"
+   ],
+   [
+    "Alexis",
+    "Alexis Sánchez",
+    "cl"
+   ],
+   [
+    "Vargas",
+    "Eduardo Vargas",
+    "cl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "Paragvaj",
+  "score": "6-1",
+  "comp": "Kopa Amerika 2015, polufinale",
+  "season": "2015",
+  "y": 2015,
+  "note": "Argentina demolirala Paragvaj u Konsepsionu",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#d52b1e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Romero",
+    "Sergio Romero",
+    "ar"
+   ],
+   [
+    "Rojo",
+    "Marcos Rojo",
+    "ar"
+   ],
+   [
+    "Otamendi",
+    "Nicolás Otamendi",
+    "ar"
+   ],
+   [
+    "Demichelis",
+    "Martín Demichelis",
+    "ar"
+   ],
+   [
+    "Zabaleta",
+    "Pablo Zabaleta",
+    "ar"
+   ],
+   [
+    "Pastore",
+    "Javier Pastore",
+    "ar"
+   ],
+   [
+    "Mascherano",
+    "Javier Mascherano",
+    "ar"
+   ],
+   [
+    "Biglia",
+    "Lucas Biglia",
+    "ar"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Agüero",
+    "Sergio Agüero",
+    "ar"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Čile",
+  "opp": "Meksiko",
+  "score": "7-0",
+  "comp": "Kopa Amerika 2016, četvrtfinale",
+  "season": "2016",
+  "y": 2016,
+  "note": "Čile demolirao Meksiko u Santa Klari i kasnije odbranio titulu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#d52b1e",
+   "#0039a6"
+  ],
+  "okit": [
+   "solid",
+   "#006847",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Bravo",
+    "Claudio Bravo",
+    "cl"
+   ],
+   [
+    "Beausejour",
+    "Jean Beausejour",
+    "cl"
+   ],
+   [
+    "Medel",
+    "Gary Medel",
+    "cl"
+   ],
+   [
+    "Jara",
+    "Gonzalo Jara",
+    "cl"
+   ],
+   [
+    "Fuenzalida",
+    "José Pedro Fuenzalida",
+    "cl"
+   ],
+   [
+    "Vidal",
+    "Arturo Vidal",
+    "cl"
+   ],
+   [
+    "Díaz",
+    "Marcelo Díaz",
+    "cl"
+   ],
+   [
+    "Aránguiz",
+    "Charles Aránguiz",
+    "cl"
+   ],
+   [
+    "Alexis",
+    "Alexis Sánchez",
+    "cl"
+   ],
+   [
+    "Vargas",
+    "Eduardo Vargas",
+    "cl"
+   ],
+   [
+    "Puch",
+    "Edson Puch",
+    "cl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Brazil",
+  "opp": "Peru",
+  "score": "3-1",
+  "comp": "Kopa Amerika 2019, finale",
+  "season": "2019",
+  "y": 2019,
+  "note": "Brazil prvak na Marakani, iako je završio sa desetoricom",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffdc02",
+   "#009c3b"
+  ],
+  "okit": [
+   "sash",
+   "#ffffff",
+   "#d91023"
+  ],
+  "p": [
+   [
+    "Alisson",
+    "Alisson",
+    "br"
+   ],
+   [
+    "Alex Sandro",
+    "Alex Sandro",
+    "br"
+   ],
+   [
+    "Thiago Silva",
+    "Thiago Silva",
+    "br"
+   ],
+   [
+    "Marquinhos",
+    "Marquinhos",
+    "br"
+   ],
+   [
+    "Dani Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Arthur",
+    "Arthur",
+    "br"
+   ],
+   [
+    "Everton",
+    "Everton",
+    "br"
+   ],
+   [
+    "Coutinho",
+    "Philippe Coutinho",
+    "br"
+   ],
+   [
+    "Gabriel Jesus",
+    "Gabriel Jesus",
+    "br"
+   ],
+   [
+    "Firmino",
+    "Roberto Firmino",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Peru",
+  "opp": "Čile",
+  "score": "3-0",
+  "comp": "Kopa Amerika 2019, polufinale",
+  "season": "2019",
+  "y": 2019,
+  "note": "Peru izbacio dvostrukog branioca titule i stigao do finala",
+  "form": "4-2-3-1",
+  "kit": [
+   "sash",
+   "#ffffff",
+   "#d91023"
+  ],
+  "okit": [
+   "solid",
+   "#d52b1e",
+   "#0039a6"
+  ],
+  "p": [
+   [
+    "Gallese",
+    "Pedro Gallese",
+    "pe"
+   ],
+   [
+    "Trauco",
+    "Miguel Trauco",
+    "pe"
+   ],
+   [
+    "Abram",
+    "Luis Abram",
+    "pe"
+   ],
+   [
+    "Zambrano",
+    "Carlos Zambrano",
+    "pe"
+   ],
+   [
+    "Advíncula",
+    "Luis Advíncula",
+    "pe"
+   ],
+   [
+    "Yotún",
+    "Yoshimar Yotún",
+    "pe"
+   ],
+   [
+    "Tapia",
+    "Renato Tapia",
+    "pe"
+   ],
+   [
+    "Flores",
+    "Edison Flores",
+    "pe"
+   ],
+   [
+    "Cueva",
+    "Christian Cueva",
+    "pe"
+   ],
+   [
+    "Carrillo",
+    "André Carrillo",
+    "pe"
+   ],
+   [
+    "Guerrero",
+    "Paolo Guerrero",
+    "pe"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "Brazil",
+  "score": "1-0",
+  "comp": "Kopa Amerika 2021, finale",
+  "season": "2021",
+  "y": 2021,
+  "note": "Prva titula Argentine posle 28 godina, osvojena na Marakani",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffdc02",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "E. Martínez",
+    "Emiliano Martínez",
+    "ar"
+   ],
+   [
+    "Acuña",
+    "Marcos Acuña",
+    "ar"
+   ],
+   [
+    "Otamendi",
+    "Nicolás Otamendi",
+    "ar"
+   ],
+   [
+    "Romero",
+    "Cristian Romero",
+    "ar"
+   ],
+   [
+    "Montiel",
+    "Gonzalo Montiel",
+    "ar"
+   ],
+   [
+    "Lo Celso",
+    "Giovani Lo Celso",
+    "ar"
+   ],
+   [
+    "Paredes",
+    "Leandro Paredes",
+    "ar"
+   ],
+   [
+    "De Paul",
+    "Rodrigo De Paul",
+    "ar"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "L. Martínez",
+    "Lautaro Martínez",
+    "ar"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "Kolumbija",
+  "score": "1-0 prod.",
+  "comp": "Kopa Amerika 2024, finale",
+  "season": "2024",
+  "y": 2024,
+  "note": "Rekordna 16. titula Argentine; Lautaro presudio u 112. minutu",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#fcd116",
+   "#003893"
+  ],
+  "p": [
+   [
+    "E. Martínez",
+    "Emiliano Martínez",
+    "ar"
+   ],
+   [
+    "Tagliafico",
+    "Nicolás Tagliafico",
+    "ar"
+   ],
+   [
+    "L. Martínez",
+    "Lisandro Martínez",
+    "ar"
+   ],
+   [
+    "Romero",
+    "Cristian Romero",
+    "ar"
+   ],
+   [
+    "Montiel",
+    "Gonzalo Montiel",
+    "ar"
+   ],
+   [
+    "Mac Allister",
+    "Alexis Mac Allister",
+    "ar"
+   ],
+   [
+    "Enzo Fernández",
+    "Enzo Fernández",
+    "ar"
+   ],
+   [
+    "De Paul",
+    "Rodrigo De Paul",
+    "ar"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Álvarez",
+    "Julián Álvarez",
+    "ar"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Kolumbija",
+  "opp": "Urugvaj",
+  "score": "1-0",
+  "comp": "Kopa Amerika 2024, polufinale",
+  "season": "2024",
+  "y": 2024,
+  "note": "Kolumbija celo drugo poluvreme igrala sa igračem manje",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#fcd116",
+   "#003893"
+  ],
+  "okit": [
+   "solid",
+   "#5cbfeb",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Vargas",
+    "Camilo Vargas",
+    "co"
+   ],
+   [
+    "Mojica",
+    "Johan Mojica",
+    "co"
+   ],
+   [
+    "Cuesta",
+    "Carlos Cuesta",
+    "co"
+   ],
+   [
+    "Sánchez",
+    "Davinson Sánchez",
+    "co"
+   ],
+   [
+    "Muñoz",
+    "Daniel Muñoz",
+    "co"
+   ],
+   [
+    "Lerma",
+    "Jefferson Lerma",
+    "co"
+   ],
+   [
+    "Ríos",
+    "Richard Ríos",
+    "co"
+   ],
+   [
+    "Díaz",
+    "Luis Díaz",
+    "co"
+   ],
+   [
+    "James",
+    "James Rodríguez",
+    "co"
+   ],
+   [
+    "Arias",
+    "Jhon Arias",
+    "co"
+   ],
+   [
+    "Córdoba",
+    "Jhon Córdoba",
+    "co"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Venecuela",
+  "opp": "Meksiko",
+  "score": "1-0",
+  "comp": "Kopa Amerika 2024, grupa B",
+  "season": "2024",
+  "y": 2024,
+  "note": "Venecuela osvojila grupu sa tri pobede",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#7b1e2b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#006847",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Romo",
+    "Rafael Romo",
+    "ve"
+   ],
+   [
+    "Navarro",
+    "Miguel Navarro",
+    "ve"
+   ],
+   [
+    "Osorio",
+    "Yordan Osorio",
+    "ve"
+   ],
+   [
+    "Ferraresi",
+    "Nahuel Ferraresi",
+    "ve"
+   ],
+   [
+    "Aramburu",
+    "Jon Aramburu",
+    "ve"
+   ],
+   [
+    "Herrera",
+    "Yangel Herrera",
+    "ve"
+   ],
+   [
+    "Martínez",
+    "José Andrés Martínez",
+    "ve"
+   ],
+   [
+    "Soteldo",
+    "Yeferson Soteldo",
+    "ve"
+   ],
+   [
+    "Savarino",
+    "Jefferson Savarino",
+    "ve"
+   ],
+   [
+    "Bello",
+    "Eduard Bello",
+    "ve"
+   ],
+   [
+    "Rondón",
+    "Salomón Rondón",
+    "ve"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Zambija",
+  "opp": "Obala Slonovače",
+  "score": "0-0 (8-7 pen.)",
+  "comp": "Afrički kup nacija 2012, finale",
+  "season": "2012",
+  "y": 2012,
+  "note": "Titula u Librevilu, gde je 1993. stradala generacija Zambije",
+  "form": "4-4-1-1",
+  "kit": [
+   "solid",
+   "#198a00",
+   "#ef7d00"
+  ],
+  "okit": [
+   "solid",
+   "#ff8200",
+   "#009e60"
+  ],
+  "p": [
+   [
+    "Mweene",
+    "Kennedy Mweene",
+    "zm"
+   ],
+   [
+    "Musonda",
+    "Joseph Musonda",
+    "zm"
+   ],
+   [
+    "Himoonde",
+    "Hijani Himoonde",
+    "zm"
+   ],
+   [
+    "Sunzu",
+    "Stoppila Sunzu",
+    "zm"
+   ],
+   [
+    "Nkausu",
+    "Davies Nkausu",
+    "zm"
+   ],
+   [
+    "Kalaba",
+    "Rainford Kalaba",
+    "zm"
+   ],
+   [
+    "Sinkala",
+    "Nathan Sinkala",
+    "zm"
+   ],
+   [
+    "Chansa",
+    "Isaac Chansa",
+    "zm"
+   ],
+   [
+    "Mayuka",
+    "Emmanuel Mayuka",
+    "zm"
+   ],
+   [
+    "Lungu",
+    "Chisamba Lungu",
+    "zm"
+   ],
+   [
+    "Katongo",
+    "Christopher Katongo",
+    "zm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Nigerija",
+  "opp": "Burkina Faso",
+  "score": "1-0",
+  "comp": "Afrički kup nacija 2013, finale",
+  "season": "2013",
+  "y": 2013,
+  "note": "Treća titula Nigerije, osvojena u Johanesburgu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#008751",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#009e49",
+   "#ef2b2d"
+  ],
+  "p": [
+   [
+    "Enyeama",
+    "Vincent Enyeama",
+    "ng"
+   ],
+   [
+    "Echiéjilé",
+    "Elderson Echiéjilé",
+    "ng"
+   ],
+   [
+    "Oboabona",
+    "Godfrey Oboabona",
+    "ng"
+   ],
+   [
+    "Omeruo",
+    "Kenneth Omeruo",
+    "ng"
+   ],
+   [
+    "Ambrose",
+    "Efe Ambrose",
+    "ng"
+   ],
+   [
+    "Mikel",
+    "John Obi Mikel",
+    "ng"
+   ],
+   [
+    "Onazi",
+    "Ogenyi Onazi",
+    "ng"
+   ],
+   [
+    "Ideye",
+    "Brown Ideye",
+    "ng"
+   ],
+   [
+    "Mba",
+    "Sunday Mba",
+    "ng"
+   ],
+   [
+    "Moses",
+    "Victor Moses",
+    "ng"
+   ],
+   [
+    "Uche",
+    "Ikechukwu Uche",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Obala Slonovače",
+  "opp": "Gana",
+  "score": "0-0 (9-8 pen.)",
+  "comp": "Afrički kup nacija 2015, finale",
+  "season": "2015",
+  "y": 2015,
+  "note": "Druga titula Slonova; odlučujući penal izveo golman",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#ff8200",
+   "#009e60"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Barry",
+    "Boubacar Barry",
+    "ci"
+   ],
+   [
+    "Kanon",
+    "Wilfried Kanon",
+    "ci"
+   ],
+   [
+    "K. Touré",
+    "Kolo Touré",
+    "ci"
+   ],
+   [
+    "Bailly",
+    "Eric Bailly",
+    "ci"
+   ],
+   [
+    "Tiéné",
+    "Siaka Tiéné",
+    "ci"
+   ],
+   [
+    "Y. Touré",
+    "Yaya Touré",
+    "ci"
+   ],
+   [
+    "Serey Dié",
+    "Serey Dié",
+    "ci"
+   ],
+   [
+    "Aurier",
+    "Serge Aurier",
+    "ci"
+   ],
+   [
+    "Gervinho",
+    "Gervinho",
+    "ci"
+   ],
+   [
+    "Bony",
+    "Wilfried Bony",
+    "ci"
+   ],
+   [
+    "Gradel",
+    "Max Gradel",
+    "ci"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Kamerun",
+  "opp": "Egipat",
+  "score": "2-1",
+  "comp": "Afrički kup nacija 2017, finale",
+  "season": "2017",
+  "y": 2017,
+  "note": "Peta titula Kameruna; Aboubakar pogodio u 88. minutu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#007a5e",
+   "#ce1126"
+  ],
+  "okit": [
+   "solid",
+   "#ce1126",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ondoa",
+    "Fabrice Ondoa",
+    "cm"
+   ],
+   [
+    "Oyongo",
+    "Ambroise Oyongo",
+    "cm"
+   ],
+   [
+    "Teikeu",
+    "Adolphe Teikeu",
+    "cm"
+   ],
+   [
+    "Ngadeu",
+    "Michael Ngadeu-Ngadjui",
+    "cm"
+   ],
+   [
+    "Fai",
+    "Collins Fai",
+    "cm"
+   ],
+   [
+    "Djoum",
+    "Arnaud Djoum",
+    "cm"
+   ],
+   [
+    "Siani",
+    "Sébastien Siani",
+    "cm"
+   ],
+   [
+    "Moukandjo",
+    "Benjamin Moukandjo",
+    "cm"
+   ],
+   [
+    "Zoua",
+    "Jacques Zoua",
+    "cm"
+   ],
+   [
+    "Bassogog",
+    "Christian Bassogog",
+    "cm"
+   ],
+   [
+    "Ndip Tambe",
+    "Robert Ndip Tambe",
+    "cm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Egipat",
+  "opp": "Kamerun",
+  "score": "1-2",
+  "comp": "Afrički kup nacija 2017, finale",
+  "season": "2017",
+  "y": 2017,
+  "note": "Egipat stigao do finala na prvom AKN posle sedam godina",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ce1126",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#007a5e",
+   "#ce1126"
+  ],
+  "p": [
+   [
+    "El-Hadary",
+    "Essam El-Hadary",
+    "eg"
+   ],
+   [
+    "Fathy",
+    "Ahmed Fathy",
+    "eg"
+   ],
+   [
+    "Gabr",
+    "Ali Gabr",
+    "eg"
+   ],
+   [
+    "Hegazi",
+    "Ahmed Hegazi",
+    "eg"
+   ],
+   [
+    "Elmohamady",
+    "Ahmed Elmohamady",
+    "eg"
+   ],
+   [
+    "Elneny",
+    "Mohamed Elneny",
+    "eg"
+   ],
+   [
+    "Hamed",
+    "Tarek Hamed",
+    "eg"
+   ],
+   [
+    "Trézéguet",
+    "Trézéguet",
+    "eg"
+   ],
+   [
+    "El Said",
+    "Abdallah El Said",
+    "eg"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ],
+   [
+    "Warda",
+    "Amr Warda",
+    "eg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Alžir",
+  "opp": "Senegal",
+  "score": "1-0",
+  "comp": "Afrički kup nacija 2019, finale",
+  "season": "2019",
+  "y": 2019,
+  "note": "Gol već u 2. minutu doneo Alžiru drugu titulu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#006233"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00853f"
+  ],
+  "p": [
+   [
+    "M'Bolhi",
+    "Raïs M'Bolhi",
+    "dz"
+   ],
+   [
+    "Bensebaini",
+    "Ramy Bensebaini",
+    "dz"
+   ],
+   [
+    "Benlamri",
+    "Djamel Benlamri",
+    "dz"
+   ],
+   [
+    "Mandi",
+    "Aïssa Mandi",
+    "dz"
+   ],
+   [
+    "Zeffane",
+    "Mehdi Zeffane",
+    "dz"
+   ],
+   [
+    "Bennacer",
+    "Ismaël Bennacer",
+    "dz"
+   ],
+   [
+    "Guedioura",
+    "Adlène Guedioura",
+    "dz"
+   ],
+   [
+    "Feghouli",
+    "Sofiane Feghouli",
+    "dz"
+   ],
+   [
+    "Belaïli",
+    "Youcef Belaïli",
+    "dz"
+   ],
+   [
+    "Bounedjah",
+    "Baghdad Bounedjah",
+    "dz"
+   ],
+   [
+    "Mahrez",
+    "Riyad Mahrez",
+    "dz"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Senegal",
+  "opp": "Egipat",
+  "score": "0-0 (4-2 pen.)",
+  "comp": "Afrički kup nacija 2021, finale",
+  "season": "2021",
+  "y": 2022,
+  "note": "Prva titula Senegala posle dva izgubljena finala",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00853f"
+  ],
+  "okit": [
+   "solid",
+   "#ce1126",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "É. Mendy",
+    "Édouard Mendy",
+    "sn"
+   ],
+   [
+    "Ciss",
+    "Saliou Ciss",
+    "sn"
+   ],
+   [
+    "Diallo",
+    "Abdou Diallo",
+    "sn"
+   ],
+   [
+    "Koulibaly",
+    "Kalidou Koulibaly",
+    "sn"
+   ],
+   [
+    "B. Sarr",
+    "Bouna Sarr",
+    "sn"
+   ],
+   [
+    "Gueye",
+    "Idrissa Gueye",
+    "sn"
+   ],
+   [
+    "N. Mendy",
+    "Nampalys Mendy",
+    "sn"
+   ],
+   [
+    "Kouyaté",
+    "Cheikhou Kouyaté",
+    "sn"
+   ],
+   [
+    "Mané",
+    "Sadio Mané",
+    "sn"
+   ],
+   [
+    "Diédhiou",
+    "Famara Diédhiou",
+    "sn"
+   ],
+   [
+    "I. Sarr",
+    "Ismaïla Sarr",
+    "sn"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Obala Slonovače",
+  "opp": "Nigerija",
+  "score": "2-1",
+  "comp": "Afrički kup nacija 2023, finale",
+  "season": "2023",
+  "y": 2024,
+  "note": "Domaćin prvak iako je u grupi izgubio 0-4 od Ekvatorijalne Gvineje",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ff8200",
+   "#009e60"
+  ],
+  "okit": [
+   "solid",
+   "#008751",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Y. Fofana",
+    "Yahia Fofana",
+    "ci"
+   ],
+   [
+    "Konan",
+    "Ghislain Konan",
+    "ci"
+   ],
+   [
+    "Ndicka",
+    "Evan Ndicka",
+    "ci"
+   ],
+   [
+    "Kossounou",
+    "Odilon Kossounou",
+    "ci"
+   ],
+   [
+    "Aurier",
+    "Serge Aurier",
+    "ci"
+   ],
+   [
+    "S. Fofana",
+    "Seko Fofana",
+    "ci"
+   ],
+   [
+    "Seri",
+    "Jean Michaël Seri",
+    "ci"
+   ],
+   [
+    "Kessié",
+    "Franck Kessié",
+    "ci"
+   ],
+   [
+    "Adingra",
+    "Simon Adingra",
+    "ci"
+   ],
+   [
+    "Haller",
+    "Sébastien Haller",
+    "ci"
+   ],
+   [
+    "Gradel",
+    "Max Gradel",
+    "ci"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Nigerija",
+  "opp": "Obala Slonovače",
+  "score": "1-2",
+  "comp": "Afrički kup nacija 2023, finale",
+  "season": "2023",
+  "y": 2024,
+  "note": "Nigerija povela, ali domaćin preokrenuo u Abidžanu",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#008751",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ff8200",
+   "#009e60"
+  ],
+  "p": [
+   [
+    "Nwabili",
+    "Stanley Nwabili",
+    "ng"
+   ],
+   [
+    "Bassey",
+    "Calvin Bassey",
+    "ng"
+   ],
+   [
+    "Troost-Ekong",
+    "William Troost-Ekong",
+    "ng"
+   ],
+   [
+    "Ajayi",
+    "Semi Ajayi",
+    "ng"
+   ],
+   [
+    "Zaidu",
+    "Zaidu Sanusi",
+    "ng"
+   ],
+   [
+    "Iwobi",
+    "Alex Iwobi",
+    "ng"
+   ],
+   [
+    "Onyeka",
+    "Frank Onyeka",
+    "ng"
+   ],
+   [
+    "Aina",
+    "Ola Aina",
+    "ng"
+   ],
+   [
+    "Lookman",
+    "Ademola Lookman",
+    "ng"
+   ],
+   [
+    "Osimhen",
+    "Victor Osimhen",
+    "ng"
+   ],
+   [
+    "Chukwueze",
+    "Samuel Chukwueze",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Zelenortska Ostrva",
+  "opp": "Gana",
+  "score": "2-1",
+  "comp": "Afrički kup nacija 2023, grupa B",
+  "season": "2023",
+  "y": 2024,
+  "note": "Pobedonosni gol u 92. minutu; Plave ajkule kasnije osvojile grupu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#003893",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Vozinha",
+    "Vozinha",
+    "cv"
+   ],
+   [
+    "João Paulo",
+    "João Paulo",
+    "cv"
+   ],
+   [
+    "Pico",
+    "Pico",
+    "cv"
+   ],
+   [
+    "Logan Costa",
+    "Logan Costa",
+    "cv"
+   ],
+   [
+    "Moreira",
+    "Steven Moreira",
+    "cv"
+   ],
+   [
+    "Monteiro",
+    "Jamiro Monteiro",
+    "cv"
+   ],
+   [
+    "Pina",
+    "Kevin Pina",
+    "cv"
+   ],
+   [
+    "Duarte",
+    "Deroy Duarte",
+    "cv"
+   ],
+   [
+    "Jovane Cabral",
+    "Jovane Cabral",
+    "cv"
+   ],
+   [
+    "Bebé",
+    "Bebé",
+    "cv"
+   ],
+   [
+    "Ryan Mendes",
+    "Ryan Mendes",
+    "cv"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Maroko",
+  "opp": "Kamerun",
+  "score": "2-0",
+  "comp": "Afrički kup nacija 2025, četvrtfinale",
+  "season": "2025",
+  "y": 2026,
+  "note": "Domaćin Maroko u polufinalu AKN prvi put posle 2004.",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c1272d",
+   "#006233"
+  ],
+  "okit": [
+   "solid",
+   "#007a5e",
+   "#ce1126"
+  ],
+  "p": [
+   [
+    "Bounou",
+    "Yassine Bounou",
+    "ma"
+   ],
+   [
+    "Mazraoui",
+    "Noussair Mazraoui",
+    "ma"
+   ],
+   [
+    "Masina",
+    "Adam Masina",
+    "ma"
+   ],
+   [
+    "Aguerd",
+    "Nayef Aguerd",
+    "ma"
+   ],
+   [
+    "Hakimi",
+    "Achraf Hakimi",
+    "ma"
+   ],
+   [
+    "Saibari",
+    "Ismael Saibari",
+    "ma"
+   ],
+   [
+    "El Aynaoui",
+    "Neil El Aynaoui",
+    "ma"
+   ],
+   [
+    "El Khannouss",
+    "Bilal El Khannouss",
+    "ma"
+   ],
+   [
+    "Abde",
+    "Abde Ezzalzouli",
+    "ma"
+   ],
+   [
+    "El Kaabi",
+    "Ayoub El Kaabi",
+    "ma"
+   ],
+   [
+    "Brahim",
+    "Brahim Díaz",
+    "ma"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Portugal",
+  "opp": "Holandija",
+  "score": "1-0",
+  "comp": "Liga nacija 2019, finale",
+  "season": "2019",
+  "y": 2019,
+  "note": "Portugal prvi osvajač Lige nacija, na domaćem terenu u Portu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "okit": [
+   "solid",
+   "#f36c21",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Rui Patrício",
+    "Rui Patrício",
+    "pt"
+   ],
+   [
+    "Guerreiro",
+    "Raphaël Guerreiro",
+    "pt"
+   ],
+   [
+    "Fonte",
+    "José Fonte",
+    "pt"
+   ],
+   [
+    "Rúben Dias",
+    "Rúben Dias",
+    "pt"
+   ],
+   [
+    "Semedo",
+    "Nélson Semedo",
+    "pt"
+   ],
+   [
+    "Bruno Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "Danilo",
+    "Danilo Pereira",
+    "pt"
+   ],
+   [
+    "William Carvalho",
+    "William Carvalho",
+    "pt"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Guedes",
+    "Gonçalo Guedes",
+    "pt"
+   ],
+   [
+    "Bernardo Silva",
+    "Bernardo Silva",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Holandija",
+  "opp": "Portugal",
+  "score": "0-1",
+  "comp": "Liga nacija 2019, finale",
+  "season": "2019",
+  "y": 2019,
+  "note": "Kumanova Holandija izgubila prvo finale Lige nacija",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#f36c21",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "p": [
+   [
+    "Cillessen",
+    "Jasper Cillessen",
+    "nl"
+   ],
+   [
+    "Blind",
+    "Daley Blind",
+    "nl"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "De Ligt",
+    "Matthijs de Ligt",
+    "nl"
+   ],
+   [
+    "Dumfries",
+    "Denzel Dumfries",
+    "nl"
+   ],
+   [
+    "Wijnaldum",
+    "Georginio Wijnaldum",
+    "nl"
+   ],
+   [
+    "De Jong",
+    "Frenkie de Jong",
+    "nl"
+   ],
+   [
+    "De Roon",
+    "Marten de Roon",
+    "nl"
+   ],
+   [
+    "Babel",
+    "Ryan Babel",
+    "nl"
+   ],
+   [
+    "Memphis",
+    "Memphis Depay",
+    "nl"
+   ],
+   [
+    "Bergwijn",
+    "Steven Bergwijn",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Francuska",
+  "opp": "Španija",
+  "score": "2-1",
+  "comp": "Liga nacija 2021, finale",
+  "season": "2021",
+  "y": 2021,
+  "note": "Francuska preokrenula na San Siru za prvi trofej Lige nacija",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#1d2b5b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Kimpembe",
+    "Presnel Kimpembe",
+    "fr"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Koundé",
+    "Jules Koundé",
+    "fr"
+   ],
+   [
+    "Theo Hernández",
+    "Theo Hernández",
+    "fr"
+   ],
+   [
+    "Tchouaméni",
+    "Aurélien Tchouaméni",
+    "fr"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Pavard",
+    "Benjamin Pavard",
+    "fr"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ],
+   [
+    "Mbappé",
+    "Kylian Mbappé",
+    "fr"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Španija",
+  "opp": "Hrvatska",
+  "score": "0-0 (5-4 pen.)",
+  "comp": "Liga nacija 2023, finale",
+  "season": "2023",
+  "y": 2023,
+  "note": "Prvi trofej Španije posle 2012, osvojen u Roterdamu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "okit": [
+   "checks",
+   "#e4002b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Unai Simón",
+    "Unai Simón",
+    "es"
+   ],
+   [
+    "Jordi Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Laporte",
+    "Aymeric Laporte",
+    "es"
+   ],
+   [
+    "Le Normand",
+    "Robin Le Normand",
+    "es"
+   ],
+   [
+    "Navas",
+    "Jesús Navas",
+    "es"
+   ],
+   [
+    "Fabián",
+    "Fabián Ruiz",
+    "es"
+   ],
+   [
+    "Rodri",
+    "Rodri",
+    "es"
+   ],
+   [
+    "Yéremy Pino",
+    "Yéremy Pino",
+    "es"
+   ],
+   [
+    "Gavi",
+    "Gavi",
+    "es"
+   ],
+   [
+    "Asensio",
+    "Marco Asensio",
+    "es"
+   ],
+   [
+    "Morata",
+    "Álvaro Morata",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Hrvatska",
+  "opp": "Španija",
+  "score": "0-0 (4-5 pen.)",
+  "comp": "Liga nacija 2023, finale",
+  "season": "2023",
+  "y": 2023,
+  "note": "Hrvatska posle SP 2018. izgubila još jedno veliko finale",
+  "form": "4-3-3",
+  "kit": [
+   "checks",
+   "#e4002b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Livaković",
+    "Dominik Livaković",
+    "hr"
+   ],
+   [
+    "Perišić",
+    "Ivan Perišić",
+    "hr"
+   ],
+   [
+    "Erlić",
+    "Martin Erlić",
+    "hr"
+   ],
+   [
+    "Šutalo",
+    "Josip Šutalo",
+    "hr"
+   ],
+   [
+    "Juranović",
+    "Josip Juranović",
+    "hr"
+   ],
+   [
+    "Kovačić",
+    "Mateo Kovačić",
+    "hr"
+   ],
+   [
+    "Brozović",
+    "Marcelo Brozović",
+    "hr"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Ivanušec",
+    "Luka Ivanušec",
+    "hr"
+   ],
+   [
+    "Kramarić",
+    "Andrej Kramarić",
+    "hr"
+   ],
+   [
+    "Pašalić",
+    "Mario Pašalić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Portugal",
+  "opp": "Španija",
+  "score": "2-2 (5-3 pen.)",
+  "comp": "Liga nacija 2025, finale",
+  "season": "2025",
+  "y": 2025,
+  "note": "Druga titula Portugala u Ligi nacija, osvojena u Minhenu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Diogo Costa",
+    "Diogo Costa",
+    "pt"
+   ],
+   [
+    "Nuno Mendes",
+    "Nuno Mendes",
+    "pt"
+   ],
+   [
+    "Inácio",
+    "Gonçalo Inácio",
+    "pt"
+   ],
+   [
+    "Rúben Dias",
+    "Rúben Dias",
+    "pt"
+   ],
+   [
+    "João Neves",
+    "João Neves",
+    "pt"
+   ],
+   [
+    "Vitinha",
+    "Vitinha",
+    "pt"
+   ],
+   [
+    "Bernardo Silva",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "Conceição",
+    "Francisco Conceição",
+    "pt"
+   ],
+   [
+    "Bruno Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "Neto",
+    "Pedro Neto",
+    "pt"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Japan",
+  "opp": "Australija",
+  "score": "1-0 prod.",
+  "comp": "Azijski kup 2011, finale",
+  "season": "2011",
+  "y": 2011,
+  "note": "Rekordna četvrta titula Japana; volej Tadanarija Lija u produžetku",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#1c2a6b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "p": [
+   [
+    "Kawashima",
+    "Eiji Kawashima",
+    "jp"
+   ],
+   [
+    "Nagatomo",
+    "Yuto Nagatomo",
+    "jp"
+   ],
+   [
+    "Konno",
+    "Yasuyuki Konno",
+    "jp"
+   ],
+   [
+    "Yoshida",
+    "Maya Yoshida",
+    "jp"
+   ],
+   [
+    "Uchida",
+    "Atsuto Uchida",
+    "jp"
+   ],
+   [
+    "Endō",
+    "Yasuhito Endō",
+    "jp"
+   ],
+   [
+    "Hasebe",
+    "Makoto Hasebe",
+    "jp"
+   ],
+   [
+    "Fujimoto",
+    "Jungo Fujimoto",
+    "jp"
+   ],
+   [
+    "Honda",
+    "Keisuke Honda",
+    "jp"
+   ],
+   [
+    "Okazaki",
+    "Shinji Okazaki",
+    "jp"
+   ],
+   [
+    "Maeda",
+    "Ryoichi Maeda",
+    "jp"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Australija",
+  "opp": "Južna Koreja",
+  "score": "2-1 prod.",
+  "comp": "Azijski kup 2015, finale",
+  "season": "2015",
+  "y": 2015,
+  "note": "Prva titula Australije u Aziji, osvojena kao domaćin u Sidneju",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "okit": [
+   "solid",
+   "#c60c30",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ryan",
+    "Mathew Ryan",
+    "au"
+   ],
+   [
+    "Davidson",
+    "Jason Davidson",
+    "au"
+   ],
+   [
+    "Spiranovic",
+    "Matthew Spiranovic",
+    "au"
+   ],
+   [
+    "Sainsbury",
+    "Trent Sainsbury",
+    "au"
+   ],
+   [
+    "Franjić",
+    "Ivan Franjić",
+    "au"
+   ],
+   [
+    "Milligan",
+    "Mark Milligan",
+    "au"
+   ],
+   [
+    "Jedinak",
+    "Mile Jedinak",
+    "au"
+   ],
+   [
+    "Luongo",
+    "Massimo Luongo",
+    "au"
+   ],
+   [
+    "Leckie",
+    "Mathew Leckie",
+    "au"
+   ],
+   [
+    "Cahill",
+    "Tim Cahill",
+    "au"
+   ],
+   [
+    "Kruse",
+    "Robbie Kruse",
+    "au"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Katar",
+  "opp": "Japan",
+  "score": "3-1",
+  "comp": "Azijski kup 2019, finale",
+  "season": "2019",
+  "y": 2019,
+  "note": "Prva titula Katara; na celom turniru primio samo jedan gol",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#8a1538",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1c2a6b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Al-Sheeb",
+    "Saad Al-Sheeb",
+    "qa"
+   ],
+   [
+    "Salman",
+    "Tarek Salman",
+    "qa"
+   ],
+   [
+    "Khoukhi",
+    "Boualem Khoukhi",
+    "qa"
+   ],
+   [
+    "Al-Rawi",
+    "Bassam Al-Rawi",
+    "qa"
+   ],
+   [
+    "Abdelkarim Hassan",
+    "Abdelkarim Hassan",
+    "qa"
+   ],
+   [
+    "Hatem",
+    "Abdulaziz Hatem",
+    "qa"
+   ],
+   [
+    "Madibo",
+    "Assim Madibo",
+    "qa"
+   ],
+   [
+    "Pedro Miguel",
+    "Pedro Miguel",
+    "qa"
+   ],
+   [
+    "Afif",
+    "Akram Afif",
+    "qa"
+   ],
+   [
+    "Almoez Ali",
+    "Almoez Ali",
+    "qa"
+   ],
+   [
+    "Al-Haydos",
+    "Hassan Al-Haydos",
+    "qa"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Japan",
+  "opp": "Katar",
+  "score": "1-3",
+  "comp": "Azijski kup 2019, finale",
+  "season": "2019",
+  "y": 2019,
+  "note": "Prvi poraz Japana u finalu Azijskog kupa posle četiri titule",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#1c2a6b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#8a1538",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Gonda",
+    "Shūichi Gonda",
+    "jp"
+   ],
+   [
+    "Nagatomo",
+    "Yuto Nagatomo",
+    "jp"
+   ],
+   [
+    "Yoshida",
+    "Maya Yoshida",
+    "jp"
+   ],
+   [
+    "Tomiyasu",
+    "Takehiro Tomiyasu",
+    "jp"
+   ],
+   [
+    "Sakai",
+    "Hiroki Sakai",
+    "jp"
+   ],
+   [
+    "Shiotani",
+    "Tsukasa Shiotani",
+    "jp"
+   ],
+   [
+    "Shibasaki",
+    "Gaku Shibasaki",
+    "jp"
+   ],
+   [
+    "Haraguchi",
+    "Genki Haraguchi",
+    "jp"
+   ],
+   [
+    "Minamino",
+    "Takumi Minamino",
+    "jp"
+   ],
+   [
+    "Dōan",
+    "Ritsu Dōan",
+    "jp"
+   ],
+   [
+    "Ōsako",
+    "Yuya Ōsako",
+    "jp"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Jordan",
+  "opp": "Južna Koreja",
+  "score": "2-0",
+  "comp": "Azijski kup 2023, polufinale",
+  "season": "2023",
+  "y": 2024,
+  "note": "Jordan prvi put u finalu Azijskog kupa",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#ce1126"
+  ],
+  "okit": [
+   "solid",
+   "#c60c30",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Abu Layla",
+    "Yazid Abu Layla",
+    "jo"
+   ],
+   [
+    "Marei",
+    "Bara' Marei",
+    "jo"
+   ],
+   [
+    "Al-Arab",
+    "Yazan Al-Arab",
+    "jo"
+   ],
+   [
+    "Nasib",
+    "Abdallah Nasib",
+    "jo"
+   ],
+   [
+    "Abu Hashish",
+    "Mohammad Abu Hashish",
+    "jo"
+   ],
+   [
+    "Al-Rawabdeh",
+    "Noor Al-Rawabdeh",
+    "jo"
+   ],
+   [
+    "Al-Rashdan",
+    "Nizar Al-Rashdan",
+    "jo"
+   ],
+   [
+    "Haddad",
+    "Ihsan Haddad",
+    "jo"
+   ],
+   [
+    "Al-Mardi",
+    "Mahmoud Al-Mardi",
+    "jo"
+   ],
+   [
+    "Al-Naimat",
+    "Yazan Al-Naimat",
+    "jo"
+   ],
+   [
+    "Al-Taamari",
+    "Musa Al-Taamari",
+    "jo"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Meksiko",
+  "opp": "SAD",
+  "score": "4-2",
+  "comp": "Zlatni kup 2011, finale",
+  "season": "2011",
+  "y": 2011,
+  "note": "Meksiko preokrenuo 0-2 na Rouz boulu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#006847",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "p": [
+   [
+    "Talavera",
+    "Alfredo Talavera",
+    "mx"
+   ],
+   [
+    "Salcido",
+    "Carlos Salcido",
+    "mx"
+   ],
+   [
+    "Moreno",
+    "Héctor Moreno",
+    "mx"
+   ],
+   [
+    "Márquez",
+    "Rafael Márquez",
+    "mx"
+   ],
+   [
+    "Juárez",
+    "Efraín Juárez",
+    "mx"
+   ],
+   [
+    "Guardado",
+    "Andrés Guardado",
+    "mx"
+   ],
+   [
+    "Torrado",
+    "Gerardo Torrado",
+    "mx"
+   ],
+   [
+    "Castro",
+    "Israel Castro",
+    "mx"
+   ],
+   [
+    "Dos Santos",
+    "Giovani dos Santos",
+    "mx"
+   ],
+   [
+    "Chicharito",
+    "Javier Hernández",
+    "mx"
+   ],
+   [
+    "Barrera",
+    "Pablo Barrera",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Brazil",
+  "opp": "Nemačka",
+  "score": "1-1 (5-4 pen.)",
+  "comp": "OI 2016, finale",
+  "season": "2016",
+  "y": 2016,
+  "note": "Prvo olimpijsko zlato Brazila, osvojeno na Marakani",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffdc02",
+   "#009c3b"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Weverton",
+    "Weverton",
+    "br"
+   ],
+   [
+    "Douglas Santos",
+    "Douglas Santos",
+    "br"
+   ],
+   [
+    "Rodrigo Caio",
+    "Rodrigo Caio",
+    "br"
+   ],
+   [
+    "Marquinhos",
+    "Marquinhos",
+    "br"
+   ],
+   [
+    "Zeca",
+    "Zeca",
+    "br"
+   ],
+   [
+    "Renato Augusto",
+    "Renato Augusto",
+    "br"
+   ],
+   [
+    "Walace",
+    "Walace",
+    "br"
+   ],
+   [
+    "Neymar",
+    "Neymar",
+    "br"
+   ],
+   [
+    "Luan",
+    "Luan",
+    "br"
+   ],
+   [
+    "Gabriel Jesus",
+    "Gabriel Jesus",
+    "br"
+   ],
+   [
+    "Gabigol",
+    "Gabriel Barbosa",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Meksiko",
+  "opp": "Brazil",
+  "score": "2-1",
+  "comp": "OI 2012, finale",
+  "season": "2012",
+  "y": 2012,
+  "note": "Prvo olimpijsko zlato Meksika; prvi gol posle 28 sekundi",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#006847",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffdc02",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "Corona",
+    "José de Jesús Corona",
+    "mx"
+   ],
+   [
+    "Chávez",
+    "Dárvin Chávez",
+    "mx"
+   ],
+   [
+    "Mier",
+    "Hiram Mier",
+    "mx"
+   ],
+   [
+    "Reyes",
+    "Diego Reyes",
+    "mx"
+   ],
+   [
+    "Jiménez",
+    "Israel Jiménez",
+    "mx"
+   ],
+   [
+    "Enríquez",
+    "Jorge Enríquez",
+    "mx"
+   ],
+   [
+    "Herrera",
+    "Héctor Herrera",
+    "mx"
+   ],
+   [
+    "Salcido",
+    "Carlos Salcido",
+    "mx"
+   ],
+   [
+    "Fabián",
+    "Marco Fabián",
+    "mx"
+   ],
+   [
+    "Peralta",
+    "Oribe Peralta",
+    "mx"
+   ],
+   [
+    "Aquino",
+    "Javier Aquino",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Brazil",
+  "opp": "Španija",
+  "score": "2-1 prod.",
+  "comp": "OI 2020, finale",
+  "season": "2020",
+  "y": 2021,
+  "note": "Brazil odbranio olimpijsko zlato u Jokohami",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffdc02",
+   "#009c3b"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Santos",
+    "Aderbar Santos",
+    "br"
+   ],
+   [
+    "Arana",
+    "Guilherme Arana",
+    "br"
+   ],
+   [
+    "Nino",
+    "Nino",
+    "br"
+   ],
+   [
+    "Diego Carlos",
+    "Diego Carlos",
+    "br"
+   ],
+   [
+    "Dani Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Douglas Luiz",
+    "Douglas Luiz",
+    "br"
+   ],
+   [
+    "Bruno Guimarães",
+    "Bruno Guimarães",
+    "br"
+   ],
+   [
+    "Matheus Cunha",
+    "Matheus Cunha",
+    "br"
+   ],
+   [
+    "Claudinho",
+    "Claudinho",
+    "br"
+   ],
+   [
+    "Antony",
+    "Antony",
+    "br"
+   ],
+   [
+    "Richarlison",
+    "Richarlison",
+    "br"
+   ]
+  ]
+ }
+]

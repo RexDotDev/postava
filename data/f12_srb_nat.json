@@ -1,0 +1,1740 @@
+[
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Gana",
+  "score": "0-1",
+  "comp": "SP 2010, grupa D",
+  "season": "SP 2010 - Gana",
+  "y": 2010,
+  "note": "Gjan pogodio iz penala posle igranja rukom u kaznenom prostoru",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Vidić",
+    "Nemanja Vidić",
+    "rs"
+   ],
+   [
+    "Luković",
+    "Aleksandar Luković",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Jovanović",
+    "Milan Jovanović",
+    "rs"
+   ],
+   [
+    "Stanković",
+    "Dejan Stanković",
+    "rs"
+   ],
+   [
+    "Milijaš",
+    "Nenad Milijaš",
+    "rs"
+   ],
+   [
+    "Krasić",
+    "Miloš Krasić",
+    "rs"
+   ],
+   [
+    "Žigić",
+    "Nikola Žigić",
+    "rs"
+   ],
+   [
+    "Pantelić",
+    "Marko Pantelić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Nemačka",
+  "score": "1-0",
+  "comp": "SP 2010, grupa D",
+  "season": "SP 2010 - Nemačka",
+  "y": 2010,
+  "note": "Kloze isključen, Podolski promašio penal: prvi poraz Nemaca u grupi SP od 1986.",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Vidić",
+    "Nemanja Vidić",
+    "rs"
+   ],
+   [
+    "Subotić",
+    "Neven Subotić",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Stanković",
+    "Dejan Stanković",
+    "rs"
+   ],
+   [
+    "Kuzmanović",
+    "Zdravko Kuzmanović",
+    "rs"
+   ],
+   [
+    "Jovanović",
+    "Milan Jovanović",
+    "rs"
+   ],
+   [
+    "Ninković",
+    "Miloš Ninković",
+    "rs"
+   ],
+   [
+    "Krasić",
+    "Miloš Krasić",
+    "rs"
+   ],
+   [
+    "Žigić",
+    "Nikola Žigić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Australija",
+  "score": "1-2",
+  "comp": "SP 2010, grupa D",
+  "season": "SP 2010 - Australija",
+  "y": 2010,
+  "note": "Kejhil i Holman za Australiju, Pantelić ublažio s klupe; Srbija ispala u grupi",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffc20e",
+   "#00843d"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Obradović",
+    "Ivan Obradović",
+    "rs"
+   ],
+   [
+    "Luković",
+    "Aleksandar Luković",
+    "rs"
+   ],
+   [
+    "Vidić",
+    "Nemanja Vidić",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Stanković",
+    "Dejan Stanković",
+    "rs"
+   ],
+   [
+    "Kuzmanović",
+    "Zdravko Kuzmanović",
+    "rs"
+   ],
+   [
+    "Jovanović",
+    "Milan Jovanović",
+    "rs"
+   ],
+   [
+    "Ninković",
+    "Miloš Ninković",
+    "rs"
+   ],
+   [
+    "Krasić",
+    "Miloš Krasić",
+    "rs"
+   ],
+   [
+    "Žigić",
+    "Nikola Žigić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Kostarika",
+  "score": "1-0",
+  "comp": "SP 2018, grupa E",
+  "season": "SP 2018 - Kostarika",
+  "y": 2018,
+  "note": "Jedini gol iz slobodnog udarca u Samari za pobedu na startu Mundijala",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#d7141a",
+   "#002b7f"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Tošić",
+    "Duško Tošić",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Milivojević",
+    "Luka Milivojević",
+    "rs"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Ljajić",
+    "Adem Ljajić",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Švajcarska",
+  "score": "1-2",
+  "comp": "SP 2018, grupa E",
+  "season": "SP 2018 - Švajcarska",
+  "y": 2018,
+  "note": "Džaka i Šaćiri (u 90. minutu) preokrenuli u Kalinjingradu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#d52b1e"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Tošić",
+    "Duško Tošić",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Milivojević",
+    "Luka Milivojević",
+    "rs"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Brazil",
+  "score": "0-2",
+  "comp": "SP 2018, grupa E",
+  "season": "SP 2018 - Brazil",
+  "y": 2018,
+  "note": "Paulinjo i Tijago Silva: Brazil prvi u grupi, Srbija ispala u Moskvi",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Rukavina",
+    "Antonio Rukavina",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Ljajić",
+    "Adem Ljajić",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Brazil",
+  "score": "0-2",
+  "comp": "SP 2022, grupa G",
+  "season": "SP 2022 - Brazil",
+  "y": 2022,
+  "note": "Rišarlison dva puta, drugi put makazicama – jedan od golova turnira",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "V. Milinković-Savić",
+    "Vanja Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Pavlović",
+    "Strahinja Pavlović",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Mladenović",
+    "Filip Mladenović",
+    "rs"
+   ],
+   [
+    "Gudelj",
+    "Nemanja Gudelj",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Kamerun",
+  "score": "3-3",
+  "comp": "SP 2022, grupa G",
+  "season": "SP 2022 - Kamerun",
+  "y": 2022,
+  "note": "Srbija vodila 3:1, a Abubakar je s klupe doneo Kamerunu remi",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#007a33",
+   "#e30613"
+  ],
+  "p": [
+   [
+    "V. Milinković-Savić",
+    "Vanja Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Pavlović",
+    "Strahinja Pavlović",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Maksimović",
+    "Nemanja Maksimović",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Švajcarska",
+  "score": "2-3",
+  "comp": "SP 2022, grupa G",
+  "season": "SP 2022 - Švajcarska",
+  "y": 2022,
+  "note": "Frojler u 48. minutu: Švajcarska u osmini finala, Srbija ponovo ispala u grupi",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#d52b1e"
+  ],
+  "p": [
+   [
+    "V. Milinković-Savić",
+    "Vanja Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Pavlović",
+    "Strahinja Pavlović",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Vlahović",
+    "Dušan Vlahović",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Engleska",
+  "score": "0-1",
+  "comp": "EP 2024, grupa C",
+  "season": "EP 2024 - Engleska",
+  "y": 2024,
+  "note": "Belingem glavom u 13. minutu u Gelzenkirhenu",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1b2a5b"
+  ],
+  "p": [
+   [
+    "Rajković",
+    "Predrag Rajković",
+    "rs"
+   ],
+   [
+    "Pavlović",
+    "Strahinja Pavlović",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Gudelj",
+    "Nemanja Gudelj",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Vlahović",
+    "Dušan Vlahović",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Slovenija",
+  "score": "1-1",
+  "comp": "EP 2024, grupa C",
+  "season": "EP 2024 - Slovenija",
+  "y": 2024,
+  "note": "Karničnik pogodio u 69. minutu, Luka Jović izjednačio glavom u 95.",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1e9bd7"
+  ],
+  "p": [
+   [
+    "Rajković",
+    "Predrag Rajković",
+    "rs"
+   ],
+   [
+    "Pavlović",
+    "Strahinja Pavlović",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Mladenović",
+    "Filip Mladenović",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Ilić",
+    "Ivan Ilić",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ],
+   [
+    "Vlahović",
+    "Dušan Vlahović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Danska",
+  "score": "0-0",
+  "comp": "EP 2024, grupa C",
+  "season": "EP 2024 - Danska",
+  "y": 2024,
+  "note": "Remi u Minhenu nije bio dovoljan: Srbija poslednja u grupi sa dva boda",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rajković",
+    "Predrag Rajković",
+    "rs"
+   ],
+   [
+    "Pavlović",
+    "Strahinja Pavlović",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Gudelj",
+    "Nemanja Gudelj",
+    "rs"
+   ],
+   [
+    "Ilić",
+    "Ivan Ilić",
+    "rs"
+   ],
+   [
+    "Mijailović",
+    "Srđan Mijailović",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Samardžić",
+    "Lazar Samardžić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Rumunija",
+  "score": "5-0",
+  "comp": "Kvalifikacije za SP 2010, grupa 7",
+  "season": "Kval. SP 2010 - Rumunija",
+  "y": 2009,
+  "note": "Pobeda na Marakani kojom je Srbija obezbedila plasman na SP u Južnoj Africi",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#fcd116",
+   "#002b7f"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Vidić",
+    "Nemanja Vidić",
+    "rs"
+   ],
+   [
+    "Luković",
+    "Aleksandar Luković",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Jovanović",
+    "Milan Jovanović",
+    "rs"
+   ],
+   [
+    "Stanković",
+    "Dejan Stanković",
+    "rs"
+   ],
+   [
+    "Milijaš",
+    "Nenad Milijaš",
+    "rs"
+   ],
+   [
+    "Krasić",
+    "Miloš Krasić",
+    "rs"
+   ],
+   [
+    "Žigić",
+    "Nikola Žigić",
+    "rs"
+   ],
+   [
+    "Pantelić",
+    "Marko Pantelić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Vels",
+  "score": "6-1",
+  "comp": "Kvalifikacije za SP 2014, grupa A",
+  "season": "Kval. SP 2014 - Vels",
+  "y": 2012,
+  "note": "Šest različitih strelaca u Novom Sadu; Bejl dao počasni gol iz slobodnjaka",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "halves",
+   "#ffffff",
+   "#00553a"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Nastasić",
+    "Matija Nastasić",
+    "rs"
+   ],
+   [
+    "Biševac",
+    "Milan Biševac",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Fejsa",
+    "Ljubomir Fejsa",
+    "rs"
+   ],
+   [
+    "Ignjovski",
+    "Aleksandar Ignjovski",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Đuričić",
+    "Filip Đuričić",
+    "rs"
+   ],
+   [
+    "Tošić",
+    "Zoran Tošić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Lazar Marković",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Hrvatska",
+  "score": "1-1",
+  "comp": "Kvalifikacije za SP 2014, grupa A",
+  "season": "Kval. SP 2014 - Hrvatska",
+  "y": 2013,
+  "note": "Mandžukić je doveo Hrvatsku u vođstvo na Marakani, domaćin izjednačio 12 minuta kasnije",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1d2c5e",
+   "#e30613"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Nastasić",
+    "Matija Nastasić",
+    "rs"
+   ],
+   [
+    "Subotić",
+    "Neven Subotić",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Fejsa",
+    "Ljubomir Fejsa",
+    "rs"
+   ],
+   [
+    "Tošić",
+    "Zoran Tošić",
+    "rs"
+   ],
+   [
+    "Marković",
+    "Lazar Marković",
+    "rs"
+   ],
+   [
+    "Đuričić",
+    "Filip Đuričić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Albanija",
+  "score": "2-0",
+  "comp": "Kvalifikacije za EP 2016, grupa I",
+  "season": "Kval. EP 2016 - Albanija",
+  "y": 2015,
+  "note": "Oba gola u nadoknadi u Elbasanu, godinu dana posle prekinutog meča u Beogradu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#e41e20",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "S. Mitrović",
+    "Stefan Mitrović",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Tomović",
+    "Nenad Tomović",
+    "rs"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Milivojević",
+    "Luka Milivojević",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Ljajić",
+    "Adem Ljajić",
+    "rs"
+   ],
+   [
+    "Tošić",
+    "Zoran Tošić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Irska",
+  "score": "1-0",
+  "comp": "Kvalifikacije za SP 2018, grupa D",
+  "season": "Kval. SP 2018 - Irska",
+  "y": 2017,
+  "note": "Pobeda u Dablinu uz igrača manje od 68. minuta, korak do Mundijala u Rusiji",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#169b62",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Stojković",
+    "Vladimir Stojković",
+    "rs"
+   ],
+   [
+    "Vuković",
+    "Jagoš Vuković",
+    "rs"
+   ],
+   [
+    "Maksimović",
+    "Nikola Maksimović",
+    "rs"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Milivojević",
+    "Luka Milivojević",
+    "rs"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Rukavina",
+    "Antonio Rukavina",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Škotska",
+  "score": "1-1 (4-5 pen.)",
+  "comp": "Baraž za EP 2020, finale",
+  "season": "Baraž EP 2020 - Škotska",
+  "y": 2020,
+  "note": "Jović izjednačio u 90. minutu, ali Škotska na penale izborila Euro",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1c2a5b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rajković",
+    "Predrag Rajković",
+    "rs"
+   ],
+   [
+    "Gudelj",
+    "Nemanja Gudelj",
+    "rs"
+   ],
+   [
+    "S. Mitrović",
+    "Stefan Mitrović",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Maksimović",
+    "Nemanja Maksimović",
+    "rs"
+   ],
+   [
+    "Lazović",
+    "Darko Lazović",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Portugal",
+  "score": "2-1",
+  "comp": "Kvalifikacije za SP 2022, grupa A",
+  "season": "Kval. SP 2022 - Portugal",
+  "y": 2021,
+  "note": "Mitrović glavom u 90. minutu na Luzu: Srbija direktno na SP u Kataru",
+  "form": "3-5-1-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#006341"
+  ],
+  "p": [
+   [
+    "Rajković",
+    "Predrag Rajković",
+    "rs"
+   ],
+   [
+    "Pavlović",
+    "Strahinja Pavlović",
+    "rs"
+   ],
+   [
+    "Milenković",
+    "Nikola Milenković",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Gudelj",
+    "Nemanja Gudelj",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Vlahović",
+    "Dušan Vlahović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija",
+  "opp": "Norveška",
+  "score": "2-0",
+  "comp": "Liga nacija B, grupa 4, 6. kolo",
+  "season": "LN 2022/23 - Norveška",
+  "y": 2022,
+  "note": "Pobeda u Oslu protiv Holanda i Edegora donela prvo mesto i ulazak u Ligu A",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#ce1126",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "V. Milinković-Savić",
+    "Vanja Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Pavlović",
+    "Strahinja Pavlović",
+    "rs"
+   ],
+   [
+    "S. Mitrović",
+    "Stefan Mitrović",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Kostić",
+    "Filip Kostić",
+    "rs"
+   ],
+   [
+    "Ilić",
+    "Ivan Ilić",
+    "rs"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Vlahović",
+    "Dušan Vlahović",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija U20",
+  "opp": "Brazil",
+  "score": "2-1 prod.",
+  "comp": "SP U20 2015, finale",
+  "season": "U20 SP 2015 - finale",
+  "y": 2015,
+  "note": "Prva svetska titula Srbije: odlučujući gol u 118. minutu u Oklendu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "Rajković",
+    "Predrag Rajković",
+    "rs"
+   ],
+   [
+    "Antonov",
+    "Nemanja Antonov",
+    "rs"
+   ],
+   [
+    "Babić",
+    "Srđan Babić",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Gajić",
+    "Milan Gajić",
+    "rs"
+   ],
+   [
+    "Maksimović",
+    "Nemanja Maksimović",
+    "rs"
+   ],
+   [
+    "Zdjelar",
+    "Saša Zdjelar",
+    "rs"
+   ],
+   [
+    "Mandić",
+    "Staniša Mandić",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Živković",
+    "Andrija Živković",
+    "rs"
+   ],
+   [
+    "Šaponjić",
+    "Ivan Šaponjić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Srbija U19",
+  "opp": "Francuska",
+  "score": "1-0",
+  "comp": "EP U19 2013, finale",
+  "season": "U19 EP 2013 - finale",
+  "y": 2013,
+  "note": "Prva titula prvaka Evrope do 19 godina za Srbiju, finale u Marijampolu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1f3a93",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rajković",
+    "Predrag Rajković",
+    "rs"
+   ],
+   [
+    "Antić",
+    "Nikola Antić",
+    "rs"
+   ],
+   [
+    "Filipović",
+    "Aleksandar Filipović",
+    "rs"
+   ],
+   [
+    "Veljković",
+    "Miloš Veljković",
+    "rs"
+   ],
+   [
+    "Golubović",
+    "Petar Golubović",
+    "rs"
+   ],
+   [
+    "Milinković-Savić",
+    "Sergej Milinković-Savić",
+    "rs"
+   ],
+   [
+    "Maksimović",
+    "Nemanja Maksimović",
+    "rs"
+   ],
+   [
+    "Đurđević",
+    "Uroš Đurđević",
+    "rs"
+   ],
+   [
+    "Luković",
+    "Andrija Luković",
+    "rs"
+   ],
+   [
+    "Pavlovski",
+    "Marko Pavlovski",
+    "rs"
+   ],
+   [
+    "Mitrović",
+    "Aleksandar Mitrović",
+    "rs"
+   ]
+  ]
+ }
+]

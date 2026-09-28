@@ -1,0 +1,2452 @@
+[
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olympiacos",
+  "opp": "CSKA Moskva",
+  "score": "62-61",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Istanbul: preokret sa -19 i koš za titulu u poslednjoj sekundi",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Mantzaris",
+    "Vangelis Mantzaris",
+    "gr"
+   ],
+   [
+    "Spanoulis",
+    "Vassilis Spanoulis",
+    "gr"
+   ],
+   [
+    "Kešelj",
+    "Marko Kešelj",
+    "rs"
+   ],
+   [
+    "Antić",
+    "Pero Antić",
+    "mk"
+   ],
+   [
+    "Dorsey",
+    "Joey Dorsey",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "CSKA Moskva",
+  "opp": "Olympiacos",
+  "score": "61-62",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Istanbul: CSKA ispustio vođstvo od 19 poena i izgubio poenom razlike",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Šiškauskas",
+    "Ramūnas Šiškauskas",
+    "lt"
+   ],
+   [
+    "Khryapa",
+    "Viktor Khryapa",
+    "ru"
+   ],
+   [
+    "Kirilenko",
+    "Andrei Kirilenko",
+    "ru"
+   ],
+   [
+    "Krstić",
+    "Nenad Krstić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olympiacos",
+  "opp": "Real Madrid",
+  "score": "100-88",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "London: Olimpijakos odbranio titulu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Law",
+    "Acie Law",
+    "us"
+   ],
+   [
+    "Spanoulis",
+    "Vassilis Spanoulis",
+    "gr"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Printezis",
+    "Georgios Printezis",
+    "gr"
+   ],
+   [
+    "Powell",
+    "Josh Powell",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Olympiacos",
+  "score": "88-100",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "London: prvo finale Reala pod Pablom Lasom",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Llull",
+    "Sergio Llull",
+    "es"
+   ],
+   [
+    "Fernández",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Suárez",
+    "Carlos Suárez",
+    "es"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Begić",
+    "Mirza Begić",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Maccabi Tel Aviv",
+  "opp": "Real Madrid",
+  "score": "98-86 OT",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Milano: šesta titula Makabija posle produžetka, trener Dejvid Blat",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Ohayon",
+    "Yogev Ohayon",
+    "il"
+   ],
+   [
+    "Hickman",
+    "Ricky Hickman",
+    "us"
+   ],
+   [
+    "Smith",
+    "Devin Smith",
+    "us"
+   ],
+   [
+    "Pnini",
+    "Guy Pnini",
+    "il"
+   ],
+   [
+    "Schortsanitis",
+    "Sofoklis Schortsanitis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Maccabi Tel Aviv",
+  "score": "86-98 OT",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Milano: Real posle produžetka ostao bez prve titule od 1995.",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "p": [
+   [
+    "Llull",
+    "Sergio Llull",
+    "es"
+   ],
+   [
+    "Fernández",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Darden",
+    "Tremmell Darden",
+    "us"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Bourousis",
+    "Ioannis Bourousis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Olympiacos",
+  "score": "78-59",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Madrid: deveta titula Reala, prva posle 20 godina",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Llull",
+    "Sergio Llull",
+    "es"
+   ],
+   [
+    "Carroll",
+    "Jaycee Carroll",
+    "us"
+   ],
+   [
+    "Fernández",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Reyes",
+    "Felipe Reyes",
+    "es"
+   ],
+   [
+    "Ayón",
+    "Gustavo Ayón",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olympiacos",
+  "opp": "Real Madrid",
+  "score": "59-78",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Madrid: treće finale Olimpijakosa u četiri sezone",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Mantzaris",
+    "Vangelis Mantzaris",
+    "gr"
+   ],
+   [
+    "Spanoulis",
+    "Vassilis Spanoulis",
+    "gr"
+   ],
+   [
+    "Darden",
+    "Tremmell Darden",
+    "us"
+   ],
+   [
+    "Printezis",
+    "Georgios Printezis",
+    "gr"
+   ],
+   [
+    "Dunston",
+    "Bryant Dunston",
+    "am"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "CSKA Moskva",
+  "opp": "Fenerbahçe",
+  "score": "101-96 OT",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Berlin: titula posle produžetka, prva za CSKA od 2008.",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "De Colo",
+    "Nando De Colo",
+    "fr"
+   ],
+   [
+    "Higgins",
+    "Cory Higgins",
+    "us"
+   ],
+   [
+    "Kurbanov",
+    "Nikita Kurbanov",
+    "ru"
+   ],
+   [
+    "Vorontsevich",
+    "Andrey Vorontsevich",
+    "ru"
+   ],
+   [
+    "Hines",
+    "Kyle Hines",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "CSKA Moskva",
+  "score": "96-101 OT",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Berlin: prvo finale Fenerbahčea, trener Željko Obradović",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Sloukas",
+    "Kostas Sloukas",
+    "gr"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Datome",
+    "Luigi Datome",
+    "it"
+   ],
+   [
+    "Veselý",
+    "Jan Veselý",
+    "cz"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "Olympiacos",
+  "score": "80-64",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Istanbul: prva titula nekog turskog kluba, trener Željko Obradović",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Dixon",
+    "Bobby Dixon",
+    "tr"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Veselý",
+    "Jan Veselý",
+    "cz"
+   ],
+   [
+    "Udoh",
+    "Ekpe Udoh",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olympiacos",
+  "opp": "Fenerbahçe",
+  "score": "64-80",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Istanbul: četvrto finale Olimpijakosa u šest sezona",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "Mantzaris",
+    "Vangelis Mantzaris",
+    "gr"
+   ],
+   [
+    "Spanoulis",
+    "Vassilis Spanoulis",
+    "gr"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Printezis",
+    "Georgios Printezis",
+    "gr"
+   ],
+   [
+    "Birch",
+    "Khem Birch",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Fenerbahçe",
+  "score": "85-80",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Beograd, Štark arena: deseta evropska titula Reala",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "Campazzo",
+    "Facundo Campazzo",
+    "ar"
+   ],
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Causeur",
+    "Fabien Causeur",
+    "fr"
+   ],
+   [
+    "Reyes",
+    "Felipe Reyes",
+    "es"
+   ],
+   [
+    "Ayón",
+    "Gustavo Ayón",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "Real Madrid",
+  "score": "80-85",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Beograd: treće uzastopno finale Fenerbahčea pod Obradovićem",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Wanamaker",
+    "Brad Wanamaker",
+    "us"
+   ],
+   [
+    "Gudurić",
+    "Marko Gudurić",
+    "rs"
+   ],
+   [
+    "Kalinić",
+    "Nikola Kalinić",
+    "rs"
+   ],
+   [
+    "Veselý",
+    "Jan Veselý",
+    "cz"
+   ],
+   [
+    "Düverioğlu",
+    "Ahmet Düverioğlu",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "CSKA Moskva",
+  "opp": "Anadolu Efes",
+  "score": "91-83",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Vitorija: osma titula CSKA, trener Dimitris Itudis",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Colo",
+    "Nando De Colo",
+    "fr"
+   ],
+   [
+    "Hackett",
+    "Daniel Hackett",
+    "it"
+   ],
+   [
+    "Clyburn",
+    "Will Clyburn",
+    "us"
+   ],
+   [
+    "Kurbanov",
+    "Nikita Kurbanov",
+    "ru"
+   ],
+   [
+    "Hunter",
+    "Othello Hunter",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Anadolu Efes",
+  "opp": "CSKA Moskva",
+  "score": "83-91",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Vitorija: prvo finale Efesa u istoriji, trener Ergin Ataman",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Larkin",
+    "Shane Larkin",
+    "tr"
+   ],
+   [
+    "Micić",
+    "Vasilije Micić",
+    "rs"
+   ],
+   [
+    "Anderson",
+    "James Anderson",
+    "us"
+   ],
+   [
+    "Moerman",
+    "Adrien Moerman",
+    "fr"
+   ],
+   [
+    "Dunston",
+    "Bryant Dunston",
+    "am"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Anadolu Efes",
+  "opp": "Barcelona",
+  "score": "86-81",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Keln: prva evropska titula Anadolu Efesa, trener Ergin Ataman",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Micić",
+    "Vasilije Micić",
+    "rs"
+   ],
+   [
+    "Larkin",
+    "Shane Larkin",
+    "tr"
+   ],
+   [
+    "Simon",
+    "Krunoslav Simon",
+    "hr"
+   ],
+   [
+    "Singleton",
+    "Chris Singleton",
+    "us"
+   ],
+   [
+    "Şanlı",
+    "Sertaç Şanlı",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Barcelona",
+  "opp": "Anadolu Efes",
+  "score": "81-86",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Keln: prvo finale Barse pod Šarunasom Jasikevičijusom",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Calathes",
+    "Nick Calathes",
+    "gr"
+   ],
+   [
+    "Higgins",
+    "Cory Higgins",
+    "us"
+   ],
+   [
+    "Claver",
+    "Víctor Claver",
+    "es"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Davies",
+    "Brandon Davies",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Anadolu Efes",
+  "opp": "Real Madrid",
+  "score": "58-57",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Beograd: Efes odbranio titulu pobedom od jednog poena",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Larkin",
+    "Shane Larkin",
+    "tr"
+   ],
+   [
+    "Micić",
+    "Vasilije Micić",
+    "rs"
+   ],
+   [
+    "Anderson",
+    "James Anderson",
+    "us"
+   ],
+   [
+    "Moerman",
+    "Adrien Moerman",
+    "fr"
+   ],
+   [
+    "Pleiß",
+    "Tibor Pleiß",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Anadolu Efes",
+  "score": "57-58",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Beograd: Real izgubio finale jednim poenom od branioca titule",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Abalde",
+    "Alberto Abalde",
+    "es"
+   ],
+   [
+    "Hanga",
+    "Ádám Hanga",
+    "hu"
+   ],
+   [
+    "Deck",
+    "Gabriel Deck",
+    "ar"
+   ],
+   [
+    "Yabusele",
+    "Guerschon Yabusele",
+    "fr"
+   ],
+   [
+    "Tavares",
+    "Edy Tavares",
+    "cv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Olympiacos",
+  "score": "79-78",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Kaunas: jedanaesta titula Reala, pobeda jednim poenom",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Williams-Goss",
+    "Nigel Williams-Goss",
+    "us"
+   ],
+   [
+    "Musa",
+    "Džanan Musa",
+    "ba"
+   ],
+   [
+    "Hanga",
+    "Ádám Hanga",
+    "hu"
+   ],
+   [
+    "Ndiaye",
+    "Eli Ndiaye",
+    "es"
+   ],
+   [
+    "Tavares",
+    "Edy Tavares",
+    "cv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olympiacos",
+  "opp": "Real Madrid",
+  "score": "78-79",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Kaunas: poraz jednim poenom, Ljul odlučio finale u završnici",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Walkup",
+    "Thomas Walkup",
+    "us"
+   ],
+   [
+    "Canaan",
+    "Isaiah Canaan",
+    "us"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Vezenkov",
+    "Sasha Vezenkov",
+    "bg"
+   ],
+   [
+    "Fall",
+    "Moustapha Fall",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Panathinaikos",
+  "opp": "Real Madrid",
+  "score": "95-80",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Berlin: sedma titula Panatinaikosa, prva posle 13 godina",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Grant",
+    "Jerian Grant",
+    "us"
+   ],
+   [
+    "Nunn",
+    "Kendrick Nunn",
+    "us"
+   ],
+   [
+    "Papapetrou",
+    "Ioannis Papapetrou",
+    "gr"
+   ],
+   [
+    "Mitoglou",
+    "Konstantinos Mitoglou",
+    "gr"
+   ],
+   [
+    "Lessort",
+    "Mathias Lessort",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Panathinaikos",
+  "score": "80-95",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Berlin: prvoplasirani Real izgubio finale od Panatinaikosa",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Campazzo",
+    "Facundo Campazzo",
+    "ar"
+   ],
+   [
+    "Musa",
+    "Džanan Musa",
+    "ba"
+   ],
+   [
+    "Hezonja",
+    "Mario Hezonja",
+    "hr"
+   ],
+   [
+    "Ndiaye",
+    "Eli Ndiaye",
+    "es"
+   ],
+   [
+    "Tavares",
+    "Edy Tavares",
+    "cv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "Monaco",
+  "score": "81-70",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Abu Dabi: druga titula Fenerbahčea, trener Šarunas Jasikevičijus",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Gudurić",
+    "Marko Gudurić",
+    "rs"
+   ],
+   [
+    "Hall",
+    "Devon Hall",
+    "us"
+   ],
+   [
+    "Colson",
+    "Bonzie Colson",
+    "us"
+   ],
+   [
+    "Hayes-Davis",
+    "Nigel Hayes-Davis",
+    "us"
+   ],
+   [
+    "Birch",
+    "Khem Birch",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Monaco",
+  "opp": "Fenerbahçe",
+  "score": "70-81",
+  "comp": "Evroliga, finale Fajnal-fora",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Abu Dabi: prvo finale Monaka, trener Vasilis Spanulis",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "James",
+    "Mike James",
+    "us"
+   ],
+   [
+    "Strazel",
+    "Matthew Strazel",
+    "fr"
+   ],
+   [
+    "Diallo",
+    "Alpha Diallo",
+    "gn"
+   ],
+   [
+    "Blossomgame",
+    "Jaron Blossomgame",
+    "us"
+   ],
+   [
+    "Theis",
+    "Daniel Theis",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Panathinaikos",
+  "opp": "CSKA Moskva",
+  "score": "64-66",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Istanbul: poslednji Fajnal-for Željka Obradovića na klupi PAO",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Diamantidis",
+    "Dimitris Diamantidis",
+    "gr"
+   ],
+   [
+    "Jasikevičius",
+    "Šarūnas Jasikevičius",
+    "lt"
+   ],
+   [
+    "Sato",
+    "Romain Sato",
+    "cf"
+   ],
+   [
+    "Kaimakoglou",
+    "Kostas Kaimakoglou",
+    "gr"
+   ],
+   [
+    "Marić",
+    "Aleks Marić",
+    "au"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Barcelona",
+  "opp": "Olympiacos",
+  "score": "64-68",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Istanbul: Olimpijakos u polufinalu izbacio favorizovanu Barsu",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Huertas",
+    "Marcelinho Huertas",
+    "br"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "Eidson",
+    "Chuck Eidson",
+    "us"
+   ],
+   [
+    "Lorbek",
+    "Erazem Lorbek",
+    "si"
+   ],
+   [
+    "Ndong",
+    "Boniface Ndong",
+    "sn"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "67-74",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "London: El Klasiko u polufinalu Fajnal-fora",
+  "form": "5",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Huertas",
+    "Marcelinho Huertas",
+    "br"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "Wallace",
+    "C. J. Wallace",
+    "us"
+   ],
+   [
+    "Lorbek",
+    "Erazem Lorbek",
+    "si"
+   ],
+   [
+    "Tomić",
+    "Ante Tomić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Fenerbahçe",
+  "opp": "Real Madrid",
+  "score": "87-96",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Madrid: prvi Fajnal-for Fenerbahčea, trener Željko Obradović",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Sipahi",
+    "Kenan Sipahi",
+    "tr"
+   ],
+   [
+    "Goudelock",
+    "Andrew Goudelock",
+    "us"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Veselý",
+    "Jan Veselý",
+    "cz"
+   ],
+   [
+    "Žorić",
+    "Luka Žorić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "CSKA Moskva",
+  "opp": "Olympiacos",
+  "score": "68-70",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Madrid: Olimpijakos slavio u završnici, Spanulis presudio",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Teodosić",
+    "Miloš Teodosić",
+    "rs"
+   ],
+   [
+    "Weems",
+    "Sonny Weems",
+    "us"
+   ],
+   [
+    "Kirilenko",
+    "Andrei Kirilenko",
+    "ru"
+   ],
+   [
+    "Vorontsevich",
+    "Andrey Vorontsevich",
+    "ru"
+   ],
+   [
+    "Kaun",
+    "Sasha Kaun",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Baskonia",
+  "opp": "Fenerbahçe",
+  "score": "77-88 OT",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Berlin: poraz posle produžetka, trener Velimir Perasović",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3a8c",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "Adams",
+    "Darius Adams",
+    "us"
+   ],
+   [
+    "Hanga",
+    "Ádám Hanga",
+    "hu"
+   ],
+   [
+    "Bertāns",
+    "Dāvis Bertāns",
+    "lv"
+   ],
+   [
+    "Tillie",
+    "Kim Tillie",
+    "fr"
+   ],
+   [
+    "Planinić",
+    "Darko Planinić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Lokomotiv Kuban",
+  "opp": "Barcelona",
+  "score": "81-67",
+  "comp": "Evroliga, plej-of, 5. utakmica",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Lokomotiv eliminisao Barsu i izborio prvi Fajnal-for",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d4001f",
+   "#00843d"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Delaney",
+    "Malcolm Delaney",
+    "us"
+   ],
+   [
+    "Voronov",
+    "Evgeny Voronov",
+    "ru"
+   ],
+   [
+    "Broekhoff",
+    "Ryan Broekhoff",
+    "au"
+   ],
+   [
+    "Claver",
+    "Víctor Claver",
+    "es"
+   ],
+   [
+    "Randolph",
+    "Anthony Randolph",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "CSKA Moskva",
+  "opp": "Olympiacos",
+  "score": "78-82",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Istanbul: branilac titule ispao u polufinalu od Olimpijakosa",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "okit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Colo",
+    "Nando De Colo",
+    "fr"
+   ],
+   [
+    "Jackson",
+    "Aaron Jackson",
+    "us"
+   ],
+   [
+    "Kurbanov",
+    "Nikita Kurbanov",
+    "ru"
+   ],
+   [
+    "Vorontsevich",
+    "Andrey Vorontsevich",
+    "ru"
+   ],
+   [
+    "Hines",
+    "Kyle Hines",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Real Madrid",
+  "opp": "Fenerbahçe",
+  "score": "75-84",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Istanbul: Real pao u polufinalu protiv Fenerbahčea",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "Llull",
+    "Sergio Llull",
+    "es"
+   ],
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Mačiulis",
+    "Jonas Mačiulis",
+    "lt"
+   ],
+   [
+    "Randolph",
+    "Anthony Randolph",
+    "si"
+   ],
+   [
+    "Ayón",
+    "Gustavo Ayón",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Žalgiris",
+  "opp": "CSKA Moskva",
+  "score": "79-77",
+  "comp": "Evroliga, meč za 3. mesto F4",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Beograd: bronza za Žalgiris, trener Šarunas Jasikevičijus",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006a44",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Pangos",
+    "Kevin Pangos",
+    "ca"
+   ],
+   [
+    "Toupane",
+    "Axel Toupane",
+    "fr"
+   ],
+   [
+    "Ulanovas",
+    "Edgaras Ulanovas",
+    "lt"
+   ],
+   [
+    "Jankūnas",
+    "Paulius Jankūnas",
+    "lt"
+   ],
+   [
+    "Davies",
+    "Brandon Davies",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "CSKA Moskva",
+  "opp": "Real Madrid",
+  "score": "83-92",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Beograd: Real u polufinalu zaustavio prvaka regularnog dela",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Rodríguez",
+    "Sergio Rodríguez",
+    "es"
+   ],
+   [
+    "Higgins",
+    "Cory Higgins",
+    "us"
+   ],
+   [
+    "Antonov",
+    "Semen Antonov",
+    "ru"
+   ],
+   [
+    "Kurbanov",
+    "Nikita Kurbanov",
+    "ru"
+   ],
+   [
+    "Hunter",
+    "Othello Hunter",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Khimki",
+  "opp": "CSKA Moskva",
+  "score": "79-73",
+  "comp": "Evroliga, plej-of, 3. utakmica",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Moskovski derbi: jedina pobeda Himkija u seriji protiv CSKA",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0460b5",
+   "#eccb24"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Jenkins",
+    "Charles Jenkins",
+    "us"
+   ],
+   [
+    "Shved",
+    "Alexey Shved",
+    "ru"
+   ],
+   [
+    "Anderson",
+    "James Anderson",
+    "us"
+   ],
+   [
+    "Gill",
+    "Anthony Gill",
+    "us"
+   ],
+   [
+    "Thomas",
+    "Malcolm Thomas",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Baskonia",
+  "opp": "CSKA Moskva",
+  "score": "78-68",
+  "comp": "Evroliga, plej-of, 2. utakmica",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Baskonija izjednačila seriju u Moskvi, CSKA ipak prošao sa 3-1",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0a3a8c",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#1a2c6b"
+  ],
+  "p": [
+   [
+    "Huertas",
+    "Marcelinho Huertas",
+    "br"
+   ],
+   [
+    "Garino",
+    "Patricio Garino",
+    "ar"
+   ],
+   [
+    "Shields",
+    "Shavon Shields",
+    "dk"
+   ],
+   [
+    "Shengelia",
+    "Tornike Shengelia",
+    "ge"
+   ],
+   [
+    "Voigtmann",
+    "Johannes Voigtmann",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olimpia Milano",
+  "opp": "Barcelona",
+  "score": "82-84",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Keln: prvi Fajnal-for Milana od 1992, trener Ettore Mesina",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Delaney",
+    "Malcolm Delaney",
+    "us"
+   ],
+   [
+    "Shields",
+    "Shavon Shields",
+    "dk"
+   ],
+   [
+    "Micov",
+    "Vladimir Micov",
+    "rs"
+   ],
+   [
+    "LeDay",
+    "Zach LeDay",
+    "us"
+   ],
+   [
+    "Hines",
+    "Kyle Hines",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Bayern München",
+  "opp": "Olimpia Milano",
+  "score": "89-92",
+  "comp": "Evroliga, plej-of, 5. utakmica",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Prvi plej-of Bajerna u Evroligi, ispadanje tek u 5. utakmici",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Baldwin",
+    "Wade Baldwin IV",
+    "us"
+   ],
+   [
+    "Flaccadori",
+    "Diego Flaccadori",
+    "it"
+   ],
+   [
+    "Johnson",
+    "JaJuan Johnson",
+    "us"
+   ],
+   [
+    "Lučić",
+    "Vladimir Lučić",
+    "rs"
+   ],
+   [
+    "Reynolds",
+    "Jalen Reynolds",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Olympiacos",
+  "opp": "Anadolu Efes",
+  "score": "74-77",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Beograd: Efes slavio trojkom Micića 0,2 sekunde pre kraja",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d71920",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Walkup",
+    "Thomas Walkup",
+    "us"
+   ],
+   [
+    "Dorsey",
+    "Tyler Dorsey",
+    "gr"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Vezenkov",
+    "Sasha Vezenkov",
+    "bg"
+   ],
+   [
+    "Fall",
+    "Moustapha Fall",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Monaco",
+  "opp": "Barcelona",
+  "score": "78-66",
+  "comp": "Evroliga, meč za 3. mesto F4",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Kaunas: bronza na debiju na Fajnal-foru, trener Saša Obradović",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "James",
+    "Mike James",
+    "us"
+   ],
+   [
+    "Loyd",
+    "Jordan Loyd",
+    "pl"
+   ],
+   [
+    "Diallo",
+    "Alpha Diallo",
+    "gn"
+   ],
+   [
+    "Brown",
+    "John Brown",
+    "us"
+   ],
+   [
+    "Motiejūnas",
+    "Donatas Motiejūnas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Monaco",
+  "opp": "Fenerbahçe",
+  "score": "79-80 OT",
+  "comp": "Evroliga, plej-of, 5. utakmica",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Fenerbahče prošao posle produžetka u petoj utakmici u Monaku",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "James",
+    "Mike James",
+    "us"
+   ],
+   [
+    "Loyd",
+    "Jordan Loyd",
+    "pl"
+   ],
+   [
+    "Ouattara",
+    "Yakuba Ouattara",
+    "fr"
+   ],
+   [
+    "Brown",
+    "John Brown",
+    "us"
+   ],
+   [
+    "Motiejūnas",
+    "Donatas Motiejūnas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Maccabi Tel Aviv",
+  "opp": "Panathinaikos",
+  "score": "85-83",
+  "comp": "Evroliga, plej-of, 3. utakmica",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Makabi je te sezone domaće mečeve igrao u Beogradu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#0038a8"
+  ],
+  "okit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Brown",
+    "Lorenzo Brown",
+    "es"
+   ],
+   [
+    "DiBartolomeo",
+    "John DiBartolomeo",
+    "il"
+   ],
+   [
+    "Colson",
+    "Bonzie Colson",
+    "us"
+   ],
+   [
+    "Cohen",
+    "Jake Cohen",
+    "il"
+   ],
+   [
+    "Nebo",
+    "Josh Nebo",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Virtus Bologna",
+  "opp": "Anadolu Efes",
+  "score": "67-64",
+  "comp": "Evroliga, plej-in",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Plej-in u Istanbulu: Virtus izbacio Efes, trener Luka Banki",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b3b8c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Hackett",
+    "Daniel Hackett",
+    "it"
+   ],
+   [
+    "Belinelli",
+    "Marco Belinelli",
+    "it"
+   ],
+   [
+    "Cordinier",
+    "Isaïa Cordinier",
+    "fr"
+   ],
+   [
+    "Shengelia",
+    "Tornike Shengelia",
+    "ge"
+   ],
+   [
+    "Dunston",
+    "Bryant Dunston",
+    "am"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Panathinaikos",
+  "opp": "Fenerbahçe",
+  "score": "76-82",
+  "comp": "Evroliga, polufinale F4",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Abu Dabi: branilac titule ispao od Fenerbahčea",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007a3d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f4b",
+   "#ffd200"
+  ],
+  "p": [
+   [
+    "Grant",
+    "Jerian Grant",
+    "us"
+   ],
+   [
+    "Nunn",
+    "Kendrick Nunn",
+    "us"
+   ],
+   [
+    "Osman",
+    "Cedi Osman",
+    "tr"
+   ],
+   [
+    "Hernangómez",
+    "Juancho Hernangómez",
+    "es"
+   ],
+   [
+    "Gabriel",
+    "Wenyen Gabriel",
+    "ss"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Valencia",
+  "opp": "Real Madrid",
+  "score": "96-88",
+  "comp": "Evroliga, 27. kolo",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Valensija savladala budućeg prvaka Evrope",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#f18a00",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Martínez",
+    "Rafa Martínez",
+    "es"
+   ],
+   [
+    "Sastre",
+    "Joan Sastre",
+    "es"
+   ],
+   [
+    "Abalde",
+    "Alberto Abalde",
+    "es"
+   ],
+   [
+    "Thomas",
+    "Will Thomas",
+    "us"
+   ],
+   [
+    "Dubljević",
+    "Bojan Dubljević",
+    "me"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "Unicaja",
+  "opp": "Real Madrid",
+  "score": "80-75",
+  "comp": "Evroliga, 19. kolo",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Malaga: Unikaha pobedila budućeg prvaka Evrope",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#00843d",
+   "#5b2c83"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#3d2b8e"
+  ],
+  "p": [
+   [
+    "Díaz",
+    "Alberto Díaz",
+    "es"
+   ],
+   [
+    "Soluade",
+    "Mo Soluade",
+    "gb-eng"
+   ],
+   [
+    "Waczyński",
+    "Adam Waczyński",
+    "pl"
+   ],
+   [
+    "Brooks",
+    "Jeff Brooks",
+    "it"
+   ],
+   [
+    "Shermadini",
+    "Giorgi Shermadini",
+    "ge"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "euro",
+  "team": "ALBA Berlin",
+  "opp": "Barcelona",
+  "score": "80-70",
+  "comp": "Evroliga, Top 16, 1. kolo",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Berlin: pobeda nad Barsom na startu Top 16, trener Saša Obradović",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffd400",
+   "#0a3a8c"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Hammonds",
+    "Cliff Hammonds",
+    "us"
+   ],
+   [
+    "Redding",
+    "Reggie Redding",
+    "us"
+   ],
+   [
+    "Giffey",
+    "Niels Giffey",
+    "de"
+   ],
+   [
+    "McLean",
+    "Jamel McLean",
+    "us"
+   ],
+   [
+    "Radošević",
+    "Leon Radošević",
+    "hr"
+   ]
+  ]
+ }
+]

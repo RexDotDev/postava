@@ -1,0 +1,4742 @@
+[
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Španija",
+  "opp": "Holandija",
+  "score": "1-0 prod.",
+  "comp": "SP 2010, finale",
+  "season": "2010",
+  "y": 2010,
+  "note": "Prva titula prvaka sveta u istoriji Španije, gol u 116. minutu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#0b2a5b",
+   "#f1bf00"
+  ],
+  "okit": [
+   "solid",
+   "#ff6600",
+   "#1b2a5c"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Capdevila",
+    "Joan Capdevila",
+    "es"
+   ],
+   [
+    "Puyol",
+    "Carles Puyol",
+    "es"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Xabi Alonso",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Pedro",
+    "Pedro",
+    "es"
+   ],
+   [
+    "Xavi",
+    "Xavi",
+    "es"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Villa",
+    "David Villa",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Holandija",
+  "opp": "Španija",
+  "score": "0-1 prod.",
+  "comp": "SP 2010, finale",
+  "season": "2010",
+  "y": 2010,
+  "note": "Treće izgubljeno finale SP u istoriji Holandije; rekordnih 14 žutih kartona",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ff6600",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "solid",
+   "#0b2a5b",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Stekelenburg",
+    "Maarten Stekelenburg",
+    "nl"
+   ],
+   [
+    "Van Bronckhorst",
+    "Giovanni van Bronckhorst",
+    "nl"
+   ],
+   [
+    "Mathijsen",
+    "Joris Mathijsen",
+    "nl"
+   ],
+   [
+    "Heitinga",
+    "John Heitinga",
+    "nl"
+   ],
+   [
+    "Van der Wiel",
+    "Gregory van der Wiel",
+    "nl"
+   ],
+   [
+    "De Jong",
+    "Nigel de Jong",
+    "nl"
+   ],
+   [
+    "Van Bommel",
+    "Mark van Bommel",
+    "nl"
+   ],
+   [
+    "Kuyt",
+    "Dirk Kuyt",
+    "nl"
+   ],
+   [
+    "Sneijder",
+    "Wesley Sneijder",
+    "nl"
+   ],
+   [
+    "Robben",
+    "Arjen Robben",
+    "nl"
+   ],
+   [
+    "Van Persie",
+    "Robin van Persie",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Urugvaj",
+  "opp": "Gana",
+  "score": "1-1 (4-2 pen.)",
+  "comp": "SP 2010, četvrtfinale",
+  "season": "2010",
+  "y": 2010,
+  "note": "Igranje rukom na gol-liniji u 120. minutu, Gana promašila penal za polufinale",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#5cbfeb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Muslera",
+    "Fernando Muslera",
+    "uy"
+   ],
+   [
+    "Fucile",
+    "Jorge Fucile",
+    "uy"
+   ],
+   [
+    "Victorino",
+    "Mauricio Victorino",
+    "uy"
+   ],
+   [
+    "Lugano",
+    "Diego Lugano",
+    "uy"
+   ],
+   [
+    "Pereira",
+    "Maxi Pereira",
+    "uy"
+   ],
+   [
+    "Cavani",
+    "Edinson Cavani",
+    "uy"
+   ],
+   [
+    "Arévalo Ríos",
+    "Egidio Arévalo Ríos",
+    "uy"
+   ],
+   [
+    "Pérez",
+    "Diego Pérez",
+    "uy"
+   ],
+   [
+    "Fernández",
+    "Álvaro Fernández",
+    "uy"
+   ],
+   [
+    "Forlán",
+    "Diego Forlán",
+    "uy"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Gana",
+  "opp": "Urugvaj",
+  "score": "1-1 (2-4 pen.)",
+  "comp": "SP 2010, četvrtfinale",
+  "season": "2010",
+  "y": 2010,
+  "note": "Penal u 120. minutu posle Suárezove ruke mogao je doneti prvo afričko polufinale",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#5cbfeb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Kingson",
+    "Richard Kingson",
+    "gh"
+   ],
+   [
+    "Sarpei",
+    "Hans Sarpei",
+    "gh"
+   ],
+   [
+    "Mensah",
+    "John Mensah",
+    "gh"
+   ],
+   [
+    "Vorsah",
+    "Isaac Vorsah",
+    "gh"
+   ],
+   [
+    "Paintsil",
+    "John Paintsil",
+    "gh"
+   ],
+   [
+    "Annan",
+    "Anthony Annan",
+    "gh"
+   ],
+   [
+    "Muntari",
+    "Sulley Muntari",
+    "gh"
+   ],
+   [
+    "Boateng",
+    "Kevin-Prince Boateng",
+    "gh"
+   ],
+   [
+    "Asamoah",
+    "Kwadwo Asamoah",
+    "gh"
+   ],
+   [
+    "Inkoom",
+    "Samuel Inkoom",
+    "gh"
+   ],
+   [
+    "Gyan",
+    "Asamoah Gyan",
+    "gh"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Nemačka",
+  "opp": "Engleska",
+  "score": "4-1",
+  "comp": "SP 2010, osmina finala",
+  "season": "2010",
+  "y": 2010,
+  "note": "Lampardov šut pri 2-1 prešao liniju, ali gol nije priznat",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1b2a5c"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Boateng",
+    "Jérôme Boateng",
+    "de"
+   ],
+   [
+    "Mertesacker",
+    "Per Mertesacker",
+    "de"
+   ],
+   [
+    "Friedrich",
+    "Arne Friedrich",
+    "de"
+   ],
+   [
+    "Lahm",
+    "Philipp Lahm",
+    "de"
+   ],
+   [
+    "Khedira",
+    "Sami Khedira",
+    "de"
+   ],
+   [
+    "Schweinsteiger",
+    "Bastian Schweinsteiger",
+    "de"
+   ],
+   [
+    "Podolski",
+    "Lukas Podolski",
+    "de"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ],
+   [
+    "Klose",
+    "Miroslav Klose",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Engleska",
+  "opp": "Nemačka",
+  "score": "1-4",
+  "comp": "SP 2010, osmina finala",
+  "season": "2010",
+  "y": 2010,
+  "note": "Najteži poraz Engleske na Mundijalima; nepriznat 'gol duh' pri 1-2",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "James",
+    "David James",
+    "gb-eng"
+   ],
+   [
+    "Cole",
+    "Ashley Cole",
+    "gb-eng"
+   ],
+   [
+    "Upson",
+    "Matthew Upson",
+    "gb-eng"
+   ],
+   [
+    "Terry",
+    "John Terry",
+    "gb-eng"
+   ],
+   [
+    "Johnson",
+    "Glen Johnson",
+    "gb-eng"
+   ],
+   [
+    "Gerrard",
+    "Steven Gerrard",
+    "gb-eng"
+   ],
+   [
+    "Barry",
+    "Gareth Barry",
+    "gb-eng"
+   ],
+   [
+    "Lampard",
+    "Frank Lampard",
+    "gb-eng"
+   ],
+   [
+    "Milner",
+    "James Milner",
+    "gb-eng"
+   ],
+   [
+    "Rooney",
+    "Wayne Rooney",
+    "gb-eng"
+   ],
+   [
+    "Defoe",
+    "Jermain Defoe",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "Nemačka",
+  "score": "0-4",
+  "comp": "SP 2010, četvrtfinale",
+  "season": "2010",
+  "y": 2010,
+  "note": "Selektor Dijego Maradona; Nemačka ponovo izbacila Argentinu u četvrtfinalu",
+  "form": "4-3-1-2",
+  "kit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Romero",
+    "Sergio Romero",
+    "ar"
+   ],
+   [
+    "Heinze",
+    "Gabriel Heinze",
+    "ar"
+   ],
+   [
+    "Burdisso",
+    "Nicolás Burdisso",
+    "ar"
+   ],
+   [
+    "Demichelis",
+    "Martín Demichelis",
+    "ar"
+   ],
+   [
+    "Otamendi",
+    "Nicolás Otamendi",
+    "ar"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Mascherano",
+    "Javier Mascherano",
+    "ar"
+   ],
+   [
+    "Rodríguez",
+    "Maxi Rodríguez",
+    "ar"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Tevez",
+    "Carlos Tevez",
+    "ar"
+   ],
+   [
+    "Higuaín",
+    "Gonzalo Higuaín",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Paragvaj",
+  "opp": "Japan",
+  "score": "0-0 (5-3 pen.)",
+  "comp": "SP 2010, osmina finala",
+  "season": "2010",
+  "y": 2010,
+  "note": "Prvo četvrtfinale Svetskog prvenstva u istoriji Paragvaja",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#d52b1e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f5c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Villar",
+    "Justo Villar",
+    "py"
+   ],
+   [
+    "Morel",
+    "Claudio Morel",
+    "py"
+   ],
+   [
+    "Alcaraz",
+    "Antolín Alcaraz",
+    "py"
+   ],
+   [
+    "Da Silva",
+    "Paulo da Silva",
+    "py"
+   ],
+   [
+    "Bonet",
+    "Carlos Bonet",
+    "py"
+   ],
+   [
+    "Riveros",
+    "Cristian Riveros",
+    "py"
+   ],
+   [
+    "Ortigoza",
+    "Néstor Ortigoza",
+    "py"
+   ],
+   [
+    "Vera",
+    "Enrique Vera",
+    "py"
+   ],
+   [
+    "Benítez",
+    "Édgar Benítez",
+    "py"
+   ],
+   [
+    "Barrios",
+    "Lucas Barrios",
+    "py"
+   ],
+   [
+    "Santa Cruz",
+    "Roque Santa Cruz",
+    "py"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Italija",
+  "opp": "Slovačka",
+  "score": "2-3",
+  "comp": "SP 2010, grupa F, 3. kolo",
+  "season": "2010",
+  "y": 2010,
+  "note": "Branilac titule ispao u grupi bez ijedne pobede",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#1f5fbf",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0b4ea2"
+  ],
+  "p": [
+   [
+    "Marchetti",
+    "Federico Marchetti",
+    "it"
+   ],
+   [
+    "Criscito",
+    "Domenico Criscito",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Cannavaro",
+    "Fabio Cannavaro",
+    "it"
+   ],
+   [
+    "Zambrotta",
+    "Gianluca Zambrotta",
+    "it"
+   ],
+   [
+    "Montolivo",
+    "Riccardo Montolivo",
+    "it"
+   ],
+   [
+    "De Rossi",
+    "Daniele De Rossi",
+    "it"
+   ],
+   [
+    "Gattuso",
+    "Gennaro Gattuso",
+    "it"
+   ],
+   [
+    "Di Natale",
+    "Antonio Di Natale",
+    "it"
+   ],
+   [
+    "Iaquinta",
+    "Vincenzo Iaquinta",
+    "it"
+   ],
+   [
+    "Pepe",
+    "Simone Pepe",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Slovačka",
+  "opp": "Italija",
+  "score": "3-2",
+  "comp": "SP 2010, grupa F, 3. kolo",
+  "season": "2010",
+  "y": 2010,
+  "note": "Debitant na Mundijalu izbacio aktuelnog prvaka sveta",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0b4ea2"
+  ],
+  "okit": [
+   "solid",
+   "#1f5fbf",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mucha",
+    "Ján Mucha",
+    "sk"
+   ],
+   [
+    "Zabavník",
+    "Radoslav Zabavník",
+    "sk"
+   ],
+   [
+    "Ďurica",
+    "Ján Ďurica",
+    "sk"
+   ],
+   [
+    "Škrtel",
+    "Martin Škrtel",
+    "sk"
+   ],
+   [
+    "Pekarík",
+    "Peter Pekarík",
+    "sk"
+   ],
+   [
+    "Stoch",
+    "Miroslav Stoch",
+    "sk"
+   ],
+   [
+    "Kucka",
+    "Juraj Kucka",
+    "sk"
+   ],
+   [
+    "Štrba",
+    "Zdeno Štrba",
+    "sk"
+   ],
+   [
+    "Hamšík",
+    "Marek Hamšík",
+    "sk"
+   ],
+   [
+    "Jendrišek",
+    "Erik Jendrišek",
+    "sk"
+   ],
+   [
+    "Vittek",
+    "Róbert Vittek",
+    "sk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Brazil",
+  "opp": "Holandija",
+  "score": "1-2",
+  "comp": "SP 2010, četvrtfinale",
+  "season": "2010",
+  "y": 2010,
+  "note": "Vodili 1-0 na poluvremenu, pa ispali uz crveni karton",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "okit": [
+   "solid",
+   "#ff6600",
+   "#1b2a5c"
+  ],
+  "p": [
+   [
+    "Júlio César",
+    "Júlio César",
+    "br"
+   ],
+   [
+    "Michel Bastos",
+    "Michel Bastos",
+    "br"
+   ],
+   [
+    "Juan",
+    "Juan",
+    "br"
+   ],
+   [
+    "Lúcio",
+    "Lúcio",
+    "br"
+   ],
+   [
+    "Maicon",
+    "Maicon",
+    "br"
+   ],
+   [
+    "Gilberto Silva",
+    "Gilberto Silva",
+    "br"
+   ],
+   [
+    "Felipe Melo",
+    "Felipe Melo",
+    "br"
+   ],
+   [
+    "Robinho",
+    "Robinho",
+    "br"
+   ],
+   [
+    "Kaká",
+    "Kaká",
+    "br"
+   ],
+   [
+    "Dani Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Luís Fabiano",
+    "Luís Fabiano",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Irska",
+  "opp": "Francuska",
+  "score": "1-1 prod.",
+  "comp": "Kvalifikacije za SP 2010, baraž (revanš)",
+  "season": "2010",
+  "y": 2009,
+  "note": "Henrijevo igranje rukom pred gol Francuske u produžecima odlučilo baraž",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#169b62",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b2a5c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Given",
+    "Shay Given",
+    "ie"
+   ],
+   [
+    "Kilbane",
+    "Kevin Kilbane",
+    "ie"
+   ],
+   [
+    "St Ledger",
+    "Sean St Ledger",
+    "ie"
+   ],
+   [
+    "Dunne",
+    "Richard Dunne",
+    "ie"
+   ],
+   [
+    "O'Shea",
+    "John O'Shea",
+    "ie"
+   ],
+   [
+    "Duff",
+    "Damien Duff",
+    "ie"
+   ],
+   [
+    "Andrews",
+    "Keith Andrews",
+    "ie"
+   ],
+   [
+    "Whelan",
+    "Glenn Whelan",
+    "ie"
+   ],
+   [
+    "Lawrence",
+    "Liam Lawrence",
+    "ie"
+   ],
+   [
+    "Keane",
+    "Robbie Keane",
+    "ie"
+   ],
+   [
+    "Doyle",
+    "Kevin Doyle",
+    "ie"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Nemačka",
+  "opp": "Argentina",
+  "score": "1-0 prod.",
+  "comp": "SP 2014, finale",
+  "season": "2014",
+  "y": 2014,
+  "note": "Četvrta titula; prvi evropski šampion sveta na tlu Amerike",
+  "form": "4-3-3",
+  "kit": [
+   "chevron",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#1b2d6b",
+   "#75aadb"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Höwedes",
+    "Benedikt Höwedes",
+    "de"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Boateng",
+    "Jérôme Boateng",
+    "de"
+   ],
+   [
+    "Lahm",
+    "Philipp Lahm",
+    "de"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Schweinsteiger",
+    "Bastian Schweinsteiger",
+    "de"
+   ],
+   [
+    "Kramer",
+    "Christoph Kramer",
+    "de"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Klose",
+    "Miroslav Klose",
+    "de"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "Nemačka",
+  "score": "0-1 prod.",
+  "comp": "SP 2014, finale",
+  "season": "2014",
+  "y": 2014,
+  "note": "Treće finale protiv Nemačke (1986, 1990, 2014); gol primljen u 113. minutu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#1b2d6b",
+   "#75aadb"
+  ],
+  "okit": [
+   "chevron",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "Romero",
+    "Sergio Romero",
+    "ar"
+   ],
+   [
+    "Rojo",
+    "Marcos Rojo",
+    "ar"
+   ],
+   [
+    "Garay",
+    "Ezequiel Garay",
+    "ar"
+   ],
+   [
+    "Demichelis",
+    "Martín Demichelis",
+    "ar"
+   ],
+   [
+    "Zabaleta",
+    "Pablo Zabaleta",
+    "ar"
+   ],
+   [
+    "Biglia",
+    "Lucas Biglia",
+    "ar"
+   ],
+   [
+    "Mascherano",
+    "Javier Mascherano",
+    "ar"
+   ],
+   [
+    "Lavezzi",
+    "Ezequiel Lavezzi",
+    "ar"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Pérez",
+    "Enzo Pérez",
+    "ar"
+   ],
+   [
+    "Higuaín",
+    "Gonzalo Higuaín",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Brazil",
+  "opp": "Nemačka",
+  "score": "1-7",
+  "comp": "SP 2014, polufinale",
+  "season": "2014",
+  "y": 2014,
+  "note": "Mineiraço: bez Neymara i Thiaga Silve, 0-5 posle 29 minuta",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "okit": [
+   "hoops",
+   "#c8102e",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Júlio César",
+    "Júlio César",
+    "br"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Dante",
+    "Dante",
+    "br"
+   ],
+   [
+    "David Luiz",
+    "David Luiz",
+    "br"
+   ],
+   [
+    "Maicon",
+    "Maicon",
+    "br"
+   ],
+   [
+    "Luiz Gustavo",
+    "Luiz Gustavo",
+    "br"
+   ],
+   [
+    "Fernandinho",
+    "Fernandinho",
+    "br"
+   ],
+   [
+    "Bernard",
+    "Bernard",
+    "br"
+   ],
+   [
+    "Oscar",
+    "Oscar",
+    "br"
+   ],
+   [
+    "Hulk",
+    "Hulk",
+    "br"
+   ],
+   [
+    "Fred",
+    "Fred",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Holandija",
+  "opp": "Španija",
+  "score": "5-1",
+  "comp": "SP 2014, grupa B, 1. kolo",
+  "season": "2014",
+  "y": 2014,
+  "note": "Revanš za finale 2010; čuveni leteći gol glavom pred kraj poluvremena",
+  "form": "5-3-2",
+  "kit": [
+   "solid",
+   "#ff6600",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Cillessen",
+    "Jasper Cillessen",
+    "nl"
+   ],
+   [
+    "Blind",
+    "Daley Blind",
+    "nl"
+   ],
+   [
+    "Martins Indi",
+    "Bruno Martins Indi",
+    "nl"
+   ],
+   [
+    "De Vrij",
+    "Stefan de Vrij",
+    "nl"
+   ],
+   [
+    "Vlaar",
+    "Ron Vlaar",
+    "nl"
+   ],
+   [
+    "Janmaat",
+    "Daryl Janmaat",
+    "nl"
+   ],
+   [
+    "Sneijder",
+    "Wesley Sneijder",
+    "nl"
+   ],
+   [
+    "De Jong",
+    "Nigel de Jong",
+    "nl"
+   ],
+   [
+    "De Guzmán",
+    "Jonathan de Guzmán",
+    "nl"
+   ],
+   [
+    "Robben",
+    "Arjen Robben",
+    "nl"
+   ],
+   [
+    "Van Persie",
+    "Robin van Persie",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Španija",
+  "opp": "Holandija",
+  "score": "1-5",
+  "comp": "SP 2014, grupa B, 1. kolo",
+  "season": "2014",
+  "y": 2014,
+  "note": "Branilac titule razbijen na startu i ispao već posle dva kola",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "okit": [
+   "solid",
+   "#ff6600",
+   "#1b2a5c"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Xabi Alonso",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Xavi",
+    "Xavi",
+    "es"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Diego Costa",
+    "Diego Costa",
+    "es"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Čile",
+  "opp": "Španija",
+  "score": "2-0",
+  "comp": "SP 2014, grupa B, 2. kolo",
+  "season": "2014",
+  "y": 2014,
+  "note": "Na Marakani izbacili aktuelnog prvaka sveta",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#d52b1e",
+   "#0033a0"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Bravo",
+    "Claudio Bravo",
+    "cl"
+   ],
+   [
+    "Jara",
+    "Gonzalo Jara",
+    "cl"
+   ],
+   [
+    "Medel",
+    "Gary Medel",
+    "cl"
+   ],
+   [
+    "Silva",
+    "Francisco Silva",
+    "cl"
+   ],
+   [
+    "Mena",
+    "Eugenio Mena",
+    "cl"
+   ],
+   [
+    "Díaz",
+    "Marcelo Díaz",
+    "cl"
+   ],
+   [
+    "Aránguiz",
+    "Charles Aránguiz",
+    "cl"
+   ],
+   [
+    "Isla",
+    "Mauricio Isla",
+    "cl"
+   ],
+   [
+    "Vidal",
+    "Arturo Vidal",
+    "cl"
+   ],
+   [
+    "Sánchez",
+    "Alexis Sánchez",
+    "cl"
+   ],
+   [
+    "Vargas",
+    "Eduardo Vargas",
+    "cl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Kolumbija",
+  "opp": "Urugvaj",
+  "score": "2-0",
+  "comp": "SP 2014, osmina finala",
+  "season": "2014",
+  "y": 2014,
+  "note": "Volej sa grudi proglašen za gol godine (nagrada Puškaš)",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#fcd116",
+   "#003893"
+  ],
+  "okit": [
+   "solid",
+   "#5cbfeb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ospina",
+    "David Ospina",
+    "co"
+   ],
+   [
+    "Armero",
+    "Pablo Armero",
+    "co"
+   ],
+   [
+    "Yepes",
+    "Mario Yepes",
+    "co"
+   ],
+   [
+    "Zapata",
+    "Cristián Zapata",
+    "co"
+   ],
+   [
+    "Zúñiga",
+    "Juan Camilo Zúñiga",
+    "co"
+   ],
+   [
+    "James",
+    "James Rodríguez",
+    "co"
+   ],
+   [
+    "Sánchez",
+    "Carlos Sánchez",
+    "co"
+   ],
+   [
+    "Aguilar",
+    "Abel Aguilar",
+    "co"
+   ],
+   [
+    "Cuadrado",
+    "Juan Cuadrado",
+    "co"
+   ],
+   [
+    "Martínez",
+    "Jackson Martínez",
+    "co"
+   ],
+   [
+    "Gutiérrez",
+    "Teófilo Gutiérrez",
+    "co"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Kostarika",
+  "opp": "Italija",
+  "score": "1-0",
+  "comp": "SP 2014, grupa D, 2. kolo",
+  "season": "2014",
+  "y": 2014,
+  "note": "Iz 'grupe smrti' sa tri bivša prvaka sveta izašli kao prvi",
+  "form": "5-4-1",
+  "kit": [
+   "solid",
+   "#ce1126",
+   "#002b7f"
+  ],
+  "okit": [
+   "solid",
+   "#1f5fbf",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Navas",
+    "Keylor Navas",
+    "cr"
+   ],
+   [
+    "Díaz",
+    "Júnior Díaz",
+    "cr"
+   ],
+   [
+    "Umaña",
+    "Michael Umaña",
+    "cr"
+   ],
+   [
+    "González",
+    "Giancarlo González",
+    "cr"
+   ],
+   [
+    "Duarte",
+    "Óscar Duarte",
+    "cr"
+   ],
+   [
+    "Gamboa",
+    "Cristian Gamboa",
+    "cr"
+   ],
+   [
+    "Bolaños",
+    "Christian Bolaños",
+    "cr"
+   ],
+   [
+    "Tejeda",
+    "Yeltsin Tejeda",
+    "cr"
+   ],
+   [
+    "Borges",
+    "Celso Borges",
+    "cr"
+   ],
+   [
+    "Ruiz",
+    "Bryan Ruiz",
+    "cr"
+   ],
+   [
+    "Campbell",
+    "Joel Campbell",
+    "cr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Alžir",
+  "opp": "Nemačka",
+  "score": "1-2 prod.",
+  "comp": "SP 2014, osmina finala",
+  "season": "2014",
+  "y": 2014,
+  "note": "Prva nokaut faza u istoriji Alžira; selektor Vahid Halilhodžić",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#006233",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "M'Bolhi",
+    "Raïs M'Bolhi",
+    "dz"
+   ],
+   [
+    "Ghoulam",
+    "Faouzi Ghoulam",
+    "dz"
+   ],
+   [
+    "Halliche",
+    "Rafik Halliche",
+    "dz"
+   ],
+   [
+    "Belkalem",
+    "Essaïd Belkalem",
+    "dz"
+   ],
+   [
+    "Mandi",
+    "Aïssa Mandi",
+    "dz"
+   ],
+   [
+    "Lacen",
+    "Mehdi Lacen",
+    "dz"
+   ],
+   [
+    "Mostefa",
+    "Mehdi Mostefa",
+    "dz"
+   ],
+   [
+    "Soudani",
+    "Hillal Soudani",
+    "dz"
+   ],
+   [
+    "Taïder",
+    "Saphir Taïder",
+    "dz"
+   ],
+   [
+    "Feghouli",
+    "Sofiane Feghouli",
+    "dz"
+   ],
+   [
+    "Slimani",
+    "Islam Slimani",
+    "dz"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "SAD",
+  "opp": "Belgija",
+  "score": "1-2 prod.",
+  "comp": "SP 2014, osmina finala",
+  "season": "2014",
+  "y": 2014,
+  "note": "Golman odbranio rekordnih 16 šuteva na jednoj utakmici SP",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Howard",
+    "Tim Howard",
+    "us"
+   ],
+   [
+    "Beasley",
+    "DaMarcus Beasley",
+    "us"
+   ],
+   [
+    "Besler",
+    "Matt Besler",
+    "us"
+   ],
+   [
+    "Gonzalez",
+    "Omar Gonzalez",
+    "us"
+   ],
+   [
+    "Johnson",
+    "Fabian Johnson",
+    "us"
+   ],
+   [
+    "Cameron",
+    "Geoff Cameron",
+    "us"
+   ],
+   [
+    "Jones",
+    "Jermaine Jones",
+    "us"
+   ],
+   [
+    "Bedoya",
+    "Alejandro Bedoya",
+    "us"
+   ],
+   [
+    "Bradley",
+    "Michael Bradley",
+    "us"
+   ],
+   [
+    "Zusi",
+    "Graham Zusi",
+    "us"
+   ],
+   [
+    "Dempsey",
+    "Clint Dempsey",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Belgija",
+  "opp": "SAD",
+  "score": "2-1 prod.",
+  "comp": "SP 2014, osmina finala",
+  "season": "2014",
+  "y": 2014,
+  "note": "Prvo četvrtfinale posle 1986; oba gola tek u produžecima",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Vertonghen",
+    "Jan Vertonghen",
+    "be"
+   ],
+   [
+    "Kompany",
+    "Vincent Kompany",
+    "be"
+   ],
+   [
+    "Van Buyten",
+    "Daniel Van Buyten",
+    "be"
+   ],
+   [
+    "Alderweireld",
+    "Toby Alderweireld",
+    "be"
+   ],
+   [
+    "Witsel",
+    "Axel Witsel",
+    "be"
+   ],
+   [
+    "Fellaini",
+    "Marouane Fellaini",
+    "be"
+   ],
+   [
+    "Hazard",
+    "Eden Hazard",
+    "be"
+   ],
+   [
+    "De Bruyne",
+    "Kevin De Bruyne",
+    "be"
+   ],
+   [
+    "Mertens",
+    "Dries Mertens",
+    "be"
+   ],
+   [
+    "Origi",
+    "Divock Origi",
+    "be"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Urugvaj",
+  "opp": "Engleska",
+  "score": "2-1",
+  "comp": "SP 2014, grupa D, 2. kolo",
+  "season": "2014",
+  "y": 2014,
+  "note": "Dva gola manje od mesec dana posle operacije meniskusa",
+  "form": "4-3-1-2",
+  "kit": [
+   "solid",
+   "#5cbfeb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1b2a5c"
+  ],
+  "p": [
+   [
+    "Muslera",
+    "Fernando Muslera",
+    "uy"
+   ],
+   [
+    "Pereira",
+    "Álvaro Pereira",
+    "uy"
+   ],
+   [
+    "Godín",
+    "Diego Godín",
+    "uy"
+   ],
+   [
+    "Giménez",
+    "José Giménez",
+    "uy"
+   ],
+   [
+    "Cáceres",
+    "Martín Cáceres",
+    "uy"
+   ],
+   [
+    "Rodríguez",
+    "Cristian Rodríguez",
+    "uy"
+   ],
+   [
+    "Arévalo Ríos",
+    "Egidio Arévalo Ríos",
+    "uy"
+   ],
+   [
+    "González",
+    "Álvaro González",
+    "uy"
+   ],
+   [
+    "Lodeiro",
+    "Nicolás Lodeiro",
+    "uy"
+   ],
+   [
+    "Cavani",
+    "Edinson Cavani",
+    "uy"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Italija",
+  "opp": "Urugvaj",
+  "score": "0-1",
+  "comp": "SP 2014, grupa D, 3. kolo",
+  "season": "2014",
+  "y": 2014,
+  "note": "Suárezov ujed i crveni karton u 59. minutu; Italija ponovo ispala u grupi",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1f5fbf"
+  ],
+  "okit": [
+   "solid",
+   "#5cbfeb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "De Sciglio",
+    "Mattia De Sciglio",
+    "it"
+   ],
+   [
+    "Marchisio",
+    "Claudio Marchisio",
+    "it"
+   ],
+   [
+    "Pirlo",
+    "Andrea Pirlo",
+    "it"
+   ],
+   [
+    "Verratti",
+    "Marco Verratti",
+    "it"
+   ],
+   [
+    "Darmian",
+    "Matteo Darmian",
+    "it"
+   ],
+   [
+    "Balotelli",
+    "Mario Balotelli",
+    "it"
+   ],
+   [
+    "Immobile",
+    "Ciro Immobile",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Meksiko",
+  "opp": "Brazil",
+  "score": "0-0",
+  "comp": "SP 2014, grupa A, 2. kolo",
+  "season": "2014",
+  "y": 2014,
+  "note": "Golman zaustavio domaćina nizom neverovatnih odbrana u Fortalezi",
+  "form": "5-3-2",
+  "kit": [
+   "solid",
+   "#006847",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "Ochoa",
+    "Guillermo Ochoa",
+    "mx"
+   ],
+   [
+    "Layún",
+    "Miguel Layún",
+    "mx"
+   ],
+   [
+    "Moreno",
+    "Héctor Moreno",
+    "mx"
+   ],
+   [
+    "Márquez",
+    "Rafael Márquez",
+    "mx"
+   ],
+   [
+    "Rodríguez",
+    "Francisco Rodríguez",
+    "mx"
+   ],
+   [
+    "Aguilar",
+    "Paul Aguilar",
+    "mx"
+   ],
+   [
+    "Guardado",
+    "Andrés Guardado",
+    "mx"
+   ],
+   [
+    "Vázquez",
+    "José Juan Vázquez",
+    "mx"
+   ],
+   [
+    "Herrera",
+    "Héctor Herrera",
+    "mx"
+   ],
+   [
+    "Dos Santos",
+    "Giovani dos Santos",
+    "mx"
+   ],
+   [
+    "Peralta",
+    "Oribe Peralta",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Australija",
+  "opp": "Holandija",
+  "score": "2-3",
+  "comp": "SP 2014, grupa B, 2. kolo",
+  "season": "2014",
+  "y": 2014,
+  "note": "Vodili 2-1 protiv vicešampiona sveta; volej za 1-1 među golovima turnira",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "okit": [
+   "solid",
+   "#ff6600",
+   "#1b2a5c"
+  ],
+  "p": [
+   [
+    "Ryan",
+    "Mathew Ryan",
+    "au"
+   ],
+   [
+    "Davidson",
+    "Jason Davidson",
+    "au"
+   ],
+   [
+    "Špiranović",
+    "Matthew Špiranović",
+    "au"
+   ],
+   [
+    "Wilkinson",
+    "Alex Wilkinson",
+    "au"
+   ],
+   [
+    "McGowan",
+    "Ryan McGowan",
+    "au"
+   ],
+   [
+    "McKay",
+    "Matt McKay",
+    "au"
+   ],
+   [
+    "Jedinak",
+    "Mile Jedinak",
+    "au"
+   ],
+   [
+    "Oar",
+    "Tommy Oar",
+    "au"
+   ],
+   [
+    "Bresciano",
+    "Mark Bresciano",
+    "au"
+   ],
+   [
+    "Leckie",
+    "Mathew Leckie",
+    "au"
+   ],
+   [
+    "Cahill",
+    "Tim Cahill",
+    "au"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Portugal",
+  "opp": "Švedska",
+  "score": "3-2",
+  "comp": "Kvalifikacije za SP 2014, baraž (revanš)",
+  "season": "2014",
+  "y": 2013,
+  "note": "Kapitenov het-trik nadjačao dva gola Ibrahimovića u Solni",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "okit": [
+   "solid",
+   "#fecc00",
+   "#006aa7"
+  ],
+  "p": [
+   [
+    "Rui Patrício",
+    "Rui Patrício",
+    "pt"
+   ],
+   [
+    "Coentrão",
+    "Fábio Coentrão",
+    "pt"
+   ],
+   [
+    "Bruno Alves",
+    "Bruno Alves",
+    "pt"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "João Pereira",
+    "João Pereira",
+    "pt"
+   ],
+   [
+    "Moutinho",
+    "João Moutinho",
+    "pt"
+   ],
+   [
+    "Veloso",
+    "Miguel Veloso",
+    "pt"
+   ],
+   [
+    "Meireles",
+    "Raul Meireles",
+    "pt"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Hugo Almeida",
+    "Hugo Almeida",
+    "pt"
+   ],
+   [
+    "Nani",
+    "Nani",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Francuska",
+  "opp": "Hrvatska",
+  "score": "4-2",
+  "comp": "SP 2018, finale",
+  "season": "2018",
+  "y": 2018,
+  "note": "Druga titula prvaka sveta, 20 godina posle prve",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#1b2a5c",
+   "#ffffff"
+  ],
+  "okit": [
+   "checks",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Hernandez",
+    "Lucas Hernandez",
+    "fr"
+   ],
+   [
+    "Umtiti",
+    "Samuel Umtiti",
+    "fr"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Pavard",
+    "Benjamin Pavard",
+    "fr"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "Matuidi",
+    "Blaise Matuidi",
+    "fr"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ],
+   [
+    "Mbappé",
+    "Kylian Mbappé",
+    "fr"
+   ],
+   [
+    "Giroud",
+    "Olivier Giroud",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Hrvatska",
+  "opp": "Francuska",
+  "score": "2-4",
+  "comp": "SP 2018, finale",
+  "season": "2018",
+  "y": 2018,
+  "note": "Prvo finale Svetskog prvenstva u istoriji Hrvatske",
+  "form": "4-2-3-1",
+  "kit": [
+   "checks",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b2a5c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Subašić",
+    "Danijel Subašić",
+    "hr"
+   ],
+   [
+    "Strinić",
+    "Ivan Strinić",
+    "hr"
+   ],
+   [
+    "Vida",
+    "Domagoj Vida",
+    "hr"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Vrsaljko",
+    "Šime Vrsaljko",
+    "hr"
+   ],
+   [
+    "Brozović",
+    "Marcelo Brozović",
+    "hr"
+   ],
+   [
+    "Rakitić",
+    "Ivan Rakitić",
+    "hr"
+   ],
+   [
+    "Perišić",
+    "Ivan Perišić",
+    "hr"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Rebić",
+    "Ante Rebić",
+    "hr"
+   ],
+   [
+    "Mandžukić",
+    "Mario Mandžukić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Rusija",
+  "opp": "Španija",
+  "score": "1-1 (4-3 pen.)",
+  "comp": "SP 2018, osmina finala",
+  "season": "2018",
+  "y": 2018,
+  "note": "Domaćin izbacio Španiju posle penala u Lužnjikiju",
+  "form": "5-3-2",
+  "kit": [
+   "solid",
+   "#8b1a2b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "p": [
+   [
+    "Akinfeev",
+    "Igor Akinfeev",
+    "ru"
+   ],
+   [
+    "Zhirkov",
+    "Yuri Zhirkov",
+    "ru"
+   ],
+   [
+    "Kudryashov",
+    "Fyodor Kudryashov",
+    "ru"
+   ],
+   [
+    "Ignashevich",
+    "Sergei Ignashevich",
+    "ru"
+   ],
+   [
+    "Kutepov",
+    "Ilya Kutepov",
+    "ru"
+   ],
+   [
+    "Mário Fernandes",
+    "Mário Fernandes",
+    "ru"
+   ],
+   [
+    "Kuzyayev",
+    "Daler Kuzyayev",
+    "ru"
+   ],
+   [
+    "Zobnin",
+    "Roman Zobnin",
+    "ru"
+   ],
+   [
+    "Samedov",
+    "Aleksandr Samedov",
+    "ru"
+   ],
+   [
+    "Golovin",
+    "Aleksandr Golovin",
+    "ru"
+   ],
+   [
+    "Dzyuba",
+    "Artem Dzyuba",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Portugal",
+  "opp": "Španija",
+  "score": "3-3",
+  "comp": "SP 2018, grupa B, 1. kolo",
+  "season": "2018",
+  "y": 2018,
+  "note": "Kapitenov het-trik, izjednačenje iz slobodnog udarca u 88. minutu",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "p": [
+   [
+    "Rui Patrício",
+    "Rui Patrício",
+    "pt"
+   ],
+   [
+    "Guerreiro",
+    "Raphaël Guerreiro",
+    "pt"
+   ],
+   [
+    "Fonte",
+    "José Fonte",
+    "pt"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Cédric",
+    "Cédric Soares",
+    "pt"
+   ],
+   [
+    "Bruno Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "Moutinho",
+    "João Moutinho",
+    "pt"
+   ],
+   [
+    "William Carvalho",
+    "William Carvalho",
+    "pt"
+   ],
+   [
+    "Bernardo Silva",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "Guedes",
+    "Gonçalo Guedes",
+    "pt"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Meksiko",
+  "opp": "Nemačka",
+  "score": "1-0",
+  "comp": "SP 2018, grupa F, 1. kolo",
+  "season": "2018",
+  "y": 2018,
+  "note": "Proslava gola izazvala 'veštački zemljotres' u Meksiko Sitiju",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#006847",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Ochoa",
+    "Guillermo Ochoa",
+    "mx"
+   ],
+   [
+    "Gallardo",
+    "Jesús Gallardo",
+    "mx"
+   ],
+   [
+    "Moreno",
+    "Héctor Moreno",
+    "mx"
+   ],
+   [
+    "Ayala",
+    "Hugo Ayala",
+    "mx"
+   ],
+   [
+    "Salcedo",
+    "Carlos Salcedo",
+    "mx"
+   ],
+   [
+    "Guardado",
+    "Andrés Guardado",
+    "mx"
+   ],
+   [
+    "Herrera",
+    "Héctor Herrera",
+    "mx"
+   ],
+   [
+    "Lozano",
+    "Hirving Lozano",
+    "mx"
+   ],
+   [
+    "Vela",
+    "Carlos Vela",
+    "mx"
+   ],
+   [
+    "Layún",
+    "Miguel Layún",
+    "mx"
+   ],
+   [
+    "Chicharito",
+    "Javier Hernández",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Nemačka",
+  "opp": "Južna Koreja",
+  "score": "0-2",
+  "comp": "SP 2018, grupa F, 3. kolo",
+  "season": "2018",
+  "y": 2018,
+  "note": "Branilac titule poslednji u grupi, prvi put od 1938. ispao u prvoj fazi",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Hector",
+    "Jonas Hector",
+    "de"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Süle",
+    "Niklas Süle",
+    "de"
+   ],
+   [
+    "Kimmich",
+    "Joshua Kimmich",
+    "de"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Khedira",
+    "Sami Khedira",
+    "de"
+   ],
+   [
+    "Reus",
+    "Marco Reus",
+    "de"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Goretzka",
+    "Leon Goretzka",
+    "de"
+   ],
+   [
+    "Werner",
+    "Timo Werner",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Belgija",
+  "opp": "Brazil",
+  "score": "2-1",
+  "comp": "SP 2018, četvrtfinale",
+  "season": "2018",
+  "y": 2018,
+  "note": "Prvo polufinale posle 1986; Brazil ispraćen iz Kazanja",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Vertonghen",
+    "Jan Vertonghen",
+    "be"
+   ],
+   [
+    "Kompany",
+    "Vincent Kompany",
+    "be"
+   ],
+   [
+    "Alderweireld",
+    "Toby Alderweireld",
+    "be"
+   ],
+   [
+    "Chadli",
+    "Nacer Chadli",
+    "be"
+   ],
+   [
+    "Witsel",
+    "Axel Witsel",
+    "be"
+   ],
+   [
+    "Fellaini",
+    "Marouane Fellaini",
+    "be"
+   ],
+   [
+    "Meunier",
+    "Thomas Meunier",
+    "be"
+   ],
+   [
+    "Hazard",
+    "Eden Hazard",
+    "be"
+   ],
+   [
+    "Lukaku",
+    "Romelu Lukaku",
+    "be"
+   ],
+   [
+    "De Bruyne",
+    "Kevin De Bruyne",
+    "be"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Brazil",
+  "opp": "Belgija",
+  "score": "1-2",
+  "comp": "SP 2018, četvrtfinale",
+  "season": "2018",
+  "y": 2018,
+  "note": "Autogol posle 13 minuta i kontra za 0-2 pre poluvremena",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Alisson",
+    "Alisson",
+    "br"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Miranda",
+    "Miranda",
+    "br"
+   ],
+   [
+    "Thiago Silva",
+    "Thiago Silva",
+    "br"
+   ],
+   [
+    "Fagner",
+    "Fagner",
+    "br"
+   ],
+   [
+    "Coutinho",
+    "Philippe Coutinho",
+    "br"
+   ],
+   [
+    "Fernandinho",
+    "Fernandinho",
+    "br"
+   ],
+   [
+    "Paulinho",
+    "Paulinho",
+    "br"
+   ],
+   [
+    "Neymar",
+    "Neymar",
+    "br"
+   ],
+   [
+    "Gabriel Jesus",
+    "Gabriel Jesus",
+    "br"
+   ],
+   [
+    "Willian",
+    "Willian",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Engleska",
+  "opp": "Hrvatska",
+  "score": "1-2 prod.",
+  "comp": "SP 2018, polufinale",
+  "season": "2018",
+  "y": 2018,
+  "note": "Prvo polufinale Engleske posle 1990; vodstvo iz slobodnjaka u 5. minutu",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "checks",
+   "#e30613",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Pickford",
+    "Jordan Pickford",
+    "gb-eng"
+   ],
+   [
+    "Maguire",
+    "Harry Maguire",
+    "gb-eng"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Young",
+    "Ashley Young",
+    "gb-eng"
+   ],
+   [
+    "Lingard",
+    "Jesse Lingard",
+    "gb-eng"
+   ],
+   [
+    "Henderson",
+    "Jordan Henderson",
+    "gb-eng"
+   ],
+   [
+    "Alli",
+    "Dele Alli",
+    "gb-eng"
+   ],
+   [
+    "Trippier",
+    "Kieran Trippier",
+    "gb-eng"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ],
+   [
+    "Sterling",
+    "Raheem Sterling",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Island",
+  "opp": "Argentina",
+  "score": "1-1",
+  "comp": "SP 2018, grupa D, 1. kolo",
+  "season": "2018",
+  "y": 2018,
+  "note": "Debi na Mundijalu; golman (i filmski reditelj) odbranio penal Mesiju",
+  "form": "4-4-1-1",
+  "kit": [
+   "solid",
+   "#02529c",
+   "#dc1e35"
+  ],
+  "okit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Halldórsson",
+    "Hannes Þór Halldórsson",
+    "is"
+   ],
+   [
+    "Magnússon",
+    "Hörður Björgvin Magnússon",
+    "is"
+   ],
+   [
+    "Ragnar Sigurðsson",
+    "Ragnar Sigurðsson",
+    "is"
+   ],
+   [
+    "Árnason",
+    "Kári Árnason",
+    "is"
+   ],
+   [
+    "Sævarsson",
+    "Birkir Már Sævarsson",
+    "is"
+   ],
+   [
+    "Bjarnason",
+    "Birkir Bjarnason",
+    "is"
+   ],
+   [
+    "Hallfreðsson",
+    "Emil Hallfreðsson",
+    "is"
+   ],
+   [
+    "Gunnarsson",
+    "Aron Gunnarsson",
+    "is"
+   ],
+   [
+    "Guðmundsson",
+    "Jóhann Berg Guðmundsson",
+    "is"
+   ],
+   [
+    "Gylfi Sigurðsson",
+    "Gylfi Sigurðsson",
+    "is"
+   ],
+   [
+    "Finnbogason",
+    "Alfreð Finnbogason",
+    "is"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "Francuska",
+  "score": "3-4",
+  "comp": "SP 2018, osmina finala",
+  "season": "2018",
+  "y": 2018,
+  "note": "Tinejdžer iz Bondija razorio Argentinu u Kazanju",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b2a5c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Armani",
+    "Franco Armani",
+    "ar"
+   ],
+   [
+    "Tagliafico",
+    "Nicolás Tagliafico",
+    "ar"
+   ],
+   [
+    "Rojo",
+    "Marcos Rojo",
+    "ar"
+   ],
+   [
+    "Otamendi",
+    "Nicolás Otamendi",
+    "ar"
+   ],
+   [
+    "Mercado",
+    "Gabriel Mercado",
+    "ar"
+   ],
+   [
+    "Banega",
+    "Éver Banega",
+    "ar"
+   ],
+   [
+    "Mascherano",
+    "Javier Mascherano",
+    "ar"
+   ],
+   [
+    "Pérez",
+    "Enzo Pérez",
+    "ar"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Pavón",
+    "Cristian Pavón",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Japan",
+  "opp": "Belgija",
+  "score": "2-3",
+  "comp": "SP 2018, osmina finala",
+  "season": "2018",
+  "y": 2018,
+  "note": "Vodili 2-0, a gol iz kontre primili u 94. minutu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#0b1f5c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Kawashima",
+    "Eiji Kawashima",
+    "jp"
+   ],
+   [
+    "Nagatomo",
+    "Yuto Nagatomo",
+    "jp"
+   ],
+   [
+    "Shoji",
+    "Gen Shoji",
+    "jp"
+   ],
+   [
+    "Yoshida",
+    "Maya Yoshida",
+    "jp"
+   ],
+   [
+    "Sakai",
+    "Hiroki Sakai",
+    "jp"
+   ],
+   [
+    "Shibasaki",
+    "Gaku Shibasaki",
+    "jp"
+   ],
+   [
+    "Hasebe",
+    "Makoto Hasebe",
+    "jp"
+   ],
+   [
+    "Inui",
+    "Takashi Inui",
+    "jp"
+   ],
+   [
+    "Kagawa",
+    "Shinji Kagawa",
+    "jp"
+   ],
+   [
+    "Haraguchi",
+    "Genki Haraguchi",
+    "jp"
+   ],
+   [
+    "Osako",
+    "Yuya Osako",
+    "jp"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Urugvaj",
+  "opp": "Portugal",
+  "score": "2-1",
+  "comp": "SP 2018, osmina finala",
+  "season": "2018",
+  "y": 2018,
+  "note": "Dva gola strelca koji je potom povređen napustio teren",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#5cbfeb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "p": [
+   [
+    "Muslera",
+    "Fernando Muslera",
+    "uy"
+   ],
+   [
+    "Laxalt",
+    "Diego Laxalt",
+    "uy"
+   ],
+   [
+    "Godín",
+    "Diego Godín",
+    "uy"
+   ],
+   [
+    "Giménez",
+    "José Giménez",
+    "uy"
+   ],
+   [
+    "Cáceres",
+    "Martín Cáceres",
+    "uy"
+   ],
+   [
+    "Bentancur",
+    "Rodrigo Bentancur",
+    "uy"
+   ],
+   [
+    "Vecino",
+    "Matías Vecino",
+    "uy"
+   ],
+   [
+    "Torreira",
+    "Lucas Torreira",
+    "uy"
+   ],
+   [
+    "Nández",
+    "Nahitan Nández",
+    "uy"
+   ],
+   [
+    "Cavani",
+    "Edinson Cavani",
+    "uy"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Egipat",
+  "opp": "Rusija",
+  "score": "1-3",
+  "comp": "SP 2018, grupa A, 2. kolo",
+  "season": "2018",
+  "y": 2018,
+  "note": "Prvo Svetsko prvenstvo za Egipat posle 1990. godine",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ce1126",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#8b1a2b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "El Shenawy",
+    "Mohamed El Shenawy",
+    "eg"
+   ],
+   [
+    "Abdel Shafy",
+    "Mohamed Abdel Shafy",
+    "eg"
+   ],
+   [
+    "Hegazi",
+    "Ahmed Hegazi",
+    "eg"
+   ],
+   [
+    "Gabr",
+    "Ali Gabr",
+    "eg"
+   ],
+   [
+    "Fathy",
+    "Ahmed Fathy",
+    "eg"
+   ],
+   [
+    "Elneny",
+    "Mohamed Elneny",
+    "eg"
+   ],
+   [
+    "Hamed",
+    "Tarek Hamed",
+    "eg"
+   ],
+   [
+    "Trézéguet",
+    "Trézéguet",
+    "eg"
+   ],
+   [
+    "Said",
+    "Abdallah Said",
+    "eg"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ],
+   [
+    "Mohsen",
+    "Marwan Mohsen",
+    "eg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Italija",
+  "opp": "Švedska",
+  "score": "0-0",
+  "comp": "Kvalifikacije za SP 2018, baraž (revanš)",
+  "season": "2018",
+  "y": 2017,
+  "note": "Prvi put od 1958. Italija bez Svetskog prvenstva; Švedska prošla sa 1-0",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#1f5fbf",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#fecc00",
+   "#006aa7"
+  ],
+  "p": [
+   [
+    "Buffon",
+    "Gianluigi Buffon",
+    "it"
+   ],
+   [
+    "Chiellini",
+    "Giorgio Chiellini",
+    "it"
+   ],
+   [
+    "Bonucci",
+    "Leonardo Bonucci",
+    "it"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Darmian",
+    "Matteo Darmian",
+    "it"
+   ],
+   [
+    "Parolo",
+    "Marco Parolo",
+    "it"
+   ],
+   [
+    "Jorginho",
+    "Jorginho",
+    "it"
+   ],
+   [
+    "Florenzi",
+    "Alessandro Florenzi",
+    "it"
+   ],
+   [
+    "Candreva",
+    "Antonio Candreva",
+    "it"
+   ],
+   [
+    "Immobile",
+    "Ciro Immobile",
+    "it"
+   ],
+   [
+    "Gabbiadini",
+    "Manolo Gabbiadini",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Argentina",
+  "opp": "Francuska",
+  "score": "3-3 (4-2 pen.)",
+  "comp": "SP 2022, finale",
+  "season": "2022",
+  "y": 2022,
+  "note": "Treća titula prvaka sveta, prva posle 1986",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1b2a5c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Martínez",
+    "Emiliano Martínez",
+    "ar"
+   ],
+   [
+    "Tagliafico",
+    "Nicolás Tagliafico",
+    "ar"
+   ],
+   [
+    "Otamendi",
+    "Nicolás Otamendi",
+    "ar"
+   ],
+   [
+    "Romero",
+    "Cristian Romero",
+    "ar"
+   ],
+   [
+    "Molina",
+    "Nahuel Molina",
+    "ar"
+   ],
+   [
+    "Mac Allister",
+    "Alexis Mac Allister",
+    "ar"
+   ],
+   [
+    "Fernández",
+    "Enzo Fernández",
+    "ar"
+   ],
+   [
+    "De Paul",
+    "Rodrigo De Paul",
+    "ar"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Álvarez",
+    "Julián Álvarez",
+    "ar"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Francuska",
+  "opp": "Argentina",
+  "score": "3-3 (2-4 pen.)",
+  "comp": "SP 2022, finale",
+  "season": "2022",
+  "y": 2022,
+  "note": "Het-trik u finalu, a titula ipak otišla u Buenos Ajres",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#1b2a5c",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Hernandez",
+    "Théo Hernandez",
+    "fr"
+   ],
+   [
+    "Upamecano",
+    "Dayot Upamecano",
+    "fr"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Koundé",
+    "Jules Koundé",
+    "fr"
+   ],
+   [
+    "Rabiot",
+    "Adrien Rabiot",
+    "fr"
+   ],
+   [
+    "Tchouaméni",
+    "Aurélien Tchouaméni",
+    "fr"
+   ],
+   [
+    "Mbappé",
+    "Kylian Mbappé",
+    "fr"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ],
+   [
+    "Dembélé",
+    "Ousmane Dembélé",
+    "fr"
+   ],
+   [
+    "Giroud",
+    "Olivier Giroud",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Saudijska Arabija",
+  "opp": "Argentina",
+  "score": "2-1",
+  "comp": "SP 2022, grupa C, 1. kolo",
+  "season": "2022",
+  "y": 2022,
+  "note": "Prekinuli niz od 36 utakmica Argentine bez poraza",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#006c35"
+  ],
+  "okit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Al-Owais",
+    "Mohammed Al-Owais",
+    "sa"
+   ],
+   [
+    "Al-Shahrani",
+    "Yasser Al-Shahrani",
+    "sa"
+   ],
+   [
+    "Al-Bulaihi",
+    "Ali Al-Bulaihi",
+    "sa"
+   ],
+   [
+    "Al-Tombakti",
+    "Hassan Al-Tombakti",
+    "sa"
+   ],
+   [
+    "Abdulhamid",
+    "Saud Abdulhamid",
+    "sa"
+   ],
+   [
+    "Al-Malki",
+    "Abdulellah Al-Malki",
+    "sa"
+   ],
+   [
+    "Al-Dawsari",
+    "Salem Al-Dawsari",
+    "sa"
+   ],
+   [
+    "Kanno",
+    "Mohamed Kanno",
+    "sa"
+   ],
+   [
+    "Al-Faraj",
+    "Salman Al-Faraj",
+    "sa"
+   ],
+   [
+    "Al-Buraikan",
+    "Firas Al-Buraikan",
+    "sa"
+   ],
+   [
+    "Al-Shehri",
+    "Saleh Al-Shehri",
+    "sa"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Maroko",
+  "opp": "Portugal",
+  "score": "1-0",
+  "comp": "SP 2022, četvrtfinale",
+  "season": "2022",
+  "y": 2022,
+  "note": "Prvi afrički polufinalista u istoriji Svetskog prvenstva",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c1272d",
+   "#006233"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "Bounou",
+    "Yassine Bounou",
+    "ma"
+   ],
+   [
+    "Attiyat Allah",
+    "Yahia Attiyat Allah",
+    "ma"
+   ],
+   [
+    "Saïss",
+    "Romain Saïss",
+    "ma"
+   ],
+   [
+    "El Yamiq",
+    "Jawad El Yamiq",
+    "ma"
+   ],
+   [
+    "Hakimi",
+    "Achraf Hakimi",
+    "ma"
+   ],
+   [
+    "Amallah",
+    "Selim Amallah",
+    "ma"
+   ],
+   [
+    "Amrabat",
+    "Sofyan Amrabat",
+    "ma"
+   ],
+   [
+    "Ounahi",
+    "Azzedine Ounahi",
+    "ma"
+   ],
+   [
+    "Boufal",
+    "Sofiane Boufal",
+    "ma"
+   ],
+   [
+    "En-Nesyri",
+    "Youssef En-Nesyri",
+    "ma"
+   ],
+   [
+    "Ziyech",
+    "Hakim Ziyech",
+    "ma"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Japan",
+  "opp": "Nemačka",
+  "score": "2-1",
+  "comp": "SP 2022, grupa E, 1. kolo",
+  "season": "2022",
+  "y": 2022,
+  "note": "Preokret uz golove dvojice džokera protiv četvorostrukog prvaka",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#0b1f5c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Gonda",
+    "Shūichi Gonda",
+    "jp"
+   ],
+   [
+    "Nagatomo",
+    "Yūto Nagatomo",
+    "jp"
+   ],
+   [
+    "Yoshida",
+    "Maya Yoshida",
+    "jp"
+   ],
+   [
+    "Itakura",
+    "Kō Itakura",
+    "jp"
+   ],
+   [
+    "Sakai",
+    "Hiroki Sakai",
+    "jp"
+   ],
+   [
+    "Tanaka",
+    "Ao Tanaka",
+    "jp"
+   ],
+   [
+    "Endo",
+    "Wataru Endo",
+    "jp"
+   ],
+   [
+    "Kubo",
+    "Takefusa Kubo",
+    "jp"
+   ],
+   [
+    "Kamada",
+    "Daichi Kamada",
+    "jp"
+   ],
+   [
+    "Itō",
+    "Junya Itō",
+    "jp"
+   ],
+   [
+    "Maeda",
+    "Daizen Maeda",
+    "jp"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Nemačka",
+  "opp": "Japan",
+  "score": "1-2",
+  "comp": "SP 2022, grupa E, 1. kolo",
+  "season": "2022",
+  "y": 2022,
+  "note": "Poraz na startu vodio ka drugom uzastopnom ispadanju u grupi",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#0b1f5c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Raum",
+    "David Raum",
+    "de"
+   ],
+   [
+    "Schlotterbeck",
+    "Nico Schlotterbeck",
+    "de"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Süle",
+    "Niklas Süle",
+    "de"
+   ],
+   [
+    "Gündoğan",
+    "İlkay Gündoğan",
+    "de"
+   ],
+   [
+    "Kimmich",
+    "Joshua Kimmich",
+    "de"
+   ],
+   [
+    "Musiala",
+    "Jamal Musiala",
+    "de"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ],
+   [
+    "Gnabry",
+    "Serge Gnabry",
+    "de"
+   ],
+   [
+    "Havertz",
+    "Kai Havertz",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Hrvatska",
+  "opp": "Brazil",
+  "score": "1-1 (4-2 pen.)",
+  "comp": "SP 2022, četvrtfinale",
+  "season": "2022",
+  "y": 2022,
+  "note": "Izjednačenje u 117. minutu, pa penali protiv favorita",
+  "form": "4-3-3",
+  "kit": [
+   "checks",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffdf00",
+   "#009c3b"
+  ],
+  "p": [
+   [
+    "Livaković",
+    "Dominik Livaković",
+    "hr"
+   ],
+   [
+    "Sosa",
+    "Borna Sosa",
+    "hr"
+   ],
+   [
+    "Gvardiol",
+    "Joško Gvardiol",
+    "hr"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Juranović",
+    "Josip Juranović",
+    "hr"
+   ],
+   [
+    "Kovačić",
+    "Mateo Kovačić",
+    "hr"
+   ],
+   [
+    "Brozović",
+    "Marcelo Brozović",
+    "hr"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Perišić",
+    "Ivan Perišić",
+    "hr"
+   ],
+   [
+    "Kramarić",
+    "Andrej Kramarić",
+    "hr"
+   ],
+   [
+    "Pašalić",
+    "Mario Pašalić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Portugal",
+  "opp": "Švajcarska",
+  "score": "6-1",
+  "comp": "SP 2022, osmina finala",
+  "season": "2022",
+  "y": 2022,
+  "note": "Ronaldo počeo na klupi, a njegova zamena dala het-trik",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#006600"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#d52b1e"
+  ],
+  "p": [
+   [
+    "Diogo Costa",
+    "Diogo Costa",
+    "pt"
+   ],
+   [
+    "Guerreiro",
+    "Raphaël Guerreiro",
+    "pt"
+   ],
+   [
+    "Rúben Dias",
+    "Rúben Dias",
+    "pt"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Dalot",
+    "Diogo Dalot",
+    "pt"
+   ],
+   [
+    "Bernardo Silva",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "William Carvalho",
+    "William Carvalho",
+    "pt"
+   ],
+   [
+    "Otávio",
+    "Otávio",
+    "pt"
+   ],
+   [
+    "João Félix",
+    "João Félix",
+    "pt"
+   ],
+   [
+    "Gonçalo Ramos",
+    "Gonçalo Ramos",
+    "pt"
+   ],
+   [
+    "Bruno Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Španija",
+  "opp": "Maroko",
+  "score": "0-0 (0-3 pen.)",
+  "comp": "SP 2022, osmina finala",
+  "season": "2022",
+  "y": 2022,
+  "note": "Preko 1000 dodavanja, a nijedan pogođen penal u seriji",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#f1bf00"
+  ],
+  "okit": [
+   "solid",
+   "#c1272d",
+   "#006233"
+  ],
+  "p": [
+   [
+    "Unai Simón",
+    "Unai Simón",
+    "es"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Laporte",
+    "Aymeric Laporte",
+    "es"
+   ],
+   [
+    "Rodri",
+    "Rodri",
+    "es"
+   ],
+   [
+    "Llorente",
+    "Marcos Llorente",
+    "es"
+   ],
+   [
+    "Pedri",
+    "Pedri",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Gavi",
+    "Gavi",
+    "es"
+   ],
+   [
+    "Olmo",
+    "Dani Olmo",
+    "es"
+   ],
+   [
+    "Asensio",
+    "Marco Asensio",
+    "es"
+   ],
+   [
+    "Ferran Torres",
+    "Ferran Torres",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Engleska",
+  "opp": "Francuska",
+  "score": "1-2",
+  "comp": "SP 2022, četvrtfinale",
+  "season": "2022",
+  "y": 2022,
+  "note": "Kapiten promašio drugi penal u 84. minutu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "solid",
+   "#1b2a5c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Pickford",
+    "Jordan Pickford",
+    "gb-eng"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Maguire",
+    "Harry Maguire",
+    "gb-eng"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Bellingham",
+    "Jude Bellingham",
+    "gb-eng"
+   ],
+   [
+    "Rice",
+    "Declan Rice",
+    "gb-eng"
+   ],
+   [
+    "Henderson",
+    "Jordan Henderson",
+    "gb-eng"
+   ],
+   [
+    "Foden",
+    "Phil Foden",
+    "gb-eng"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ],
+   [
+    "Saka",
+    "Bukayo Saka",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Kamerun",
+  "opp": "Brazil",
+  "score": "1-0",
+  "comp": "SP 2022, grupa G, 3. kolo",
+  "season": "2022",
+  "y": 2022,
+  "note": "Prva afrička pobeda nad Brazilom na Svetskom prvenstvu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#007a5e",
+   "#fcd116"
+  ],
+  "okit": [
+   "solid",
+   "#1d4ea8",
+   "#ffdf00"
+  ],
+  "p": [
+   [
+    "Epassy",
+    "Devis Epassy",
+    "cm"
+   ],
+   [
+    "Nouhou",
+    "Nouhou Tolo",
+    "cm"
+   ],
+   [
+    "Ebosse",
+    "Enzo Ebosse",
+    "cm"
+   ],
+   [
+    "Wooh",
+    "Christopher Wooh",
+    "cm"
+   ],
+   [
+    "Fai",
+    "Collins Fai",
+    "cm"
+   ],
+   [
+    "Kunde",
+    "Pierre Kunde",
+    "cm"
+   ],
+   [
+    "Anguissa",
+    "André-Frank Zambo Anguissa",
+    "cm"
+   ],
+   [
+    "Ngamaleu",
+    "Moumi Ngamaleu",
+    "cm"
+   ],
+   [
+    "Choupo-Moting",
+    "Eric Maxim Choupo-Moting",
+    "cm"
+   ],
+   [
+    "Mbeumo",
+    "Bryan Mbeumo",
+    "cm"
+   ],
+   [
+    "Aboubakar",
+    "Vincent Aboubakar",
+    "cm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Tunis",
+  "opp": "Francuska",
+  "score": "1-0",
+  "comp": "SP 2022, grupa D, 3. kolo",
+  "season": "2022",
+  "y": 2022,
+  "note": "Pobeda nad aktuelnim prvakom sveta, ali ipak ispadanje u grupi",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#e70013",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1b2a5c"
+  ],
+  "p": [
+   [
+    "Dahmen",
+    "Aymen Dahmen",
+    "tn"
+   ],
+   [
+    "Talbi",
+    "Montassar Talbi",
+    "tn"
+   ],
+   [
+    "Ghandri",
+    "Nader Ghandri",
+    "tn"
+   ],
+   [
+    "Meriah",
+    "Yassine Meriah",
+    "tn"
+   ],
+   [
+    "Maâloul",
+    "Ali Maâloul",
+    "tn"
+   ],
+   [
+    "Laïdouni",
+    "Aïssa Laïdouni",
+    "tn"
+   ],
+   [
+    "Skhiri",
+    "Ellyes Skhiri",
+    "tn"
+   ],
+   [
+    "Kechrida",
+    "Wajdi Kechrida",
+    "tn"
+   ],
+   [
+    "Ben Romdhane",
+    "Mohamed Ali Ben Romdhane",
+    "tn"
+   ],
+   [
+    "Ben Slimane",
+    "Anis Ben Slimane",
+    "tn"
+   ],
+   [
+    "Khazri",
+    "Wahbi Khazri",
+    "tn"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Vels",
+  "opp": "SAD",
+  "score": "1-1",
+  "comp": "SP 2022, grupa B, 1. kolo",
+  "season": "2022",
+  "y": 2022,
+  "note": "Prva utakmica na Mundijalu posle 64 godine; izjednačenje iz penala",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#00ab39"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0a3161"
+  ],
+  "p": [
+   [
+    "Hennessey",
+    "Wayne Hennessey",
+    "gb-wls"
+   ],
+   [
+    "Davies",
+    "Ben Davies",
+    "gb-wls"
+   ],
+   [
+    "Rodon",
+    "Joe Rodon",
+    "gb-wls"
+   ],
+   [
+    "Mepham",
+    "Chris Mepham",
+    "gb-wls"
+   ],
+   [
+    "Williams",
+    "Neco Williams",
+    "gb-wls"
+   ],
+   [
+    "Wilson",
+    "Harry Wilson",
+    "gb-wls"
+   ],
+   [
+    "Ampadu",
+    "Ethan Ampadu",
+    "gb-wls"
+   ],
+   [
+    "Ramsey",
+    "Aaron Ramsey",
+    "gb-wls"
+   ],
+   [
+    "Roberts",
+    "Connor Roberts",
+    "gb-wls"
+   ],
+   [
+    "James",
+    "Daniel James",
+    "gb-wls"
+   ],
+   [
+    "Bale",
+    "Gareth Bale",
+    "gb-wls"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Australija",
+  "opp": "Danska",
+  "score": "1-0",
+  "comp": "SP 2022, grupa D, 3. kolo",
+  "season": "2022",
+  "y": 2022,
+  "note": "Plasman u nokaut fazu, drugi put u istoriji Australije",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#ffcd00",
+   "#00843d"
+  ],
+  "okit": [
+   "solid",
+   "#c60c30",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ryan",
+    "Mathew Ryan",
+    "au"
+   ],
+   [
+    "Behich",
+    "Aziz Behich",
+    "au"
+   ],
+   [
+    "Rowles",
+    "Kye Rowles",
+    "au"
+   ],
+   [
+    "Souttar",
+    "Harry Souttar",
+    "au"
+   ],
+   [
+    "Degenek",
+    "Miloš Degenek",
+    "au"
+   ],
+   [
+    "Goodwin",
+    "Craig Goodwin",
+    "au"
+   ],
+   [
+    "Irvine",
+    "Jackson Irvine",
+    "au"
+   ],
+   [
+    "Mooy",
+    "Aaron Mooy",
+    "au"
+   ],
+   [
+    "Leckie",
+    "Mathew Leckie",
+    "au"
+   ],
+   [
+    "Duke",
+    "Mitch Duke",
+    "au"
+   ],
+   [
+    "McGree",
+    "Riley McGree",
+    "au"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Holandija",
+  "opp": "Argentina",
+  "score": "2-2 (3-4 pen.)",
+  "comp": "SP 2022, četvrtfinale",
+  "season": "2022",
+  "y": 2022,
+  "note": "'Bitka na Lusailu': izjednačenje u 11. minutu nadoknade, rekordan broj žutih kartona",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#ff6600",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "stripes",
+   "#75aadb",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Noppert",
+    "Andries Noppert",
+    "nl"
+   ],
+   [
+    "Aké",
+    "Nathan Aké",
+    "nl"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "Timber",
+    "Jurriën Timber",
+    "nl"
+   ],
+   [
+    "Blind",
+    "Daley Blind",
+    "nl"
+   ],
+   [
+    "De Jong",
+    "Frenkie de Jong",
+    "nl"
+   ],
+   [
+    "De Roon",
+    "Marten de Roon",
+    "nl"
+   ],
+   [
+    "Dumfries",
+    "Denzel Dumfries",
+    "nl"
+   ],
+   [
+    "Gakpo",
+    "Cody Gakpo",
+    "nl"
+   ],
+   [
+    "Bergwijn",
+    "Steven Bergwijn",
+    "nl"
+   ],
+   [
+    "Depay",
+    "Memphis Depay",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Kanada",
+  "opp": "Belgija",
+  "score": "0-1",
+  "comp": "SP 2022, grupa F, 1. kolo",
+  "season": "2022",
+  "y": 2022,
+  "note": "Prvi Mundijal posle 1986; rano promašen penal i poraz uprkos boljoj igri",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#d80621",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Borjan",
+    "Milan Borjan",
+    "ca"
+   ],
+   [
+    "Miller",
+    "Kamal Miller",
+    "ca"
+   ],
+   [
+    "Vitória",
+    "Steven Vitória",
+    "ca"
+   ],
+   [
+    "Johnston",
+    "Alistair Johnston",
+    "ca"
+   ],
+   [
+    "Davies",
+    "Alphonso Davies",
+    "ca"
+   ],
+   [
+    "Eustáquio",
+    "Stephen Eustáquio",
+    "ca"
+   ],
+   [
+    "Hutchinson",
+    "Atiba Hutchinson",
+    "ca"
+   ],
+   [
+    "Laryea",
+    "Richie Laryea",
+    "ca"
+   ],
+   [
+    "Hoilett",
+    "Junior Hoilett",
+    "ca"
+   ],
+   [
+    "Buchanan",
+    "Tajon Buchanan",
+    "ca"
+   ],
+   [
+    "David",
+    "Jonathan David",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "nat",
+  "team": "Severna Makedonija",
+  "opp": "Italija",
+  "score": "1-0",
+  "comp": "Kvalifikacije za SP 2022, baraž (polufinale)",
+  "season": "2022",
+  "y": 2022,
+  "note": "Gol u 92. minutu u Palermu izbacio aktuelnog prvaka Evrope",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#d20000",
+   "#f8e71c"
+  ],
+  "okit": [
+   "solid",
+   "#1f5fbf",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Dimitrievski",
+    "Stole Dimitrievski",
+    "mk"
+   ],
+   [
+    "Alioski",
+    "Ezgjan Alioski",
+    "mk"
+   ],
+   [
+    "Musliu",
+    "Visar Musliu",
+    "mk"
+   ],
+   [
+    "Velkovski",
+    "Darko Velkovski",
+    "mk"
+   ],
+   [
+    "Stefan Ristovski",
+    "Stefan Ristovski",
+    "mk"
+   ],
+   [
+    "Nikolov",
+    "Boban Nikolov",
+    "mk"
+   ],
+   [
+    "Bardhi",
+    "Enis Bardhi",
+    "mk"
+   ],
+   [
+    "Ademi",
+    "Arijan Ademi",
+    "mk"
+   ],
+   [
+    "Čurlinov",
+    "Darko Čurlinov",
+    "mk"
+   ],
+   [
+    "Milan Ristovski",
+    "Milan Ristovski",
+    "mk"
+   ],
+   [
+    "Trajkovski",
+    "Aleksandar Trajkovski",
+    "mk"
+   ]
+  ]
+ }
+]

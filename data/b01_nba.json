@@ -1,0 +1,2697 @@
+[
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Miami Heat",
+  "opp": "Oklahoma City Thunder",
+  "score": "121-106",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Prva titula nove velike trojke u Majamiju",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#98002e"
+  ],
+  "okit": [
+   "solid",
+   "#007ac1",
+   "#ef3b24"
+  ],
+  "p": [
+   [
+    "Chalmers",
+    "Mario Chalmers",
+    "us"
+   ],
+   [
+    "Wade",
+    "Dwyane Wade",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Battier",
+    "Shane Battier",
+    "us"
+   ],
+   [
+    "Bosh",
+    "Chris Bosh",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Oklahoma City Thunder",
+  "opp": "Miami Heat",
+  "score": "106-121",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Tim sa tri buduća MVP-ja izgubio finale u pet utakmica",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007ac1",
+   "#ef3b24"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#98002e"
+  ],
+  "p": [
+   [
+    "Westbrook",
+    "Russell Westbrook",
+    "us"
+   ],
+   [
+    "Sefolosha",
+    "Thabo Sefolosha",
+    "ch"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Ibaka",
+    "Serge Ibaka",
+    "es"
+   ],
+   [
+    "Perkins",
+    "Kendrick Perkins",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Miami Heat",
+  "opp": "San Antonio Spurs",
+  "score": "103-100 OT",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "Trojka Reja Alena sa klupe 5,2 sekunde pre kraja odvela meč u produžetak",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#98002e"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#c4ced4"
+  ],
+  "p": [
+   [
+    "Chalmers",
+    "Mario Chalmers",
+    "us"
+   ],
+   [
+    "Wade",
+    "Dwyane Wade",
+    "us"
+   ],
+   [
+    "Miller",
+    "Mike Miller",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Bosh",
+    "Chris Bosh",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "San Antonio Spurs",
+  "opp": "Miami Heat",
+  "score": "100-103 OT",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "Vodili pet poena razlike 28 sekundi pre kraja, a titula je izmakla",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#000000",
+   "#c4ced4"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#98002e"
+  ],
+  "p": [
+   [
+    "Parker",
+    "Tony Parker",
+    "fr"
+   ],
+   [
+    "Green",
+    "Danny Green",
+    "us"
+   ],
+   [
+    "Ginóbili",
+    "Manu Ginóbili",
+    "ar"
+   ],
+   [
+    "Leonard",
+    "Kawhi Leonard",
+    "us"
+   ],
+   [
+    "Duncan",
+    "Tim Duncan",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "San Antonio Spurs",
+  "opp": "Miami Heat",
+  "score": "104-87",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Revanš za prethodnu godinu, rekordna razlika u poenima u finalu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#98002e"
+  ],
+  "p": [
+   [
+    "Parker",
+    "Tony Parker",
+    "fr"
+   ],
+   [
+    "Green",
+    "Danny Green",
+    "us"
+   ],
+   [
+    "Leonard",
+    "Kawhi Leonard",
+    "us"
+   ],
+   [
+    "Diaw",
+    "Boris Diaw",
+    "fr"
+   ],
+   [
+    "Duncan",
+    "Tim Duncan",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Miami Heat",
+  "opp": "San Antonio Spurs",
+  "score": "87-104",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Poslednja utakmica velike trojke Majamija",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#000000",
+   "#98002e"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Wade",
+    "Dwyane Wade",
+    "us"
+   ],
+   [
+    "Allen",
+    "Ray Allen",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Lewis",
+    "Rashard Lewis",
+    "us"
+   ],
+   [
+    "Bosh",
+    "Chris Bosh",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Golden State Warriors",
+  "opp": "Cleveland Cavaliers",
+  "score": "105-97",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Prva titula Golden Stejta posle 40 godina",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1d428a",
+   "#ffc72c"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#860038"
+  ],
+  "p": [
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Klay Thompson",
+    "us"
+   ],
+   [
+    "Iguodala",
+    "Andre Iguodala",
+    "us"
+   ],
+   [
+    "Barnes",
+    "Harrison Barnes",
+    "us"
+   ],
+   [
+    "Green",
+    "Draymond Green",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Cleveland Cavaliers",
+  "opp": "Golden State Warriors",
+  "score": "97-105",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Bez dvojice povređenih Ol-Stara Klivlend pao u šest utakmica",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#860038"
+  ],
+  "okit": [
+   "solid",
+   "#1d428a",
+   "#ffc72c"
+  ],
+  "p": [
+   [
+    "Dellavedova",
+    "Matthew Dellavedova",
+    "au"
+   ],
+   [
+    "Shumpert",
+    "Iman Shumpert",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Tristan Thompson",
+    "ca"
+   ],
+   [
+    "Mozgov",
+    "Timofey Mozgov",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Cleveland Cavaliers",
+  "opp": "Golden State Warriors",
+  "score": "93-89",
+  "comp": "NBA finale, 7. utakmica",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Prvi preokret sa 1-3 u istoriji finala, kraj 52 godine čekanja Klivlenda",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#860038",
+   "#fdbb30"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d428a"
+  ],
+  "p": [
+   [
+    "Irving",
+    "Kyrie Irving",
+    "us"
+   ],
+   [
+    "Smith",
+    "J.R. Smith",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Love",
+    "Kevin Love",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Tristan Thompson",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Golden State Warriors",
+  "opp": "Cleveland Cavaliers",
+  "score": "89-93",
+  "comp": "NBA finale, 7. utakmica",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Rekordne 73 pobede u sezoni, ali bez titule",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1d428a"
+  ],
+  "okit": [
+   "solid",
+   "#860038",
+   "#fdbb30"
+  ],
+  "p": [
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Klay Thompson",
+    "us"
+   ],
+   [
+    "Barnes",
+    "Harrison Barnes",
+    "us"
+   ],
+   [
+    "Green",
+    "Draymond Green",
+    "us"
+   ],
+   [
+    "Ezeli",
+    "Festus Ezeli",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Golden State Warriors",
+  "opp": "Cleveland Cavaliers",
+  "score": "129-120",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Titula uz rekordnih 16-1 u plej-ofu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1d428a"
+  ],
+  "okit": [
+   "solid",
+   "#860038",
+   "#fdbb30"
+  ],
+  "p": [
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Klay Thompson",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Green",
+    "Draymond Green",
+    "us"
+   ],
+   [
+    "Pachulia",
+    "Zaza Pachulia",
+    "ge"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Cleveland Cavaliers",
+  "opp": "Golden State Warriors",
+  "score": "120-129",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Treće uzastopno finale protiv Golden Stejta",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#860038",
+   "#fdbb30"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d428a"
+  ],
+  "p": [
+   [
+    "Irving",
+    "Kyrie Irving",
+    "us"
+   ],
+   [
+    "Smith",
+    "J.R. Smith",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Love",
+    "Kevin Love",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Tristan Thompson",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Golden State Warriors",
+  "opp": "Cleveland Cavaliers",
+  "score": "124-114 OT",
+  "comp": "NBA finale, 1. utakmica",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Protivnik u poslednjim sekundama izneo loptu umesto šuta, pa produžetak",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1d428a"
+  ],
+  "okit": [
+   "solid",
+   "#860038",
+   "#fdbb30"
+  ],
+  "p": [
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Klay Thompson",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Green",
+    "Draymond Green",
+    "us"
+   ],
+   [
+    "Looney",
+    "Kevon Looney",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Cleveland Cavaliers",
+  "opp": "Golden State Warriors",
+  "score": "114-124 OT",
+  "comp": "NBA finale, 1. utakmica",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Četvrto uzastopno finale Klivlenda protiv Golden Stejta",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#860038",
+   "#fdbb30"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d428a"
+  ],
+  "p": [
+   [
+    "Hill",
+    "George Hill",
+    "us"
+   ],
+   [
+    "Smith",
+    "J.R. Smith",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Love",
+    "Kevin Love",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Tristan Thompson",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Toronto Raptors",
+  "opp": "Golden State Warriors",
+  "score": "114-110",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Prva NBA titula za klub van SAD",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ce1141",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d428a"
+  ],
+  "p": [
+   [
+    "Lowry",
+    "Kyle Lowry",
+    "us"
+   ],
+   [
+    "Green",
+    "Danny Green",
+    "us"
+   ],
+   [
+    "Leonard",
+    "Kawhi Leonard",
+    "us"
+   ],
+   [
+    "Siakam",
+    "Pascal Siakam",
+    "cm"
+   ],
+   [
+    "Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Golden State Warriors",
+  "opp": "Toronto Raptors",
+  "score": "110-114",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Poslednja utakmica u Oukland areni",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1d428a"
+  ],
+  "okit": [
+   "solid",
+   "#ce1141",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Klay Thompson",
+    "us"
+   ],
+   [
+    "Iguodala",
+    "Andre Iguodala",
+    "us"
+   ],
+   [
+    "Green",
+    "Draymond Green",
+    "us"
+   ],
+   [
+    "Looney",
+    "Kevon Looney",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Los Angeles Lakers",
+  "opp": "Miami Heat",
+  "score": "106-93",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Titula u baloni u Orlandu, 17. u istoriji kluba",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#fdb927",
+   "#552583"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#98002e"
+  ],
+  "p": [
+   [
+    "Caruso",
+    "Alex Caruso",
+    "us"
+   ],
+   [
+    "Caldwell-Pope",
+    "Kentavious Caldwell-Pope",
+    "us"
+   ],
+   [
+    "Green",
+    "Danny Green",
+    "us"
+   ],
+   [
+    "James",
+    "LeBron James",
+    "us"
+   ],
+   [
+    "Davis",
+    "Anthony Davis",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Miami Heat",
+  "opp": "Los Angeles Lakers",
+  "score": "93-106",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Peti nosilac Istoka stigao do finala u baloni u Orlandu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#98002e"
+  ],
+  "okit": [
+   "solid",
+   "#fdb927",
+   "#552583"
+  ],
+  "p": [
+   [
+    "Herro",
+    "Tyler Herro",
+    "us"
+   ],
+   [
+    "Robinson",
+    "Duncan Robinson",
+    "us"
+   ],
+   [
+    "Butler",
+    "Jimmy Butler",
+    "us"
+   ],
+   [
+    "Crowder",
+    "Jae Crowder",
+    "us"
+   ],
+   [
+    "Adebayo",
+    "Bam Adebayo",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Milwaukee Bucks",
+  "opp": "Phoenix Suns",
+  "score": "105-98",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Prva titula Milvokija posle 50 godina",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#eee1c6",
+   "#00471b"
+  ],
+  "okit": [
+   "solid",
+   "#1d1160",
+   "#e56020"
+  ],
+  "p": [
+   [
+    "Holiday",
+    "Jrue Holiday",
+    "us"
+   ],
+   [
+    "Middleton",
+    "Khris Middleton",
+    "us"
+   ],
+   [
+    "Tucker",
+    "P.J. Tucker",
+    "us"
+   ],
+   [
+    "Antetokounmpo",
+    "Giannis Antetokounmpo",
+    "gr"
+   ],
+   [
+    "Lopez",
+    "Brook Lopez",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Phoenix Suns",
+  "opp": "Milwaukee Bucks",
+  "score": "98-105",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Vodili 2-0 u finalu, pa izgubili četiri zaredom",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1d1160",
+   "#e56020"
+  ],
+  "okit": [
+   "solid",
+   "#eee1c6",
+   "#00471b"
+  ],
+  "p": [
+   [
+    "Paul",
+    "Chris Paul",
+    "us"
+   ],
+   [
+    "Booker",
+    "Devin Booker",
+    "us"
+   ],
+   [
+    "Bridges",
+    "Mikal Bridges",
+    "us"
+   ],
+   [
+    "Crowder",
+    "Jae Crowder",
+    "us"
+   ],
+   [
+    "Ayton",
+    "Deandre Ayton",
+    "bs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Golden State Warriors",
+  "opp": "Boston Celtics",
+  "score": "103-90",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Četvrta titula u osam godina",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#1d428a",
+   "#ffc72c"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#007a33"
+  ],
+  "p": [
+   [
+    "Curry",
+    "Stephen Curry",
+    "us"
+   ],
+   [
+    "Thompson",
+    "Klay Thompson",
+    "us"
+   ],
+   [
+    "Wiggins",
+    "Andrew Wiggins",
+    "ca"
+   ],
+   [
+    "Green",
+    "Draymond Green",
+    "us"
+   ],
+   [
+    "Porter",
+    "Otto Porter Jr.",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Boston Celtics",
+  "opp": "Golden State Warriors",
+  "score": "90-103",
+  "comp": "NBA finale, 6. utakmica",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Prvo finale Bostona posle 12 godina",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#007a33"
+  ],
+  "okit": [
+   "solid",
+   "#1d428a",
+   "#ffc72c"
+  ],
+  "p": [
+   [
+    "Smart",
+    "Marcus Smart",
+    "us"
+   ],
+   [
+    "Brown",
+    "Jaylen Brown",
+    "us"
+   ],
+   [
+    "Tatum",
+    "Jayson Tatum",
+    "us"
+   ],
+   [
+    "Horford",
+    "Al Horford",
+    "do"
+   ],
+   [
+    "Williams",
+    "Robert Williams III",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Denver Nuggets",
+  "opp": "Miami Heat",
+  "score": "94-89",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Prva titula u 47 sezona kluba u NBA ligi",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0e2240"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#98002e"
+  ],
+  "p": [
+   [
+    "Murray",
+    "Jamal Murray",
+    "ca"
+   ],
+   [
+    "Caldwell-Pope",
+    "Kentavious Caldwell-Pope",
+    "us"
+   ],
+   [
+    "Porter",
+    "Michael Porter Jr.",
+    "us"
+   ],
+   [
+    "Gordon",
+    "Aaron Gordon",
+    "us"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Miami Heat",
+  "opp": "Denver Nuggets",
+  "score": "89-94",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Osmi nosilac preko plej-in turnira stigao do finala",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#000000",
+   "#98002e"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0e2240"
+  ],
+  "p": [
+   [
+    "Vincent",
+    "Gabe Vincent",
+    "ng"
+   ],
+   [
+    "Strus",
+    "Max Strus",
+    "us"
+   ],
+   [
+    "Butler",
+    "Jimmy Butler",
+    "us"
+   ],
+   [
+    "Love",
+    "Kevin Love",
+    "us"
+   ],
+   [
+    "Adebayo",
+    "Bam Adebayo",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Boston Celtics",
+  "opp": "Dallas Mavericks",
+  "score": "106-88",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Rekordna 18. titula za Boston",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#007a33"
+  ],
+  "okit": [
+   "solid",
+   "#00538c",
+   "#b8c4ca"
+  ],
+  "p": [
+   [
+    "Holiday",
+    "Jrue Holiday",
+    "us"
+   ],
+   [
+    "White",
+    "Derrick White",
+    "us"
+   ],
+   [
+    "Brown",
+    "Jaylen Brown",
+    "us"
+   ],
+   [
+    "Tatum",
+    "Jayson Tatum",
+    "us"
+   ],
+   [
+    "Horford",
+    "Al Horford",
+    "do"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Dallas Mavericks",
+  "opp": "Boston Celtics",
+  "score": "88-106",
+  "comp": "NBA finale, 5. utakmica",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Na putu do finala izbacili Klipere, Tander i Minesotu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#00538c",
+   "#b8c4ca"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#007a33"
+  ],
+  "p": [
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Irving",
+    "Kyrie Irving",
+    "us"
+   ],
+   [
+    "Jones",
+    "Derrick Jones Jr.",
+    "us"
+   ],
+   [
+    "Washington",
+    "P.J. Washington",
+    "us"
+   ],
+   [
+    "Gafford",
+    "Daniel Gafford",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Oklahoma City Thunder",
+  "opp": "Indiana Pacers",
+  "score": "103-91",
+  "comp": "NBA finale, 7. utakmica",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Prva titula kluba od preseljenja iz Sijetla",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#007ac1"
+  ],
+  "okit": [
+   "solid",
+   "#002d62",
+   "#fdbb30"
+  ],
+  "p": [
+   [
+    "Gilgeous-Alexander",
+    "Shai Gilgeous-Alexander",
+    "ca"
+   ],
+   [
+    "Dort",
+    "Luguentz Dort",
+    "ca"
+   ],
+   [
+    "Williams",
+    "Jalen Williams",
+    "us"
+   ],
+   [
+    "Holmgren",
+    "Chet Holmgren",
+    "us"
+   ],
+   [
+    "Hartenstein",
+    "Isaiah Hartenstein",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Indiana Pacers",
+  "opp": "Oklahoma City Thunder",
+  "score": "91-103",
+  "comp": "NBA finale, 7. utakmica",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Prvo finale Indijane posle 2000. godine",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#002d62",
+   "#fdbb30"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#007ac1"
+  ],
+  "p": [
+   [
+    "Haliburton",
+    "Tyrese Haliburton",
+    "us"
+   ],
+   [
+    "Nembhard",
+    "Andrew Nembhard",
+    "ca"
+   ],
+   [
+    "Nesmith",
+    "Aaron Nesmith",
+    "us"
+   ],
+   [
+    "Siakam",
+    "Pascal Siakam",
+    "cm"
+   ],
+   [
+    "Turner",
+    "Myles Turner",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Boston Celtics",
+  "opp": "Miami Heat",
+  "score": "88-101",
+  "comp": "NBA plej-of, finale Istoka, 7. utakmica",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Boston je vodio 3-2 u seriji, ali Majami je preokrenuo",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#007a33",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#98002e"
+  ],
+  "p": [
+   [
+    "Rondo",
+    "Rajon Rondo",
+    "us"
+   ],
+   [
+    "Allen",
+    "Ray Allen",
+    "us"
+   ],
+   [
+    "Pierce",
+    "Paul Pierce",
+    "us"
+   ],
+   [
+    "Bass",
+    "Brandon Bass",
+    "us"
+   ],
+   [
+    "Garnett",
+    "Kevin Garnett",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Memphis Grizzlies",
+  "opp": "Oklahoma City Thunder",
+  "score": "88-84",
+  "comp": "NBA plej-of, polufinale Zapada, 5. utakmica",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "Grit and Grind vodi Memfis u prvo finale Zapada u istoriji",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#12173f",
+   "#5d76a9"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#007ac1"
+  ],
+  "p": [
+   [
+    "Conley",
+    "Mike Conley",
+    "us"
+   ],
+   [
+    "Allen",
+    "Tony Allen",
+    "us"
+   ],
+   [
+    "Prince",
+    "Tayshaun Prince",
+    "us"
+   ],
+   [
+    "Randolph",
+    "Zach Randolph",
+    "us"
+   ],
+   [
+    "Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Indiana Pacers",
+  "opp": "Miami Heat",
+  "score": "93-90",
+  "comp": "NBA plej-of, finale Istoka, 5. utakmica",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Izbegli eliminaciju, ali Majami je zatvorio seriju u šestoj",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#002d62"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#98002e"
+  ],
+  "p": [
+   [
+    "Hill",
+    "George Hill",
+    "us"
+   ],
+   [
+    "Stephenson",
+    "Lance Stephenson",
+    "us"
+   ],
+   [
+    "George",
+    "Paul George",
+    "us"
+   ],
+   [
+    "West",
+    "David West",
+    "us"
+   ],
+   [
+    "Hibbert",
+    "Roy Hibbert",
+    "jm"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Brooklyn Nets",
+  "opp": "Toronto Raptors",
+  "score": "104-103",
+  "comp": "NBA plej-of, 1. runda Istoka, 7. utakmica",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Blokada u poslednjoj sekundi donela prolaz u drugu rundu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#ce1141"
+  ],
+  "p": [
+   [
+    "Williams",
+    "Deron Williams",
+    "us"
+   ],
+   [
+    "Johnson",
+    "Joe Johnson",
+    "us"
+   ],
+   [
+    "Anderson",
+    "Alan Anderson",
+    "us"
+   ],
+   [
+    "Pierce",
+    "Paul Pierce",
+    "us"
+   ],
+   [
+    "Garnett",
+    "Kevin Garnett",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Toronto Raptors",
+  "opp": "Brooklyn Nets",
+  "score": "103-104",
+  "comp": "NBA plej-of, 1. runda Istoka, 7. utakmica",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Šut za pobedu blokiran u poslednjoj sekundi",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#ce1141"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lowry",
+    "Kyle Lowry",
+    "us"
+   ],
+   [
+    "DeRozan",
+    "DeMar DeRozan",
+    "us"
+   ],
+   [
+    "Ross",
+    "Terrence Ross",
+    "us"
+   ],
+   [
+    "Johnson",
+    "Amir Johnson",
+    "us"
+   ],
+   [
+    "Valančiūnas",
+    "Jonas Valančiūnas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Los Angeles Clippers",
+  "opp": "San Antonio Spurs",
+  "score": "111-109",
+  "comp": "NBA plej-of, 1. runda Zapada, 7. utakmica",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Koš za pobedu sekund pre kraja izbacio branioca titule",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#c4ced4"
+  ],
+  "p": [
+   [
+    "Paul",
+    "Chris Paul",
+    "us"
+   ],
+   [
+    "Redick",
+    "JJ Redick",
+    "us"
+   ],
+   [
+    "Barnes",
+    "Matt Barnes",
+    "us"
+   ],
+   [
+    "Griffin",
+    "Blake Griffin",
+    "us"
+   ],
+   [
+    "Jordan",
+    "DeAndre Jordan",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Atlanta Hawks",
+  "opp": "Washington Wizards",
+  "score": "94-91",
+  "comp": "NBA plej-of, polufinale Istoka, 6. utakmica",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Sezona sa 60 pobeda i prvo finale Istoka u istoriji kluba",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e03a3e",
+   "#26282a"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#002b5c"
+  ],
+  "p": [
+   [
+    "Teague",
+    "Jeff Teague",
+    "us"
+   ],
+   [
+    "Korver",
+    "Kyle Korver",
+    "us"
+   ],
+   [
+    "Carroll",
+    "DeMarre Carroll",
+    "us"
+   ],
+   [
+    "Millsap",
+    "Paul Millsap",
+    "us"
+   ],
+   [
+    "Horford",
+    "Al Horford",
+    "do"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Chicago Bulls",
+  "opp": "Cleveland Cavaliers",
+  "score": "99-96",
+  "comp": "NBA plej-of, polufinale Istoka, 3. utakmica",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Pobeda šutem od table uz zvuk sirene",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#ce1141"
+  ],
+  "okit": [
+   "solid",
+   "#860038",
+   "#fdbb30"
+  ],
+  "p": [
+   [
+    "Rose",
+    "Derrick Rose",
+    "us"
+   ],
+   [
+    "Butler",
+    "Jimmy Butler",
+    "us"
+   ],
+   [
+    "Dunleavy",
+    "Mike Dunleavy",
+    "us"
+   ],
+   [
+    "Gasol",
+    "Pau Gasol",
+    "es"
+   ],
+   [
+    "Noah",
+    "Joakim Noah",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Oklahoma City Thunder",
+  "opp": "Golden State Warriors",
+  "score": "133-105",
+  "comp": "NBA plej-of, finale Zapada, 3. utakmica",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Tander je vodio 3-1 protiv tima sa 73 pobede",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#007ac1"
+  ],
+  "okit": [
+   "solid",
+   "#1d428a",
+   "#ffc72c"
+  ],
+  "p": [
+   [
+    "Westbrook",
+    "Russell Westbrook",
+    "us"
+   ],
+   [
+    "Roberson",
+    "Andre Roberson",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Ibaka",
+    "Serge Ibaka",
+    "es"
+   ],
+   [
+    "Adams",
+    "Steven Adams",
+    "nz"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Boston Celtics",
+  "opp": "Washington Wizards",
+  "score": "115-105",
+  "comp": "NBA plej-of, polufinale Istoka, 7. utakmica",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Kelli Olinik sa klupe ubacio 26 poena",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#007a33"
+  ],
+  "okit": [
+   "solid",
+   "#002b5c",
+   "#e31837"
+  ],
+  "p": [
+   [
+    "Thomas",
+    "Isaiah Thomas",
+    "us"
+   ],
+   [
+    "Bradley",
+    "Avery Bradley",
+    "us"
+   ],
+   [
+    "Crowder",
+    "Jae Crowder",
+    "us"
+   ],
+   [
+    "Horford",
+    "Al Horford",
+    "do"
+   ],
+   [
+    "Johnson",
+    "Amir Johnson",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Houston Rockets",
+  "opp": "Golden State Warriors",
+  "score": "92-101",
+  "comp": "NBA plej-of, finale Zapada, 7. utakmica",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Bez povređenog plejmejkera, 27 promašenih trojki zaredom",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#ce1141"
+  ],
+  "okit": [
+   "solid",
+   "#1d428a",
+   "#ffc72c"
+  ],
+  "p": [
+   [
+    "Harden",
+    "James Harden",
+    "us"
+   ],
+   [
+    "Gordon",
+    "Eric Gordon",
+    "bs"
+   ],
+   [
+    "Ariza",
+    "Trevor Ariza",
+    "us"
+   ],
+   [
+    "Tucker",
+    "P.J. Tucker",
+    "us"
+   ],
+   [
+    "Capela",
+    "Clint Capela",
+    "ch"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "New Orleans Pelicans",
+  "opp": "Portland Trail Blazers",
+  "score": "131-123",
+  "comp": "NBA plej-of, 1. runda Zapada, 4. utakmica",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Čist prolaz 4-0 protiv trećeg tima Zapada",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0c2340"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#e03a3e"
+  ],
+  "p": [
+   [
+    "Rondo",
+    "Rajon Rondo",
+    "us"
+   ],
+   [
+    "Holiday",
+    "Jrue Holiday",
+    "us"
+   ],
+   [
+    "Moore",
+    "E'Twaun Moore",
+    "us"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Davis",
+    "Anthony Davis",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Boston Celtics",
+  "opp": "Cleveland Cavaliers",
+  "score": "79-87",
+  "comp": "NBA plej-of, finale Istoka, 7. utakmica",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Bez dvojice povređenih Ol-Stara, korak do finala",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#007a33"
+  ],
+  "okit": [
+   "solid",
+   "#860038",
+   "#fdbb30"
+  ],
+  "p": [
+   [
+    "Rozier",
+    "Terry Rozier",
+    "us"
+   ],
+   [
+    "Brown",
+    "Jaylen Brown",
+    "us"
+   ],
+   [
+    "Tatum",
+    "Jayson Tatum",
+    "us"
+   ],
+   [
+    "Horford",
+    "Al Horford",
+    "do"
+   ],
+   [
+    "Baynes",
+    "Aron Baynes",
+    "au"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Philadelphia 76ers",
+  "opp": "Toronto Raptors",
+  "score": "90-92",
+  "comp": "NBA plej-of, polufinale Istoka, 7. utakmica",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Ispali posle šuta sa sirenom koji je četiri puta odskočio od obruča",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006bb6",
+   "#ed174c"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#ce1141"
+  ],
+  "p": [
+   [
+    "Simmons",
+    "Ben Simmons",
+    "au"
+   ],
+   [
+    "Redick",
+    "JJ Redick",
+    "us"
+   ],
+   [
+    "Butler",
+    "Jimmy Butler",
+    "us"
+   ],
+   [
+    "Harris",
+    "Tobias Harris",
+    "us"
+   ],
+   [
+    "Embiid",
+    "Joel Embiid",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Portland Trail Blazers",
+  "opp": "Oklahoma City Thunder",
+  "score": "118-115",
+  "comp": "NBA plej-of, 1. runda Zapada, 5. utakmica",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Trojka sa 11 metara uz sirenu i mahanje za pozdrav",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#e03a3e"
+  ],
+  "okit": [
+   "solid",
+   "#007ac1",
+   "#ef3b24"
+  ],
+  "p": [
+   [
+    "Lillard",
+    "Damian Lillard",
+    "us"
+   ],
+   [
+    "McCollum",
+    "CJ McCollum",
+    "us"
+   ],
+   [
+    "Harkless",
+    "Maurice Harkless",
+    "us"
+   ],
+   [
+    "Aminu",
+    "Al-Farouq Aminu",
+    "ng"
+   ],
+   [
+    "Kanter",
+    "Enes Kanter",
+    "tr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Milwaukee Bucks",
+  "opp": "Toronto Raptors",
+  "score": "125-103",
+  "comp": "NBA plej-of, finale Istoka, 2. utakmica",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Najbolji tim sezone vodio 2-0, pa izgubio četiri zaredom",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#eee1c6",
+   "#00471b"
+  ],
+  "okit": [
+   "solid",
+   "#ce1141",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Bledsoe",
+    "Eric Bledsoe",
+    "us"
+   ],
+   [
+    "Middleton",
+    "Khris Middleton",
+    "us"
+   ],
+   [
+    "Mirotić",
+    "Nikola Mirotić",
+    "es"
+   ],
+   [
+    "Antetokounmpo",
+    "Giannis Antetokounmpo",
+    "gr"
+   ],
+   [
+    "Lopez",
+    "Brook Lopez",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Denver Nuggets",
+  "opp": "San Antonio Spurs",
+  "score": "90-86",
+  "comp": "NBA plej-of, 1. runda Zapada, 7. utakmica",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Prva pobeda Denvera u seriji plej-ofa posle deset godina",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0e2240"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#c4ced4"
+  ],
+  "p": [
+   [
+    "Murray",
+    "Jamal Murray",
+    "ca"
+   ],
+   [
+    "Harris",
+    "Gary Harris",
+    "us"
+   ],
+   [
+    "Craig",
+    "Torrey Craig",
+    "us"
+   ],
+   [
+    "Millsap",
+    "Paul Millsap",
+    "us"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Denver Nuggets",
+  "opp": "Los Angeles Clippers",
+  "score": "104-89",
+  "comp": "NBA plej-of, polufinale Zapada, 7. utakmica",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Drugi preokret sa 1-3 u istom plej-ofu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0e2240",
+   "#fec524"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "p": [
+   [
+    "Murray",
+    "Jamal Murray",
+    "ca"
+   ],
+   [
+    "Harris",
+    "Gary Harris",
+    "us"
+   ],
+   [
+    "Grant",
+    "Jerami Grant",
+    "us"
+   ],
+   [
+    "Millsap",
+    "Paul Millsap",
+    "us"
+   ],
+   [
+    "Jokić",
+    "Nikola Jokić",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Los Angeles Clippers",
+  "opp": "Denver Nuggets",
+  "score": "89-104",
+  "comp": "NBA plej-of, polufinale Zapada, 7. utakmica",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Favorit za titulu prokockao vođstvo 3-1 u seriji",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c8102e"
+  ],
+  "okit": [
+   "solid",
+   "#0e2240",
+   "#fec524"
+  ],
+  "p": [
+   [
+    "Beverley",
+    "Patrick Beverley",
+    "us"
+   ],
+   [
+    "George",
+    "Paul George",
+    "us"
+   ],
+   [
+    "Leonard",
+    "Kawhi Leonard",
+    "us"
+   ],
+   [
+    "Morris",
+    "Marcus Morris",
+    "us"
+   ],
+   [
+    "Zubac",
+    "Ivica Zubac",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Utah Jazz",
+  "opp": "Memphis Grizzlies",
+  "score": "126-110",
+  "comp": "NBA plej-of, 1. runda Zapada, 5. utakmica",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Najbolji skor lige u sezoni (52-20)",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#002b5c"
+  ],
+  "okit": [
+   "solid",
+   "#12173f",
+   "#5d76a9"
+  ],
+  "p": [
+   [
+    "Conley",
+    "Mike Conley",
+    "us"
+   ],
+   [
+    "Mitchell",
+    "Donovan Mitchell",
+    "us"
+   ],
+   [
+    "O'Neale",
+    "Royce O'Neale",
+    "us"
+   ],
+   [
+    "Bogdanović",
+    "Bojan Bogdanović",
+    "hr"
+   ],
+   [
+    "Gobert",
+    "Rudy Gobert",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Brooklyn Nets",
+  "opp": "Boston Celtics",
+  "score": "104-93",
+  "comp": "NBA plej-of, 1. runda Istoka, 1. utakmica",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Prvi meč plej-ofa za bruklinsku veliku trojku",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#007a33",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Irving",
+    "Kyrie Irving",
+    "us"
+   ],
+   [
+    "Harden",
+    "James Harden",
+    "us"
+   ],
+   [
+    "Harris",
+    "Joe Harris",
+    "us"
+   ],
+   [
+    "Durant",
+    "Kevin Durant",
+    "us"
+   ],
+   [
+    "Griffin",
+    "Blake Griffin",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Atlanta Hawks",
+  "opp": "Philadelphia 76ers",
+  "score": "103-96",
+  "comp": "NBA plej-of, polufinale Istoka, 7. utakmica",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Peti nosilac izbacio prvog i stigao do finala Istoka",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e03a3e",
+   "#26282a"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#006bb6"
+  ],
+  "p": [
+   [
+    "Young",
+    "Trae Young",
+    "us"
+   ],
+   [
+    "Bogdanović",
+    "Bogdan Bogdanović",
+    "rs"
+   ],
+   [
+    "Huerter",
+    "Kevin Huerter",
+    "us"
+   ],
+   [
+    "Collins",
+    "John Collins",
+    "us"
+   ],
+   [
+    "Capela",
+    "Clint Capela",
+    "ch"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Miami Heat",
+  "opp": "Boston Celtics",
+  "score": "96-100",
+  "comp": "NBA plej-of, finale Istoka, 7. utakmica",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Prvi nosilac Istoka pao u sedmoj utakmici na svom terenu",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#98002e"
+  ],
+  "okit": [
+   "solid",
+   "#007a33",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lowry",
+    "Kyle Lowry",
+    "us"
+   ],
+   [
+    "Strus",
+    "Max Strus",
+    "us"
+   ],
+   [
+    "Butler",
+    "Jimmy Butler",
+    "us"
+   ],
+   [
+    "Tucker",
+    "P.J. Tucker",
+    "us"
+   ],
+   [
+    "Adebayo",
+    "Bam Adebayo",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Dallas Mavericks",
+  "opp": "Phoenix Suns",
+  "score": "123-90",
+  "comp": "NBA plej-of, polufinale Zapada, 7. utakmica",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Na poluvremenu 57-27 u gostima kod tima sa 64 pobede",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#00538c",
+   "#b8c4ca"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1d1160"
+  ],
+  "p": [
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Brunson",
+    "Jalen Brunson",
+    "us"
+   ],
+   [
+    "Bullock",
+    "Reggie Bullock",
+    "us"
+   ],
+   [
+    "Finney-Smith",
+    "Dorian Finney-Smith",
+    "us"
+   ],
+   [
+    "Powell",
+    "Dwight Powell",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Sacramento Kings",
+  "opp": "Golden State Warriors",
+  "score": "126-123",
+  "comp": "NBA plej-of, 1. runda Zapada, 1. utakmica",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Kraj rekordnog niza od 16 sezona bez plej-ofa",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#5a2d81"
+  ],
+  "okit": [
+   "solid",
+   "#1d428a",
+   "#ffc72c"
+  ],
+  "p": [
+   [
+    "Fox",
+    "De'Aaron Fox",
+    "us"
+   ],
+   [
+    "Huerter",
+    "Kevin Huerter",
+    "us"
+   ],
+   [
+    "Murray",
+    "Keegan Murray",
+    "us"
+   ],
+   [
+    "Barnes",
+    "Harrison Barnes",
+    "us"
+   ],
+   [
+    "Sabonis",
+    "Domantas Sabonis",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "Minnesota Timberwolves",
+  "opp": "Denver Nuggets",
+  "score": "98-90",
+  "comp": "NBA plej-of, polufinale Zapada, 7. utakmica",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Preokret sa -20 u drugom poluvremenu protiv branioca titule",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0c2340",
+   "#78be20"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#0e2240"
+  ],
+  "p": [
+   [
+    "Conley",
+    "Mike Conley",
+    "us"
+   ],
+   [
+    "Edwards",
+    "Anthony Edwards",
+    "us"
+   ],
+   [
+    "McDaniels",
+    "Jaden McDaniels",
+    "us"
+   ],
+   [
+    "Towns",
+    "Karl-Anthony Towns",
+    "do"
+   ],
+   [
+    "Gobert",
+    "Rudy Gobert",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nba",
+  "team": "New York Knicks",
+  "opp": "Boston Celtics",
+  "score": "119-81",
+  "comp": "NBA plej-of, polufinale Istoka, 6. utakmica",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Izbacili branioca titule, prvo finale Istoka od 2000.",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#006bb6"
+  ],
+  "okit": [
+   "solid",
+   "#007a33",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Brunson",
+    "Jalen Brunson",
+    "us"
+   ],
+   [
+    "Bridges",
+    "Mikal Bridges",
+    "us"
+   ],
+   [
+    "Hart",
+    "Josh Hart",
+    "us"
+   ],
+   [
+    "Anunoby",
+    "OG Anunoby",
+    "gb-eng"
+   ],
+   [
+    "Towns",
+    "Karl-Anthony Towns",
+    "do"
+   ]
+  ]
+ }
+]
