@@ -1,0 +1,4347 @@
+[
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Manchester City",
+  "score": "4-3",
+  "comp": "Premijer liga, 6. kolo",
+  "season": "2009/10",
+  "y": 2009,
+  "note": "Gradski derbi rešen golom u 96. minutu, u čuvenom „Fergi tajmu“",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Foster",
+    "Ben Foster",
+    "gb-eng"
+   ],
+   [
+    "Evra",
+    "Patrice Evra",
+    "fr"
+   ],
+   [
+    "Vidić",
+    "Nemanja Vidić",
+    "rs"
+   ],
+   [
+    "Ferdinand",
+    "Rio Ferdinand",
+    "gb-eng"
+   ],
+   [
+    "O'Shea",
+    "John O'Shea",
+    "ie"
+   ],
+   [
+    "Giggs",
+    "Ryan Giggs",
+    "gb-wls"
+   ],
+   [
+    "Fletcher",
+    "Darren Fletcher",
+    "gb-sct"
+   ],
+   [
+    "Anderson",
+    "Anderson",
+    "br"
+   ],
+   [
+    "Park",
+    "Park Ji-sung",
+    "kr"
+   ],
+   [
+    "Rooney",
+    "Wayne Rooney",
+    "gb-eng"
+   ],
+   [
+    "Berbatov",
+    "Dimitar Berbatov",
+    "bg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Arsenal",
+  "score": "8-2",
+  "comp": "Premijer liga, 3. kolo",
+  "season": "2011/12",
+  "y": 2011,
+  "note": "Najubedljivija pobeda u istoriji rivalstva Junajteda i Arsenala",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Gea",
+    "David de Gea",
+    "es"
+   ],
+   [
+    "Evra",
+    "Patrice Evra",
+    "fr"
+   ],
+   [
+    "Evans",
+    "Jonny Evans",
+    "gb-nir"
+   ],
+   [
+    "Jones",
+    "Phil Jones",
+    "gb-eng"
+   ],
+   [
+    "Smalling",
+    "Chris Smalling",
+    "gb-eng"
+   ],
+   [
+    "Young",
+    "Ashley Young",
+    "gb-eng"
+   ],
+   [
+    "Anderson",
+    "Anderson",
+    "br"
+   ],
+   [
+    "Cleverley",
+    "Tom Cleverley",
+    "gb-eng"
+   ],
+   [
+    "Nani",
+    "Nani",
+    "pt"
+   ],
+   [
+    "Welbeck",
+    "Danny Welbeck",
+    "gb-eng"
+   ],
+   [
+    "Rooney",
+    "Wayne Rooney",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Arsenal",
+  "score": "3-2",
+  "comp": "Premijer liga, 27. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Debi u Premijer ligi za pamćenje: dva gola i asistencija 18-godišnjaka",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Gea",
+    "David de Gea",
+    "es"
+   ],
+   [
+    "Rojo",
+    "Marcos Rojo",
+    "ar"
+   ],
+   [
+    "Blind",
+    "Daley Blind",
+    "nl"
+   ],
+   [
+    "Carrick",
+    "Michael Carrick",
+    "gb-eng"
+   ],
+   [
+    "Varela",
+    "Guillermo Varela",
+    "uy"
+   ],
+   [
+    "Schneiderlin",
+    "Morgan Schneiderlin",
+    "fr"
+   ],
+   [
+    "Memphis",
+    "Memphis Depay",
+    "nl"
+   ],
+   [
+    "Mata",
+    "Juan Mata",
+    "es"
+   ],
+   [
+    "Herrera",
+    "Ander Herrera",
+    "es"
+   ],
+   [
+    "Lingard",
+    "Jesse Lingard",
+    "gb-eng"
+   ],
+   [
+    "Rashford",
+    "Marcus Rashford",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Leicester City",
+  "score": "2-1",
+  "comp": "Komjuniti šild",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Prvi trofej Murinja na klupi Junajteda, protiv šampiona Lestera",
+  "form": "4-4-1-1",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#003090",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Gea",
+    "David de Gea",
+    "es"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Blind",
+    "Daley Blind",
+    "nl"
+   ],
+   [
+    "Bailly",
+    "Eric Bailly",
+    "ci"
+   ],
+   [
+    "Valencia",
+    "Antonio Valencia",
+    "ec"
+   ],
+   [
+    "Martial",
+    "Anthony Martial",
+    "fr"
+   ],
+   [
+    "Carrick",
+    "Michael Carrick",
+    "gb-eng"
+   ],
+   [
+    "Fellaini",
+    "Marouane Fellaini",
+    "be"
+   ],
+   [
+    "Lingard",
+    "Jesse Lingard",
+    "gb-eng"
+   ],
+   [
+    "Rooney",
+    "Wayne Rooney",
+    "gb-eng"
+   ],
+   [
+    "Ibrahimović",
+    "Zlatan Ibrahimović",
+    "se"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Manchester City",
+  "score": "3-2",
+  "comp": "Premijer liga, 33. kolo",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Preokret sa 0-2 odložio Sitijevo slavlje titule u derbiju",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Gea",
+    "David de Gea",
+    "es"
+   ],
+   [
+    "Young",
+    "Ashley Young",
+    "gb-eng"
+   ],
+   [
+    "Smalling",
+    "Chris Smalling",
+    "gb-eng"
+   ],
+   [
+    "Bailly",
+    "Eric Bailly",
+    "ci"
+   ],
+   [
+    "Valencia",
+    "Antonio Valencia",
+    "ec"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Herrera",
+    "Ander Herrera",
+    "es"
+   ],
+   [
+    "Sánchez",
+    "Alexis Sánchez",
+    "cl"
+   ],
+   [
+    "Lukaku",
+    "Romelu Lukaku",
+    "be"
+   ],
+   [
+    "Lingard",
+    "Jesse Lingard",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Manchester City",
+  "score": "2-0",
+  "comp": "Premijer liga, 27. kolo",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Junajted na Etihadu prekinuo Sitijev niz od 21 uzastopne pobede",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Henderson",
+    "Dean Henderson",
+    "gb-eng"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Maguire",
+    "Harry Maguire",
+    "gb-eng"
+   ],
+   [
+    "Lindelöf",
+    "Victor Lindelöf",
+    "se"
+   ],
+   [
+    "Wan-Bissaka",
+    "Aaron Wan-Bissaka",
+    "cd"
+   ],
+   [
+    "Fred",
+    "Fred",
+    "br"
+   ],
+   [
+    "McTominay",
+    "Scott McTominay",
+    "gb-sct"
+   ],
+   [
+    "Rashford",
+    "Marcus Rashford",
+    "gb-eng"
+   ],
+   [
+    "Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "James",
+    "Daniel James",
+    "gb-wls"
+   ],
+   [
+    "Martial",
+    "Anthony Martial",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Newcastle United",
+  "score": "4-1",
+  "comp": "Premijer liga, 4. kolo",
+  "season": "2021/22",
+  "y": 2021,
+  "note": "Dugo očekivani povratak legende na Old Traford posle 12 godina",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Gea",
+    "David de Gea",
+    "es"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Maguire",
+    "Harry Maguire",
+    "gb-eng"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Wan-Bissaka",
+    "Aaron Wan-Bissaka",
+    "cd"
+   ],
+   [
+    "Pogba",
+    "Paul Pogba",
+    "fr"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Sancho",
+    "Jadon Sancho",
+    "gb-eng"
+   ],
+   [
+    "Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "Greenwood",
+    "Mason Greenwood",
+    "gb-eng"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Newcastle United",
+  "score": "2-0",
+  "comp": "Finale Liga kupa",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Prvi trofej Ten Haga i kraj šestogodišnjeg čekanja na pehar",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Gea",
+    "David de Gea",
+    "es"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Martínez",
+    "Lisandro Martínez",
+    "ar"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Dalot",
+    "Diogo Dalot",
+    "pt"
+   ],
+   [
+    "Fred",
+    "Fred",
+    "br"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Rashford",
+    "Marcus Rashford",
+    "gb-eng"
+   ],
+   [
+    "Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "Antony",
+    "Antony",
+    "br"
+   ],
+   [
+    "Weghorst",
+    "Wout Weghorst",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester United",
+  "opp": "Manchester City",
+  "score": "2-1",
+  "comp": "Finale FA kupa",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Revanš Sitiju za poraz u finalu godinu dana ranije",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Onana",
+    "André Onana",
+    "cm"
+   ],
+   [
+    "Dalot",
+    "Diogo Dalot",
+    "pt"
+   ],
+   [
+    "Martínez",
+    "Lisandro Martínez",
+    "ar"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Wan-Bissaka",
+    "Aaron Wan-Bissaka",
+    "cd"
+   ],
+   [
+    "Rashford",
+    "Marcus Rashford",
+    "gb-eng"
+   ],
+   [
+    "Mainoo",
+    "Kobbie Mainoo",
+    "gb-eng"
+   ],
+   [
+    "Amrabat",
+    "Sofyan Amrabat",
+    "ma"
+   ],
+   [
+    "Garnacho",
+    "Alejandro Garnacho",
+    "ar"
+   ],
+   [
+    "Fernandes",
+    "Bruno Fernandes",
+    "pt"
+   ],
+   [
+    "McTominay",
+    "Scott McTominay",
+    "gb-sct"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Queens Park Rangers",
+  "score": "3-2",
+  "comp": "Premijer liga, 38. kolo",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Dva gola u nadoknadi i prva titula šampiona posle 44 godine",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "hoops",
+   "#1d5ba4",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Hart",
+    "Joe Hart",
+    "gb-eng"
+   ],
+   [
+    "Clichy",
+    "Gaël Clichy",
+    "fr"
+   ],
+   [
+    "Lescott",
+    "Joleon Lescott",
+    "gb-eng"
+   ],
+   [
+    "Kompany",
+    "Vincent Kompany",
+    "be"
+   ],
+   [
+    "Zabaleta",
+    "Pablo Zabaleta",
+    "ar"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ],
+   [
+    "Barry",
+    "Gareth Barry",
+    "gb-eng"
+   ],
+   [
+    "Touré",
+    "Yaya Touré",
+    "ci"
+   ],
+   [
+    "Nasri",
+    "Samir Nasri",
+    "fr"
+   ],
+   [
+    "Agüero",
+    "Sergio Agüero",
+    "ar"
+   ],
+   [
+    "Tevez",
+    "Carlos Tevez",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "West Ham United",
+  "score": "2-0",
+  "comp": "Premijer liga, 38. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Druga titula u tri sezone, prva za Pelegrinija",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#7a263a",
+   "#1bb1e7"
+  ],
+  "p": [
+   [
+    "Hart",
+    "Joe Hart",
+    "gb-eng"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Kompany",
+    "Vincent Kompany",
+    "be"
+   ],
+   [
+    "Demichelis",
+    "Martín Demichelis",
+    "ar"
+   ],
+   [
+    "Zabaleta",
+    "Pablo Zabaleta",
+    "ar"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ],
+   [
+    "García",
+    "Javi García",
+    "es"
+   ],
+   [
+    "Touré",
+    "Yaya Touré",
+    "ci"
+   ],
+   [
+    "Nasri",
+    "Samir Nasri",
+    "fr"
+   ],
+   [
+    "Agüero",
+    "Sergio Agüero",
+    "ar"
+   ],
+   [
+    "Džeko",
+    "Edin Džeko",
+    "ba"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Newcastle United",
+  "score": "6-1",
+  "comp": "Premijer liga, 8. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Pet golova jednog napadača za manje od pola sata",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Hart",
+    "Joe Hart",
+    "gb-eng"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Mangala",
+    "Eliaquim Mangala",
+    "fr"
+   ],
+   [
+    "Otamendi",
+    "Nicolás Otamendi",
+    "ar"
+   ],
+   [
+    "Zabaleta",
+    "Pablo Zabaleta",
+    "ar"
+   ],
+   [
+    "Fernandinho",
+    "Fernandinho",
+    "br"
+   ],
+   [
+    "Fernando",
+    "Fernando",
+    "br"
+   ],
+   [
+    "Sterling",
+    "Raheem Sterling",
+    "gb-eng"
+   ],
+   [
+    "De Bruyne",
+    "Kevin De Bruyne",
+    "be"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ],
+   [
+    "Agüero",
+    "Sergio Agüero",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Manchester United",
+  "score": "2-1",
+  "comp": "Premijer liga, 4. kolo",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Prvi derbi Gvardiole i Murinja u Engleskoj, na Old Trafordu",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Bravo",
+    "Claudio Bravo",
+    "cl"
+   ],
+   [
+    "Kolarov",
+    "Aleksandar Kolarov",
+    "rs"
+   ],
+   [
+    "Otamendi",
+    "Nicolás Otamendi",
+    "ar"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Sagna",
+    "Bacary Sagna",
+    "fr"
+   ],
+   [
+    "Fernandinho",
+    "Fernandinho",
+    "br"
+   ],
+   [
+    "Nolito",
+    "Nolito",
+    "es"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ],
+   [
+    "De Bruyne",
+    "Kevin De Bruyne",
+    "be"
+   ],
+   [
+    "Sterling",
+    "Raheem Sterling",
+    "gb-eng"
+   ],
+   [
+    "Iheanacho",
+    "Kelechi Iheanacho",
+    "ng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Liverpool",
+  "score": "5-0",
+  "comp": "Premijer liga, 4. kolo",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Crveni karton gostiju u 37. minutu otvorio put ka debaklu",
+  "form": "3-1-4-2",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ederson",
+    "Ederson",
+    "br"
+   ],
+   [
+    "Otamendi",
+    "Nicolás Otamendi",
+    "ar"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Danilo",
+    "Danilo",
+    "br"
+   ],
+   [
+    "Fernandinho",
+    "Fernandinho",
+    "br"
+   ],
+   [
+    "Mendy",
+    "Benjamin Mendy",
+    "fr"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ],
+   [
+    "De Bruyne",
+    "Kevin De Bruyne",
+    "be"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Jesus",
+    "Gabriel Jesus",
+    "br"
+   ],
+   [
+    "Agüero",
+    "Sergio Agüero",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Liverpool",
+  "score": "2-1",
+  "comp": "Premijer liga, 21. kolo",
+  "season": "2018/19",
+  "y": 2019,
+  "note": "Jedini ligaški poraz Liverpula te sezone; Siti uzeo titulu sa bodom više",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ederson",
+    "Ederson",
+    "br"
+   ],
+   [
+    "Laporte",
+    "Aymeric Laporte",
+    "es"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Kompany",
+    "Vincent Kompany",
+    "be"
+   ],
+   [
+    "Danilo",
+    "Danilo",
+    "br"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ],
+   [
+    "Fernandinho",
+    "Fernandinho",
+    "br"
+   ],
+   [
+    "Bernardo",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "Sané",
+    "Leroy Sané",
+    "de"
+   ],
+   [
+    "Agüero",
+    "Sergio Agüero",
+    "ar"
+   ],
+   [
+    "Sterling",
+    "Raheem Sterling",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Liverpool",
+  "score": "4-1",
+  "comp": "Premijer liga, 23. kolo",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Prva ligaška pobeda Sitija na Enfildu posle 2003. godine",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ederson",
+    "Ederson",
+    "br"
+   ],
+   [
+    "Zinchenko",
+    "Oleksandr Zinchenko",
+    "ua"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Dias",
+    "Rúben Dias",
+    "pt"
+   ],
+   [
+    "Cancelo",
+    "João Cancelo",
+    "pt"
+   ],
+   [
+    "Bernardo",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "Rodri",
+    "Rodri",
+    "es"
+   ],
+   [
+    "Gündoğan",
+    "İlkay Gündoğan",
+    "de"
+   ],
+   [
+    "Sterling",
+    "Raheem Sterling",
+    "gb-eng"
+   ],
+   [
+    "Foden",
+    "Phil Foden",
+    "gb-eng"
+   ],
+   [
+    "Mahrez",
+    "Riyad Mahrez",
+    "dz"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Aston Villa",
+  "score": "3-2",
+  "comp": "Premijer liga, 38. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Tri gola za pet minuta preokrenula 0-2 i donela titulu u poslednjem kolu",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#670e36",
+   "#95bfe5"
+  ],
+  "p": [
+   [
+    "Ederson",
+    "Ederson",
+    "br"
+   ],
+   [
+    "Cancelo",
+    "João Cancelo",
+    "pt"
+   ],
+   [
+    "Laporte",
+    "Aymeric Laporte",
+    "es"
+   ],
+   [
+    "Fernandinho",
+    "Fernandinho",
+    "br"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Rodri",
+    "Rodri",
+    "es"
+   ],
+   [
+    "Foden",
+    "Phil Foden",
+    "gb-eng"
+   ],
+   [
+    "Bernardo",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "De Bruyne",
+    "Kevin De Bruyne",
+    "be"
+   ],
+   [
+    "Mahrez",
+    "Riyad Mahrez",
+    "dz"
+   ],
+   [
+    "Jesus",
+    "Gabriel Jesus",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "Manchester United",
+  "score": "6-3",
+  "comp": "Premijer liga, 9. kolo",
+  "season": "2022/23",
+  "y": 2022,
+  "note": "Dva het-trika domaćih u istom gradskom derbiju",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ederson",
+    "Ederson",
+    "br"
+   ],
+   [
+    "Cancelo",
+    "João Cancelo",
+    "pt"
+   ],
+   [
+    "Aké",
+    "Nathan Aké",
+    "nl"
+   ],
+   [
+    "Akanji",
+    "Manuel Akanji",
+    "ch"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Gündoğan",
+    "İlkay Gündoğan",
+    "de"
+   ],
+   [
+    "Grealish",
+    "Jack Grealish",
+    "gb-eng"
+   ],
+   [
+    "Bernardo",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "De Bruyne",
+    "Kevin De Bruyne",
+    "be"
+   ],
+   [
+    "Foden",
+    "Phil Foden",
+    "gb-eng"
+   ],
+   [
+    "Haaland",
+    "Erling Haaland",
+    "no"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Manchester City",
+  "opp": "West Ham United",
+  "score": "3-1",
+  "comp": "Premijer liga, 38. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Četvrta uzastopna titula, prvi put u istoriji engleskog fudbala",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#7a263a",
+   "#1bb1e7"
+  ],
+  "p": [
+   [
+    "Ortega",
+    "Stefan Ortega",
+    "de"
+   ],
+   [
+    "Gvardiol",
+    "Joško Gvardiol",
+    "hr"
+   ],
+   [
+    "Akanji",
+    "Manuel Akanji",
+    "ch"
+   ],
+   [
+    "Dias",
+    "Rúben Dias",
+    "pt"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Rodri",
+    "Rodri",
+    "es"
+   ],
+   [
+    "Doku",
+    "Jérémy Doku",
+    "be"
+   ],
+   [
+    "Foden",
+    "Phil Foden",
+    "gb-eng"
+   ],
+   [
+    "De Bruyne",
+    "Kevin De Bruyne",
+    "be"
+   ],
+   [
+    "Bernardo",
+    "Bernardo Silva",
+    "pt"
+   ],
+   [
+    "Haaland",
+    "Erling Haaland",
+    "no"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Manchester City",
+  "score": "3-2",
+  "comp": "Premijer liga, 34. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Pobeda nad glavnim rivalom u trci za titulu koja je ipak izmakla u finišu",
+  "form": "4-1-2-1-2",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mignolet",
+    "Simon Mignolet",
+    "be"
+   ],
+   [
+    "Flanagan",
+    "Jon Flanagan",
+    "gb-eng"
+   ],
+   [
+    "Sakho",
+    "Mamadou Sakho",
+    "fr"
+   ],
+   [
+    "Škrtel",
+    "Martin Škrtel",
+    "sk"
+   ],
+   [
+    "Johnson",
+    "Glen Johnson",
+    "gb-eng"
+   ],
+   [
+    "Gerrard",
+    "Steven Gerrard",
+    "gb-eng"
+   ],
+   [
+    "Coutinho",
+    "Philippe Coutinho",
+    "br"
+   ],
+   [
+    "Henderson",
+    "Jordan Henderson",
+    "gb-eng"
+   ],
+   [
+    "Sterling",
+    "Raheem Sterling",
+    "gb-eng"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ],
+   [
+    "Sturridge",
+    "Daniel Sturridge",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Manchester City",
+  "score": "4-1",
+  "comp": "Premijer liga, 13. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Prvi veliki Klopov šou u Engleskoj, na Etihadu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mignolet",
+    "Simon Mignolet",
+    "be"
+   ],
+   [
+    "Moreno",
+    "Alberto Moreno",
+    "es"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Škrtel",
+    "Martin Škrtel",
+    "sk"
+   ],
+   [
+    "Clyne",
+    "Nathaniel Clyne",
+    "gb-eng"
+   ],
+   [
+    "Can",
+    "Emre Can",
+    "de"
+   ],
+   [
+    "Lucas",
+    "Lucas Leiva",
+    "br"
+   ],
+   [
+    "Milner",
+    "James Milner",
+    "gb-eng"
+   ],
+   [
+    "Coutinho",
+    "Philippe Coutinho",
+    "br"
+   ],
+   [
+    "Firmino",
+    "Roberto Firmino",
+    "br"
+   ],
+   [
+    "Lallana",
+    "Adam Lallana",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Arsenal",
+  "score": "4-3",
+  "comp": "Premijer liga, 1. kolo",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Spektakl na Emirejtsu u prvom kolu Klopove prve pune sezone",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mignolet",
+    "Simon Mignolet",
+    "be"
+   ],
+   [
+    "Moreno",
+    "Alberto Moreno",
+    "es"
+   ],
+   [
+    "Klavan",
+    "Ragnar Klavan",
+    "ee"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Clyne",
+    "Nathaniel Clyne",
+    "gb-eng"
+   ],
+   [
+    "Lallana",
+    "Adam Lallana",
+    "gb-eng"
+   ],
+   [
+    "Henderson",
+    "Jordan Henderson",
+    "gb-eng"
+   ],
+   [
+    "Wijnaldum",
+    "Georginio Wijnaldum",
+    "nl"
+   ],
+   [
+    "Coutinho",
+    "Philippe Coutinho",
+    "br"
+   ],
+   [
+    "Firmino",
+    "Roberto Firmino",
+    "br"
+   ],
+   [
+    "Mané",
+    "Sadio Mané",
+    "sn"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Manchester City",
+  "score": "4-3",
+  "comp": "Premijer liga, 23. kolo",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Prvi ligaški poraz Sitija u sezoni od 100 bodova",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Karius",
+    "Loris Karius",
+    "de"
+   ],
+   [
+    "Robertson",
+    "Andrew Robertson",
+    "gb-sct"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Matip",
+    "Joël Matip",
+    "cm"
+   ],
+   [
+    "Gomez",
+    "Joe Gomez",
+    "gb-eng"
+   ],
+   [
+    "Wijnaldum",
+    "Georginio Wijnaldum",
+    "nl"
+   ],
+   [
+    "Can",
+    "Emre Can",
+    "de"
+   ],
+   [
+    "Oxlade-Chamberlain",
+    "Alex Oxlade-Chamberlain",
+    "gb-eng"
+   ],
+   [
+    "Mané",
+    "Sadio Mané",
+    "sn"
+   ],
+   [
+    "Firmino",
+    "Roberto Firmino",
+    "br"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Arsenal",
+  "score": "5-1",
+  "comp": "Premijer liga, 20. kolo",
+  "season": "2018/19",
+  "y": 2018,
+  "note": "Het-trik brazilskog napadača; Liverpul i dalje bez poraza u sezoni",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Alisson",
+    "Alisson Becker",
+    "br"
+   ],
+   [
+    "Robertson",
+    "Andrew Robertson",
+    "gb-sct"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Alexander-Arnold",
+    "Trent Alexander-Arnold",
+    "gb-eng"
+   ],
+   [
+    "Mané",
+    "Sadio Mané",
+    "sn"
+   ],
+   [
+    "Wijnaldum",
+    "Georginio Wijnaldum",
+    "nl"
+   ],
+   [
+    "Fabinho",
+    "Fabinho",
+    "br"
+   ],
+   [
+    "Shaqiri",
+    "Xherdan Shaqiri",
+    "ch"
+   ],
+   [
+    "Firmino",
+    "Roberto Firmino",
+    "br"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Manchester City",
+  "score": "3-1",
+  "comp": "Premijer liga, 12. kolo",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Pobeda nad šampionom i devet bodova prednosti nad Sitijem",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Alisson",
+    "Alisson Becker",
+    "br"
+   ],
+   [
+    "Robertson",
+    "Andrew Robertson",
+    "gb-sct"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Alexander-Arnold",
+    "Trent Alexander-Arnold",
+    "gb-eng"
+   ],
+   [
+    "Wijnaldum",
+    "Georginio Wijnaldum",
+    "nl"
+   ],
+   [
+    "Fabinho",
+    "Fabinho",
+    "br"
+   ],
+   [
+    "Henderson",
+    "Jordan Henderson",
+    "gb-eng"
+   ],
+   [
+    "Mané",
+    "Sadio Mané",
+    "sn"
+   ],
+   [
+    "Firmino",
+    "Roberto Firmino",
+    "br"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Chelsea",
+  "score": "0-0 (6-5 pen.)",
+  "comp": "Finale FA kupa",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Drugo finale sezone protiv Čelsija, i opet pobeda posle penala",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Alisson",
+    "Alisson Becker",
+    "br"
+   ],
+   [
+    "Robertson",
+    "Andrew Robertson",
+    "gb-sct"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "Konaté",
+    "Ibrahima Konaté",
+    "fr"
+   ],
+   [
+    "Alexander-Arnold",
+    "Trent Alexander-Arnold",
+    "gb-eng"
+   ],
+   [
+    "Thiago",
+    "Thiago Alcântara",
+    "es"
+   ],
+   [
+    "Henderson",
+    "Jordan Henderson",
+    "gb-eng"
+   ],
+   [
+    "Keïta",
+    "Naby Keïta",
+    "gn"
+   ],
+   [
+    "Díaz",
+    "Luis Díaz",
+    "co"
+   ],
+   [
+    "Mané",
+    "Sadio Mané",
+    "sn"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Manchester United",
+  "score": "7-0",
+  "comp": "Premijer liga, 26. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Najubedljivija pobeda u istoriji rivalstva sa Junajtedom",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Alisson",
+    "Alisson Becker",
+    "br"
+   ],
+   [
+    "Robertson",
+    "Andrew Robertson",
+    "gb-sct"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "Konaté",
+    "Ibrahima Konaté",
+    "fr"
+   ],
+   [
+    "Alexander-Arnold",
+    "Trent Alexander-Arnold",
+    "gb-eng"
+   ],
+   [
+    "Henderson",
+    "Jordan Henderson",
+    "gb-eng"
+   ],
+   [
+    "Fabinho",
+    "Fabinho",
+    "br"
+   ],
+   [
+    "Elliott",
+    "Harvey Elliott",
+    "gb-eng"
+   ],
+   [
+    "Núñez",
+    "Darwin Núñez",
+    "uy"
+   ],
+   [
+    "Gakpo",
+    "Cody Gakpo",
+    "nl"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Liverpool",
+  "opp": "Tottenham Hotspur",
+  "score": "5-1",
+  "comp": "Premijer liga, 34. kolo",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Pobeda kojom je osvojena 20. titula, u Slotovoj prvoj sezoni",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "p": [
+   [
+    "Alisson",
+    "Alisson Becker",
+    "br"
+   ],
+   [
+    "Robertson",
+    "Andrew Robertson",
+    "gb-sct"
+   ],
+   [
+    "Van Dijk",
+    "Virgil van Dijk",
+    "nl"
+   ],
+   [
+    "Konaté",
+    "Ibrahima Konaté",
+    "fr"
+   ],
+   [
+    "Alexander-Arnold",
+    "Trent Alexander-Arnold",
+    "gb-eng"
+   ],
+   [
+    "Gravenberch",
+    "Ryan Gravenberch",
+    "nl"
+   ],
+   [
+    "Mac Allister",
+    "Alexis Mac Allister",
+    "ar"
+   ],
+   [
+    "Gakpo",
+    "Cody Gakpo",
+    "nl"
+   ],
+   [
+    "Szoboszlai",
+    "Dominik Szoboszlai",
+    "hu"
+   ],
+   [
+    "Salah",
+    "Mohamed Salah",
+    "eg"
+   ],
+   [
+    "Díaz",
+    "Luis Díaz",
+    "co"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Arsenal",
+  "score": "6-0",
+  "comp": "Premijer liga, 31. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Vengerova 1000. utakmica na klupi Arsenala završena debaklom",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Čech",
+    "Petr Čech",
+    "cz"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Terry",
+    "John Terry",
+    "gb-eng"
+   ],
+   [
+    "Cahill",
+    "Gary Cahill",
+    "gb-eng"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "David Luiz",
+    "David Luiz",
+    "br"
+   ],
+   [
+    "Hazard",
+    "Eden Hazard",
+    "be"
+   ],
+   [
+    "Oscar",
+    "Oscar",
+    "br"
+   ],
+   [
+    "Schürrle",
+    "André Schürrle",
+    "de"
+   ],
+   [
+    "Eto'o",
+    "Samuel Eto'o",
+    "cm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Crystal Palace",
+  "score": "1-0",
+  "comp": "Premijer liga, 35. kolo",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Pobeda kojom je Murinjo osvojio treću titulu sa Čelsijem",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#1b458f",
+   "#c4122e"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Terry",
+    "John Terry",
+    "gb-eng"
+   ],
+   [
+    "Cahill",
+    "Gary Cahill",
+    "gb-eng"
+   ],
+   [
+    "Ivanović",
+    "Branislav Ivanović",
+    "rs"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Fàbregas",
+    "Cesc Fàbregas",
+    "es"
+   ],
+   [
+    "Hazard",
+    "Eden Hazard",
+    "be"
+   ],
+   [
+    "Willian",
+    "Willian",
+    "br"
+   ],
+   [
+    "Cuadrado",
+    "Juan Cuadrado",
+    "co"
+   ],
+   [
+    "Drogba",
+    "Didier Drogba",
+    "ci"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Manchester United",
+  "score": "4-0",
+  "comp": "Premijer liga, 9. kolo",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Murinjov prvi povratak na Stamford Bridž kao trener Junajteda",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Cahill",
+    "Gary Cahill",
+    "gb-eng"
+   ],
+   [
+    "David Luiz",
+    "David Luiz",
+    "br"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Marcos Alonso",
+    "es"
+   ],
+   [
+    "Matić",
+    "Nemanja Matić",
+    "rs"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "Moses",
+    "Victor Moses",
+    "ng"
+   ],
+   [
+    "Hazard",
+    "Eden Hazard",
+    "be"
+   ],
+   [
+    "Diego Costa",
+    "Diego Costa",
+    "es"
+   ],
+   [
+    "Pedro",
+    "Pedro",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Manchester United",
+  "score": "1-0",
+  "comp": "Finale FA kupa",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Poslednja utakmica Kontea na klupi Čelsija",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Cahill",
+    "Gary Cahill",
+    "gb-eng"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Marcos Alonso",
+    "es"
+   ],
+   [
+    "Bakayoko",
+    "Tiémoué Bakayoko",
+    "fr"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "Fàbregas",
+    "Cesc Fàbregas",
+    "es"
+   ],
+   [
+    "Moses",
+    "Victor Moses",
+    "ng"
+   ],
+   [
+    "Hazard",
+    "Eden Hazard",
+    "be"
+   ],
+   [
+    "Giroud",
+    "Olivier Giroud",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Manchester City",
+  "score": "2-0",
+  "comp": "Premijer liga, 16. kolo",
+  "season": "2018/19",
+  "y": 2018,
+  "note": "Prvi ligaški poraz Sitija te sezone, u Sarijevoj eri",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Kepa",
+    "Kepa Arrizabalaga",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Marcos Alonso",
+    "es"
+   ],
+   [
+    "David Luiz",
+    "David Luiz",
+    "br"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Kovačić",
+    "Mateo Kovačić",
+    "hr"
+   ],
+   [
+    "Jorginho",
+    "Jorginho",
+    "it"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "Willian",
+    "Willian",
+    "br"
+   ],
+   [
+    "Hazard",
+    "Eden Hazard",
+    "be"
+   ],
+   [
+    "Pedro",
+    "Pedro",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Manchester City",
+  "score": "2-1",
+  "comp": "Premijer liga, 31. kolo",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Pobeda koja je Liverpulu donela prvu titulu posle 30 godina",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Kepa",
+    "Kepa Arrizabalaga",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Marcos Alonso",
+    "es"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Christensen",
+    "Andreas Christensen",
+    "dk"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Mount",
+    "Mason Mount",
+    "gb-eng"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "Barkley",
+    "Ross Barkley",
+    "gb-eng"
+   ],
+   [
+    "Pulisic",
+    "Christian Pulisic",
+    "us"
+   ],
+   [
+    "Giroud",
+    "Olivier Giroud",
+    "fr"
+   ],
+   [
+    "Willian",
+    "Willian",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Manchester City",
+  "score": "2-1",
+  "comp": "Premijer liga, 35. kolo",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Generalna proba za finale Lige šampiona, koje je Čelsi takođe dobio",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mendy",
+    "Édouard Mendy",
+    "sn"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Christensen",
+    "Andreas Christensen",
+    "dk"
+   ],
+   [
+    "Azpilicueta",
+    "César Azpilicueta",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Marcos Alonso",
+    "es"
+   ],
+   [
+    "Gilmour",
+    "Billy Gilmour",
+    "gb-sct"
+   ],
+   [
+    "Kanté",
+    "N'Golo Kanté",
+    "fr"
+   ],
+   [
+    "James",
+    "Reece James",
+    "gb-eng"
+   ],
+   [
+    "Pulisic",
+    "Christian Pulisic",
+    "us"
+   ],
+   [
+    "Ziyech",
+    "Hakim Ziyech",
+    "ma"
+   ],
+   [
+    "Werner",
+    "Timo Werner",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Manchester City",
+  "score": "4-4",
+  "comp": "Premijer liga, 12. kolo",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Izjednačenje iz penala u 95. minutu protiv aktuelnog šampiona Evrope",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sánchez",
+    "Robert Sánchez",
+    "es"
+   ],
+   [
+    "Cucurella",
+    "Marc Cucurella",
+    "es"
+   ],
+   [
+    "Disasi",
+    "Axel Disasi",
+    "fr"
+   ],
+   [
+    "Thiago Silva",
+    "Thiago Silva",
+    "br"
+   ],
+   [
+    "James",
+    "Reece James",
+    "gb-eng"
+   ],
+   [
+    "Enzo",
+    "Enzo Fernández",
+    "ar"
+   ],
+   [
+    "Caicedo",
+    "Moisés Caicedo",
+    "ec"
+   ],
+   [
+    "Sterling",
+    "Raheem Sterling",
+    "gb-eng"
+   ],
+   [
+    "Gallagher",
+    "Conor Gallagher",
+    "gb-eng"
+   ],
+   [
+    "Palmer",
+    "Cole Palmer",
+    "gb-eng"
+   ],
+   [
+    "Jackson",
+    "Nicolas Jackson",
+    "sn"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Chelsea",
+  "opp": "Tottenham Hotspur",
+  "score": "4-3",
+  "comp": "Premijer liga, 15. kolo",
+  "season": "2024/25",
+  "y": 2024,
+  "note": "Preokret posle 0-2 iz prvih 11 minuta, u Marečinoj prvoj sezoni",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "p": [
+   [
+    "Sánchez",
+    "Robert Sánchez",
+    "es"
+   ],
+   [
+    "Cucurella",
+    "Marc Cucurella",
+    "es"
+   ],
+   [
+    "Badiashile",
+    "Benoît Badiashile",
+    "fr"
+   ],
+   [
+    "Colwill",
+    "Levi Colwill",
+    "gb-eng"
+   ],
+   [
+    "Caicedo",
+    "Moisés Caicedo",
+    "ec"
+   ],
+   [
+    "Lavia",
+    "Roméo Lavia",
+    "be"
+   ],
+   [
+    "Enzo",
+    "Enzo Fernández",
+    "ar"
+   ],
+   [
+    "Sancho",
+    "Jadon Sancho",
+    "gb-eng"
+   ],
+   [
+    "Palmer",
+    "Cole Palmer",
+    "gb-eng"
+   ],
+   [
+    "Neto",
+    "Pedro Neto",
+    "pt"
+   ],
+   [
+    "Jackson",
+    "Nicolas Jackson",
+    "sn"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Hull City",
+  "score": "3-2 prod.",
+  "comp": "Finale FA kupa",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Posle 0-2 u 8. minutu, kraj devetogodišnjeg čekanja na trofej",
+  "form": "4-2-3-1",
+  "kit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#f5a12d",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Fabiański",
+    "Łukasz Fabiański",
+    "pl"
+   ],
+   [
+    "Gibbs",
+    "Kieran Gibbs",
+    "gb-eng"
+   ],
+   [
+    "Koscielny",
+    "Laurent Koscielny",
+    "fr"
+   ],
+   [
+    "Mertesacker",
+    "Per Mertesacker",
+    "de"
+   ],
+   [
+    "Sagna",
+    "Bacary Sagna",
+    "fr"
+   ],
+   [
+    "Arteta",
+    "Mikel Arteta",
+    "es"
+   ],
+   [
+    "Ramsey",
+    "Aaron Ramsey",
+    "gb-wls"
+   ],
+   [
+    "Podolski",
+    "Lukas Podolski",
+    "de"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Cazorla",
+    "Santi Cazorla",
+    "es"
+   ],
+   [
+    "Giroud",
+    "Olivier Giroud",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Aston Villa",
+  "score": "4-0",
+  "comp": "Finale FA kupa",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Rekordni 12. FA kup za Arsenal, u žutim dresovima na Vembliju",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffdf00",
+   "#1c2c5b"
+  ],
+  "okit": [
+   "sleeves",
+   "#670e36",
+   "#95bfe5"
+  ],
+  "p": [
+   [
+    "Szczęsny",
+    "Wojciech Szczęsny",
+    "pl"
+   ],
+   [
+    "Monreal",
+    "Nacho Monreal",
+    "es"
+   ],
+   [
+    "Koscielny",
+    "Laurent Koscielny",
+    "fr"
+   ],
+   [
+    "Mertesacker",
+    "Per Mertesacker",
+    "de"
+   ],
+   [
+    "Bellerín",
+    "Héctor Bellerín",
+    "es"
+   ],
+   [
+    "Cazorla",
+    "Santi Cazorla",
+    "es"
+   ],
+   [
+    "Coquelin",
+    "Francis Coquelin",
+    "fr"
+   ],
+   [
+    "Sánchez",
+    "Alexis Sánchez",
+    "cl"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Ramsey",
+    "Aaron Ramsey",
+    "gb-wls"
+   ],
+   [
+    "Walcott",
+    "Theo Walcott",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Manchester United",
+  "score": "3-0",
+  "comp": "Premijer liga, 8. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Tri gola u prvih 20 minuta protiv Van Galovog Junajteda",
+  "form": "4-2-3-1",
+  "kit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Čech",
+    "Petr Čech",
+    "cz"
+   ],
+   [
+    "Monreal",
+    "Nacho Monreal",
+    "es"
+   ],
+   [
+    "Gabriel",
+    "Gabriel Paulista",
+    "br"
+   ],
+   [
+    "Mertesacker",
+    "Per Mertesacker",
+    "de"
+   ],
+   [
+    "Bellerín",
+    "Héctor Bellerín",
+    "es"
+   ],
+   [
+    "Cazorla",
+    "Santi Cazorla",
+    "es"
+   ],
+   [
+    "Coquelin",
+    "Francis Coquelin",
+    "fr"
+   ],
+   [
+    "Sánchez",
+    "Alexis Sánchez",
+    "cl"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Ramsey",
+    "Aaron Ramsey",
+    "gb-wls"
+   ],
+   [
+    "Walcott",
+    "Theo Walcott",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Chelsea",
+  "score": "2-1",
+  "comp": "Finale FA kupa",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Rekordni sedmi FA kup za Vengera, protiv šampiona Engleske",
+  "form": "3-4-2-1",
+  "kit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ospina",
+    "David Ospina",
+    "co"
+   ],
+   [
+    "Monreal",
+    "Nacho Monreal",
+    "es"
+   ],
+   [
+    "Mertesacker",
+    "Per Mertesacker",
+    "de"
+   ],
+   [
+    "Holding",
+    "Rob Holding",
+    "gb-eng"
+   ],
+   [
+    "Oxlade-Chamberlain",
+    "Alex Oxlade-Chamberlain",
+    "gb-eng"
+   ],
+   [
+    "Xhaka",
+    "Granit Xhaka",
+    "ch"
+   ],
+   [
+    "Ramsey",
+    "Aaron Ramsey",
+    "gb-wls"
+   ],
+   [
+    "Bellerín",
+    "Héctor Bellerín",
+    "es"
+   ],
+   [
+    "Sánchez",
+    "Alexis Sánchez",
+    "cl"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Welbeck",
+    "Danny Welbeck",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Chelsea",
+  "score": "2-1",
+  "comp": "Finale FA kupa",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Artetin prvi trofej, pred praznim tribinama Vemblija",
+  "form": "3-4-3",
+  "kit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Martínez",
+    "Emiliano Martínez",
+    "ar"
+   ],
+   [
+    "Tierney",
+    "Kieran Tierney",
+    "gb-sct"
+   ],
+   [
+    "David Luiz",
+    "David Luiz",
+    "br"
+   ],
+   [
+    "Holding",
+    "Rob Holding",
+    "gb-eng"
+   ],
+   [
+    "Maitland-Niles",
+    "Ainsley Maitland-Niles",
+    "gb-eng"
+   ],
+   [
+    "Xhaka",
+    "Granit Xhaka",
+    "ch"
+   ],
+   [
+    "Ceballos",
+    "Dani Ceballos",
+    "es"
+   ],
+   [
+    "Bellerín",
+    "Héctor Bellerín",
+    "es"
+   ],
+   [
+    "Aubameyang",
+    "Pierre-Emerick Aubameyang",
+    "ga"
+   ],
+   [
+    "Lacazette",
+    "Alexandre Lacazette",
+    "fr"
+   ],
+   [
+    "Pépé",
+    "Nicolas Pépé",
+    "ci"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Tottenham Hotspur",
+  "score": "3-1",
+  "comp": "Premijer liga, 6. kolo",
+  "season": "2021/22",
+  "y": 2021,
+  "note": "Tri gola u prvih 34 minuta derbija severnog Londona",
+  "form": "4-2-3-1",
+  "kit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "p": [
+   [
+    "Ramsdale",
+    "Aaron Ramsdale",
+    "gb-eng"
+   ],
+   [
+    "Tierney",
+    "Kieran Tierney",
+    "gb-sct"
+   ],
+   [
+    "Gabriel",
+    "Gabriel Magalhães",
+    "br"
+   ],
+   [
+    "White",
+    "Ben White",
+    "gb-eng"
+   ],
+   [
+    "Tomiyasu",
+    "Takehiro Tomiyasu",
+    "jp"
+   ],
+   [
+    "Xhaka",
+    "Granit Xhaka",
+    "ch"
+   ],
+   [
+    "Partey",
+    "Thomas Partey",
+    "gh"
+   ],
+   [
+    "Smith Rowe",
+    "Emile Smith Rowe",
+    "gb-eng"
+   ],
+   [
+    "Ødegaard",
+    "Martin Ødegaard",
+    "no"
+   ],
+   [
+    "Saka",
+    "Bukayo Saka",
+    "gb-eng"
+   ],
+   [
+    "Aubameyang",
+    "Pierre-Emerick Aubameyang",
+    "ga"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Manchester United",
+  "score": "3-2",
+  "comp": "Premijer liga, 21. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Pobednički gol u 90. minutu, u sezoni borbe za titulu",
+  "form": "4-3-3",
+  "kit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Ramsdale",
+    "Aaron Ramsdale",
+    "gb-eng"
+   ],
+   [
+    "Zinchenko",
+    "Oleksandr Zinchenko",
+    "ua"
+   ],
+   [
+    "Gabriel",
+    "Gabriel Magalhães",
+    "br"
+   ],
+   [
+    "Saliba",
+    "William Saliba",
+    "fr"
+   ],
+   [
+    "White",
+    "Ben White",
+    "gb-eng"
+   ],
+   [
+    "Xhaka",
+    "Granit Xhaka",
+    "ch"
+   ],
+   [
+    "Partey",
+    "Thomas Partey",
+    "gh"
+   ],
+   [
+    "Ødegaard",
+    "Martin Ødegaard",
+    "no"
+   ],
+   [
+    "Martinelli",
+    "Gabriel Martinelli",
+    "br"
+   ],
+   [
+    "Nketiah",
+    "Eddie Nketiah",
+    "gb-eng"
+   ],
+   [
+    "Saka",
+    "Bukayo Saka",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Chelsea",
+  "score": "5-0",
+  "comp": "Premijer liga, 29. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Najubedljivija ligaška pobeda Arsenala nad Čelsijem",
+  "form": "4-3-3",
+  "kit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Raya",
+    "David Raya",
+    "es"
+   ],
+   [
+    "Tomiyasu",
+    "Takehiro Tomiyasu",
+    "jp"
+   ],
+   [
+    "Gabriel",
+    "Gabriel Magalhães",
+    "br"
+   ],
+   [
+    "Saliba",
+    "William Saliba",
+    "fr"
+   ],
+   [
+    "White",
+    "Ben White",
+    "gb-eng"
+   ],
+   [
+    "Rice",
+    "Declan Rice",
+    "gb-eng"
+   ],
+   [
+    "Partey",
+    "Thomas Partey",
+    "gh"
+   ],
+   [
+    "Ødegaard",
+    "Martin Ødegaard",
+    "no"
+   ],
+   [
+    "Trossard",
+    "Leandro Trossard",
+    "be"
+   ],
+   [
+    "Havertz",
+    "Kai Havertz",
+    "de"
+   ],
+   [
+    "Saka",
+    "Bukayo Saka",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Arsenal",
+  "opp": "Manchester City",
+  "score": "5-1",
+  "comp": "Premijer liga, 24. kolo",
+  "season": "2024/25",
+  "y": 2025,
+  "note": "Artetin ubedljivi trijumf nad nekadašnjim šefom Gvardiolom",
+  "form": "4-3-3",
+  "kit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Raya",
+    "David Raya",
+    "es"
+   ],
+   [
+    "Lewis-Skelly",
+    "Myles Lewis-Skelly",
+    "gb-eng"
+   ],
+   [
+    "Gabriel",
+    "Gabriel Magalhães",
+    "br"
+   ],
+   [
+    "Saliba",
+    "William Saliba",
+    "fr"
+   ],
+   [
+    "Timber",
+    "Jurriën Timber",
+    "nl"
+   ],
+   [
+    "Rice",
+    "Declan Rice",
+    "gb-eng"
+   ],
+   [
+    "Partey",
+    "Thomas Partey",
+    "gh"
+   ],
+   [
+    "Ødegaard",
+    "Martin Ødegaard",
+    "no"
+   ],
+   [
+    "Trossard",
+    "Leandro Trossard",
+    "be"
+   ],
+   [
+    "Havertz",
+    "Kai Havertz",
+    "de"
+   ],
+   [
+    "Martinelli",
+    "Gabriel Martinelli",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Chelsea",
+  "score": "5-3",
+  "comp": "Premijer liga, 20. kolo",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Novogodišnji spektakl protiv Murinjovog budućeg šampiona",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Rose",
+    "Danny Rose",
+    "gb-eng"
+   ],
+   [
+    "Vertonghen",
+    "Jan Vertonghen",
+    "be"
+   ],
+   [
+    "Fazio",
+    "Federico Fazio",
+    "ar"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Bentaleb",
+    "Nabil Bentaleb",
+    "dz"
+   ],
+   [
+    "Mason",
+    "Ryan Mason",
+    "gb-eng"
+   ],
+   [
+    "Chadli",
+    "Nacer Chadli",
+    "be"
+   ],
+   [
+    "Eriksen",
+    "Christian Eriksen",
+    "dk"
+   ],
+   [
+    "Townsend",
+    "Andros Townsend",
+    "gb-eng"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Chelsea",
+  "score": "2-2",
+  "comp": "Premijer liga, 36. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "„Bitka na Bridžu“: vodili su 2-0, a remi je Lesteru doneo titulu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#034694",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Rose",
+    "Danny Rose",
+    "gb-eng"
+   ],
+   [
+    "Vertonghen",
+    "Jan Vertonghen",
+    "be"
+   ],
+   [
+    "Alderweireld",
+    "Toby Alderweireld",
+    "be"
+   ],
+   [
+    "Walker",
+    "Kyle Walker",
+    "gb-eng"
+   ],
+   [
+    "Dembélé",
+    "Mousa Dembélé",
+    "be"
+   ],
+   [
+    "Dier",
+    "Eric Dier",
+    "gb-eng"
+   ],
+   [
+    "Lamela",
+    "Erik Lamela",
+    "ar"
+   ],
+   [
+    "Eriksen",
+    "Christian Eriksen",
+    "dk"
+   ],
+   [
+    "Son",
+    "Son Heung-min",
+    "kr"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Manchester United",
+  "score": "2-1",
+  "comp": "Premijer liga, 37. kolo",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Oproštaj od starog Vajt Hart Lejna posle 118 godina",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Davies",
+    "Ben Davies",
+    "gb-wls"
+   ],
+   [
+    "Vertonghen",
+    "Jan Vertonghen",
+    "be"
+   ],
+   [
+    "Alderweireld",
+    "Toby Alderweireld",
+    "be"
+   ],
+   [
+    "Trippier",
+    "Kieran Trippier",
+    "gb-eng"
+   ],
+   [
+    "Wanyama",
+    "Victor Wanyama",
+    "ke"
+   ],
+   [
+    "Dier",
+    "Eric Dier",
+    "gb-eng"
+   ],
+   [
+    "Alli",
+    "Dele Alli",
+    "gb-eng"
+   ],
+   [
+    "Eriksen",
+    "Christian Eriksen",
+    "dk"
+   ],
+   [
+    "Son",
+    "Son Heung-min",
+    "kr"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Liverpool",
+  "score": "4-1",
+  "comp": "Premijer liga, 9. kolo",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Deklasiranje Liverpula na Vembliju, privremenom domu Spursa",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Vertonghen",
+    "Jan Vertonghen",
+    "be"
+   ],
+   [
+    "Sánchez",
+    "Davinson Sánchez",
+    "co"
+   ],
+   [
+    "Alderweireld",
+    "Toby Alderweireld",
+    "be"
+   ],
+   [
+    "Aurier",
+    "Serge Aurier",
+    "ci"
+   ],
+   [
+    "Alli",
+    "Dele Alli",
+    "gb-eng"
+   ],
+   [
+    "Winks",
+    "Harry Winks",
+    "gb-eng"
+   ],
+   [
+    "Eriksen",
+    "Christian Eriksen",
+    "dk"
+   ],
+   [
+    "Trippier",
+    "Kieran Trippier",
+    "gb-eng"
+   ],
+   [
+    "Son",
+    "Son Heung-min",
+    "kr"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Manchester United",
+  "score": "3-0",
+  "comp": "Premijer liga, 3. kolo",
+  "season": "2018/19",
+  "y": 2018,
+  "note": "Pobeda na Old Trafordu posle koje je Murinjo tražio „poštovanje“",
+  "form": "4-3-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Rose",
+    "Danny Rose",
+    "gb-eng"
+   ],
+   [
+    "Vertonghen",
+    "Jan Vertonghen",
+    "be"
+   ],
+   [
+    "Alderweireld",
+    "Toby Alderweireld",
+    "be"
+   ],
+   [
+    "Trippier",
+    "Kieran Trippier",
+    "gb-eng"
+   ],
+   [
+    "Alli",
+    "Dele Alli",
+    "gb-eng"
+   ],
+   [
+    "Dembélé",
+    "Mousa Dembélé",
+    "be"
+   ],
+   [
+    "Dier",
+    "Eric Dier",
+    "gb-eng"
+   ],
+   [
+    "Eriksen",
+    "Christian Eriksen",
+    "dk"
+   ],
+   [
+    "Lucas Moura",
+    "Lucas Moura",
+    "br"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Manchester United",
+  "score": "6-1",
+  "comp": "Premijer liga, 4. kolo",
+  "season": "2020/21",
+  "y": 2020,
+  "note": "Spursi na Old Trafordu ponovili Sitijevih 6-1 iz 2011.",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Reguilón",
+    "Sergio Reguilón",
+    "es"
+   ],
+   [
+    "Dier",
+    "Eric Dier",
+    "gb-eng"
+   ],
+   [
+    "Sánchez",
+    "Davinson Sánchez",
+    "co"
+   ],
+   [
+    "Aurier",
+    "Serge Aurier",
+    "ci"
+   ],
+   [
+    "Ndombélé",
+    "Tanguy Ndombélé",
+    "fr"
+   ],
+   [
+    "Højbjerg",
+    "Pierre-Emile Højbjerg",
+    "dk"
+   ],
+   [
+    "Sissoko",
+    "Moussa Sissoko",
+    "fr"
+   ],
+   [
+    "Son",
+    "Son Heung-min",
+    "kr"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ],
+   [
+    "Lamela",
+    "Erik Lamela",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Manchester City",
+  "score": "3-2",
+  "comp": "Premijer liga, 26. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Pobednički gol u 95. minutu na Etihadu, u Konteovoj prvoj sezoni",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lloris",
+    "Hugo Lloris",
+    "fr"
+   ],
+   [
+    "Davies",
+    "Ben Davies",
+    "gb-wls"
+   ],
+   [
+    "Dier",
+    "Eric Dier",
+    "gb-eng"
+   ],
+   [
+    "Romero",
+    "Cristian Romero",
+    "ar"
+   ],
+   [
+    "Sessegnon",
+    "Ryan Sessegnon",
+    "gb-eng"
+   ],
+   [
+    "Bentancur",
+    "Rodrigo Bentancur",
+    "uy"
+   ],
+   [
+    "Højbjerg",
+    "Pierre-Emile Højbjerg",
+    "dk"
+   ],
+   [
+    "Emerson",
+    "Emerson Royal",
+    "br"
+   ],
+   [
+    "Son",
+    "Son Heung-min",
+    "kr"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ],
+   [
+    "Kulusevski",
+    "Dejan Kulusevski",
+    "se"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Liverpool",
+  "score": "2-1",
+  "comp": "Premijer liga, 7. kolo",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Autogol u nadoknadi, posle poništenog regularnog gola gostiju zbog greške VAR-a",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Vicario",
+    "Guglielmo Vicario",
+    "it"
+   ],
+   [
+    "Udogie",
+    "Destiny Udogie",
+    "it"
+   ],
+   [
+    "Van de Ven",
+    "Micky van de Ven",
+    "nl"
+   ],
+   [
+    "Romero",
+    "Cristian Romero",
+    "ar"
+   ],
+   [
+    "Porro",
+    "Pedro Porro",
+    "es"
+   ],
+   [
+    "Bissouma",
+    "Yves Bissouma",
+    "ml"
+   ],
+   [
+    "Sarr",
+    "Pape Matar Sarr",
+    "sn"
+   ],
+   [
+    "Richarlison",
+    "Richarlison",
+    "br"
+   ],
+   [
+    "Maddison",
+    "James Maddison",
+    "gb-eng"
+   ],
+   [
+    "Kulusevski",
+    "Dejan Kulusevski",
+    "se"
+   ],
+   [
+    "Son",
+    "Son Heung-min",
+    "kr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Tottenham Hotspur",
+  "opp": "Manchester City",
+  "score": "4-0",
+  "comp": "Premijer liga, 12. kolo",
+  "season": "2024/25",
+  "y": 2024,
+  "note": "Peti uzastopni poraz Sitija, prvi put u Gvardiolinoj karijeri",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#132257"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Vicario",
+    "Guglielmo Vicario",
+    "it"
+   ],
+   [
+    "Udogie",
+    "Destiny Udogie",
+    "it"
+   ],
+   [
+    "Davies",
+    "Ben Davies",
+    "gb-wls"
+   ],
+   [
+    "Drăgușin",
+    "Radu Drăgușin",
+    "ro"
+   ],
+   [
+    "Porro",
+    "Pedro Porro",
+    "es"
+   ],
+   [
+    "Maddison",
+    "James Maddison",
+    "gb-eng"
+   ],
+   [
+    "Bissouma",
+    "Yves Bissouma",
+    "ml"
+   ],
+   [
+    "Sarr",
+    "Pape Matar Sarr",
+    "sn"
+   ],
+   [
+    "Son",
+    "Son Heung-min",
+    "kr"
+   ],
+   [
+    "Solanke",
+    "Dominic Solanke",
+    "gb-eng"
+   ],
+   [
+    "Kulusevski",
+    "Dejan Kulusevski",
+    "se"
+   ]
+  ]
+ }
+]
