@@ -17,7 +17,7 @@ Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 ## Published
 Artifact (private, claude.ai): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h (v1, 330 entries). Republish: Artifact publish with `url`, `file_path` = index.html, `files` = every `flags/*.svg` mapped to itself.
 
-## Data status (330 entries built)
+## Data status (341 entries built)
 DONE (in `data/`, verified against box scores / Wikipedia / ESPN / Opta):
 | file | scope | n |
 |---|---|---|
@@ -26,8 +26,8 @@ DONE (in `data/`, verified against box scores / Wikipedia / ESPN / Opta):
 | b03_srb.json | Serbia basketball NT + opponents + Zvezda/Partizan/Mega | 50 |
 | f09_wc.json | World Cups 2010–2022 + famous qualifiers (no Serbia) | 60 |
 | f10_euro_copa.json | Euros, Copa América, AFCON, Nations League, Asian Cup, Gold Cup, Olympics (no Serbia) | 60 |
-| f12_srb_nat.json | Serbia football NT (+U20 2015, U19 2013) | 22 |
-| f04_partial.json | English non-big-six clubs, PARTIAL (33 of 55) | 33 |
+| f12_srb_nat.json | Serbia football NT (+U20 2015, U19 2013) | 11 |
+| f04_partial.json | English non-big-six clubs, PARTIAL (44 of 55) | 44 |
 
 MISSING — generate each with one agent (prompt: "Read SPEC.md and follow it exactly. Scope: … Target N. Output data/<file>. Run validate.py until OK."):
 | file | scope | target |
@@ -35,7 +35,7 @@ MISSING — generate each with one agent (prompt: "Read SPEC.md and follow it ex
 | f01_ucl.json | UEFA Champions League only, 2009/10–2024/25: both finalists of every final 2010–2025 + legendary nights (Barça 6-1 PSG, Liverpool 4-0 Barça, Ajax 2019, Roma 3-0 Barça, Monaco 2017, APOEL 2012, Dortmund 4-1 Real 2013, Atalanta 2020, Villarreal 2022…). No Serbian clubs as "team". | 60 |
 | f02_uel.json | Europa League, Conference League, UEFA Super Cup, Club World Cup, 2009–2025: both finalists of every UEL final 2010–2025 and UECL finals 2022–2025 + famous nights (Liverpool 4-3 Dortmund 2016, Eintracht at Barça 2022…). No Serbian clubs. | 55 |
 | f03_eng_big.json | Man Utd, Man City, Liverpool, Chelsea, Arsenal, Tottenham — DOMESTIC only (PL, FA Cup, League Cup, Community Shield), ~9 per club across many seasons (City 3-2 QPR 2012, Utd 8-2 Arsenal, City 6-1 Utd, Liverpool 13/14, 19/20, Chelsea 16/17 3-4-3, Spurs 16/17, Arteta's Arsenal, Slot's Liverpool 24/25…). | 55 |
-| f04_eng_cult.json | English clubs outside the big six, domestic only. REST of scope: 22 more beyond f04_partial.json (check it to avoid duplicates). Must cover: Leicester 15/16, Everton Moyes/Martínez (Baines, Coleman, Barkley, Lukaku), West Ham (Payet 15/16, Lingard 20/21), Southampton, Swansea 2013 League Cup, Stoke Pulis, Wigan 2013 FA Cup, Newcastle 11/12, Blackpool 10/11, Leeds Bielsa, Sheffield Utd 19/20, Wolves, Burnley, Brighton, Villa Emery, Forest 24/25, Bradford 2013, Birmingham 2011. | 22 |
+| f04_eng_cult.json | English clubs outside the big six, domestic only. REST of scope: 11 more beyond f04_partial.json (check it to avoid duplicates). Must cover: Leicester 15/16, Everton Moyes/Martínez (Baines, Coleman, Barkley, Lukaku), West Ham (Payet 15/16, Lingard 20/21), Southampton, Swansea 2013 League Cup, Stoke Pulis, Wigan 2013 FA Cup, Newcastle 11/12, Blackpool 10/11, Leeds Bielsa, Sheffield Utd 19/20, Wolves, Burnley, Brighton, Villa Emery, Forest 24/25, Bradford 2013, Birmingham 2011. | 11 |
 | f05_esp.json | Spanish clubs, DOMESTIC only (La Liga, Copa, Supercopa): Barça 5-0 Real 2010, Real 11/12, Atlético 13/14 decider, Valencia (Emery era; 2019 Copa with Rodrigo, Garay, Parejo, Gayà), Sevilla, Villarreal, Málaga 12/13, Athletic Bielsa, Real Sociedad, Betis 2022, Girona 23/24, Celta, Getafe, Levante, Eibar, Depor, Osasuna 2023, Mallorca 2025. | 55 |
 | f06_ita.json | Italian clubs, DOMESTIC only: Inter 09/10, Milan 10/11 & 21/22, Juve Conte/Allegri, Napoli Mazzarri/Sarri/Spalletti, Roma, Lazio, Atalanta Gasperini, Fiorentina, Udinese, Sampdoria 09/10, Palermo, Torino, Sassuolo, Bologna 2025 Coppa, Verona, Empoli. | 55 |
 | f07_ger_fra.json | German + French clubs, DOMESTIC only: Dortmund Klopp (2012 Pokal 5-2), Bayern, Leverkusen 23/24, Stuttgart, Leipzig, Gladbach, Schalke, Wolfsburg 2009, Hoffenheim, Eintracht 2018 Pokal, Union; Marseille 09/10, Lille 10/11 & 20/21, Montpellier 11/12, PSG eras, Monaco 16/17, Lyon, Nice, Lens 22/23, Brest 23/24. | 55 |

@@ -2605,5 +2605,874 @@
     "cm"
    ]
   ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Southampton",
+  "opp": "Liverpool",
+  "score": "1-0",
+  "comp": "Premijer liga, 5. kolo",
+  "season": "2013/14",
+  "y": 2013,
+  "note": "Prvi poraz Liverpula u sezoni; Poketino slavio na Enfildu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#1a1a1a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Boruc",
+    "Artur Boruc",
+    "pl"
+   ],
+   [
+    "Shaw",
+    "Luke Shaw",
+    "gb-eng"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Fonte",
+    "José Fonte",
+    "pt"
+   ],
+   [
+    "Clyne",
+    "Nathaniel Clyne",
+    "gb-eng"
+   ],
+   [
+    "Schneiderlin",
+    "Morgan Schneiderlin",
+    "fr"
+   ],
+   [
+    "Wanyama",
+    "Victor Wanyama",
+    "ke"
+   ],
+   [
+    "Rodriguez",
+    "Jay Rodriguez",
+    "gb-eng"
+   ],
+   [
+    "Osvaldo",
+    "Pablo Daniel Osvaldo",
+    "it"
+   ],
+   [
+    "Lallana",
+    "Adam Lallana",
+    "gb-eng"
+   ],
+   [
+    "Lambert",
+    "Rickie Lambert",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Southampton",
+  "opp": "Manchester United",
+  "score": "1-0",
+  "comp": "Premijer liga, 21. kolo",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Prva pobeda Sautemptona na Old Trafordu posle 27 godina",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#1b2a4a",
+   "#f2c500"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Forster",
+    "Fraser Forster",
+    "gb-eng"
+   ],
+   [
+    "Bertrand",
+    "Ryan Bertrand",
+    "gb-eng"
+   ],
+   [
+    "Alderweireld",
+    "Toby Alderweireld",
+    "be"
+   ],
+   [
+    "Fonte",
+    "José Fonte",
+    "pt"
+   ],
+   [
+    "Clyne",
+    "Nathaniel Clyne",
+    "gb-eng"
+   ],
+   [
+    "Schneiderlin",
+    "Morgan Schneiderlin",
+    "fr"
+   ],
+   [
+    "Wanyama",
+    "Victor Wanyama",
+    "ke"
+   ],
+   [
+    "Elia",
+    "Eljero Elia",
+    "nl"
+   ],
+   [
+    "Ward-Prowse",
+    "James Ward-Prowse",
+    "gb-eng"
+   ],
+   [
+    "Davis",
+    "Steven Davis",
+    "gb-nir"
+   ],
+   [
+    "Pellè",
+    "Graziano Pellè",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Southampton",
+  "opp": "Manchester United",
+  "score": "2-3",
+  "comp": "Finale Liga kupa",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Ibrahimović odlučio u 87. minutu; Sautemptonu poništen regularan gol",
+  "form": "4-4-1-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#d71920"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Forster",
+    "Fraser Forster",
+    "gb-eng"
+   ],
+   [
+    "Bertrand",
+    "Ryan Bertrand",
+    "gb-eng"
+   ],
+   [
+    "Yoshida",
+    "Maya Yoshida",
+    "jp"
+   ],
+   [
+    "Stephens",
+    "Jack Stephens",
+    "gb-eng"
+   ],
+   [
+    "Cédric",
+    "Cédric Soares",
+    "pt"
+   ],
+   [
+    "Redmond",
+    "Nathan Redmond",
+    "gb-eng"
+   ],
+   [
+    "Davis",
+    "Steven Davis",
+    "gb-nir"
+   ],
+   [
+    "Romeu",
+    "Oriol Romeu",
+    "es"
+   ],
+   [
+    "Ward-Prowse",
+    "James Ward-Prowse",
+    "gb-eng"
+   ],
+   [
+    "Tadić",
+    "Dušan Tadić",
+    "rs"
+   ],
+   [
+    "Gabbiadini",
+    "Manolo Gabbiadini",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Swansea City",
+  "opp": "Bradford City",
+  "score": "5-0",
+  "comp": "Finale Liga kupa",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "Prvi veliki trofej u istoriji kluba, u godini stogodišnjice",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "sleeves",
+   "#7a1f2b",
+   "#f5b400"
+  ],
+  "p": [
+   [
+    "Tremmel",
+    "Gerhard Tremmel",
+    "de"
+   ],
+   [
+    "Davies",
+    "Ben Davies",
+    "gb-wls"
+   ],
+   [
+    "Williams",
+    "Ashley Williams",
+    "gb-wls"
+   ],
+   [
+    "Ki Sung-yueng",
+    "Ki Sung-yueng",
+    "kr"
+   ],
+   [
+    "Rangel",
+    "Àngel Rangel",
+    "es"
+   ],
+   [
+    "De Guzmán",
+    "Jonathan de Guzmán",
+    "nl"
+   ],
+   [
+    "Britton",
+    "Leon Britton",
+    "gb-eng"
+   ],
+   [
+    "Routledge",
+    "Wayne Routledge",
+    "gb-eng"
+   ],
+   [
+    "Hernández",
+    "Pablo Hernández",
+    "es"
+   ],
+   [
+    "Dyer",
+    "Nathan Dyer",
+    "gb-eng"
+   ],
+   [
+    "Michu",
+    "Michu",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bradford City",
+  "opp": "Swansea City",
+  "score": "0-5",
+  "comp": "Finale Liga kupa",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "Prvi klub iz četvrtog ranga u finalu Liga kupa posle Ročdejla 1962.",
+  "form": "4-4-2",
+  "kit": [
+   "sleeves",
+   "#7a1f2b",
+   "#f5b400"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Duke",
+    "Matt Duke",
+    "gb-eng"
+   ],
+   [
+    "Good",
+    "Curtis Good",
+    "au"
+   ],
+   [
+    "McHugh",
+    "Carl McHugh",
+    "ie"
+   ],
+   [
+    "McArdle",
+    "Rory McArdle",
+    "gb-nir"
+   ],
+   [
+    "Darby",
+    "Stephen Darby",
+    "gb-eng"
+   ],
+   [
+    "Atkinson",
+    "Will Atkinson",
+    "gb-eng"
+   ],
+   [
+    "Doyle",
+    "Nathan Doyle",
+    "gb-eng"
+   ],
+   [
+    "Jones",
+    "Gary Jones",
+    "gb-eng"
+   ],
+   [
+    "Thompson",
+    "Garry Thompson",
+    "gb-eng"
+   ],
+   [
+    "Wells",
+    "Nahki Wells",
+    "bm"
+   ],
+   [
+    "Hanson",
+    "James Hanson",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Swansea City",
+  "opp": "Reading",
+  "score": "4-2",
+  "comp": "Finale plej-ofa Čempionšipa",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Prvi velški klub koji se plasirao u Premijer ligu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "hoops",
+   "#004494",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "De Vries",
+    "Dorus de Vries",
+    "nl"
+   ],
+   [
+    "Tate",
+    "Alan Tate",
+    "gb-eng"
+   ],
+   [
+    "Williams",
+    "Ashley Williams",
+    "gb-wls"
+   ],
+   [
+    "Monk",
+    "Garry Monk",
+    "gb-eng"
+   ],
+   [
+    "Rangel",
+    "Àngel Rangel",
+    "es"
+   ],
+   [
+    "Allen",
+    "Joe Allen",
+    "gb-wls"
+   ],
+   [
+    "Britton",
+    "Leon Britton",
+    "gb-eng"
+   ],
+   [
+    "Sinclair",
+    "Scott Sinclair",
+    "gb-eng"
+   ],
+   [
+    "Dobbie",
+    "Stephen Dobbie",
+    "gb-sct"
+   ],
+   [
+    "Dyer",
+    "Nathan Dyer",
+    "gb-eng"
+   ],
+   [
+    "Borini",
+    "Fabio Borini",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Swansea City",
+  "opp": "Arsenal",
+  "score": "3-2",
+  "comp": "Premijer liga, 20. kolo",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Rodžersov Svonsi nadigrao Arsenal u prvoj sezoni u Premijer ligi",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Vorm",
+    "Michel Vorm",
+    "nl"
+   ],
+   [
+    "Taylor",
+    "Neil Taylor",
+    "gb-wls"
+   ],
+   [
+    "Williams",
+    "Ashley Williams",
+    "gb-wls"
+   ],
+   [
+    "Caulker",
+    "Steven Caulker",
+    "gb-eng"
+   ],
+   [
+    "Rangel",
+    "Àngel Rangel",
+    "es"
+   ],
+   [
+    "Britton",
+    "Leon Britton",
+    "gb-eng"
+   ],
+   [
+    "Agustien",
+    "Kemy Agustien",
+    "cw"
+   ],
+   [
+    "Sinclair",
+    "Scott Sinclair",
+    "gb-eng"
+   ],
+   [
+    "Allen",
+    "Joe Allen",
+    "gb-wls"
+   ],
+   [
+    "Dyer",
+    "Nathan Dyer",
+    "gb-eng"
+   ],
+   [
+    "Graham",
+    "Danny Graham",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Stoke City",
+  "opp": "Manchester City",
+  "score": "0-1",
+  "comp": "Finale FA kupa",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Prvo finale FA kupa u istoriji kluba; odlučio je Jaja Ture",
+  "form": "4-4-1-1",
+  "kit": [
+   "stripes",
+   "#e03a3e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sørensen",
+    "Thomas Sørensen",
+    "dk"
+   ],
+   [
+    "Wilson",
+    "Marc Wilson",
+    "ie"
+   ],
+   [
+    "Huth",
+    "Robert Huth",
+    "de"
+   ],
+   [
+    "Shawcross",
+    "Ryan Shawcross",
+    "gb-eng"
+   ],
+   [
+    "Wilkinson",
+    "Andy Wilkinson",
+    "gb-eng"
+   ],
+   [
+    "Etherington",
+    "Matthew Etherington",
+    "gb-eng"
+   ],
+   [
+    "Delap",
+    "Rory Delap",
+    "ie"
+   ],
+   [
+    "Whelan",
+    "Glenn Whelan",
+    "ie"
+   ],
+   [
+    "Pennant",
+    "Jermaine Pennant",
+    "gb-eng"
+   ],
+   [
+    "Walters",
+    "Jonathan Walters",
+    "ie"
+   ],
+   [
+    "Jones",
+    "Kenwyne Jones",
+    "tt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Wigan Athletic",
+  "opp": "Manchester City",
+  "score": "1-0",
+  "comp": "Finale FA kupa",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "Prvi veliki trofej kluba; tri dana kasnije ispali iz Premijer lige",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#1a1a1a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#6cabdd",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Robles",
+    "Joel Robles",
+    "es"
+   ],
+   [
+    "Scharner",
+    "Paul Scharner",
+    "at"
+   ],
+   [
+    "Alcaraz",
+    "Antolín Alcaraz",
+    "py"
+   ],
+   [
+    "Boyce",
+    "Emmerson Boyce",
+    "bb"
+   ],
+   [
+    "Espinoza",
+    "Roger Espinoza",
+    "hn"
+   ],
+   [
+    "Gómez",
+    "Jordi Gómez",
+    "es"
+   ],
+   [
+    "McCarthy",
+    "James McCarthy",
+    "ie"
+   ],
+   [
+    "McArthur",
+    "James McArthur",
+    "gb-sct"
+   ],
+   [
+    "Maloney",
+    "Shaun Maloney",
+    "gb-sct"
+   ],
+   [
+    "Koné",
+    "Arouna Koné",
+    "ci"
+   ],
+   [
+    "McManaman",
+    "Callum McManaman",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Wigan Athletic",
+  "opp": "Arsenal",
+  "score": "3-2",
+  "comp": "Premijer liga, 35. kolo",
+  "season": "2009/10",
+  "y": 2010,
+  "note": "Preokret sa 0:2 posle 80. minuta; prva ligaška pobeda Vigana nad Arsenalom",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#1c5ba7",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Kirkland",
+    "Chris Kirkland",
+    "gb-eng"
+   ],
+   [
+    "Figueroa",
+    "Maynor Figueroa",
+    "hn"
+   ],
+   [
+    "Bramble",
+    "Titus Bramble",
+    "gb-eng"
+   ],
+   [
+    "Gohouri",
+    "Steve Gohouri",
+    "ci"
+   ],
+   [
+    "Melchiot",
+    "Mario Melchiot",
+    "nl"
+   ],
+   [
+    "Diamé",
+    "Mohamed Diamé",
+    "sn"
+   ],
+   [
+    "Watson",
+    "Ben Watson",
+    "gb-eng"
+   ],
+   [
+    "McCarthy",
+    "James McCarthy",
+    "ie"
+   ],
+   [
+    "Rodallega",
+    "Hugo Rodallega",
+    "co"
+   ],
+   [
+    "Moreno",
+    "Marcelo Moreno",
+    "bo"
+   ],
+   [
+    "N'Zogbia",
+    "Charles N'Zogbia",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Birmingham City",
+  "opp": "Arsenal",
+  "score": "2-1",
+  "comp": "Finale Liga kupa",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Prvi veliki trofej posle 1963; iste sezone ispali iz Premijer lige",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#0033a0",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Foster",
+    "Ben Foster",
+    "gb-eng"
+   ],
+   [
+    "Ridgewell",
+    "Liam Ridgewell",
+    "gb-eng"
+   ],
+   [
+    "Jiránek",
+    "Martin Jiránek",
+    "cz"
+   ],
+   [
+    "Johnson",
+    "Roger Johnson",
+    "gb-eng"
+   ],
+   [
+    "Carr",
+    "Stephen Carr",
+    "ie"
+   ],
+   [
+    "Ferguson",
+    "Barry Ferguson",
+    "gb-sct"
+   ],
+   [
+    "Fahey",
+    "Keith Fahey",
+    "ie"
+   ],
+   [
+    "Bowyer",
+    "Lee Bowyer",
+    "gb-eng"
+   ],
+   [
+    "Gardner",
+    "Craig Gardner",
+    "gb-eng"
+   ],
+   [
+    "Larsson",
+    "Sebastian Larsson",
+    "se"
+   ],
+   [
+    "Žigić",
+    "Nikola Žigić",
+    "rs"
+   ]
+  ]
  }
 ]
