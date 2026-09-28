@@ -1,0 +1,555 @@
+[
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Arsenal",
+  "score": "0-0",
+  "comp": "Liga Evrope, grupna faza",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Bod na Emirejtsu: Arsenal prvi put posle 20 meseci bez gola u Evropi",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#ef0107",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Borjan",
+    "Milan Borjan",
+    "ca"
+   ],
+   [
+    "Gobeljić",
+    "Nemanja Gobeljić",
+    "rs"
+   ],
+   [
+    "Savić",
+    "Vujadin Savić",
+    "rs"
+   ],
+   [
+    "Le Tallec",
+    "Damien Le Tallec",
+    "fr"
+   ],
+   [
+    "Stojković",
+    "Filip Stojković",
+    "me"
+   ],
+   [
+    "Krstičić",
+    "Nenad Krstičić",
+    "rs"
+   ],
+   [
+    "Donald",
+    "Mitchell Donald",
+    "sr"
+   ],
+   [
+    "Radonjić",
+    "Nemanja Radonjić",
+    "rs"
+   ],
+   [
+    "Kanga",
+    "Guélor Kanga",
+    "ga"
+   ],
+   [
+    "Srnić",
+    "Slavoljub Srnić",
+    "rs"
+   ],
+   [
+    "Boakye",
+    "Richmond Boakye",
+    "gh"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Liverpul",
+  "score": "2-0",
+  "comp": "Liga šampiona, grupna faza",
+  "season": "2018/19",
+  "y": 2018,
+  "note": "Dva gola u sedam minuta prvog poluvremena srušila aktuelnog finalistu LŠ",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Borjan",
+    "Milan Borjan",
+    "ca"
+   ],
+   [
+    "Rodić",
+    "Milan Rodić",
+    "rs"
+   ],
+   [
+    "Degenek",
+    "Miloš Degenek",
+    "au"
+   ],
+   [
+    "Savić",
+    "Vujadin Savić",
+    "rs"
+   ],
+   [
+    "Stojković",
+    "Filip Stojković",
+    "me"
+   ],
+   [
+    "Krstičić",
+    "Nenad Krstičić",
+    "rs"
+   ],
+   [
+    "Jovančić",
+    "Dušan Jovančić",
+    "rs"
+   ],
+   [
+    "Ben",
+    "El Fardou Ben Nabouhane",
+    "km"
+   ],
+   [
+    "Marin",
+    "Marko Marin",
+    "de"
+   ],
+   [
+    "Srnić",
+    "Slavoljub Srnić",
+    "rs"
+   ],
+   [
+    "Pavkov",
+    "Milan Pavkov",
+    "rs"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Olimpijakos",
+  "score": "3-1",
+  "comp": "Liga šampiona, grupna faza",
+  "season": "2019/20",
+  "y": 2019,
+  "note": "Preokret posle 0:1 na poluvremenu, prva pobeda u grupi sa Bajernom i Totenhemom",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Borjan",
+    "Milan Borjan",
+    "ca"
+   ],
+   [
+    "Rodić",
+    "Milan Rodić",
+    "rs"
+   ],
+   [
+    "Milunović",
+    "Nemanja Milunović",
+    "rs"
+   ],
+   [
+    "Degenek",
+    "Miloš Degenek",
+    "au"
+   ],
+   [
+    "Gobeljić",
+    "Nemanja Gobeljić",
+    "rs"
+   ],
+   [
+    "Jovančić",
+    "Dušan Jovančić",
+    "rs"
+   ],
+   [
+    "Cañas",
+    "José Cañas",
+    "es"
+   ],
+   [
+    "Van La Parra",
+    "Rajiv van La Parra",
+    "nl"
+   ],
+   [
+    "Marin",
+    "Marko Marin",
+    "de"
+   ],
+   [
+    "García",
+    "Mateo García",
+    "ar"
+   ],
+   [
+    "Tomané",
+    "Tomané",
+    "pt"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Milan",
+  "score": "2-2",
+  "comp": "Liga Evrope, šesnaestina finala",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Izjednačenje glavom u nadoknadi, Milan prošao dalje tek zbog golova u gostima",
+  "form": "3-4-2-1",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#fb090b",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Borjan",
+    "Milan Borjan",
+    "ca"
+   ],
+   [
+    "Milunović",
+    "Nemanja Milunović",
+    "rs"
+   ],
+   [
+    "Pankov",
+    "Radovan Pankov",
+    "rs"
+   ],
+   [
+    "Degenek",
+    "Miloš Degenek",
+    "au"
+   ],
+   [
+    "Rodić",
+    "Milan Rodić",
+    "rs"
+   ],
+   [
+    "Petrović",
+    "Njegoš Petrović",
+    "rs"
+   ],
+   [
+    "Kanga",
+    "Guélor Kanga",
+    "ga"
+   ],
+   [
+    "Gobeljić",
+    "Nemanja Gobeljić",
+    "rs"
+   ],
+   [
+    "Ivanić",
+    "Mirko Ivanić",
+    "me"
+   ],
+   [
+    "Ben",
+    "El Fardou Ben Nabouhane",
+    "km"
+   ],
+   [
+    "Falcinelli",
+    "Diego Falcinelli",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Braga",
+  "score": "2-1",
+  "comp": "Liga Evrope, grupna faza",
+  "season": "2021/22",
+  "y": 2021,
+  "note": "Start grupe koju je Zvezda osvojila ispred Brage, Midtjilanda i Ludogoreca",
+  "form": "4-1-4-1",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "sleeves",
+   "#d6001c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Borjan",
+    "Milan Borjan",
+    "ca"
+   ],
+   [
+    "Rodić",
+    "Milan Rodić",
+    "rs"
+   ],
+   [
+    "Degenek",
+    "Miloš Degenek",
+    "au"
+   ],
+   [
+    "Dragović",
+    "Aleksandar Dragović",
+    "at"
+   ],
+   [
+    "Gobeljić",
+    "Nemanja Gobeljić",
+    "rs"
+   ],
+   [
+    "Sanogo",
+    "Sékou Sanogo",
+    "ci"
+   ],
+   [
+    "Katai",
+    "Aleksandar Katai",
+    "rs"
+   ],
+   [
+    "Ivanić",
+    "Mirko Ivanić",
+    "me"
+   ],
+   [
+    "Kanga",
+    "Guélor Kanga",
+    "ga"
+   ],
+   [
+    "Ben",
+    "El Fardou Ben Nabouhane",
+    "km"
+   ],
+   [
+    "Živković",
+    "Richairo Živković",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Jang Bojs",
+  "score": "2-2",
+  "comp": "Liga šampiona, grupna faza",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Prvi bod u grupi sa Mančester Sitijem, Lajpcigom i Jang Bojsom",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffd700",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Glazer",
+    "Omri Glazer",
+    "il"
+   ],
+   [
+    "Rodić",
+    "Milan Rodić",
+    "rs"
+   ],
+   [
+    "Dragović",
+    "Aleksandar Dragović",
+    "at"
+   ],
+   [
+    "Điga",
+    "Nasser Djiga",
+    "bf"
+   ],
+   [
+    "Mijailović",
+    "Srđan Mijailović",
+    "rs"
+   ],
+   [
+    "Hwang",
+    "Hwang In-beom",
+    "kr"
+   ],
+   [
+    "Stamenić",
+    "Marko Stamenić",
+    "nz"
+   ],
+   [
+    "Mitrović",
+    "Stefan Mitrović",
+    "rs"
+   ],
+   [
+    "Ivanić",
+    "Mirko Ivanić",
+    "me"
+   ],
+   [
+    "Bukari",
+    "Osman Bukari",
+    "gh"
+   ],
+   [
+    "Ndiaye",
+    "Cherif Ndiaye",
+    "sn"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "srb",
+  "team": "Crvena zvezda",
+  "opp": "Štutgart",
+  "score": "5-1",
+  "comp": "Liga šampiona, liga faza",
+  "season": "2024/25",
+  "y": 2024,
+  "note": "Prva pobeda u novom formatu LŠ, preokret posle ranog gola Nemaca",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#ffffff"
+  ],
+  "okit": [
+   "band",
+   "#ffffff",
+   "#e32219"
+  ],
+  "p": [
+   [
+    "Guteša",
+    "Ivan Guteša",
+    "rs"
+   ],
+   [
+    "Seol",
+    "Seol Young-woo",
+    "kr"
+   ],
+   [
+    "Spajić",
+    "Uroš Spajić",
+    "rs"
+   ],
+   [
+    "Điga",
+    "Nasser Djiga",
+    "bf"
+   ],
+   [
+    "Mimović",
+    "Ognjen Mimović",
+    "rs"
+   ],
+   [
+    "Elšnik",
+    "Timi Max Elšnik",
+    "si"
+   ],
+   [
+    "Krunić",
+    "Rade Krunić",
+    "ba"
+   ],
+   [
+    "Milson",
+    "Milson",
+    "ao"
+   ],
+   [
+    "Maksimović",
+    "Andrija Maksimović",
+    "rs"
+   ],
+   [
+    "Silas",
+    "Silas Katompa Mvumpa",
+    "cd"
+   ],
+   [
+    "Ndiaye",
+    "Cherif Ndiaye",
+    "sn"
+   ]
+  ]
+ }
+]

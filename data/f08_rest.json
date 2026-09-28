@@ -1,0 +1,871 @@
+[
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Corinthians",
+  "opp": "Boca Juniors",
+  "score": "2-0",
+  "comp": "Kopa Libertadores, finale, revanš",
+  "season": "2012",
+  "y": 2012,
+  "note": "Titova ekipa osvaja prvu Libertadores u istoriji kluba, bez ijednog poraza",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "band",
+   "#0a3a8c",
+   "#f7c600"
+  ],
+  "p": [
+   [
+    "Cássio",
+    "Cássio",
+    "br"
+   ],
+   [
+    "Fábio Santos",
+    "Fábio Santos",
+    "br"
+   ],
+   [
+    "Leandro Castán",
+    "Leandro Castán",
+    "br"
+   ],
+   [
+    "Chicão",
+    "Chicão",
+    "br"
+   ],
+   [
+    "Alessandro",
+    "Alessandro",
+    "br"
+   ],
+   [
+    "Ralf",
+    "Ralf",
+    "br"
+   ],
+   [
+    "Paulinho",
+    "Paulinho",
+    "br"
+   ],
+   [
+    "Danilo",
+    "Danilo",
+    "br"
+   ],
+   [
+    "Alex",
+    "Alex",
+    "br"
+   ],
+   [
+    "Jorge Henrique",
+    "Jorge Henrique",
+    "br"
+   ],
+   [
+    "Emerson",
+    "Emerson Sheik",
+    "qa"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Santos",
+  "opp": "Peñarol",
+  "score": "2-1",
+  "comp": "Kopa Libertadores, finale, revanš",
+  "season": "2011",
+  "y": 2011,
+  "note": "Santos posle 48 godina ponovo prvak Južne Amerike, treća titula u istoriji",
+  "form": "4-3-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#fcd116",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Rafael",
+    "Rafael Cabral",
+    "br"
+   ],
+   [
+    "Léo",
+    "Léo",
+    "br"
+   ],
+   [
+    "Durval",
+    "Durval",
+    "br"
+   ],
+   [
+    "Edu Dracena",
+    "Edu Dracena",
+    "br"
+   ],
+   [
+    "Danilo",
+    "Danilo",
+    "br"
+   ],
+   [
+    "Arouca",
+    "Arouca",
+    "br"
+   ],
+   [
+    "Adriano",
+    "Adriano",
+    "br"
+   ],
+   [
+    "Elano",
+    "Elano",
+    "br"
+   ],
+   [
+    "Ganso",
+    "Paulo Henrique Ganso",
+    "br"
+   ],
+   [
+    "Neymar",
+    "Neymar",
+    "br"
+   ],
+   [
+    "Zé Love",
+    "Zé Love",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Flamengo",
+  "opp": "River Plate",
+  "score": "2-1",
+  "comp": "Finale Kopa Libertadores",
+  "season": "2019",
+  "y": 2019,
+  "note": "Preokret u poslednjim minutima u Limi: prva titula Flamenga posle 38 godina",
+  "form": "4-4-2",
+  "kit": [
+   "hoops",
+   "#c8102e",
+   "#000000"
+  ],
+  "okit": [
+   "sash",
+   "#ffffff",
+   "#e30613"
+  ],
+  "p": [
+   [
+    "Diego Alves",
+    "Diego Alves",
+    "br"
+   ],
+   [
+    "Filipe Luís",
+    "Filipe Luís",
+    "br"
+   ],
+   [
+    "Pablo Marí",
+    "Pablo Marí",
+    "es"
+   ],
+   [
+    "Rodrigo Caio",
+    "Rodrigo Caio",
+    "br"
+   ],
+   [
+    "Rafinha",
+    "Rafinha",
+    "br"
+   ],
+   [
+    "Arrascaeta",
+    "Giorgian de Arrascaeta",
+    "uy"
+   ],
+   [
+    "Gerson",
+    "Gerson",
+    "br"
+   ],
+   [
+    "Willian Arão",
+    "Willian Arão",
+    "br"
+   ],
+   [
+    "Éverton Ribeiro",
+    "Éverton Ribeiro",
+    "br"
+   ],
+   [
+    "Bruno Henrique",
+    "Bruno Henrique",
+    "br"
+   ],
+   [
+    "Gabigol",
+    "Gabriel Barbosa",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "River Plate",
+  "opp": "Boca Juniors",
+  "score": "3-1 prod.",
+  "comp": "Kopa Libertadores, finale, revanš",
+  "season": "2018",
+  "y": 2018,
+  "note": "Jedino finale Libertadores između Rivera i Boke, odigrano u Madridu na Bernabeuu",
+  "form": "4-4-2",
+  "kit": [
+   "sash",
+   "#ffffff",
+   "#e30613"
+  ],
+  "okit": [
+   "band",
+   "#0a3a8c",
+   "#f7c600"
+  ],
+  "p": [
+   [
+    "Armani",
+    "Franco Armani",
+    "ar"
+   ],
+   [
+    "Casco",
+    "Milton Casco",
+    "ar"
+   ],
+   [
+    "Pinola",
+    "Javier Pinola",
+    "ar"
+   ],
+   [
+    "Maidana",
+    "Jonatan Maidana",
+    "ar"
+   ],
+   [
+    "Montiel",
+    "Gonzalo Montiel",
+    "ar"
+   ],
+   [
+    "Palacios",
+    "Exequiel Palacios",
+    "ar"
+   ],
+   [
+    "Pérez",
+    "Enzo Pérez",
+    "ar"
+   ],
+   [
+    "Ponzio",
+    "Leonardo Ponzio",
+    "ar"
+   ],
+   [
+    "Fernández",
+    "Ignacio Fernández",
+    "ar"
+   ],
+   [
+    "Martínez",
+    "Gonzalo Martínez",
+    "ar"
+   ],
+   [
+    "Pratto",
+    "Lucas Pratto",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Boca Juniors",
+  "opp": "River Plate",
+  "score": "1-3 prod.",
+  "comp": "Kopa Libertadores, finale, revanš",
+  "season": "2018",
+  "y": 2018,
+  "note": "Superklasiko u Madridu: Boka povela, pa izgubila u produžecima sa igračem manje",
+  "form": "4-3-3",
+  "kit": [
+   "band",
+   "#0a3a8c",
+   "#f7c600"
+  ],
+  "okit": [
+   "sash",
+   "#ffffff",
+   "#e30613"
+  ],
+  "p": [
+   [
+    "Andrada",
+    "Esteban Andrada",
+    "ar"
+   ],
+   [
+    "Olaza",
+    "Lucas Olaza",
+    "uy"
+   ],
+   [
+    "Magallán",
+    "Lisandro Magallán",
+    "ar"
+   ],
+   [
+    "Izquierdoz",
+    "Carlos Izquierdoz",
+    "ar"
+   ],
+   [
+    "Buffarini",
+    "Julio Buffarini",
+    "ar"
+   ],
+   [
+    "Pérez",
+    "Pablo Pérez",
+    "ar"
+   ],
+   [
+    "Barrios",
+    "Wilmar Barrios",
+    "co"
+   ],
+   [
+    "Nández",
+    "Nahitan Nández",
+    "uy"
+   ],
+   [
+    "Villa",
+    "Sebastián Villa",
+    "co"
+   ],
+   [
+    "Benedetto",
+    "Darío Benedetto",
+    "ar"
+   ],
+   [
+    "Pavón",
+    "Cristian Pavón",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Nacional",
+  "opp": "Independiente del Valle",
+  "score": "1-0",
+  "comp": "Kopa Libertadores, finale, revanš",
+  "season": "2016",
+  "y": 2016,
+  "note": "Druga Libertadores Nacionala, 27 godina posle prve; rekordnih 33 boda u takmičenju",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#00843d",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#1c4fa0"
+  ],
+  "p": [
+   [
+    "Armani",
+    "Franco Armani",
+    "ar"
+   ],
+   [
+    "Díaz",
+    "Farid Díaz",
+    "co"
+   ],
+   [
+    "Henríquez",
+    "Alexis Henríquez",
+    "co"
+   ],
+   [
+    "Sánchez",
+    "Davinson Sánchez",
+    "co"
+   ],
+   [
+    "Bocanegra",
+    "Daniel Bocanegra",
+    "co"
+   ],
+   [
+    "Mejía",
+    "Alexander Mejía",
+    "co"
+   ],
+   [
+    "Guerra",
+    "Alejandro Guerra",
+    "ve"
+   ],
+   [
+    "Moreno",
+    "Marlos Moreno",
+    "co"
+   ],
+   [
+    "Macnelly",
+    "Macnelly Torres",
+    "co"
+   ],
+   [
+    "Berrío",
+    "Orlando Berrío",
+    "co"
+   ],
+   [
+    "Borja",
+    "Miguel Borja",
+    "co"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Palmeiras",
+  "opp": "Santos",
+  "score": "1-0",
+  "comp": "Finale Kopa Libertadores",
+  "season": "2020",
+  "y": 2021,
+  "note": "Gol u 99. minutu brazilskog finala na Marakani, prva titula Abela Ferejre",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#006437",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Weverton",
+    "Weverton",
+    "br"
+   ],
+   [
+    "Viña",
+    "Matías Viña",
+    "uy"
+   ],
+   [
+    "Gómez",
+    "Gustavo Gómez",
+    "py"
+   ],
+   [
+    "Luan",
+    "Luan",
+    "br"
+   ],
+   [
+    "Marcos Rocha",
+    "Marcos Rocha",
+    "br"
+   ],
+   [
+    "Veiga",
+    "Raphael Veiga",
+    "br"
+   ],
+   [
+    "Danilo",
+    "Danilo",
+    "br"
+   ],
+   [
+    "Zé Rafael",
+    "Zé Rafael",
+    "br"
+   ],
+   [
+    "Menino",
+    "Gabriel Menino",
+    "br"
+   ],
+   [
+    "Rony",
+    "Rony",
+    "br"
+   ],
+   [
+    "Luiz Adriano",
+    "Luiz Adriano",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Flamengo",
+  "opp": "Athletico Paranaense",
+  "score": "1-0",
+  "comp": "Finale Kopa Libertadores",
+  "season": "2022",
+  "y": 2022,
+  "note": "Treća Libertadores Flamenga, Dorival Žunior slavi u Gvajakilu",
+  "form": "4-2-2-2",
+  "kit": [
+   "hoops",
+   "#c8102e",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#c8102e",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Santos",
+    "Santos",
+    "br"
+   ],
+   [
+    "Filipe Luís",
+    "Filipe Luís",
+    "br"
+   ],
+   [
+    "Léo Pereira",
+    "Léo Pereira",
+    "br"
+   ],
+   [
+    "David Luiz",
+    "David Luiz",
+    "br"
+   ],
+   [
+    "Rodinei",
+    "Rodinei",
+    "br"
+   ],
+   [
+    "João Gomes",
+    "João Gomes",
+    "br"
+   ],
+   [
+    "Thiago Maia",
+    "Thiago Maia",
+    "br"
+   ],
+   [
+    "Arrascaeta",
+    "Giorgian de Arrascaeta",
+    "uy"
+   ],
+   [
+    "Éverton Ribeiro",
+    "Éverton Ribeiro",
+    "br"
+   ],
+   [
+    "Pedro",
+    "Pedro",
+    "br"
+   ],
+   [
+    "Gabigol",
+    "Gabriel Barbosa",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Fluminense",
+  "opp": "Boca Juniors",
+  "score": "2-1 prod.",
+  "comp": "Finale Kopa Libertadores",
+  "season": "2023",
+  "y": 2023,
+  "note": "Prva Libertadores u istoriji Fluminensea, odlučujući gol u produžecima",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#8b1538",
+   "#00613c"
+  ],
+  "okit": [
+   "band",
+   "#0a3a8c",
+   "#f7c600"
+  ],
+  "p": [
+   [
+    "Fábio",
+    "Fábio",
+    "br"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Felipe Melo",
+    "Felipe Melo",
+    "br"
+   ],
+   [
+    "Nino",
+    "Nino",
+    "br"
+   ],
+   [
+    "Samuel Xavier",
+    "Samuel Xavier",
+    "br"
+   ],
+   [
+    "André",
+    "André",
+    "br"
+   ],
+   [
+    "Martinelli",
+    "Martinelli",
+    "br"
+   ],
+   [
+    "Keno",
+    "Keno",
+    "br"
+   ],
+   [
+    "Ganso",
+    "Paulo Henrique Ganso",
+    "br"
+   ],
+   [
+    "Arias",
+    "Jhon Arias",
+    "co"
+   ],
+   [
+    "Cano",
+    "Germán Cano",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Botafogo",
+  "opp": "Atlético Mineiro",
+  "score": "3-1",
+  "comp": "Finale Kopa Libertadores",
+  "season": "2024",
+  "y": 2024,
+  "note": "Igrač manje od 1. minuta, a ipak prva Libertadores u istoriji kluba",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "John",
+    "John",
+    "br"
+   ],
+   [
+    "Alex Telles",
+    "Alex Telles",
+    "br"
+   ],
+   [
+    "Barboza",
+    "Alexander Barboza",
+    "ar"
+   ],
+   [
+    "Adryelson",
+    "Adryelson",
+    "br"
+   ],
+   [
+    "Vitinho",
+    "Vitinho",
+    "br"
+   ],
+   [
+    "Gregore",
+    "Gregore",
+    "br"
+   ],
+   [
+    "Marlon Freitas",
+    "Marlon Freitas",
+    "br"
+   ],
+   [
+    "Luiz Henrique",
+    "Luiz Henrique",
+    "br"
+   ],
+   [
+    "Almada",
+    "Thiago Almada",
+    "ar"
+   ],
+   [
+    "Savarino",
+    "Jefferson Savarino",
+    "ve"
+   ],
+   [
+    "Igor Jesus",
+    "Igor Jesus",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Grêmio",
+  "opp": "Lanús",
+  "score": "2-1",
+  "comp": "Kopa Libertadores, finale, revanš",
+  "season": "2017",
+  "y": 2017,
+  "note": "Treća Libertadores Grêmija; Portaluppi je osvaja i kao igrač i kao trener",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#0d80bf",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#7b1e2b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Grohe",
+    "Marcelo Grohe",
+    "br"
+   ],
+   [
+    "Cortez",
+    "Bruno Cortez",
+    "br"
+   ],
+   [
+    "Bressan",
+    "Bressan",
+    "br"
+   ],
+   [
+    "Geromel",
+    "Pedro Geromel",
+    "br"
+   ],
+   [
+    "Edílson",
+    "Edílson",
+    "br"
+   ],
+   [
+    "Jailson",
+    "Jailson",
+    "br"
+   ],
+   [
+    "Arthur",
+    "Arthur",
+    "br"
+   ],
+   [
+    "Fernandinho",
+    "Fernandinho",
+    "br"
+   ],
+   [
+    "Luan",
+    "Luan",
+    "br"
+   ],
+   [
+    "Ramiro",
+    "Ramiro",
+    "br"
+   ],
+   [
+    "Barrios",
+    "Lucas Barrios",
+    "py"
+   ]
+  ]
+ }
+]
