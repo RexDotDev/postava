@@ -1,2 +1,5 @@
 __pycache__/
 .DS_Store
+node_modules/
+# built locally for the claude.ai Artifact; the site uses index.html + data.<hash>.json
+artifact.html

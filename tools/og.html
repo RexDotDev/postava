@@ -1,0 +1,45 @@
+<!doctype html>
+<!-- Source for og.png (1200x630) and the PNG icons. Render with: node tools/make_images.mjs -->
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<style>
+/*FONTS*/
+*{box-sizing:border-box;margin:0}
+body{width:1200px;height:630px;overflow:hidden;background:#0e1110;color:#f2f1ec;font-family:Archivo,sans-serif;display:flex;align-items:center;gap:64px;padding:0 80px}
+.txt{flex:1}
+h1{font:800 168px/.88 Archivo,sans-serif;font-stretch:72%;letter-spacing:.04em;text-transform:uppercase}
+.tag{font-weight:600;font-size:44px;margin-top:24px;line-height:1.1}
+.sub{font-weight:400;font-size:28px;color:#9ba39d;margin-top:16px;line-height:1.35}
+.dash{display:inline-flex;gap:7px;margin-top:34px}
+.dash b{width:34px;height:5px;border-radius:2px;background:#f2f1ec}
+.pitch{position:relative;width:390px;height:520px;border-radius:12px;overflow:hidden;box-shadow:0 30px 70px -20px rgba(0,0,0,.8)}
+.pitch::after{content:"";position:absolute;inset:0;background:radial-gradient(ellipse 80% 55% at 50% 42%,rgba(255,255,240,.07),transparent 70%),radial-gradient(ellipse 120% 90% at 50% 50%,transparent 55%,rgba(0,0,0,.38))}
+.pitch svg.bg{position:absolute;inset:0;width:100%;height:100%}
+.pl{position:absolute;z-index:1;transform:translate(-50%,-50%);display:flex;flex-direction:column;align-items:center;gap:6px}
+.pl svg{width:58px;height:58px;filter:drop-shadow(0 3px 2px rgba(0,0,0,.4))}
+.pl .t{display:flex;gap:2px;background:rgba(10,13,12,.84);border-radius:4px;padding:5px 7px}
+.pl .t i{width:6px;height:2px;background:#f2f1ec;border-radius:1px}
+.pl.ok .t{background:#2f8a55;font:600 15px Archivo;padding:1px 8px}
+</style></head><body>
+<div class="txt">
+  <h1>Squads</h1>
+  <p class="tag">Guess the starting lineup</p>
+  <p class="sub">Real matches, real starting XIs.<br>Football and basketball.</p>
+  <div class="dash"><b></b><b></b><b></b><b></b><b></b><b></b></div>
+</div>
+<div class="pitch" id="pitch"></div>
+<script>
+const TEE='M31 9 L41 4 Q50 11 59 4 L69 9 L93 23 L84 42 L74 37 L74 95 L26 95 L26 37 L16 42 L7 23 Z';
+let bg='<svg class="bg" viewBox="0 0 75 100" preserveAspectRatio="none">';
+for(let i=0;i<10;i++)bg+=`<rect y="${i*10}" width="75" height="10" fill="${i%2?'#1b4c2c':'#1f5532'}"/>`;
+bg+='<g fill="none" stroke="rgba(255,255,255,.7)" stroke-width=".45"><rect x="3" y="3" width="69" height="94"/><line x1="3" y1="50" x2="72" y2="50"/><circle cx="37.5" cy="50" r="8"/><rect x="18" y="3" width="39" height="15"/><rect x="18" y="82" width="39" height="15"/></g></svg>';
+const spots=[[50,88,6],[16,68,7],[38,71,5],[62,71,8],[84,68,6],[24,48,5],[50,51,9],[76,48,6],[20,22,8],[50,18,5],[80,22,7]];
+let h=bg;
+spots.forEach(([x,y,n],k)=>{
+  const shirt=`<svg viewBox="0 0 100 100"><path d="${TEE}" fill="#c8102e" stroke="#0b0e0d" stroke-width="3.2" stroke-linejoin="round"/></svg>`;
+  const tag = k===6 ? '<span class="t">SOLVED</span>' : `<span class="t">${'<i></i>'.repeat(n)}</span>`;
+  h+=`<div class="pl${k===6?' ok':''}" style="left:${x}%;top:${y}%">${shirt}${tag}</div>`;
+});
+document.getElementById('pitch').innerHTML=h;
+</script>
+</body></html>

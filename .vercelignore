@@ -1,0 +1,7 @@
+# Only the built site is served: index.html, data.<hash>.json, flags/, icons, og.png, site.webmanifest
+data/
+tools/
+*.py
+*.md
+src.html
+artifact.html
