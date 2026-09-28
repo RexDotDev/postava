@@ -59,4 +59,3 @@ Verification sources that work without scraping match-report sites:
 - Extend f11_srb_clubs.json toward 45 (needs web access for pre-2012 and domestic cup matches).
 - More EuroLeague games: `python3 tools/gen_euroleague.py --write` (raise PER_SEASON). Check nationality: the feed reports passports, so naturalized national-team players need CC_OVERRIDE.
 - Spot-check left/right order in a few lineups (formation and side are sometimes inferred; player identity is not).
-- Choose a license before or right after the repository goes public (README says all rights reserved until then).
