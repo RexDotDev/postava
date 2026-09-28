@@ -1,7 +1,7 @@
-# POSTAVA — handoff
+# SQUADS — handoff (repo: postava)
 
-Wordle-style "guess the starting lineup" game (like playfootball.games/missing-11), Serbian Latin UI.
-Football from 2009 (clubs, national teams, Zvezda/Partizan/Vojvodina, Serbia), basketball from 2012 (NBA, EuroLeague, Serbia NT + Serbian clubs).
+Wordle-style "guess the starting lineup" game (like playfootball.games/missing-11), called **Squads**. UI and all data text (comp, note, team names) are in English.
+Football from 2009 (clubs, national teams, Red Star/Partizan/Vojvodina, Serbia), basketball from 2012 (NBA, Serbia NT + Serbian clubs) and EuroLeague 2019–2025.
 Goal: 500+ football lineups + ~155 basketball.
 
 ## Files

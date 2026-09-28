@@ -364,7 +364,7 @@ function renderPanel() {
   $('#mini').innerHTML = kit(e.kit, e.sport === 'bb') + flagImg(g, e.p[i][2]);
   $('#pos').textContent = posName(e, i);
   $('#plen').style.setProperty('--n', len);
-  $('#plen').innerHTML = `<span class="sr">${len} letters</span>${dash(len)}<span>try ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}</span>`;
+  $('#plen').innerHTML = `<span class="sr">${len} letters</span>${dash(len)}<span>guess ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}</span>`;
   renderBoard();
   const ans = $('#answer');
   ans.hidden = st === 'open';
