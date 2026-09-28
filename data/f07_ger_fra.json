@@ -1,0 +1,4347 @@
+[
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Dortmund",
+  "opp": "Bayern Munich",
+  "score": "5-2",
+  "comp": "Finale Kupa Nemačke",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Klopov Dortmund osvaja prvu duplu krunu u istoriji kluba",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#fde100",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Weidenfeller",
+    "Roman Weidenfeller",
+    "de"
+   ],
+   [
+    "Schmelzer",
+    "Marcel Schmelzer",
+    "de"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Subotić",
+    "Neven Subotić",
+    "rs"
+   ],
+   [
+    "Piszczek",
+    "Łukasz Piszczek",
+    "pl"
+   ],
+   [
+    "Kehl",
+    "Sebastian Kehl",
+    "de"
+   ],
+   [
+    "Gündoğan",
+    "İlkay Gündoğan",
+    "de"
+   ],
+   [
+    "Großkreutz",
+    "Kevin Großkreutz",
+    "de"
+   ],
+   [
+    "Kagawa",
+    "Shinji Kagawa",
+    "jp"
+   ],
+   [
+    "Błaszczykowski",
+    "Jakub Błaszczykowski",
+    "pl"
+   ],
+   [
+    "Lewandowski",
+    "Robert Lewandowski",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Dortmund",
+  "opp": "Nürnberg",
+  "score": "2-0",
+  "comp": "Bundesliga, 32. kolo",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Titula osigurana dva kola pre kraja, prva posle devet godina",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#fde100",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#aa1124",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Weidenfeller",
+    "Roman Weidenfeller",
+    "de"
+   ],
+   [
+    "Schmelzer",
+    "Marcel Schmelzer",
+    "de"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Subotić",
+    "Neven Subotić",
+    "rs"
+   ],
+   [
+    "Piszczek",
+    "Łukasz Piszczek",
+    "pl"
+   ],
+   [
+    "Bender",
+    "Sven Bender",
+    "de"
+   ],
+   [
+    "Da Silva",
+    "Antônio da Silva",
+    "br"
+   ],
+   [
+    "Großkreutz",
+    "Kevin Großkreutz",
+    "de"
+   ],
+   [
+    "Lewandowski",
+    "Robert Lewandowski",
+    "pl"
+   ],
+   [
+    "Götze",
+    "Mario Götze",
+    "de"
+   ],
+   [
+    "Barrios",
+    "Lucas Barrios",
+    "py"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Dortmund",
+  "opp": "Bayern Munich",
+  "score": "0-2 prod.",
+  "comp": "Finale Kupa Nemačke",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Fantomski gol: lopta prešla liniju posle udarca glavom, sudija nije priznao",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#fde100",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Weidenfeller",
+    "Roman Weidenfeller",
+    "de"
+   ],
+   [
+    "Schmelzer",
+    "Marcel Schmelzer",
+    "de"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Sokratis",
+    "Sokratis Papastathopoulos",
+    "gr"
+   ],
+   [
+    "Piszczek",
+    "Łukasz Piszczek",
+    "pl"
+   ],
+   [
+    "Şahin",
+    "Nuri Şahin",
+    "tr"
+   ],
+   [
+    "Jojić",
+    "Miloš Jojić",
+    "rs"
+   ],
+   [
+    "Reus",
+    "Marco Reus",
+    "de"
+   ],
+   [
+    "Mkhitaryan",
+    "Henrikh Mkhitaryan",
+    "am"
+   ],
+   [
+    "Großkreutz",
+    "Kevin Großkreutz",
+    "de"
+   ],
+   [
+    "Lewandowski",
+    "Robert Lewandowski",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Dortmund",
+  "opp": "RB Leipzig",
+  "score": "4-1",
+  "comp": "Finale Kupa Nemačke",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Edin Terzić, navijač sa tribina, osvaja trofej kao privremeni trener",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#fde100",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#dd0741"
+  ],
+  "p": [
+   [
+    "Bürki",
+    "Roman Bürki",
+    "ch"
+   ],
+   [
+    "Guerreiro",
+    "Raphaël Guerreiro",
+    "pt"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Akanji",
+    "Manuel Akanji",
+    "ch"
+   ],
+   [
+    "Piszczek",
+    "Łukasz Piszczek",
+    "pl"
+   ],
+   [
+    "Dahoud",
+    "Mahmoud Dahoud",
+    "de"
+   ],
+   [
+    "Can",
+    "Emre Can",
+    "de"
+   ],
+   [
+    "Bellingham",
+    "Jude Bellingham",
+    "gb-eng"
+   ],
+   [
+    "Sancho",
+    "Jadon Sancho",
+    "gb-eng"
+   ],
+   [
+    "Haaland",
+    "Erling Haaland",
+    "no"
+   ],
+   [
+    "Reus",
+    "Marco Reus",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayern Munich",
+  "opp": "Werder Bremen",
+  "score": "4-0",
+  "comp": "Finale Kupa Nemačke",
+  "season": "2009/10",
+  "y": 2010,
+  "note": "Van Galov Bajern osvaja duplu krunu, nedelju dana pred finale Lige šampiona",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1d9053",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Butt",
+    "Jörg Butt",
+    "de"
+   ],
+   [
+    "Badstuber",
+    "Holger Badstuber",
+    "de"
+   ],
+   [
+    "Demichelis",
+    "Martín Demichelis",
+    "ar"
+   ],
+   [
+    "Van Buyten",
+    "Daniel Van Buyten",
+    "be"
+   ],
+   [
+    "Lahm",
+    "Philipp Lahm",
+    "de"
+   ],
+   [
+    "Schweinsteiger",
+    "Bastian Schweinsteiger",
+    "de"
+   ],
+   [
+    "Van Bommel",
+    "Mark van Bommel",
+    "nl"
+   ],
+   [
+    "Ribéry",
+    "Franck Ribéry",
+    "fr"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ],
+   [
+    "Robben",
+    "Arjen Robben",
+    "nl"
+   ],
+   [
+    "Olić",
+    "Ivica Olić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayern Munich",
+  "opp": "Stuttgart",
+  "score": "3-2",
+  "comp": "Finale Kupa Nemačke",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "Hajnkesov Bajern kompletira prvu trostruku krunu u istoriji nemačkog fudbala",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "band",
+   "#ffffff",
+   "#e32219"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Alaba",
+    "David Alaba",
+    "at"
+   ],
+   [
+    "Boateng",
+    "Jérôme Boateng",
+    "de"
+   ],
+   [
+    "Van Buyten",
+    "Daniel Van Buyten",
+    "be"
+   ],
+   [
+    "Lahm",
+    "Philipp Lahm",
+    "de"
+   ],
+   [
+    "Schweinsteiger",
+    "Bastian Schweinsteiger",
+    "de"
+   ],
+   [
+    "Javi Martínez",
+    "Javi Martínez",
+    "es"
+   ],
+   [
+    "Ribéry",
+    "Franck Ribéry",
+    "fr"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ],
+   [
+    "Robben",
+    "Arjen Robben",
+    "nl"
+   ],
+   [
+    "Gomez",
+    "Mario Gomez",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayern Munich",
+  "opp": "Bayer Leverkusen",
+  "score": "4-2",
+  "comp": "Finale Kupa Nemačke",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Flikov Bajern osvaja duplu krunu u finalu odigranom pred praznim tribinama",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Davies",
+    "Alphonso Davies",
+    "ca"
+   ],
+   [
+    "Alaba",
+    "David Alaba",
+    "at"
+   ],
+   [
+    "Boateng",
+    "Jérôme Boateng",
+    "de"
+   ],
+   [
+    "Pavard",
+    "Benjamin Pavard",
+    "fr"
+   ],
+   [
+    "Goretzka",
+    "Leon Goretzka",
+    "de"
+   ],
+   [
+    "Kimmich",
+    "Joshua Kimmich",
+    "de"
+   ],
+   [
+    "Coman",
+    "Kingsley Coman",
+    "fr"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ],
+   [
+    "Gnabry",
+    "Serge Gnabry",
+    "de"
+   ],
+   [
+    "Lewandowski",
+    "Robert Lewandowski",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Eintracht Frankfurt",
+  "opp": "Bayern Munich",
+  "score": "3-1",
+  "comp": "Finale Kupa Nemačke",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Kovač pobeđuje klub koji ga je već angažovao kao novog trenera",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#000000",
+   "#e1000f"
+  ],
+  "okit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Hrádecký",
+    "Lukáš Hrádecký",
+    "fi"
+   ],
+   [
+    "Willems",
+    "Jetro Willems",
+    "nl"
+   ],
+   [
+    "Salcedo",
+    "Carlos Salcedo",
+    "mx"
+   ],
+   [
+    "Abraham",
+    "David Abraham",
+    "ar"
+   ],
+   [
+    "Da Costa",
+    "Danny da Costa",
+    "de"
+   ],
+   [
+    "De Guzmán",
+    "Jonathan de Guzmán",
+    "nl"
+   ],
+   [
+    "Hasebe",
+    "Makoto Hasebe",
+    "jp"
+   ],
+   [
+    "Mascarell",
+    "Omar Mascarell",
+    "es"
+   ],
+   [
+    "Rebić",
+    "Ante Rebić",
+    "hr"
+   ],
+   [
+    "Boateng",
+    "Kevin-Prince Boateng",
+    "gh"
+   ],
+   [
+    "Wolf",
+    "Marius Wolf",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Schalke 04",
+  "opp": "Duisburg",
+  "score": "5-0",
+  "comp": "Finale Kupa Nemačke",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Rangnik se vratio na klupu u martu i odmah osvojio Kup protiv drugoligaša",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#004d9d",
+   "#ffffff"
+  ],
+  "okit": [
+   "hoops",
+   "#004b9c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Sarpei",
+    "Hans Sarpei",
+    "gh"
+   ],
+   [
+    "Metzelder",
+    "Christoph Metzelder",
+    "de"
+   ],
+   [
+    "Papadopoulos",
+    "Kyriakos Papadopoulos",
+    "gr"
+   ],
+   [
+    "Höwedes",
+    "Benedikt Höwedes",
+    "de"
+   ],
+   [
+    "Draxler",
+    "Julian Draxler",
+    "de"
+   ],
+   [
+    "Kluge",
+    "Peer Kluge",
+    "de"
+   ],
+   [
+    "Jurado",
+    "José Manuel Jurado",
+    "es"
+   ],
+   [
+    "Farfán",
+    "Jefferson Farfán",
+    "pe"
+   ],
+   [
+    "Raúl",
+    "Raúl",
+    "es"
+   ],
+   [
+    "Huntelaar",
+    "Klaas-Jan Huntelaar",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Wolfsburg",
+  "opp": "Werder Bremen",
+  "score": "5-1",
+  "comp": "Bundesliga, 34. kolo",
+  "season": "2008/09",
+  "y": 2009,
+  "note": "Magatov Volfsburg osvaja prvu titulu u istoriji kluba",
+  "form": "4-1-2-1-2",
+  "kit": [
+   "solid",
+   "#65b32e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#1d9053",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Benaglio",
+    "Diego Benaglio",
+    "ch"
+   ],
+   [
+    "Schäfer",
+    "Marcel Schäfer",
+    "de"
+   ],
+   [
+    "Madlung",
+    "Alexander Madlung",
+    "de"
+   ],
+   [
+    "Barzagli",
+    "Andrea Barzagli",
+    "it"
+   ],
+   [
+    "Riether",
+    "Sascha Riether",
+    "de"
+   ],
+   [
+    "Josué",
+    "Josué",
+    "br"
+   ],
+   [
+    "Gentner",
+    "Christian Gentner",
+    "de"
+   ],
+   [
+    "Hasebe",
+    "Makoto Hasebe",
+    "jp"
+   ],
+   [
+    "Misimović",
+    "Zvjezdan Misimović",
+    "ba"
+   ],
+   [
+    "Džeko",
+    "Edin Džeko",
+    "ba"
+   ],
+   [
+    "Grafite",
+    "Grafite",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayer Leverkusen",
+  "opp": "Borussia Mönchengladbach",
+  "score": "5-0",
+  "comp": "Bundesliga, 16. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Šmitov presing razbio Gladbah, koji je te sezone igrao Ligu šampiona",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Leno",
+    "Bernd Leno",
+    "de"
+   ],
+   [
+    "Wendell",
+    "Wendell",
+    "br"
+   ],
+   [
+    "Toprak",
+    "Ömer Toprak",
+    "tr"
+   ],
+   [
+    "Tah",
+    "Jonathan Tah",
+    "de"
+   ],
+   [
+    "Hilbert",
+    "Roberto Hilbert",
+    "de"
+   ],
+   [
+    "Çalhanoğlu",
+    "Hakan Çalhanoğlu",
+    "tr"
+   ],
+   [
+    "Kampl",
+    "Kevin Kampl",
+    "si"
+   ],
+   [
+    "Kramer",
+    "Christoph Kramer",
+    "de"
+   ],
+   [
+    "Bellarabi",
+    "Karim Bellarabi",
+    "de"
+   ],
+   [
+    "Kießling",
+    "Stefan Kießling",
+    "de"
+   ],
+   [
+    "Chicharito",
+    "Javier Hernández",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayern Munich",
+  "opp": "Bayer Leverkusen",
+  "score": "3-0",
+  "comp": "Bundesliga, 3. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Gvardiolina poslednja sezona u Minhenu, četvrta uzastopna titula Bajerna",
+  "form": "3-5-1-1",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Neuer",
+    "Manuel Neuer",
+    "de"
+   ],
+   [
+    "Bernat",
+    "Juan Bernat",
+    "es"
+   ],
+   [
+    "Alaba",
+    "David Alaba",
+    "at"
+   ],
+   [
+    "Lahm",
+    "Philipp Lahm",
+    "de"
+   ],
+   [
+    "Douglas Costa",
+    "Douglas Costa",
+    "br"
+   ],
+   [
+    "Thiago",
+    "Thiago Alcântara",
+    "es"
+   ],
+   [
+    "Xabi Alonso",
+    "Xabi Alonso",
+    "es"
+   ],
+   [
+    "Vidal",
+    "Arturo Vidal",
+    "cl"
+   ],
+   [
+    "Robben",
+    "Arjen Robben",
+    "nl"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ],
+   [
+    "Lewandowski",
+    "Robert Lewandowski",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Dortmund",
+  "opp": "Bayer Leverkusen",
+  "score": "1-0",
+  "comp": "Bundesliga, 22. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Rodžer Šmit odbio da ode na tribine, sudija prekinuo meč na desetak minuta",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#fde100",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Bürki",
+    "Roman Bürki",
+    "ch"
+   ],
+   [
+    "Durm",
+    "Erik Durm",
+    "de"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Sokratis",
+    "Sokratis Papastathopoulos",
+    "gr"
+   ],
+   [
+    "Piszczek",
+    "Łukasz Piszczek",
+    "pl"
+   ],
+   [
+    "Leitner",
+    "Moritz Leitner",
+    "de"
+   ],
+   [
+    "Bender",
+    "Sven Bender",
+    "de"
+   ],
+   [
+    "Ginter",
+    "Matthias Ginter",
+    "de"
+   ],
+   [
+    "Pulisic",
+    "Christian Pulisic",
+    "us"
+   ],
+   [
+    "Aubameyang",
+    "Pierre-Emerick Aubameyang",
+    "ga"
+   ],
+   [
+    "Mkhitaryan",
+    "Henrikh Mkhitaryan",
+    "am"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Mönchengladbach",
+  "opp": "Bayer Leverkusen",
+  "score": "2-1",
+  "comp": "Bundesliga, 33. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Andre Šubert preuzeo tim posle pet poraza na startu i doveo ga do 4. mesta",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Sommer",
+    "Yann Sommer",
+    "ch"
+   ],
+   [
+    "Nordtveit",
+    "Håvard Nordtveit",
+    "no"
+   ],
+   [
+    "Christensen",
+    "Andreas Christensen",
+    "dk"
+   ],
+   [
+    "Elvedi",
+    "Nico Elvedi",
+    "ch"
+   ],
+   [
+    "Wendt",
+    "Oscar Wendt",
+    "se"
+   ],
+   [
+    "Xhaka",
+    "Granit Xhaka",
+    "ch"
+   ],
+   [
+    "Dahoud",
+    "Mahmoud Dahoud",
+    "de"
+   ],
+   [
+    "Traoré",
+    "Ibrahima Traoré",
+    "gn"
+   ],
+   [
+    "Stindl",
+    "Lars Stindl",
+    "de"
+   ],
+   [
+    "Raffael",
+    "Raffael",
+    "br"
+   ],
+   [
+    "Hahn",
+    "André Hahn",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Wolfsburg",
+  "opp": "Bayer Leverkusen",
+  "score": "2-1",
+  "comp": "Bundesliga, 11. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Vicešampion iz prethodne sezone, sada bez prodatog De Brojnea",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#65b32e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Benaglio",
+    "Diego Benaglio",
+    "ch"
+   ],
+   [
+    "Rodríguez",
+    "Ricardo Rodríguez",
+    "ch"
+   ],
+   [
+    "Klose",
+    "Timm Klose",
+    "ch"
+   ],
+   [
+    "Naldo",
+    "Naldo",
+    "br"
+   ],
+   [
+    "Jung",
+    "Sebastian Jung",
+    "de"
+   ],
+   [
+    "Luiz Gustavo",
+    "Luiz Gustavo",
+    "br"
+   ],
+   [
+    "Arnold",
+    "Maximilian Arnold",
+    "de"
+   ],
+   [
+    "Caligiuri",
+    "Daniel Caligiuri",
+    "de"
+   ],
+   [
+    "Schürrle",
+    "André Schürrle",
+    "de"
+   ],
+   [
+    "Vieirinha",
+    "Vieirinha",
+    "pt"
+   ],
+   [
+    "Bendtner",
+    "Nicklas Bendtner",
+    "dk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Werder Bremen",
+  "opp": "Bayer Leverkusen",
+  "score": "4-1",
+  "comp": "Bundesliga, 24. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Skripnikov Verder, u borbi za opstanak, deklasirao Leverkuzen na njegovom terenu",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#1d9053",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Wiedwald",
+    "Felix Wiedwald",
+    "de"
+   ],
+   [
+    "García",
+    "Santiago García",
+    "ar"
+   ],
+   [
+    "Djilobodji",
+    "Papy Djilobodji",
+    "sn"
+   ],
+   [
+    "Vestergaard",
+    "Jannik Vestergaard",
+    "dk"
+   ],
+   [
+    "Gebre Selassie",
+    "Theodor Gebre Selassie",
+    "cz"
+   ],
+   [
+    "Grillitsch",
+    "Florian Grillitsch",
+    "at"
+   ],
+   [
+    "Bartels",
+    "Fin Bartels",
+    "de"
+   ],
+   [
+    "Junuzović",
+    "Zlatko Junuzović",
+    "at"
+   ],
+   [
+    "Fritz",
+    "Clemens Fritz",
+    "de"
+   ],
+   [
+    "Öztunalı",
+    "Levin Öztunalı",
+    "de"
+   ],
+   [
+    "Pizarro",
+    "Claudio Pizarro",
+    "pe"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Mainz 05",
+  "opp": "Bayer Leverkusen",
+  "score": "3-1",
+  "comp": "Bundesliga, 23. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Majnc Martina Šmita završio sezonu na 6. mestu i izborio Ligu Evrope",
+  "form": "4-4-1-1",
+  "kit": [
+   "solid",
+   "#c3141e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Karius",
+    "Loris Karius",
+    "de"
+   ],
+   [
+    "Bussmann",
+    "Gaëtan Bussmann",
+    "fr"
+   ],
+   [
+    "Bungert",
+    "Niko Bungert",
+    "de"
+   ],
+   [
+    "Balogun",
+    "Leon Balogun",
+    "ng"
+   ],
+   [
+    "Donati",
+    "Giulio Donati",
+    "it"
+   ],
+   [
+    "Jairo",
+    "Jairo Samperio",
+    "es"
+   ],
+   [
+    "Frei",
+    "Fabian Frei",
+    "ch"
+   ],
+   [
+    "Baumgartlinger",
+    "Julian Baumgartlinger",
+    "at"
+   ],
+   [
+    "De Blasis",
+    "Pablo De Blasis",
+    "ar"
+   ],
+   [
+    "Mallı",
+    "Yunus Mallı",
+    "tr"
+   ],
+   [
+    "Córdoba",
+    "Jhon Córdoba",
+    "co"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Schalke 04",
+  "opp": "Bayer Leverkusen",
+  "score": "1-1",
+  "comp": "Bundesliga, 14. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Brajtenrajterov Šalke sa talentima iz čuvene omladinske škole",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#004d9d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Fährmann",
+    "Ralf Fährmann",
+    "de"
+   ],
+   [
+    "Aogo",
+    "Dennis Aogo",
+    "de"
+   ],
+   [
+    "Matip",
+    "Joël Matip",
+    "cm"
+   ],
+   [
+    "Höwedes",
+    "Benedikt Höwedes",
+    "de"
+   ],
+   [
+    "Riether",
+    "Sascha Riether",
+    "de"
+   ],
+   [
+    "Højbjerg",
+    "Pierre-Emile Højbjerg",
+    "dk"
+   ],
+   [
+    "Goretzka",
+    "Leon Goretzka",
+    "de"
+   ],
+   [
+    "Choupo-Moting",
+    "Eric Maxim Choupo-Moting",
+    "cm"
+   ],
+   [
+    "Meyer",
+    "Max Meyer",
+    "de"
+   ],
+   [
+    "Sané",
+    "Leroy Sané",
+    "de"
+   ],
+   [
+    "Huntelaar",
+    "Klaas-Jan Huntelaar",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Köln",
+  "opp": "Bayer Leverkusen",
+  "score": "2-1",
+  "comp": "Bundesliga, 12. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Rajnski derbi: Štegerov Keln slavi u Leverkuzenu",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#ed1c24"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Horn",
+    "Timo Horn",
+    "de"
+   ],
+   [
+    "Hector",
+    "Jonas Hector",
+    "de"
+   ],
+   [
+    "Heintz",
+    "Dominique Heintz",
+    "de"
+   ],
+   [
+    "Maroh",
+    "Dominik Maroh",
+    "si"
+   ],
+   [
+    "Risse",
+    "Marcel Risse",
+    "de"
+   ],
+   [
+    "Bittencourt",
+    "Leonardo Bittencourt",
+    "de"
+   ],
+   [
+    "Vogt",
+    "Kevin Vogt",
+    "de"
+   ],
+   [
+    "Lehmann",
+    "Matthias Lehmann",
+    "de"
+   ],
+   [
+    "Ōsako",
+    "Yūya Ōsako",
+    "jp"
+   ],
+   [
+    "Modeste",
+    "Anthony Modeste",
+    "fr"
+   ],
+   [
+    "Hosiner",
+    "Philipp Hosiner",
+    "at"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayer Leverkusen",
+  "opp": "Bayern Munich",
+  "score": "3-0",
+  "comp": "Bundesliga, 21. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Alonsov Leverkuzen na putu do prve titule bez ijednog poraza u prvenstvu",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Hrádecký",
+    "Lukáš Hrádecký",
+    "fi"
+   ],
+   [
+    "Hincapié",
+    "Piero Hincapié",
+    "ec"
+   ],
+   [
+    "Tah",
+    "Jonathan Tah",
+    "de"
+   ],
+   [
+    "Tapsoba",
+    "Edmond Tapsoba",
+    "bf"
+   ],
+   [
+    "Grimaldo",
+    "Álex Grimaldo",
+    "es"
+   ],
+   [
+    "Andrich",
+    "Robert Andrich",
+    "de"
+   ],
+   [
+    "Xhaka",
+    "Granit Xhaka",
+    "ch"
+   ],
+   [
+    "Stanišić",
+    "Josip Stanišić",
+    "hr"
+   ],
+   [
+    "Adli",
+    "Amine Adli",
+    "ma"
+   ],
+   [
+    "Tella",
+    "Nathan Tella",
+    "ng"
+   ],
+   [
+    "Wirtz",
+    "Florian Wirtz",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bayern Munich",
+  "opp": "Bayer Leverkusen",
+  "score": "2-2",
+  "comp": "Bundesliga, 4. kolo",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Tuhelov Bajern prvi put gubi bodove u sezoni u kojoj je prekinut niz od 11 titula",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#dc052d",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Ulreich",
+    "Sven Ulreich",
+    "de"
+   ],
+   [
+    "Davies",
+    "Alphonso Davies",
+    "ca"
+   ],
+   [
+    "Kim",
+    "Kim Min-jae",
+    "kr"
+   ],
+   [
+    "Upamecano",
+    "Dayot Upamecano",
+    "fr"
+   ],
+   [
+    "Laimer",
+    "Konrad Laimer",
+    "at"
+   ],
+   [
+    "Goretzka",
+    "Leon Goretzka",
+    "de"
+   ],
+   [
+    "Kimmich",
+    "Joshua Kimmich",
+    "de"
+   ],
+   [
+    "Gnabry",
+    "Serge Gnabry",
+    "de"
+   ],
+   [
+    "Müller",
+    "Thomas Müller",
+    "de"
+   ],
+   [
+    "Sané",
+    "Leroy Sané",
+    "de"
+   ],
+   [
+    "Kane",
+    "Harry Kane",
+    "gb-eng"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Dortmund",
+  "opp": "Bayer Leverkusen",
+  "score": "1-1",
+  "comp": "Bundesliga, 30. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Leverkuzen izjednačio u 97. minutu i sačuvao seriju bez poraza",
+  "form": "4-5-1",
+  "kit": [
+   "solid",
+   "#fde100",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Kobel",
+    "Gregor Kobel",
+    "ch"
+   ],
+   [
+    "Maatsen",
+    "Ian Maatsen",
+    "nl"
+   ],
+   [
+    "Schlotterbeck",
+    "Nico Schlotterbeck",
+    "de"
+   ],
+   [
+    "Hummels",
+    "Mats Hummels",
+    "de"
+   ],
+   [
+    "Ryerson",
+    "Julian Ryerson",
+    "no"
+   ],
+   [
+    "Bynoe-Gittens",
+    "Jamie Bynoe-Gittens",
+    "gb-eng"
+   ],
+   [
+    "Brandt",
+    "Julian Brandt",
+    "de"
+   ],
+   [
+    "Can",
+    "Emre Can",
+    "de"
+   ],
+   [
+    "Sabitzer",
+    "Marcel Sabitzer",
+    "at"
+   ],
+   [
+    "Sancho",
+    "Jadon Sancho",
+    "gb-eng"
+   ],
+   [
+    "Füllkrug",
+    "Niclas Füllkrug",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Stuttgart",
+  "opp": "Bayer Leverkusen",
+  "score": "2-2",
+  "comp": "Bundesliga, 31. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Henesov Štutgart završio sezonu kao vicešampion, ispred Bajerna",
+  "form": "4-2-2-2",
+  "kit": [
+   "band",
+   "#ffffff",
+   "#e32219"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Nübel",
+    "Alexander Nübel",
+    "de"
+   ],
+   [
+    "Mittelstädt",
+    "Maximilian Mittelstädt",
+    "de"
+   ],
+   [
+    "Ito",
+    "Hiroki Ito",
+    "jp"
+   ],
+   [
+    "Anton",
+    "Waldemar Anton",
+    "de"
+   ],
+   [
+    "Stergiou",
+    "Leonidas Stergiou",
+    "ch"
+   ],
+   [
+    "Millot",
+    "Enzo Millot",
+    "fr"
+   ],
+   [
+    "Karazor",
+    "Atakan Karazor",
+    "de"
+   ],
+   [
+    "Führich",
+    "Chris Führich",
+    "de"
+   ],
+   [
+    "Leweling",
+    "Jamie Leweling",
+    "de"
+   ],
+   [
+    "Guirassy",
+    "Serhou Guirassy",
+    "gn"
+   ],
+   [
+    "Undav",
+    "Deniz Undav",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "RB Leipzig",
+  "opp": "Bayer Leverkusen",
+  "score": "2-3",
+  "comp": "Bundesliga, 18. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Lajpcig Marka Rozea protiv budućeg nepobeđenog šampiona",
+  "form": "4-2-2-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#dd0741"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Blaswich",
+    "Janis Blaswich",
+    "de"
+   ],
+   [
+    "Raum",
+    "David Raum",
+    "de"
+   ],
+   [
+    "Lukeba",
+    "Castello Lukeba",
+    "fr"
+   ],
+   [
+    "Klostermann",
+    "Lukas Klostermann",
+    "de"
+   ],
+   [
+    "Simakan",
+    "Mohamed Simakan",
+    "fr"
+   ],
+   [
+    "Schlager",
+    "Xaver Schlager",
+    "at"
+   ],
+   [
+    "Seiwald",
+    "Nicolas Seiwald",
+    "at"
+   ],
+   [
+    "Olmo",
+    "Dani Olmo",
+    "es"
+   ],
+   [
+    "Simons",
+    "Xavi Simons",
+    "nl"
+   ],
+   [
+    "Openda",
+    "Loïs Openda",
+    "be"
+   ],
+   [
+    "Šeško",
+    "Benjamin Šeško",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Union Berlin",
+  "opp": "Bayer Leverkusen",
+  "score": "0-1",
+  "comp": "Bundesliga, 28. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Union sa Nenadom Bjelicom na klupi, sezonu posle debija u Ligi šampiona",
+  "form": "3-5-1-1",
+  "kit": [
+   "solid",
+   "#eb1923",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Rønnow",
+    "Frederik Rønnow",
+    "dk"
+   ],
+   [
+    "Leite",
+    "Diogo Leite",
+    "pt"
+   ],
+   [
+    "Vogt",
+    "Kevin Vogt",
+    "de"
+   ],
+   [
+    "Doekhi",
+    "Danilho Doekhi",
+    "nl"
+   ],
+   [
+    "Gosens",
+    "Robin Gosens",
+    "de"
+   ],
+   [
+    "Schäfer",
+    "András Schäfer",
+    "hu"
+   ],
+   [
+    "Khedira",
+    "Rani Khedira",
+    "de"
+   ],
+   [
+    "Tousart",
+    "Lucas Tousart",
+    "fr"
+   ],
+   [
+    "Trimmel",
+    "Christopher Trimmel",
+    "at"
+   ],
+   [
+    "Aaronson",
+    "Brenden Aaronson",
+    "us"
+   ],
+   [
+    "Vertessen",
+    "Yorbe Vertessen",
+    "be"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Hoffenheim",
+  "opp": "Bayer Leverkusen",
+  "score": "2-3",
+  "comp": "Bundesliga, 10. kolo",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Mataracov Hofenhajm završio sezonu na 7. mestu i izborio Evropu",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#1961b5",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Baumann",
+    "Oliver Baumann",
+    "de"
+   ],
+   [
+    "Akpoguma",
+    "Kevin Akpoguma",
+    "ng"
+   ],
+   [
+    "Vogt",
+    "Kevin Vogt",
+    "de"
+   ],
+   [
+    "Kabak",
+    "Ozan Kabak",
+    "tr"
+   ],
+   [
+    "Bülter",
+    "Marius Bülter",
+    "de"
+   ],
+   [
+    "Prömel",
+    "Grischa Prömel",
+    "de"
+   ],
+   [
+    "Stach",
+    "Anton Stach",
+    "de"
+   ],
+   [
+    "Becker",
+    "Finn Ole Becker",
+    "de"
+   ],
+   [
+    "Skov",
+    "Robert Skov",
+    "dk"
+   ],
+   [
+    "Beier",
+    "Maximilian Beier",
+    "de"
+   ],
+   [
+    "Weghorst",
+    "Wout Weghorst",
+    "nl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Freiburg",
+  "opp": "Bayer Leverkusen",
+  "score": "2-3",
+  "comp": "Bundesliga, 26. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Poslednja sezona Kristijana Štrajha posle 12 godina na klupi Frajburga",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Atubolu",
+    "Noah Atubolu",
+    "de"
+   ],
+   [
+    "Gulde",
+    "Manuel Gulde",
+    "de"
+   ],
+   [
+    "Ginter",
+    "Matthias Ginter",
+    "de"
+   ],
+   [
+    "Sildillia",
+    "Kiliann Sildillia",
+    "fr"
+   ],
+   [
+    "Günter",
+    "Christian Günter",
+    "de"
+   ],
+   [
+    "Röhl",
+    "Merlin Röhl",
+    "de"
+   ],
+   [
+    "Höfler",
+    "Nicolas Höfler",
+    "de"
+   ],
+   [
+    "Doan",
+    "Ritsu Doan",
+    "jp"
+   ],
+   [
+    "Grifo",
+    "Vincenzo Grifo",
+    "it"
+   ],
+   [
+    "Sallai",
+    "Roland Sallai",
+    "hu"
+   ],
+   [
+    "Höler",
+    "Lucas Höler",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Borussia Mönchengladbach",
+  "opp": "Bayer Leverkusen",
+  "score": "0-0",
+  "comp": "Bundesliga, 19. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Gladbah Gerarda Seoanea zaustavio lidera na BajArena",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#e32221",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Nicolas",
+    "Moritz Nicolas",
+    "de"
+   ],
+   [
+    "Elvedi",
+    "Nico Elvedi",
+    "ch"
+   ],
+   [
+    "Friedrich",
+    "Marvin Friedrich",
+    "de"
+   ],
+   [
+    "Scally",
+    "Joe Scally",
+    "us"
+   ],
+   [
+    "Netz",
+    "Luca Netz",
+    "de"
+   ],
+   [
+    "Neuhaus",
+    "Florian Neuhaus",
+    "de"
+   ],
+   [
+    "Weigl",
+    "Julian Weigl",
+    "de"
+   ],
+   [
+    "Koné",
+    "Manu Koné",
+    "fr"
+   ],
+   [
+    "Honorat",
+    "Franck Honorat",
+    "fr"
+   ],
+   [
+    "Hack",
+    "Robin Hack",
+    "de"
+   ],
+   [
+    "Siebatcheu",
+    "Jordan Siebatcheu",
+    "us"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Paris Saint-Germain",
+  "opp": "Troyes",
+  "score": "9-0",
+  "comp": "Liga 1, 30. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Rekordna pobeda i titula osigurana osam kola pre kraja",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "okit": [
+   "solid",
+   "#1b4f9c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Trapp",
+    "Kevin Trapp",
+    "de"
+   ],
+   [
+    "Kurzawa",
+    "Layvin Kurzawa",
+    "fr"
+   ],
+   [
+    "David Luiz",
+    "David Luiz",
+    "br"
+   ],
+   [
+    "Thiago Silva",
+    "Thiago Silva",
+    "br"
+   ],
+   [
+    "Van der Wiel",
+    "Gregory van der Wiel",
+    "nl"
+   ],
+   [
+    "Rabiot",
+    "Adrien Rabiot",
+    "fr"
+   ],
+   [
+    "Stambouli",
+    "Benjamin Stambouli",
+    "fr"
+   ],
+   [
+    "Pastore",
+    "Javier Pastore",
+    "ar"
+   ],
+   [
+    "Cavani",
+    "Edinson Cavani",
+    "uy"
+   ],
+   [
+    "Ibrahimović",
+    "Zlatan Ibrahimović",
+    "se"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lyon",
+  "opp": "Paris Saint-Germain",
+  "score": "2-1",
+  "comp": "Liga 1, 28. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Kraj serije PSŽ-a od 36 prvenstvenih utakmica bez poraza",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1b3b8b"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Lopes",
+    "Anthony Lopes",
+    "pt"
+   ],
+   [
+    "Bedimo",
+    "Henri Bedimo",
+    "cm"
+   ],
+   [
+    "Morel",
+    "Jérémy Morel",
+    "mg"
+   ],
+   [
+    "Yanga-Mbiwa",
+    "Mapou Yanga-Mbiwa",
+    "fr"
+   ],
+   [
+    "Rafael",
+    "Rafael da Silva",
+    "br"
+   ],
+   [
+    "Darder",
+    "Sergi Darder",
+    "es"
+   ],
+   [
+    "Gonalons",
+    "Maxime Gonalons",
+    "fr"
+   ],
+   [
+    "Ferri",
+    "Jordan Ferri",
+    "fr"
+   ],
+   [
+    "Cornet",
+    "Maxwel Cornet",
+    "ci"
+   ],
+   [
+    "Lacazette",
+    "Alexandre Lacazette",
+    "fr"
+   ],
+   [
+    "Ghezzal",
+    "Rachid Ghezzal",
+    "dz"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Nice",
+  "opp": "Bordeaux",
+  "score": "6-1",
+  "comp": "Liga 1, 7. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Nica Kloda Pijela završila sezonu na 4. mestu",
+  "form": "4-1-2-1-2",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#000000"
+  ],
+  "okit": [
+   "chevron",
+   "#1b1f3b",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Hassen",
+    "Mouez Hassen",
+    "tn"
+   ],
+   [
+    "Ricardo Pereira",
+    "Ricardo Pereira",
+    "pt"
+   ],
+   [
+    "Boscagli",
+    "Olivier Boscagli",
+    "fr"
+   ],
+   [
+    "Bodmer",
+    "Mathieu Bodmer",
+    "fr"
+   ],
+   [
+    "Pied",
+    "Jérémy Pied",
+    "fr"
+   ],
+   [
+    "Mendy",
+    "Nampalys Mendy",
+    "sn"
+   ],
+   [
+    "Seri",
+    "Jean Michaël Seri",
+    "ci"
+   ],
+   [
+    "Koziello",
+    "Vincent Koziello",
+    "fr"
+   ],
+   [
+    "Ben Arfa",
+    "Hatem Ben Arfa",
+    "fr"
+   ],
+   [
+    "Le Bihan",
+    "Mickaël Le Bihan",
+    "fr"
+   ],
+   [
+    "Germain",
+    "Valère Germain",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Monaco",
+  "opp": "Paris Saint-Germain",
+  "score": "2-0",
+  "comp": "Liga 1, 31. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Žardimov Monako nanosi PSŽ-u tek drugi prvenstveni poraz u sezoni",
+  "form": "3-4-3",
+  "kit": [
+   "halves",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Subašić",
+    "Danijel Subašić",
+    "hr"
+   ],
+   [
+    "Raggi",
+    "Andrea Raggi",
+    "it"
+   ],
+   [
+    "Carvalho",
+    "Ricardo Carvalho",
+    "pt"
+   ],
+   [
+    "Jemerson",
+    "Jemerson",
+    "br"
+   ],
+   [
+    "Echiejile",
+    "Elderson Echiejile",
+    "ng"
+   ],
+   [
+    "Bakayoko",
+    "Tiemoué Bakayoko",
+    "fr"
+   ],
+   [
+    "Toulalan",
+    "Jérémy Toulalan",
+    "fr"
+   ],
+   [
+    "Fabinho",
+    "Fabinho",
+    "br"
+   ],
+   [
+    "Lemar",
+    "Thomas Lemar",
+    "fr"
+   ],
+   [
+    "Vágner Love",
+    "Vágner Love",
+    "br"
+   ],
+   [
+    "Mbappé",
+    "Kylian Mbappé",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Marseille",
+  "opp": "Troyes",
+  "score": "6-0",
+  "comp": "Liga 1, 3. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Marsej se oporavio od šoka posle ostavke Bjelse nakon prvog kola",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#2faee0"
+  ],
+  "okit": [
+   "solid",
+   "#1b4f9c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Mandanda",
+    "Steve Mandanda",
+    "fr"
+   ],
+   [
+    "Mendy",
+    "Benjamin Mendy",
+    "fr"
+   ],
+   [
+    "Rekik",
+    "Karim Rekik",
+    "nl"
+   ],
+   [
+    "N'Koulou",
+    "Nicolas N'Koulou",
+    "cm"
+   ],
+   [
+    "Manquillo",
+    "Javi Manquillo",
+    "es"
+   ],
+   [
+    "Barrada",
+    "Abdelaziz Barrada",
+    "ma"
+   ],
+   [
+    "Diarra",
+    "Lassana Diarra",
+    "fr"
+   ],
+   [
+    "Lemina",
+    "Mario Lemina",
+    "ga"
+   ],
+   [
+    "Cabella",
+    "Rémy Cabella",
+    "fr"
+   ],
+   [
+    "Batshuayi",
+    "Michy Batshuayi",
+    "be"
+   ],
+   [
+    "Alessandrini",
+    "Romain Alessandrini",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Saint-Étienne",
+  "opp": "Lyon",
+  "score": "1-0",
+  "comp": "Liga 1, 21. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Galtjeov Sent Etjen dobija derbi protiv Liona",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#009a44",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1b3b8b"
+  ],
+  "p": [
+   [
+    "Ruffier",
+    "Stéphane Ruffier",
+    "fr"
+   ],
+   [
+    "Polomat",
+    "Pierre-Yves Polomat",
+    "fr"
+   ],
+   [
+    "Pogba",
+    "Florentin Pogba",
+    "gn"
+   ],
+   [
+    "Sall",
+    "Moustapha Sall",
+    "sn"
+   ],
+   [
+    "Théophile-Catherine",
+    "Kévin Théophile-Catherine",
+    "fr"
+   ],
+   [
+    "Pajot",
+    "Vincent Pajot",
+    "fr"
+   ],
+   [
+    "Lemoine",
+    "Fabien Lemoine",
+    "fr"
+   ],
+   [
+    "Bahebeck",
+    "Jean-Christophe Bahebeck",
+    "fr"
+   ],
+   [
+    "Corgnet",
+    "Benjamin Corgnet",
+    "fr"
+   ],
+   [
+    "Monnet-Paquet",
+    "Kévin Monnet-Paquet",
+    "fr"
+   ],
+   [
+    "Søderlund",
+    "Alexander Søderlund",
+    "no"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lille",
+  "opp": "Monaco",
+  "score": "4-1",
+  "comp": "Liga 1, 33. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Antonetijev Lil posle loše jeseni završio sezonu na 5. mestu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#e01e13",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "halves",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Enyeama",
+    "Vincent Enyeama",
+    "ng"
+   ],
+   [
+    "Sidibé",
+    "Djibril Sidibé",
+    "fr"
+   ],
+   [
+    "Baša",
+    "Marko Baša",
+    "me"
+   ],
+   [
+    "Civelli",
+    "Renato Civelli",
+    "ar"
+   ],
+   [
+    "Corchia",
+    "Sébastien Corchia",
+    "fr"
+   ],
+   [
+    "Obbadi",
+    "Mounir Obbadi",
+    "ma"
+   ],
+   [
+    "Amadou",
+    "Ibrahim Amadou",
+    "fr"
+   ],
+   [
+    "Balmont",
+    "Florent Balmont",
+    "fr"
+   ],
+   [
+    "Boufal",
+    "Sofiane Boufal",
+    "ma"
+   ],
+   [
+    "Éder",
+    "Éder",
+    "pt"
+   ],
+   [
+    "Amalfitano",
+    "Morgan Amalfitano",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Toulouse",
+  "opp": "Angers",
+  "score": "3-2",
+  "comp": "Liga 1, 38. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Tuluz se spasao ispadanja pobedom u poslednjem kolu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#5b2a86",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lafont",
+    "Alban Lafont",
+    "fr"
+   ],
+   [
+    "Moubandje",
+    "François Moubandje",
+    "ch"
+   ],
+   [
+    "Tisserand",
+    "Marcel Tisserand",
+    "cd"
+   ],
+   [
+    "Diop",
+    "Issa Diop",
+    "fr"
+   ],
+   [
+    "Yago",
+    "Steeve Yago",
+    "bf"
+   ],
+   [
+    "Kana-Biyik",
+    "Jean-Armel Kana-Biyik",
+    "cm"
+   ],
+   [
+    "Didot",
+    "Étienne Didot",
+    "fr"
+   ],
+   [
+    "Braithwaite",
+    "Martin Braithwaite",
+    "dk"
+   ],
+   [
+    "Somália",
+    "Somália",
+    "br"
+   ],
+   [
+    "Regattin",
+    "Adrien Regattin",
+    "ma"
+   ],
+   [
+    "Ben Yedder",
+    "Wissam Ben Yedder",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Bordeaux",
+  "opp": "Lyon",
+  "score": "3-1",
+  "comp": "Liga 1, 8. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Bordo Vilija Sanjola slavi protiv Liona na novom stadionu",
+  "form": "4-2-3-1",
+  "kit": [
+   "chevron",
+   "#1b1f3b",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#1b3b8b"
+  ],
+  "p": [
+   [
+    "Carrasso",
+    "Cédric Carrasso",
+    "fr"
+   ],
+   [
+    "Poundjé",
+    "Maxime Poundjé",
+    "fr"
+   ],
+   [
+    "Pallois",
+    "Nicolas Pallois",
+    "fr"
+   ],
+   [
+    "Pablo",
+    "Pablo",
+    "br"
+   ],
+   [
+    "Gajić",
+    "Milan Gajić",
+    "rs"
+   ],
+   [
+    "Chantôme",
+    "Clément Chantôme",
+    "fr"
+   ],
+   [
+    "Saivet",
+    "Henri Saivet",
+    "sn"
+   ],
+   [
+    "Maurice-Belay",
+    "Nicolas Maurice-Belay",
+    "fr"
+   ],
+   [
+    "Plašil",
+    "Jaroslav Plašil",
+    "cz"
+   ],
+   [
+    "Khazri",
+    "Wahbi Khazri",
+    "tn"
+   ],
+   [
+    "Rolán",
+    "Diego Rolán",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Angers",
+  "opp": "Lorient",
+  "score": "5-1",
+  "comp": "Liga 1, 31. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Anže se vratio u elitu posle 21 godine i završio sezonu u gornjoj polovini",
+  "form": "4-1-4-1",
+  "kit": [
+   "stripes",
+   "#000000",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#f47c20",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Letellier",
+    "Alexandre Letellier",
+    "fr"
+   ],
+   [
+    "Andreu",
+    "Yoann Andreu",
+    "fr"
+   ],
+   [
+    "Thomas",
+    "Romain Thomas",
+    "fr"
+   ],
+   [
+    "Traoré",
+    "Ismaël Traoré",
+    "ci"
+   ],
+   [
+    "Manceau",
+    "Vincent Manceau",
+    "fr"
+   ],
+   [
+    "Saïss",
+    "Romain Saïss",
+    "ma"
+   ],
+   [
+    "Sunu",
+    "Gilles Sunu",
+    "tg"
+   ],
+   [
+    "Mangani",
+    "Thomas Mangani",
+    "fr"
+   ],
+   [
+    "N'Doye",
+    "Cheikh N'Doye",
+    "sn"
+   ],
+   [
+    "Capelle",
+    "Pierrick Capelle",
+    "fr"
+   ],
+   [
+    "Ketkeophomphone",
+    "Billy Ketkeophomphone",
+    "la"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Guingamp",
+  "opp": "Troyes",
+  "score": "4-0",
+  "comp": "Liga 1, 24. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Mali klub iz Bretanje, osvajač Kupa Francuske 2014",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#e30613",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#1b4f9c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Lössl",
+    "Jonas Lössl",
+    "dk"
+   ],
+   [
+    "Lévêque",
+    "Dorian Lévêque",
+    "fr"
+   ],
+   [
+    "Sorbon",
+    "Jérémy Sorbon",
+    "fr"
+   ],
+   [
+    "Kerbrat",
+    "Christophe Kerbrat",
+    "fr"
+   ],
+   [
+    "Martins-Pereira",
+    "Jonathan Martins-Pereira",
+    "fr"
+   ],
+   [
+    "Giresse",
+    "Thibault Giresse",
+    "fr"
+   ],
+   [
+    "Sankharé",
+    "Younousse Sankharé",
+    "sn"
+   ],
+   [
+    "Mathis",
+    "Lionel Mathis",
+    "fr"
+   ],
+   [
+    "Salibur",
+    "Yannis Salibur",
+    "fr"
+   ],
+   [
+    "Erdinç",
+    "Mevlüt Erdinç",
+    "tr"
+   ],
+   [
+    "Briand",
+    "Jimmy Briand",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Rennes",
+  "opp": "Marseille",
+  "score": "5-2",
+  "comp": "Liga 1, 31. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Ren postiže pet golova na Velodromu",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#e13327",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#2faee0"
+  ],
+  "p": [
+   [
+    "Costil",
+    "Benoît Costil",
+    "fr"
+   ],
+   [
+    "Baal",
+    "Ludovic Baal",
+    "fr"
+   ],
+   [
+    "Armand",
+    "Sylvain Armand",
+    "fr"
+   ],
+   [
+    "Diagne",
+    "Fallou Diagne",
+    "sn"
+   ],
+   [
+    "Danzé",
+    "Romain Danzé",
+    "fr"
+   ],
+   [
+    "Gourcuff",
+    "Yoann Gourcuff",
+    "fr"
+   ],
+   [
+    "André",
+    "Benjamin André",
+    "fr"
+   ],
+   [
+    "Fernandes",
+    "Gelson Fernandes",
+    "ch"
+   ],
+   [
+    "Grosicki",
+    "Kamil Grosicki",
+    "pl"
+   ],
+   [
+    "Sio",
+    "Giovanni Sio",
+    "ci"
+   ],
+   [
+    "Dembélé",
+    "Ousmane Dembélé",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Paris Saint-Germain",
+  "opp": "Lens",
+  "score": "1-1",
+  "comp": "Liga 1, 34. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Deseta titula PSŽ-a, izjednačen rekord Sent Etjena",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "okit": [
+   "solid",
+   "#ffe100",
+   "#e3000f"
+  ],
+  "p": [
+   [
+    "Navas",
+    "Keylor Navas",
+    "cr"
+   ],
+   [
+    "Kimpembe",
+    "Presnel Kimpembe",
+    "fr"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Marquinhos",
+    "Marquinhos",
+    "br"
+   ],
+   [
+    "Nuno Mendes",
+    "Nuno Mendes",
+    "pt"
+   ],
+   [
+    "Verratti",
+    "Marco Verratti",
+    "it"
+   ],
+   [
+    "Gueye",
+    "Idrissa Gueye",
+    "sn"
+   ],
+   [
+    "Hakimi",
+    "Achraf Hakimi",
+    "ma"
+   ],
+   [
+    "Neymar",
+    "Neymar",
+    "br"
+   ],
+   [
+    "Mbappé",
+    "Kylian Mbappé",
+    "fr"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Rennes",
+  "opp": "Paris Saint-Germain",
+  "score": "2-0",
+  "comp": "Liga 1, 9. kolo",
+  "season": "2021/22",
+  "y": 2021,
+  "note": "Ženezijev Ren nanosi PSŽ-u prvi prvenstveni poraz u sezoni",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#e13327",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Gomis",
+    "Alfred Gomis",
+    "sn"
+   ],
+   [
+    "Meling",
+    "Birger Meling",
+    "no"
+   ],
+   [
+    "Aguerd",
+    "Nayef Aguerd",
+    "ma"
+   ],
+   [
+    "Omari",
+    "Warmed Omari",
+    "fr"
+   ],
+   [
+    "Traoré",
+    "Hamari Traoré",
+    "ml"
+   ],
+   [
+    "Sulemana",
+    "Kamaldeen Sulemana",
+    "gh"
+   ],
+   [
+    "Tait",
+    "Flavien Tait",
+    "fr"
+   ],
+   [
+    "Martin",
+    "Jonas Martin",
+    "fr"
+   ],
+   [
+    "Bourigeaud",
+    "Benjamin Bourigeaud",
+    "fr"
+   ],
+   [
+    "Terrier",
+    "Martin Terrier",
+    "fr"
+   ],
+   [
+    "Laborde",
+    "Gaëtan Laborde",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Nantes",
+  "opp": "Paris Saint-Germain",
+  "score": "3-1",
+  "comp": "Liga 1, 25. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Kombuareov Nant iste sezone osvojio i Kup Francuske",
+  "form": "3-5-2",
+  "kit": [
+   "solid",
+   "#fcdd09",
+   "#00843d"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Lafont",
+    "Alban Lafont",
+    "fr"
+   ],
+   [
+    "Pallois",
+    "Nicolas Pallois",
+    "fr"
+   ],
+   [
+    "Appiah",
+    "Dennis Appiah",
+    "fr"
+   ],
+   [
+    "Castelletto",
+    "Jean-Charles Castelletto",
+    "cm"
+   ],
+   [
+    "Merlin",
+    "Quentin Merlin",
+    "fr"
+   ],
+   [
+    "Chirivella",
+    "Pedro Chirivella",
+    "es"
+   ],
+   [
+    "Girotto",
+    "Andrei Girotto",
+    "br"
+   ],
+   [
+    "Blas",
+    "Ludovic Blas",
+    "fr"
+   ],
+   [
+    "Bukari",
+    "Osman Bukari",
+    "gh"
+   ],
+   [
+    "Simon",
+    "Moses Simon",
+    "ng"
+   ],
+   [
+    "Kolo Muani",
+    "Randal Kolo Muani",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Nice",
+  "opp": "Paris Saint-Germain",
+  "score": "1-0",
+  "comp": "Liga 1, 27. kolo",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Galtjeova Nica; trener je na leto prešao upravo u PSŽ",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#e30613",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Benítez",
+    "Walter Benítez",
+    "ar"
+   ],
+   [
+    "Bard",
+    "Melvin Bard",
+    "fr"
+   ],
+   [
+    "Dante",
+    "Dante",
+    "br"
+   ],
+   [
+    "Todibo",
+    "Jean-Clair Todibo",
+    "fr"
+   ],
+   [
+    "Daniliuc",
+    "Flavius Daniliuc",
+    "at"
+   ],
+   [
+    "Thuram",
+    "Khéphren Thuram",
+    "fr"
+   ],
+   [
+    "Lemina",
+    "Mario Lemina",
+    "ga"
+   ],
+   [
+    "Rosario",
+    "Pablo Rosario",
+    "nl"
+   ],
+   [
+    "Kluivert",
+    "Justin Kluivert",
+    "nl"
+   ],
+   [
+    "Gouiri",
+    "Amine Gouiri",
+    "fr"
+   ],
+   [
+    "Dolberg",
+    "Kasper Dolberg",
+    "dk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Marseille",
+  "opp": "Paris Saint-Germain",
+  "score": "0-0",
+  "comp": "Liga 1, 11. kolo",
+  "season": "2021/22",
+  "y": 2021,
+  "note": "Sampaolijev Marsej sezonu završio kao vicešampion",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#2faee0"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "López",
+    "Pau López",
+    "es"
+   ],
+   [
+    "Luan Peres",
+    "Luan Peres",
+    "br"
+   ],
+   [
+    "Ćaleta-Car",
+    "Duje Ćaleta-Car",
+    "hr"
+   ],
+   [
+    "Saliba",
+    "William Saliba",
+    "fr"
+   ],
+   [
+    "Rongier",
+    "Valentin Rongier",
+    "fr"
+   ],
+   [
+    "Kamara",
+    "Boubacar Kamara",
+    "fr"
+   ],
+   [
+    "Guendouzi",
+    "Mattéo Guendouzi",
+    "fr"
+   ],
+   [
+    "Ünder",
+    "Cengiz Ünder",
+    "tr"
+   ],
+   [
+    "Payet",
+    "Dimitri Payet",
+    "fr"
+   ],
+   [
+    "Lirola",
+    "Pol Lirola",
+    "es"
+   ],
+   [
+    "Milik",
+    "Arkadiusz Milik",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lens",
+  "opp": "Paris Saint-Germain",
+  "score": "1-1",
+  "comp": "Liga 1, 17. kolo",
+  "season": "2021/22",
+  "y": 2021,
+  "note": "Lans Franka Eza, najprijatnije iznenađenje lige",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#ffe100",
+   "#e3000f"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Leca",
+    "Jean-Louis Leca",
+    "fr"
+   ],
+   [
+    "Medina",
+    "Facundo Medina",
+    "ar"
+   ],
+   [
+    "Danso",
+    "Kevin Danso",
+    "at"
+   ],
+   [
+    "Gradit",
+    "Jonathan Gradit",
+    "fr"
+   ],
+   [
+    "Frankowski",
+    "Przemysław Frankowski",
+    "pl"
+   ],
+   [
+    "Fofana",
+    "Seko Fofana",
+    "ci"
+   ],
+   [
+    "Doucouré",
+    "Cheick Doucouré",
+    "ml"
+   ],
+   [
+    "Clauss",
+    "Jonathan Clauss",
+    "fr"
+   ],
+   [
+    "Costa",
+    "David Costa",
+    "pt"
+   ],
+   [
+    "Kalimuendo",
+    "Arnaud Kalimuendo",
+    "fr"
+   ],
+   [
+    "Kakuta",
+    "Gaël Kakuta",
+    "cd"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Paris Saint-Germain",
+  "opp": "Marseille",
+  "score": "1-0",
+  "comp": "Liga 1, 11. kolo",
+  "season": "2022/23",
+  "y": 2022,
+  "note": "Galtjeov PSŽ osvojio 11. titulu, rekord francuskog fudbala",
+  "form": "4-1-2-1-2",
+  "kit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#2faee0"
+  ],
+  "p": [
+   [
+    "Donnarumma",
+    "Gianluigi Donnarumma",
+    "it"
+   ],
+   [
+    "Bernat",
+    "Juan Bernat",
+    "es"
+   ],
+   [
+    "Danilo",
+    "Danilo Pereira",
+    "pt"
+   ],
+   [
+    "Marquinhos",
+    "Marquinhos",
+    "br"
+   ],
+   [
+    "Hakimi",
+    "Achraf Hakimi",
+    "ma"
+   ],
+   [
+    "Verratti",
+    "Marco Verratti",
+    "it"
+   ],
+   [
+    "Vitinha",
+    "Vitinha",
+    "pt"
+   ],
+   [
+    "Fabián Ruiz",
+    "Fabián Ruiz",
+    "es"
+   ],
+   [
+    "Neymar",
+    "Neymar",
+    "br"
+   ],
+   [
+    "Mbappé",
+    "Kylian Mbappé",
+    "fr"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lens",
+  "opp": "Paris Saint-Germain",
+  "score": "1-3",
+  "comp": "Liga 1, 31. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Lans završio drugi, samo bod iza PSŽ-a",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#ffe100",
+   "#e3000f"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Samba",
+    "Brice Samba",
+    "fr"
+   ],
+   [
+    "Medina",
+    "Facundo Medina",
+    "ar"
+   ],
+   [
+    "Danso",
+    "Kevin Danso",
+    "at"
+   ],
+   [
+    "Gradit",
+    "Jonathan Gradit",
+    "fr"
+   ],
+   [
+    "Machado",
+    "Deiver Machado",
+    "co"
+   ],
+   [
+    "Fofana",
+    "Seko Fofana",
+    "ci"
+   ],
+   [
+    "Abdul Samed",
+    "Salis Abdul Samed",
+    "gh"
+   ],
+   [
+    "Frankowski",
+    "Przemysław Frankowski",
+    "pl"
+   ],
+   [
+    "Fulgini",
+    "Angelo Fulgini",
+    "fr"
+   ],
+   [
+    "Thomasson",
+    "Adrien Thomasson",
+    "fr"
+   ],
+   [
+    "Openda",
+    "Loïs Openda",
+    "be"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Rennes",
+  "opp": "Paris Saint-Germain",
+  "score": "2-0",
+  "comp": "Liga 1, 28. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Ren dvaput pobedio PSŽ te sezone, oba puta bez primljenog gola",
+  "form": "3-4-3",
+  "kit": [
+   "solid",
+   "#e13327",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Mandanda",
+    "Steve Mandanda",
+    "fr"
+   ],
+   [
+    "Theate",
+    "Arthur Theate",
+    "be"
+   ],
+   [
+    "Wooh",
+    "Christopher Wooh",
+    "cm"
+   ],
+   [
+    "Omari",
+    "Warmed Omari",
+    "fr"
+   ],
+   [
+    "Truffert",
+    "Adrien Truffert",
+    "fr"
+   ],
+   [
+    "Ugochukwu",
+    "Lesley Ugochukwu",
+    "fr"
+   ],
+   [
+    "Bourigeaud",
+    "Benjamin Bourigeaud",
+    "fr"
+   ],
+   [
+    "Spence",
+    "Djed Spence",
+    "gb-eng"
+   ],
+   [
+    "Toko Ekambi",
+    "Karl Toko Ekambi",
+    "cm"
+   ],
+   [
+    "Kalimuendo",
+    "Arnaud Kalimuendo",
+    "fr"
+   ],
+   [
+    "Doué",
+    "Désiré Doué",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lyon",
+  "opp": "Paris Saint-Germain",
+  "score": "1-0",
+  "comp": "Liga 1, 29. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Lion Lorana Blana slavi na Parku prinčeva",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#1b3b8b"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Lopes",
+    "Anthony Lopes",
+    "pt"
+   ],
+   [
+    "Lukeba",
+    "Castello Lukeba",
+    "fr"
+   ],
+   [
+    "Lovren",
+    "Dejan Lovren",
+    "hr"
+   ],
+   [
+    "Diomandé",
+    "Sinaly Diomandé",
+    "ci"
+   ],
+   [
+    "Tagliafico",
+    "Nicolás Tagliafico",
+    "ar"
+   ],
+   [
+    "Thiago Mendes",
+    "Thiago Mendes",
+    "br"
+   ],
+   [
+    "Lepenant",
+    "Johann Lepenant",
+    "fr"
+   ],
+   [
+    "Kumbedi",
+    "Saël Kumbedi",
+    "fr"
+   ],
+   [
+    "Cherki",
+    "Rayan Cherki",
+    "fr"
+   ],
+   [
+    "Sarr",
+    "Amin Sarr",
+    "se"
+   ],
+   [
+    "Lacazette",
+    "Alexandre Lacazette",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lorient",
+  "opp": "Paris Saint-Germain",
+  "score": "3-1",
+  "comp": "Liga 1, 33. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Lorijan Režisa Le Brija šokira PSŽ na Parku prinčeva",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#f47c20",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Mvogo",
+    "Yvon Mvogo",
+    "ch"
+   ],
+   [
+    "Le Goff",
+    "Vincent Le Goff",
+    "fr"
+   ],
+   [
+    "Talbi",
+    "Montassar Talbi",
+    "tn"
+   ],
+   [
+    "Meïté",
+    "Bamo Meïté",
+    "ci"
+   ],
+   [
+    "Yongwa",
+    "Darlin Yongwa",
+    "cm"
+   ],
+   [
+    "Abergel",
+    "Laurent Abergel",
+    "fr"
+   ],
+   [
+    "Innocent",
+    "Bonke Innocent",
+    "ng"
+   ],
+   [
+    "Kalulu",
+    "Gédéon Kalulu",
+    "cd"
+   ],
+   [
+    "Le Fée",
+    "Enzo Le Fée",
+    "fr"
+   ],
+   [
+    "Faivre",
+    "Romain Faivre",
+    "fr"
+   ],
+   [
+    "Koné",
+    "Ibrahima Koné",
+    "ml"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Clermont",
+  "opp": "Paris Saint-Germain",
+  "score": "3-2",
+  "comp": "Liga 1, 38. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Skromni Klermon pokvario oproštaj Mesija i Ramosa od Pariza",
+  "form": "3-4-2-1",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Diaw",
+    "Mory Diaw",
+    "fr"
+   ],
+   [
+    "Caufriez",
+    "Maximiliano Caufriez",
+    "be"
+   ],
+   [
+    "Wieteska",
+    "Mateusz Wieteska",
+    "pl"
+   ],
+   [
+    "Seidu",
+    "Alidu Seidu",
+    "gh"
+   ],
+   [
+    "Neto Borges",
+    "Neto Borges",
+    "br"
+   ],
+   [
+    "Gastien",
+    "Johan Gastien",
+    "fr"
+   ],
+   [
+    "Gonalons",
+    "Maxime Gonalons",
+    "fr"
+   ],
+   [
+    "Zeffane",
+    "Mehdi Zeffane",
+    "dz"
+   ],
+   [
+    "Rashani",
+    "Elbasan Rashani",
+    "xk"
+   ],
+   [
+    "Cham",
+    "Muhammed Cham",
+    "at"
+   ],
+   [
+    "Kyei",
+    "Grejohn Kyei",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Lille",
+  "opp": "Paris Saint-Germain",
+  "score": "3-4",
+  "comp": "Liga 1, 24. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Lil Paula Fonseke poražen golom iz slobodnog udarca u nadoknadi",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#e01e13",
+   "#1b2a5c"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Chevalier",
+    "Lucas Chevalier",
+    "fr"
+   ],
+   [
+    "Weah",
+    "Timothy Weah",
+    "us"
+   ],
+   [
+    "Djaló",
+    "Tiago Djaló",
+    "pt"
+   ],
+   [
+    "Fonte",
+    "José Fonte",
+    "pt"
+   ],
+   [
+    "Diakité",
+    "Bafodé Diakité",
+    "fr"
+   ],
+   [
+    "Gomes",
+    "André Gomes",
+    "pt"
+   ],
+   [
+    "André",
+    "Benjamin André",
+    "fr"
+   ],
+   [
+    "Cabella",
+    "Rémy Cabella",
+    "fr"
+   ],
+   [
+    "Gomes",
+    "Angel Gomes",
+    "gb-eng"
+   ],
+   [
+    "Bamba",
+    "Jonathan Bamba",
+    "ci"
+   ],
+   [
+    "David",
+    "Jonathan David",
+    "ca"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Strasbourg",
+  "opp": "Paris Saint-Germain",
+  "score": "1-1",
+  "comp": "Liga 1, 37. kolo",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Remi kojim je PSŽ osigurao rekordnu 11. titulu",
+  "form": "3-5-1-1",
+  "kit": [
+   "solid",
+   "#009fe3",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Sels",
+    "Matz Sels",
+    "be"
+   ],
+   [
+    "Perrin",
+    "Lucas Perrin",
+    "fr"
+   ],
+   [
+    "Nyamsi",
+    "Gerzino Nyamsi",
+    "fr"
+   ],
+   [
+    "Doukouré",
+    "Ismaël Doukouré",
+    "fr"
+   ],
+   [
+    "Guilbert",
+    "Frédéric Guilbert",
+    "fr"
+   ],
+   [
+    "Sanson",
+    "Morgan Sanson",
+    "fr"
+   ],
+   [
+    "Sissoko",
+    "Ibrahima Sissoko",
+    "fr"
+   ],
+   [
+    "Diarra",
+    "Mouhamadou Diarra",
+    "fr"
+   ],
+   [
+    "Dagba",
+    "Colin Dagba",
+    "fr"
+   ],
+   [
+    "Bellegarde",
+    "Jean-Ricner Bellegarde",
+    "fr"
+   ],
+   [
+    "Diallo",
+    "Habib Diallo",
+    "sn"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Monaco",
+  "opp": "Paris Saint-Germain",
+  "score": "1-1",
+  "comp": "Liga 1, 4. kolo",
+  "season": "2022/23",
+  "y": 2022,
+  "note": "Monako Filipa Klementa prvi otima bodove Galtjeovom PSŽ-u",
+  "form": "3-4-1-2",
+  "kit": [
+   "halves",
+   "#e2001a",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#004170",
+   "#da291c"
+  ],
+  "p": [
+   [
+    "Nübel",
+    "Alexander Nübel",
+    "de"
+   ],
+   [
+    "Badiashile",
+    "Benoît Badiashile",
+    "fr"
+   ],
+   [
+    "Maripán",
+    "Guillermo Maripán",
+    "cl"
+   ],
+   [
+    "Disasi",
+    "Axel Disasi",
+    "fr"
+   ],
+   [
+    "Caio Henrique",
+    "Caio Henrique",
+    "br"
+   ],
+   [
+    "Camara",
+    "Mohamed Camara",
+    "ml"
+   ],
+   [
+    "Fofana",
+    "Youssouf Fofana",
+    "fr"
+   ],
+   [
+    "Aguilar",
+    "Ruben Aguilar",
+    "fr"
+   ],
+   [
+    "Golovin",
+    "Aleksandr Golovin",
+    "ru"
+   ],
+   [
+    "Ben Yedder",
+    "Wissam Ben Yedder",
+    "fr"
+   ],
+   [
+    "Volland",
+    "Kevin Volland",
+    "de"
+   ]
+  ]
+ }
+]
