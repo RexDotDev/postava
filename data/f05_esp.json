@@ -2,6 +2,401 @@
  {
   "sport": "fb",
   "cat": "club",
+  "team": "Espanyol",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "La liga, 24. kolo",
+  "season": "2008/09",
+  "y": 2009,
+  "note": "Gradski derbi: Espanjol slavio na Kamp Nouu protiv Gvardiolinog tima",
+  "form": "4-1-4-1",
+  "kit": [
+   "stripes",
+   "#007fc8",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Kameni",
+    "Carlos Kameni",
+    "cm"
+   ],
+   [
+    "David García",
+    "David García",
+    "es"
+   ],
+   [
+    "Jarque",
+    "Dani Jarque",
+    "es"
+   ],
+   [
+    "Pareja",
+    "Nicolás Pareja",
+    "ar"
+   ],
+   [
+    "Sergio Sánchez",
+    "Sergio Sánchez",
+    "es"
+   ],
+   [
+    "Moisés Hurtado",
+    "Moisés Hurtado",
+    "es"
+   ],
+   [
+    "Nenê",
+    "Nenê",
+    "br"
+   ],
+   [
+    "De la Peña",
+    "Iván de la Peña",
+    "es"
+   ],
+   [
+    "Ángel Martínez",
+    "Ángel Martínez",
+    "es"
+   ],
+   [
+    "Luis García",
+    "Luis García",
+    "es"
+   ],
+   [
+    "Iván Alonso",
+    "Iván Alonso",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Barcelona",
+  "score": "4-3",
+  "comp": "La liga, 25. kolo",
+  "season": "2008/09",
+  "y": 2009,
+  "note": "Preokret posle 0-2 protiv Barse koja je te sezone osvojila triplu krunu",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Leo Franco",
+    "Leo Franco",
+    "ar"
+   ],
+   [
+    "Antonio López",
+    "Antonio López",
+    "es"
+   ],
+   [
+    "Ujfaluši",
+    "Tomáš Ujfaluši",
+    "cz"
+   ],
+   [
+    "Pablo",
+    "Pablo Ibáñez",
+    "es"
+   ],
+   [
+    "Heitinga",
+    "Johnny Heitinga",
+    "nl"
+   ],
+   [
+    "Simão",
+    "Simão Sabrosa",
+    "pt"
+   ],
+   [
+    "Assunção",
+    "Paulo Assunção",
+    "br"
+   ],
+   [
+    "Raúl García",
+    "Raúl García",
+    "es"
+   ],
+   [
+    "Maxi",
+    "Maxi Rodríguez",
+    "ar"
+   ],
+   [
+    "Forlán",
+    "Diego Forlán",
+    "uy"
+   ],
+   [
+    "Agüero",
+    "Sergio Agüero",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Valencia",
+  "opp": "Barcelona",
+  "score": "2-2",
+  "comp": "La liga, 33. kolo",
+  "season": "2008/09",
+  "y": 2009,
+  "note": "Emerijeva Valensija na Mestalji uzela bod budućem šampionu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "César",
+    "César Sánchez",
+    "es"
+   ],
+   [
+    "Alexis",
+    "Alexis Ruano",
+    "es"
+   ],
+   [
+    "Maduro",
+    "Hedwiges Maduro",
+    "nl"
+   ],
+   [
+    "Albiol",
+    "Raúl Albiol",
+    "es"
+   ],
+   [
+    "Miguel",
+    "Miguel Monteiro",
+    "pt"
+   ],
+   [
+    "Marchena",
+    "Carlos Marchena",
+    "es"
+   ],
+   [
+    "Baraja",
+    "Rubén Baraja",
+    "es"
+   ],
+   [
+    "Mata",
+    "Juan Mata",
+    "es"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ],
+   [
+    "Pablo Hernández",
+    "Pablo Hernández",
+    "es"
+   ],
+   [
+    "Villa",
+    "David Villa",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "6-2",
+  "comp": "La liga, 34. kolo",
+  "season": "2008/09",
+  "y": 2009,
+  "note": "Šest golova na Bernabeuu u maju 2009, na putu ka prvoj tripl kruni",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Valdés",
+    "Víctor Valdés",
+    "es"
+   ],
+   [
+    "Abidal",
+    "Eric Abidal",
+    "fr"
+   ],
+   [
+    "Puyol",
+    "Carles Puyol",
+    "es"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Xavi",
+    "Xavi Hernández",
+    "es"
+   ],
+   [
+    "Touré",
+    "Yaya Touré",
+    "ci"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Henry",
+    "Thierry Henry",
+    "fr"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Eto'o",
+    "Samuel Eto'o",
+    "cm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Hércules",
+  "opp": "Barcelona",
+  "score": "2-0",
+  "comp": "La liga, 2. kolo",
+  "season": "2010/11",
+  "y": 2010,
+  "note": "Novajlija iz Alikantea šokirao šampiona na Kamp Nouu već u 2. kolu",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#0b5ca8",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Calatayud",
+    "Juan Calatayud",
+    "es"
+   ],
+   [
+    "Peña",
+    "Paco Peña",
+    "es"
+   ],
+   [
+    "Pamarot",
+    "Noé Pamarot",
+    "fr"
+   ],
+   [
+    "Abraham Paz",
+    "Abraham Paz",
+    "es"
+   ],
+   [
+    "Cortés",
+    "David Cortés",
+    "es"
+   ],
+   [
+    "Fritzler",
+    "Matías Fritzler",
+    "ar"
+   ],
+   [
+    "Aguilar",
+    "Abel Aguilar",
+    "co"
+   ],
+   [
+    "Drenthe",
+    "Royston Drenthe",
+    "nl"
+   ],
+   [
+    "Valdez",
+    "Nelson Valdez",
+    "py"
+   ],
+   [
+    "Tiago Gomes",
+    "Tiago Gomes",
+    "pt"
+   ],
+   [
+    "Trezeguet",
+    "David Trezeguet",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
   "team": "Barcelona",
   "opp": "Real Madrid",
   "score": "5-0",
@@ -32,13 +427,13 @@
     "fr"
    ],
    [
-    "Piqué",
-    "Gerard Piqué",
+    "Puyol",
+    "Carles Puyol",
     "es"
    ],
    [
-    "Puyol",
-    "Carles Puyol",
+    "Piqué",
+    "Gerard Piqué",
     "es"
    ],
    [
@@ -75,243 +470,6 @@
     "Pedro",
     "Pedro Rodríguez",
     "es"
-   ]
-  ]
- },
- {
-  "sport": "fb",
-  "cat": "club",
-  "team": "Barcelona",
-  "opp": "Real Madrid",
-  "score": "6-2",
-  "comp": "La liga, 34. kolo",
-  "season": "2008/09",
-  "y": 2009,
-  "note": "Šest golova na Bernabeuu; prvi put Mesi kao lažna devetka u Klasiku",
-  "form": "4-3-3",
-  "kit": [
-   "stripes",
-   "#a50044",
-   "#004d98"
-  ],
-  "okit": [
-   "solid",
-   "#ffffff",
-   "#00529f"
-  ],
-  "p": [
-   [
-    "Valdés",
-    "Víctor Valdés",
-    "es"
-   ],
-   [
-    "Abidal",
-    "Eric Abidal",
-    "fr"
-   ],
-   [
-    "Piqué",
-    "Gerard Piqué",
-    "es"
-   ],
-   [
-    "Puyol",
-    "Carles Puyol",
-    "es"
-   ],
-   [
-    "Alves",
-    "Dani Alves",
-    "br"
-   ],
-   [
-    "Iniesta",
-    "Andrés Iniesta",
-    "es"
-   ],
-   [
-    "Touré",
-    "Yaya Touré",
-    "ci"
-   ],
-   [
-    "Xavi",
-    "Xavi Hernández",
-    "es"
-   ],
-   [
-    "Henry",
-    "Thierry Henry",
-    "fr"
-   ],
-   [
-    "Messi",
-    "Lionel Messi",
-    "ar"
-   ],
-   [
-    "Eto'o",
-    "Samuel Eto'o",
-    "cm"
-   ]
-  ]
- },
- {
-  "sport": "fb",
-  "cat": "club",
-  "team": "Atlético Madrid",
-  "opp": "Barcelona",
-  "score": "1-1",
-  "comp": "La liga, 38. kolo",
-  "season": "2013/14",
-  "y": 2014,
-  "note": "Titula osvojena na Kamp Nouu u direktnom duelu za šampiona u poslednjem kolu",
-  "form": "4-4-2",
-  "kit": [
-   "stripes",
-   "#cb3524",
-   "#ffffff"
-  ],
-  "okit": [
-   "stripes",
-   "#a50044",
-   "#004d98"
-  ],
-  "p": [
-   [
-    "Courtois",
-    "Thibaut Courtois",
-    "be"
-   ],
-   [
-    "Filipe Luís",
-    "Filipe Luís",
-    "br"
-   ],
-   [
-    "Godín",
-    "Diego Godín",
-    "uy"
-   ],
-   [
-    "Miranda",
-    "João Miranda",
-    "br"
-   ],
-   [
-    "Juanfran",
-    "Juanfran Torres",
-    "es"
-   ],
-   [
-    "Koke",
-    "Koke Resurrección",
-    "es"
-   ],
-   [
-    "Gabi",
-    "Gabi Fernández",
-    "es"
-   ],
-   [
-    "Tiago",
-    "Tiago Mendes",
-    "pt"
-   ],
-   [
-    "Arda",
-    "Arda Turan",
-    "tr"
-   ],
-   [
-    "Villa",
-    "David Villa",
-    "es"
-   ],
-   [
-    "Diego Costa",
-    "Diego Costa",
-    "es"
-   ]
-  ]
- },
- {
-  "sport": "fb",
-  "cat": "club",
-  "team": "Real Madrid",
-  "opp": "Barcelona",
-  "score": "2-1",
-  "comp": "La liga, 35. kolo",
-  "season": "2011/12",
-  "y": 2012,
-  "note": "Pobeda na Kamp Nouu praktično donela titulu sezone od 100 bodova",
-  "form": "4-2-3-1",
-  "kit": [
-   "solid",
-   "#ffffff",
-   "#00529f"
-  ],
-  "okit": [
-   "stripes",
-   "#a50044",
-   "#004d98"
-  ],
-  "p": [
-   [
-    "Casillas",
-    "Iker Casillas",
-    "es"
-   ],
-   [
-    "Coentrão",
-    "Fábio Coentrão",
-    "pt"
-   ],
-   [
-    "Pepe",
-    "Pepe",
-    "pt"
-   ],
-   [
-    "Ramos",
-    "Sergio Ramos",
-    "es"
-   ],
-   [
-    "Arbeloa",
-    "Álvaro Arbeloa",
-    "es"
-   ],
-   [
-    "Khedira",
-    "Sami Khedira",
-    "de"
-   ],
-   [
-    "Alonso",
-    "Xabi Alonso",
-    "es"
-   ],
-   [
-    "Ronaldo",
-    "Cristiano Ronaldo",
-    "pt"
-   ],
-   [
-    "Özil",
-    "Mesut Özil",
-    "de"
-   ],
-   [
-    "Di María",
-    "Ángel Di María",
-    "ar"
-   ],
-   [
-    "Benzema",
-    "Karim Benzema",
-    "fr"
    ]
   ]
  },
@@ -391,6 +549,3798 @@
     "Özil",
     "Mesut Özil",
     "de"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Athletic Bilbao",
+  "opp": "Barcelona",
+  "score": "2-2",
+  "comp": "La liga, 12. kolo",
+  "season": "2011/12",
+  "y": 2011,
+  "note": "Bjelsa protiv Gvardiole po pljusku na starom San Mamesu; Barsa izjednačila u 91. minutu",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#ee2523",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Iraizoz",
+    "Gorka Iraizoz",
+    "es"
+   ],
+   [
+    "Aurtenetxe",
+    "Jon Aurtenetxe",
+    "es"
+   ],
+   [
+    "Amorebieta",
+    "Fernando Amorebieta",
+    "ve"
+   ],
+   [
+    "Javi Martínez",
+    "Javi Martínez",
+    "es"
+   ],
+   [
+    "Iraola",
+    "Andoni Iraola",
+    "es"
+   ],
+   [
+    "Iturraspe",
+    "Ander Iturraspe",
+    "es"
+   ],
+   [
+    "De Marcos",
+    "Óscar de Marcos",
+    "es"
+   ],
+   [
+    "Susaeta",
+    "Markel Susaeta",
+    "es"
+   ],
+   [
+    "Herrera",
+    "Ander Herrera",
+    "es"
+   ],
+   [
+    "Muniain",
+    "Iker Muniain",
+    "es"
+   ],
+   [
+    "Llorente",
+    "Fernando Llorente",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "3-1",
+  "comp": "La liga, 16. kolo",
+  "season": "2011/12",
+  "y": 2011,
+  "note": "Real poveo posle pola minuta, Barsa uzvratila sa tri gola na Bernabeuu",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Valdés",
+    "Víctor Valdés",
+    "es"
+   ],
+   [
+    "Abidal",
+    "Eric Abidal",
+    "fr"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Puyol",
+    "Carles Puyol",
+    "es"
+   ],
+   [
+    "Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Xavi",
+    "Xavi Hernández",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Alexis",
+    "Alexis Sánchez",
+    "cl"
+   ],
+   [
+    "Fàbregas",
+    "Cesc Fàbregas",
+    "es"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "La liga, 35. kolo",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Pobeda na Kamp Nouu praktično donela titulu sezone od 100 bodova",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Coentrão",
+    "Fábio Coentrão",
+    "pt"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Arbeloa",
+    "Álvaro Arbeloa",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Xabi Alonso",
+    "es"
+   ],
+   [
+    "Khedira",
+    "Sami Khedira",
+    "de"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Sociedad",
+  "opp": "Barcelona",
+  "score": "3-2",
+  "comp": "La liga, 20. kolo",
+  "season": "2012/13",
+  "y": 2013,
+  "note": "Preokret posle 0-2 i prvi poraz Barse u prvenstvu te sezone",
+  "form": "4-4-1-1",
+  "kit": [
+   "stripes",
+   "#0067b1",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Bravo",
+    "Claudio Bravo",
+    "cl"
+   ],
+   [
+    "De la Bella",
+    "Alberto de la Bella",
+    "es"
+   ],
+   [
+    "Íñigo Martínez",
+    "Íñigo Martínez",
+    "es"
+   ],
+   [
+    "Mikel González",
+    "Mikel González",
+    "es"
+   ],
+   [
+    "Carlos Martínez",
+    "Carlos Martínez",
+    "es"
+   ],
+   [
+    "Castro",
+    "Chory Castro",
+    "uy"
+   ],
+   [
+    "Illarramendi",
+    "Asier Illarramendi",
+    "es"
+   ],
+   [
+    "Bergara",
+    "Markel Bergara",
+    "es"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ],
+   [
+    "Xabi Prieto",
+    "Xabi Prieto",
+    "es"
+   ],
+   [
+    "Vela",
+    "Carlos Vela",
+    "mx"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "4-3",
+  "comp": "La liga, 29. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Luda noć na Bernabeuu: tri penala, crveni karton i sedam golova",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Valdés",
+    "Víctor Valdés",
+    "es"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Mascherano",
+    "Javier Mascherano",
+    "ar"
+   ],
+   [
+    "Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Fàbregas",
+    "Cesc Fàbregas",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Xavi",
+    "Xavi Hernández",
+    "es"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Neymar",
+    "Neymar",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "Finale Kupa kralja",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Finale na Mestalji rešio sprint uz aut-liniju u 85. minutu",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Coentrão",
+    "Fábio Coentrão",
+    "pt"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Carvajal",
+    "Dani Carvajal",
+    "es"
+   ],
+   [
+    "Isco",
+    "Isco Alarcón",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Xabi Alonso",
+    "es"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Bale",
+    "Gareth Bale",
+    "gb-wls"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Barcelona",
+  "score": "1-1",
+  "comp": "La liga, 38. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Titula osvojena na Kamp Nouu u direktnom duelu za šampiona u poslednjem kolu",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Filipe Luís",
+    "Filipe Luís",
+    "br"
+   ],
+   [
+    "Godín",
+    "Diego Godín",
+    "uy"
+   ],
+   [
+    "Miranda",
+    "João Miranda",
+    "br"
+   ],
+   [
+    "Juanfran",
+    "Juanfran Torres",
+    "es"
+   ],
+   [
+    "Koke",
+    "Koke Resurrección",
+    "es"
+   ],
+   [
+    "Tiago",
+    "Tiago Mendes",
+    "pt"
+   ],
+   [
+    "Gabi",
+    "Gabi Fernández",
+    "es"
+   ],
+   [
+    "Arda",
+    "Arda Turan",
+    "tr"
+   ],
+   [
+    "Diego Costa",
+    "Diego Costa",
+    "es"
+   ],
+   [
+    "Villa",
+    "David Villa",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Real Madrid",
+  "score": "1-0",
+  "comp": "Superkup Španije, revanš",
+  "season": "2014/15",
+  "y": 2014,
+  "note": "Superkup osvojen protiv Reala samo tri meseca posle finala u Lisabonu",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Moyá",
+    "Miguel Ángel Moyá",
+    "es"
+   ],
+   [
+    "Siqueira",
+    "Guilherme Siqueira",
+    "br"
+   ],
+   [
+    "Godín",
+    "Diego Godín",
+    "uy"
+   ],
+   [
+    "Miranda",
+    "João Miranda",
+    "br"
+   ],
+   [
+    "Juanfran",
+    "Juanfran Torres",
+    "es"
+   ],
+   [
+    "Tiago",
+    "Tiago Mendes",
+    "pt"
+   ],
+   [
+    "Gabi",
+    "Gabi Fernández",
+    "es"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ],
+   [
+    "Koke",
+    "Koke Resurrección",
+    "es"
+   ],
+   [
+    "Raúl García",
+    "Raúl García",
+    "es"
+   ],
+   [
+    "Mandžukić",
+    "Mario Mandžukić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Atlético Madrid",
+  "score": "1-0",
+  "comp": "La liga, 37. kolo",
+  "season": "2014/15",
+  "y": 2015,
+  "note": "Pobedom na Kalderonu Barsa osigurala titulu kolo pre kraja, na putu ka tripl kruni",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Bravo",
+    "Claudio Bravo",
+    "cl"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Mascherano",
+    "Javier Mascherano",
+    "ar"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Rakitić",
+    "Ivan Rakitić",
+    "hr"
+   ],
+   [
+    "Neymar",
+    "Neymar",
+    "br"
+   ],
+   [
+    "Pedro",
+    "Pedro Rodríguez",
+    "es"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Athletic Bilbao",
+  "opp": "Barcelona",
+  "score": "4-0",
+  "comp": "Superkup Španije, 1. meč",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Deklasiranje osvajača tripl krune; prvi trofej Atletika posle 31 godine",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#ee2523",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Iraizoz",
+    "Gorka Iraizoz",
+    "es"
+   ],
+   [
+    "Balenziaga",
+    "Mikel Balenziaga",
+    "es"
+   ],
+   [
+    "Laporte",
+    "Aymeric Laporte",
+    "es"
+   ],
+   [
+    "Etxeita",
+    "Xabier Etxeita",
+    "es"
+   ],
+   [
+    "De Marcos",
+    "Óscar de Marcos",
+    "es"
+   ],
+   [
+    "San José",
+    "Mikel San José",
+    "es"
+   ],
+   [
+    "Beñat",
+    "Beñat Etxebarria",
+    "es"
+   ],
+   [
+    "Merino",
+    "Sabin Merino",
+    "es"
+   ],
+   [
+    "Eraso",
+    "Javi Eraso",
+    "es"
+   ],
+   [
+    "Susaeta",
+    "Markel Susaeta",
+    "es"
+   ],
+   [
+    "Aduriz",
+    "Aritz Aduriz",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Celta Vigo",
+  "opp": "Barcelona",
+  "score": "4-1",
+  "comp": "La liga, 5. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Berizova Selta pregazila aktuelnog šampiona Evrope na Balaidosu",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#8ac3ee",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Sergio Álvarez",
+    "Sergio Álvarez",
+    "es"
+   ],
+   [
+    "Jonny",
+    "Jonny Castro",
+    "es"
+   ],
+   [
+    "Sergi Gómez",
+    "Sergi Gómez",
+    "es"
+   ],
+   [
+    "Cabral",
+    "Gustavo Cabral",
+    "ar"
+   ],
+   [
+    "Hugo Mallo",
+    "Hugo Mallo",
+    "es"
+   ],
+   [
+    "Nolito",
+    "Nolito",
+    "es"
+   ],
+   [
+    "Radoja",
+    "Nemanja Radoja",
+    "rs"
+   ],
+   [
+    "Augusto",
+    "Augusto Fernández",
+    "ar"
+   ],
+   [
+    "Orellana",
+    "Fabián Orellana",
+    "cl"
+   ],
+   [
+    "Aspas",
+    "Iago Aspas",
+    "es"
+   ],
+   [
+    "Wass",
+    "Daniel Wass",
+    "dk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sevilla",
+  "opp": "Real Madrid",
+  "score": "3-2",
+  "comp": "La liga, 11. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Emerijeva Sevilja preokrenula protiv Benitesovog Reala na Sančez Pishuanu",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#d71920"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Sergio Rico",
+    "Sergio Rico",
+    "es"
+   ],
+   [
+    "Trémoulinas",
+    "Benoît Trémoulinas",
+    "fr"
+   ],
+   [
+    "Andreolli",
+    "Marco Andreolli",
+    "it"
+   ],
+   [
+    "Rami",
+    "Adil Rami",
+    "fr"
+   ],
+   [
+    "Mariano",
+    "Mariano Ferreira",
+    "br"
+   ],
+   [
+    "Nzonzi",
+    "Steven Nzonzi",
+    "fr"
+   ],
+   [
+    "Krychowiak",
+    "Grzegorz Krychowiak",
+    "pl"
+   ],
+   [
+    "Konoplyanka",
+    "Yevhen Konoplyanka",
+    "ua"
+   ],
+   [
+    "Banega",
+    "Éver Banega",
+    "ar"
+   ],
+   [
+    "Vitolo",
+    "Vitolo",
+    "es"
+   ],
+   [
+    "Immobile",
+    "Ciro Immobile",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "4-0",
+  "comp": "La liga, 12. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Četiri gola na Bernabeuu, a Mesi, tek oporavljen od povrede, krenuo sa klupe",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Bravo",
+    "Claudio Bravo",
+    "cl"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Mascherano",
+    "Javier Mascherano",
+    "ar"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Rakitić",
+    "Ivan Rakitić",
+    "hr"
+   ],
+   [
+    "Neymar",
+    "Neymar",
+    "br"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ],
+   [
+    "Sergi Roberto",
+    "Sergi Roberto",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Villarreal",
+  "opp": "Real Madrid",
+  "score": "1-0",
+  "comp": "La liga, 15. kolo",
+  "season": "2015/16",
+  "y": 2015,
+  "note": "Marselinov Viljareal savladao Benitesov Real na Madrigalu",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#ffe667",
+   "#005187"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Areola",
+    "Alphonse Areola",
+    "fr"
+   ],
+   [
+    "Jaume Costa",
+    "Jaume Costa",
+    "es"
+   ],
+   [
+    "Víctor Ruiz",
+    "Víctor Ruiz",
+    "es"
+   ],
+   [
+    "Musacchio",
+    "Mateo Musacchio",
+    "ar"
+   ],
+   [
+    "Bailly",
+    "Eric Bailly",
+    "ci"
+   ],
+   [
+    "Denis Suárez",
+    "Denis Suárez",
+    "es"
+   ],
+   [
+    "Bruno",
+    "Bruno Soriano",
+    "es"
+   ],
+   [
+    "Trigueros",
+    "Manu Trigueros",
+    "es"
+   ],
+   [
+    "Dos Santos",
+    "Jonathan dos Santos",
+    "mx"
+   ],
+   [
+    "Soldado",
+    "Roberto Soldado",
+    "es"
+   ],
+   [
+    "Bakambu",
+    "Cédric Bakambu",
+    "cd"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Real Madrid",
+  "score": "1-0",
+  "comp": "La liga, 26. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Simeoneov tim slavio na Bernabeuu u prvom Zidanovom derbiju",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Oblak",
+    "Jan Oblak",
+    "si"
+   ],
+   [
+    "Filipe Luís",
+    "Filipe Luís",
+    "br"
+   ],
+   [
+    "Godín",
+    "Diego Godín",
+    "uy"
+   ],
+   [
+    "Giménez",
+    "José María Giménez",
+    "uy"
+   ],
+   [
+    "Juanfran",
+    "Juanfran Torres",
+    "es"
+   ],
+   [
+    "Koke",
+    "Koke Resurrección",
+    "es"
+   ],
+   [
+    "Augusto",
+    "Augusto Fernández",
+    "ar"
+   ],
+   [
+    "Gabi",
+    "Gabi Fernández",
+    "es"
+   ],
+   [
+    "Saúl",
+    "Saúl Ñíguez",
+    "es"
+   ],
+   [
+    "Torres",
+    "Fernando Torres",
+    "es"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "La liga, 31. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Zidanov Real sa igračem manje prekinuo Barsin niz od 39 mečeva bez poraza",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Navas",
+    "Keylor Navas",
+    "cr"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Carvajal",
+    "Dani Carvajal",
+    "es"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ],
+   [
+    "Bale",
+    "Gareth Bale",
+    "gb-wls"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Valencia",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "La liga, 33. kolo",
+  "season": "2015/16",
+  "y": 2016,
+  "note": "Treći uzastopni poraz Barse u prvenstvu; trka za titulu otvorena do kraja",
+  "form": "4-5-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Diego Alves",
+    "Diego Alves",
+    "br"
+   ],
+   [
+    "Siqueira",
+    "Guilherme Siqueira",
+    "br"
+   ],
+   [
+    "Abdennour",
+    "Aymen Abdennour",
+    "tn"
+   ],
+   [
+    "Mustafi",
+    "Shkodran Mustafi",
+    "de"
+   ],
+   [
+    "Barragán",
+    "Antonio Barragán",
+    "es"
+   ],
+   [
+    "André Gomes",
+    "André Gomes",
+    "pt"
+   ],
+   [
+    "Enzo Pérez",
+    "Enzo Pérez",
+    "ar"
+   ],
+   [
+    "Javi Fuego",
+    "Javi Fuego",
+    "es"
+   ],
+   [
+    "Parejo",
+    "Dani Parejo",
+    "es"
+   ],
+   [
+    "Rodrigo",
+    "Rodrigo Moreno",
+    "es"
+   ],
+   [
+    "Santi Mina",
+    "Santi Mina",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Alavés",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "La liga, 3. kolo",
+  "season": "2016/17",
+  "y": 2016,
+  "note": "Novajlija iz Vitorije slavio na Kamp Nouu; iste sezone igrao i finale Kupa",
+  "form": "3-4-3",
+  "kit": [
+   "stripes",
+   "#0761af",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Pacheco",
+    "Fernando Pacheco",
+    "es"
+   ],
+   [
+    "Raúl García",
+    "Raúl García Carnero",
+    "es"
+   ],
+   [
+    "Laguardia",
+    "Víctor Laguardia",
+    "es"
+   ],
+   [
+    "Alexis",
+    "Alexis Ruano",
+    "es"
+   ],
+   [
+    "Theo Hernández",
+    "Theo Hernández",
+    "fr"
+   ],
+   [
+    "Llorente",
+    "Marcos Llorente",
+    "es"
+   ],
+   [
+    "Dani Torres",
+    "Dani Torres",
+    "co"
+   ],
+   [
+    "Femenía",
+    "Kiko Femenía",
+    "es"
+   ],
+   [
+    "Ibai Gómez",
+    "Ibai Gómez",
+    "es"
+   ],
+   [
+    "Deyverson",
+    "Deyverson",
+    "br"
+   ],
+   [
+    "Edgar Méndez",
+    "Edgar Méndez",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sevilla",
+  "opp": "Real Madrid",
+  "score": "2-1",
+  "comp": "La liga, 18. kolo",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Sampaolijeva Sevilja prekinula Realov rekordni niz od 40 mečeva bez poraza",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#d71920"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Sergio Rico",
+    "Sergio Rico",
+    "es"
+   ],
+   [
+    "Escudero",
+    "Sergio Escudero",
+    "es"
+   ],
+   [
+    "Pareja",
+    "Nicolás Pareja",
+    "ar"
+   ],
+   [
+    "Rami",
+    "Adil Rami",
+    "fr"
+   ],
+   [
+    "Mariano",
+    "Mariano Ferreira",
+    "br"
+   ],
+   [
+    "Nzonzi",
+    "Steven Nzonzi",
+    "fr"
+   ],
+   [
+    "Iborra",
+    "Vicente Iborra",
+    "es"
+   ],
+   [
+    "Nasri",
+    "Samir Nasri",
+    "fr"
+   ],
+   [
+    "Franco Vázquez",
+    "Franco Vázquez",
+    "ar"
+   ],
+   [
+    "Vitolo",
+    "Vitolo",
+    "es"
+   ],
+   [
+    "Ben Yedder",
+    "Wissam Ben Yedder",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Deportivo La Coruña",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "La liga, 27. kolo",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Samo četiri dana posle remontade protiv PSŽ-a, Barsa pala na Rijazoru",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#ffffff",
+   "#1c5ba2"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Lux",
+    "Germán Lux",
+    "ar"
+   ],
+   [
+    "Navarro",
+    "Fernando Navarro",
+    "es"
+   ],
+   [
+    "Albentosa",
+    "Raúl Albentosa",
+    "es"
+   ],
+   [
+    "Arribas",
+    "Alejandro Arribas",
+    "es"
+   ],
+   [
+    "Juanfran",
+    "Juanfran Moreno",
+    "es"
+   ],
+   [
+    "Borges",
+    "Celso Borges",
+    "cr"
+   ],
+   [
+    "Bergantiños",
+    "Álex Bergantiños",
+    "es"
+   ],
+   [
+    "Fajr",
+    "Fayçal Fajr",
+    "ma"
+   ],
+   [
+    "Carles Gil",
+    "Carles Gil",
+    "es"
+   ],
+   [
+    "Bruno Gama",
+    "Bruno Gama",
+    "pt"
+   ],
+   [
+    "Joselu",
+    "Joselu",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Málaga",
+  "opp": "Barcelona",
+  "score": "2-0",
+  "comp": "La liga, 31. kolo",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Mičelova Malaga zakomplikovala Barsi trku za titulu na Rosaledi",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#65b3e9",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Kameni",
+    "Carlos Kameni",
+    "cm"
+   ],
+   [
+    "Ricca",
+    "Federico Ricca",
+    "uy"
+   ],
+   [
+    "Luis Hernández",
+    "Luis Hernández",
+    "es"
+   ],
+   [
+    "Diego Llorente",
+    "Diego Llorente",
+    "es"
+   ],
+   [
+    "Juankar",
+    "Juan Carlos Pérez",
+    "es"
+   ],
+   [
+    "Fornals",
+    "Pablo Fornals",
+    "es"
+   ],
+   [
+    "Camacho",
+    "Ignacio Camacho",
+    "es"
+   ],
+   [
+    "Recio",
+    "Recio",
+    "es"
+   ],
+   [
+    "Rosales",
+    "Roberto Rosales",
+    "ve"
+   ],
+   [
+    "Sandro",
+    "Sandro Ramírez",
+    "es"
+   ],
+   [
+    "Juanpi",
+    "Juanpi Añor",
+    "ve"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "3-2",
+  "comp": "La liga, 33. kolo",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Pobednički gol u 92. minutu i proslava sa dresom podignutim ka tribinama",
+  "form": "4-1-2-1-2",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "ter Stegen",
+    "Marc-André ter Stegen",
+    "de"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Umtiti",
+    "Samuel Umtiti",
+    "fr"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Sergi Roberto",
+    "Sergi Roberto",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Rakitić",
+    "Ivan Rakitić",
+    "hr"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Alcácer",
+    "Paco Alcácer",
+    "es"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Málaga",
+  "score": "2-0",
+  "comp": "La liga, 38. kolo",
+  "season": "2016/17",
+  "y": 2017,
+  "note": "Titula osvojena u poslednjem kolu na Rosaledi, prva posle 2012.",
+  "form": "4-3-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#65b3e9",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Navas",
+    "Keylor Navas",
+    "cr"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Danilo",
+    "Danilo",
+    "br"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Isco",
+    "Isco Alarcón",
+    "es"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "3-1",
+  "comp": "Superkup Španije, 1. meč",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Džoker sa klupe dao gol, skinuo dres i dobio crveni karton; Superkup ukupno 5-1",
+  "form": "4-3-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Navas",
+    "Keylor Navas",
+    "cr"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Carvajal",
+    "Dani Carvajal",
+    "es"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Kovačić",
+    "Mateo Kovačić",
+    "hr"
+   ],
+   [
+    "Isco",
+    "Isco Alarcón",
+    "es"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ],
+   [
+    "Bale",
+    "Gareth Bale",
+    "gb-wls"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Girona",
+  "opp": "Real Madrid",
+  "score": "2-1",
+  "comp": "La liga, 10. kolo",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Prva sezona Đirone u eliti i preokret protiv aktuelnog šampiona Evrope",
+  "form": "3-4-2-1",
+  "kit": [
+   "stripes",
+   "#cd2534",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Bono",
+    "Yassine Bounou",
+    "ma"
+   ],
+   [
+    "Muniesa",
+    "Marc Muniesa",
+    "es"
+   ],
+   [
+    "Bernardo",
+    "Bernardo Espinosa",
+    "co"
+   ],
+   [
+    "Juanpe",
+    "Juanpe Ramírez",
+    "es"
+   ],
+   [
+    "Aday",
+    "Aday Benítez",
+    "es"
+   ],
+   [
+    "Pere Pons",
+    "Pere Pons",
+    "es"
+   ],
+   [
+    "Granell",
+    "Àlex Granell",
+    "es"
+   ],
+   [
+    "Maffeo",
+    "Pablo Maffeo",
+    "es"
+   ],
+   [
+    "Borja García",
+    "Borja García",
+    "es"
+   ],
+   [
+    "Portu",
+    "Portu",
+    "es"
+   ],
+   [
+    "Stuani",
+    "Cristhian Stuani",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "3-0",
+  "comp": "La liga, 17. kolo",
+  "season": "2017/18",
+  "y": 2017,
+  "note": "Valverdeova Barsa trijumfovala na Bernabeuu uoči Božića",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "ter Stegen",
+    "Marc-André ter Stegen",
+    "de"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Vermaelen",
+    "Thomas Vermaelen",
+    "be"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Sergi Roberto",
+    "Sergi Roberto",
+    "es"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Rakitić",
+    "Ivan Rakitić",
+    "hr"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Paulinho",
+    "Paulinho",
+    "br"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Levante",
+  "opp": "Barcelona",
+  "score": "5-4",
+  "comp": "La liga, 37. kolo",
+  "season": "2017/18",
+  "y": 2018,
+  "note": "Kraj Barsinog sna o prvenstvu bez poraza, u pretposlednjem kolu",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#b4053f",
+   "#004e94"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Oier",
+    "Oier Olazábal",
+    "es"
+   ],
+   [
+    "Luna",
+    "Antonio Luna",
+    "es"
+   ],
+   [
+    "Postigo",
+    "Sergio Postigo",
+    "es"
+   ],
+   [
+    "Róber Pier",
+    "Róber Pier",
+    "es"
+   ],
+   [
+    "Coke",
+    "Coke Andújar",
+    "es"
+   ],
+   [
+    "Bardhi",
+    "Enis Bardhi",
+    "mk"
+   ],
+   [
+    "Campaña",
+    "José Campaña",
+    "es"
+   ],
+   [
+    "Lukić",
+    "Saša Lukić",
+    "rs"
+   ],
+   [
+    "Morales",
+    "José Luis Morales",
+    "es"
+   ],
+   [
+    "Roger Martí",
+    "Roger Martí",
+    "es"
+   ],
+   [
+    "Boateng",
+    "Emmanuel Boateng",
+    "gh"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Sevilla",
+  "opp": "Real Madrid",
+  "score": "3-0",
+  "comp": "La liga, 6. kolo",
+  "season": "2018/19",
+  "y": 2018,
+  "note": "Mačinova Sevilja deklasirala Lopeteguijev Real na Sančez Pishuanu",
+  "form": "3-4-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#d71920"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Vaclík",
+    "Tomáš Vaclík",
+    "cz"
+   ],
+   [
+    "Carriço",
+    "Daniel Carriço",
+    "pt"
+   ],
+   [
+    "Kjær",
+    "Simon Kjær",
+    "dk"
+   ],
+   [
+    "Sergi Gómez",
+    "Sergi Gómez",
+    "es"
+   ],
+   [
+    "Arana",
+    "Guilherme Arana",
+    "br"
+   ],
+   [
+    "Banega",
+    "Éver Banega",
+    "ar"
+   ],
+   [
+    "Franco Vázquez",
+    "Franco Vázquez",
+    "ar"
+   ],
+   [
+    "Navas",
+    "Jesús Navas",
+    "es"
+   ],
+   [
+    "Sarabia",
+    "Pablo Sarabia",
+    "es"
+   ],
+   [
+    "André Silva",
+    "André Silva",
+    "pt"
+   ],
+   [
+    "Ben Yedder",
+    "Wissam Ben Yedder",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Betis",
+  "opp": "Barcelona",
+  "score": "4-3",
+  "comp": "La liga, 12. kolo",
+  "season": "2018/19",
+  "y": 2018,
+  "note": "Setjenov Betis dao četiri gola na Kamp Nouu",
+  "form": "3-4-1-2",
+  "kit": [
+   "stripes",
+   "#00954c",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Pau López",
+    "Pau López",
+    "es"
+   ],
+   [
+    "Sidnei",
+    "Sidnei",
+    "br"
+   ],
+   [
+    "Bartra",
+    "Marc Bartra",
+    "es"
+   ],
+   [
+    "Mandi",
+    "Aïssa Mandi",
+    "dz"
+   ],
+   [
+    "Junior Firpo",
+    "Junior Firpo",
+    "do"
+   ],
+   [
+    "William Carvalho",
+    "William Carvalho",
+    "pt"
+   ],
+   [
+    "Guardado",
+    "Andrés Guardado",
+    "mx"
+   ],
+   [
+    "Tello",
+    "Cristian Tello",
+    "es"
+   ],
+   [
+    "Lo Celso",
+    "Giovani Lo Celso",
+    "ar"
+   ],
+   [
+    "Joaquín",
+    "Joaquín Sánchez",
+    "es"
+   ],
+   [
+    "Loren",
+    "Loren Morón",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Eibar",
+  "opp": "Real Madrid",
+  "score": "3-0",
+  "comp": "La liga, 13. kolo",
+  "season": "2018/19",
+  "y": 2018,
+  "note": "Prvi poraz Solarija na klupi Reala, u malenoj Ipurui",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#003da5",
+   "#a50044"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Riesgo",
+    "Asier Riesgo",
+    "es"
+   ],
+   [
+    "Cote",
+    "Cote",
+    "es"
+   ],
+   [
+    "Ramis",
+    "Iván Ramis",
+    "es"
+   ],
+   [
+    "Paulo Oliveira",
+    "Paulo Oliveira",
+    "pt"
+   ],
+   [
+    "Rubén Peña",
+    "Rubén Peña",
+    "es"
+   ],
+   [
+    "Cucurella",
+    "Marc Cucurella",
+    "es"
+   ],
+   [
+    "Escalante",
+    "Gonzalo Escalante",
+    "ar"
+   ],
+   [
+    "Jordán",
+    "Joan Jordán",
+    "es"
+   ],
+   [
+    "Orellana",
+    "Fabián Orellana",
+    "cl"
+   ],
+   [
+    "Kike García",
+    "Kike García",
+    "es"
+   ],
+   [
+    "Enrich",
+    "Sergi Enrich",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Valencia",
+  "opp": "Barcelona",
+  "score": "2-0",
+  "comp": "La liga, 21. kolo",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Prvi poraz Setjena na klupi Barse, na Mestalji",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Jaume",
+    "Jaume Domènech",
+    "es"
+   ],
+   [
+    "Gayà",
+    "José Luis Gayà",
+    "es"
+   ],
+   [
+    "Gabriel",
+    "Gabriel Paulista",
+    "br"
+   ],
+   [
+    "Garay",
+    "Ezequiel Garay",
+    "ar"
+   ],
+   [
+    "Wass",
+    "Daniel Wass",
+    "dk"
+   ],
+   [
+    "Soler",
+    "Carlos Soler",
+    "es"
+   ],
+   [
+    "Kondogbia",
+    "Geoffrey Kondogbia",
+    "cf"
+   ],
+   [
+    "Coquelin",
+    "Francis Coquelin",
+    "fr"
+   ],
+   [
+    "Ferran",
+    "Ferran Torres",
+    "es"
+   ],
+   [
+    "Maxi Gómez",
+    "Maxi Gómez",
+    "uy"
+   ],
+   [
+    "Gameiro",
+    "Kévin Gameiro",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "2-0",
+  "comp": "La liga, 26. kolo",
+  "season": "2019/20",
+  "y": 2020,
+  "note": "Poslednji Klasiko pred pauzu zbog pandemije; Real se vratio na vrh tabele",
+  "form": "4-1-4-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Varane",
+    "Raphaël Varane",
+    "fr"
+   ],
+   [
+    "Carvajal",
+    "Dani Carvajal",
+    "es"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Vinícius",
+    "Vinícius Júnior",
+    "br"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Isco",
+    "Isco Alarcón",
+    "es"
+   ],
+   [
+    "Valverde",
+    "Fede Valverde",
+    "uy"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Sociedad",
+  "opp": "Athletic Bilbao",
+  "score": "1-0",
+  "comp": "Finale Kupa kralja",
+  "season": "2019/20",
+  "y": 2021,
+  "note": "Baskijsko finale bez publike, odigrano godinu dana kasnije zbog pandemije",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#0067b1",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#ee2523",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Remiro",
+    "Álex Remiro",
+    "es"
+   ],
+   [
+    "Monreal",
+    "Nacho Monreal",
+    "es"
+   ],
+   [
+    "Le Normand",
+    "Robin Le Normand",
+    "es"
+   ],
+   [
+    "Zubeldia",
+    "Igor Zubeldia",
+    "es"
+   ],
+   [
+    "Gorosabel",
+    "Andoni Gorosabel",
+    "es"
+   ],
+   [
+    "Silva",
+    "David Silva",
+    "es"
+   ],
+   [
+    "Zubimendi",
+    "Martín Zubimendi",
+    "es"
+   ],
+   [
+    "Merino",
+    "Mikel Merino",
+    "es"
+   ],
+   [
+    "Oyarzabal",
+    "Mikel Oyarzabal",
+    "es"
+   ],
+   [
+    "Isak",
+    "Alexander Isak",
+    "se"
+   ],
+   [
+    "Portu",
+    "Portu",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Getafe",
+  "opp": "Barcelona",
+  "score": "1-0",
+  "comp": "La liga, 6. kolo",
+  "season": "2020/21",
+  "y": 2020,
+  "note": "Bordalasov Hetafe iznenadio Kumanovu Barsu na Kolizeumu",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#005999",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Soria",
+    "David Soria",
+    "es"
+   ],
+   [
+    "Olivera",
+    "Mathías Olivera",
+    "uy"
+   ],
+   [
+    "Cabaco",
+    "Erick Cabaco",
+    "uy"
+   ],
+   [
+    "Djené",
+    "Djené Dakonam",
+    "tg"
+   ],
+   [
+    "Damián",
+    "Damián Suárez",
+    "uy"
+   ],
+   [
+    "Cucurella",
+    "Marc Cucurella",
+    "es"
+   ],
+   [
+    "Arambarri",
+    "Mauro Arambarri",
+    "uy"
+   ],
+   [
+    "Maksimović",
+    "Nemanja Maksimović",
+    "rs"
+   ],
+   [
+    "Nyom",
+    "Allan Nyom",
+    "cm"
+   ],
+   [
+    "Cucho",
+    "Cucho Hernández",
+    "co"
+   ],
+   [
+    "Mata",
+    "Jaime Mata",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Athletic Bilbao",
+  "opp": "Barcelona",
+  "score": "3-2 prod.",
+  "comp": "Finale Superkupa Španije",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Marselinov Atletik osvojio Superkup samo dve nedelje po dolasku trenera",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#ee2523",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Unai Simón",
+    "Unai Simón",
+    "es"
+   ],
+   [
+    "Balenziaga",
+    "Mikel Balenziaga",
+    "es"
+   ],
+   [
+    "Iñigo Martínez",
+    "Iñigo Martínez",
+    "es"
+   ],
+   [
+    "Yeray",
+    "Yeray Álvarez",
+    "es"
+   ],
+   [
+    "Capa",
+    "Ander Capa",
+    "es"
+   ],
+   [
+    "Muniain",
+    "Iker Muniain",
+    "es"
+   ],
+   [
+    "Vencedor",
+    "Unai Vencedor",
+    "es"
+   ],
+   [
+    "Dani García",
+    "Dani García",
+    "es"
+   ],
+   [
+    "De Marcos",
+    "Óscar de Marcos",
+    "es"
+   ],
+   [
+    "Raúl García",
+    "Raúl García",
+    "es"
+   ],
+   [
+    "Williams",
+    "Iñaki Williams",
+    "gh"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Athletic Bilbao",
+  "score": "4-0",
+  "comp": "Finale Kupa kralja",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Kumanov jedini trofej sa Barsom: četiri gola za 12 minuta u Sevilji",
+  "form": "3-5-2",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "stripes",
+   "#ee2523",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "ter Stegen",
+    "Marc-André ter Stegen",
+    "de"
+   ],
+   [
+    "Lenglet",
+    "Clément Lenglet",
+    "fr"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Mingueza",
+    "Óscar Mingueza",
+    "es"
+   ],
+   [
+    "Alba",
+    "Jordi Alba",
+    "es"
+   ],
+   [
+    "Pedri",
+    "Pedri",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "De Jong",
+    "Frenkie de Jong",
+    "nl"
+   ],
+   [
+    "Dest",
+    "Sergiño Dest",
+    "us"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Real Valladolid",
+  "score": "2-1",
+  "comp": "La liga, 38. kolo",
+  "season": "2020/21",
+  "y": 2021,
+  "note": "Preokret u poslednjem kolu doneo Simeoneu drugu titulu",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#921b88",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Oblak",
+    "Jan Oblak",
+    "si"
+   ],
+   [
+    "Hermoso",
+    "Mario Hermoso",
+    "es"
+   ],
+   [
+    "Felipe",
+    "Felipe Monteiro",
+    "br"
+   ],
+   [
+    "Giménez",
+    "José María Giménez",
+    "uy"
+   ],
+   [
+    "Trippier",
+    "Kieran Trippier",
+    "gb-eng"
+   ],
+   [
+    "Saúl",
+    "Saúl Ñíguez",
+    "es"
+   ],
+   [
+    "Koke",
+    "Koke Resurrección",
+    "es"
+   ],
+   [
+    "Llorente",
+    "Marcos Llorente",
+    "es"
+   ],
+   [
+    "Carrasco",
+    "Yannick Carrasco",
+    "be"
+   ],
+   [
+    "Suárez",
+    "Luis Suárez",
+    "uy"
+   ],
+   [
+    "Correa",
+    "Ángel Correa",
+    "ar"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "La liga, 10. kolo",
+  "season": "2021/22",
+  "y": 2021,
+  "note": "Prvi Klasiko posle Mesijevog odlaska iz Barselone",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Mendy",
+    "Ferland Mendy",
+    "fr"
+   ],
+   [
+    "Alaba",
+    "David Alaba",
+    "at"
+   ],
+   [
+    "Militão",
+    "Éder Militão",
+    "br"
+   ],
+   [
+    "Lucas Vázquez",
+    "Lucas Vázquez",
+    "es"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Casemiro",
+    "Casemiro",
+    "br"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Vinícius",
+    "Vinícius Júnior",
+    "br"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ],
+   [
+    "Rodrygo",
+    "Rodrygo",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Betis",
+  "opp": "Valencia",
+  "score": "1-1 (5-4 pen.)",
+  "comp": "Finale Kupa kralja",
+  "season": "2021/22",
+  "y": 2022,
+  "note": "Peljegrinijev Betis u Sevilji osvojio prvi Kup kralja posle 2005.",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#00954c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Bravo",
+    "Claudio Bravo",
+    "cl"
+   ],
+   [
+    "Álex Moreno",
+    "Álex Moreno",
+    "es"
+   ],
+   [
+    "Pezzella",
+    "Germán Pezzella",
+    "ar"
+   ],
+   [
+    "Bartra",
+    "Marc Bartra",
+    "es"
+   ],
+   [
+    "Bellerín",
+    "Héctor Bellerín",
+    "es"
+   ],
+   [
+    "Guido Rodríguez",
+    "Guido Rodríguez",
+    "ar"
+   ],
+   [
+    "William Carvalho",
+    "William Carvalho",
+    "pt"
+   ],
+   [
+    "Juanmi",
+    "Juanmi",
+    "es"
+   ],
+   [
+    "Fekir",
+    "Nabil Fekir",
+    "fr"
+   ],
+   [
+    "Canales",
+    "Sergio Canales",
+    "es"
+   ],
+   [
+    "Borja Iglesias",
+    "Borja Iglesias",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "3-1",
+  "comp": "Finale Superkupa Španije",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Prvi trofej Ćavija kao trenera Barse, osvojen u Rijadu",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "ter Stegen",
+    "Marc-André ter Stegen",
+    "de"
+   ],
+   [
+    "Balde",
+    "Alejandro Balde",
+    "es"
+   ],
+   [
+    "Christensen",
+    "Andreas Christensen",
+    "dk"
+   ],
+   [
+    "Koundé",
+    "Jules Koundé",
+    "fr"
+   ],
+   [
+    "Araujo",
+    "Ronald Araújo",
+    "uy"
+   ],
+   [
+    "De Jong",
+    "Frenkie de Jong",
+    "nl"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Pedri",
+    "Pedri",
+    "es"
+   ],
+   [
+    "Gavi",
+    "Gavi",
+    "es"
+   ],
+   [
+    "Lewandowski",
+    "Robert Lewandowski",
+    "pl"
+   ],
+   [
+    "Dembélé",
+    "Ousmane Dembélé",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Osasuna",
+  "opp": "Real Madrid",
+  "score": "1-2",
+  "comp": "Finale Kupa kralja",
+  "season": "2022/23",
+  "y": 2023,
+  "note": "Arasateova Osasuna u drugom finalu Kupa u istoriji kluba, posle 2005.",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#d91a21",
+   "#0a346f"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Herrera",
+    "Sergio Herrera",
+    "es"
+   ],
+   [
+    "Juan Cruz",
+    "Juan Cruz",
+    "es"
+   ],
+   [
+    "David García",
+    "David García",
+    "es"
+   ],
+   [
+    "Aridane",
+    "Aridane Hernández",
+    "es"
+   ],
+   [
+    "Moncayola",
+    "Jon Moncayola",
+    "es"
+   ],
+   [
+    "Torró",
+    "Lucas Torró",
+    "es"
+   ],
+   [
+    "Moi Gómez",
+    "Moi Gómez",
+    "es"
+   ],
+   [
+    "Abde",
+    "Abde Ezzalzouli",
+    "ma"
+   ],
+   [
+    "Oroz",
+    "Aimar Oroz",
+    "es"
+   ],
+   [
+    "Rubén Peña",
+    "Rubén Peña",
+    "es"
+   ],
+   [
+    "Budimir",
+    "Ante Budimir",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Real Madrid",
+  "score": "3-1",
+  "comp": "La liga, 6. kolo",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Prvi poraz Reala te sezone, u madridskom derbiju na Metropolitanu",
+  "form": "5-3-2",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Oblak",
+    "Jan Oblak",
+    "si"
+   ],
+   [
+    "Lino",
+    "Samuel Lino",
+    "br"
+   ],
+   [
+    "Hermoso",
+    "Mario Hermoso",
+    "es"
+   ],
+   [
+    "Savić",
+    "Stefan Savić",
+    "me"
+   ],
+   [
+    "Giménez",
+    "José María Giménez",
+    "uy"
+   ],
+   [
+    "Molina",
+    "Nahuel Molina",
+    "ar"
+   ],
+   [
+    "Saúl",
+    "Saúl Ñíguez",
+    "es"
+   ],
+   [
+    "Koke",
+    "Koke Resurrección",
+    "es"
+   ],
+   [
+    "Llorente",
+    "Marcos Llorente",
+    "es"
+   ],
+   [
+    "Morata",
+    "Álvaro Morata",
+    "es"
+   ],
+   [
+    "Griezmann",
+    "Antoine Griezmann",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Girona",
+  "opp": "Barcelona",
+  "score": "4-2",
+  "comp": "La liga, 16. kolo",
+  "season": "2023/24",
+  "y": 2023,
+  "note": "Mičelova Đirona na Montžuiku potvrdila prvo mesto na tabeli",
+  "form": "3-4-3",
+  "kit": [
+   "stripes",
+   "#cd2534",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Gazzaniga",
+    "Paulo Gazzaniga",
+    "ar"
+   ],
+   [
+    "Blind",
+    "Daley Blind",
+    "nl"
+   ],
+   [
+    "Eric García",
+    "Eric García",
+    "es"
+   ],
+   [
+    "David López",
+    "David López",
+    "es"
+   ],
+   [
+    "Gutiérrez",
+    "Miguel Gutiérrez",
+    "es"
+   ],
+   [
+    "Aleix García",
+    "Aleix García",
+    "es"
+   ],
+   [
+    "Iván Martín",
+    "Iván Martín",
+    "es"
+   ],
+   [
+    "Yan Couto",
+    "Yan Couto",
+    "br"
+   ],
+   [
+    "Savinho",
+    "Savinho",
+    "br"
+   ],
+   [
+    "Dovbyk",
+    "Artem Dovbyk",
+    "ua"
+   ],
+   [
+    "Tsygankov",
+    "Viktor Tsygankov",
+    "ua"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Villarreal",
+  "opp": "Barcelona",
+  "score": "5-3",
+  "comp": "La liga, 22. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Dva gola u nadoknadi na Montžuiku; Ćavi iste večeri najavio odlazak",
+  "form": "4-4-2",
+  "kit": [
+   "solid",
+   "#ffe667",
+   "#005187"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Jørgensen",
+    "Filip Jørgensen",
+    "dk"
+   ],
+   [
+    "Alberto Moreno",
+    "Alberto Moreno",
+    "es"
+   ],
+   [
+    "Cuenca",
+    "Jorge Cuenca",
+    "es"
+   ],
+   [
+    "Bailly",
+    "Eric Bailly",
+    "ci"
+   ],
+   [
+    "Femenía",
+    "Kiko Femenía",
+    "es"
+   ],
+   [
+    "Baena",
+    "Álex Baena",
+    "es"
+   ],
+   [
+    "Comesaña",
+    "Santi Comesaña",
+    "es"
+   ],
+   [
+    "Coquelin",
+    "Francis Coquelin",
+    "fr"
+   ],
+   [
+    "Akhomach",
+    "Ilias Akhomach",
+    "ma"
+   ],
+   [
+    "Sørloth",
+    "Alexander Sørloth",
+    "no"
+   ],
+   [
+    "Gerard Moreno",
+    "Gerard Moreno",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Athletic Bilbao",
+  "opp": "Mallorca",
+  "score": "1-1 (4-2 pen.)",
+  "comp": "Finale Kupa kralja",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Prvi trofej posle 40 godina; gabara ponovo zaplovila Bilbaom",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#ee2523",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e20613",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Agirrezabala",
+    "Julen Agirrezabala",
+    "es"
+   ],
+   [
+    "Yuri",
+    "Yuri Berchiche",
+    "es"
+   ],
+   [
+    "Paredes",
+    "Aitor Paredes",
+    "es"
+   ],
+   [
+    "Vivian",
+    "Dani Vivian",
+    "es"
+   ],
+   [
+    "De Marcos",
+    "Óscar de Marcos",
+    "es"
+   ],
+   [
+    "Prados",
+    "Beñat Prados",
+    "es"
+   ],
+   [
+    "Ruiz de Galarreta",
+    "Iñigo Ruiz de Galarreta",
+    "es"
+   ],
+   [
+    "Nico Williams",
+    "Nico Williams",
+    "es"
+   ],
+   [
+    "Sancet",
+    "Oihan Sancet",
+    "es"
+   ],
+   [
+    "Iñaki Williams",
+    "Iñaki Williams",
+    "gh"
+   ],
+   [
+    "Guruzeta",
+    "Gorka Guruzeta",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Mallorca",
+  "opp": "Athletic Bilbao",
+  "score": "1-1 (2-4 pen.)",
+  "comp": "Finale Kupa kralja",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Agireova Majorka u prvom finalu Kupa posle trofeja iz 2003.",
+  "form": "5-3-2",
+  "kit": [
+   "solid",
+   "#e20613",
+   "#000000"
+  ],
+  "okit": [
+   "stripes",
+   "#ee2523",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Greif",
+    "Dominik Greif",
+    "sk"
+   ],
+   [
+    "Toni Lato",
+    "Toni Lato",
+    "es"
+   ],
+   [
+    "Copete",
+    "José Copete",
+    "es"
+   ],
+   [
+    "Valjent",
+    "Martin Valjent",
+    "sk"
+   ],
+   [
+    "Raíllo",
+    "Antonio Raíllo",
+    "es"
+   ],
+   [
+    "Giovanni González",
+    "Giovanni González",
+    "uy"
+   ],
+   [
+    "Samú Costa",
+    "Samú Costa",
+    "pt"
+   ],
+   [
+    "Darder",
+    "Sergi Darder",
+    "es"
+   ],
+   [
+    "Dani Rodríguez",
+    "Dani Rodríguez",
+    "es"
+   ],
+   [
+    "Larin",
+    "Cyle Larin",
+    "ca"
+   ],
+   [
+    "Muriqi",
+    "Vedat Muriqi",
+    "xk"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "3-2",
+  "comp": "La liga, 32. kolo",
+  "season": "2023/24",
+  "y": 2024,
+  "note": "Gol u 91. minutu praktično odlučio šampiona",
+  "form": "4-3-1-2",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Lunin",
+    "Andriy Lunin",
+    "ua"
+   ],
+   [
+    "Camavinga",
+    "Eduardo Camavinga",
+    "fr"
+   ],
+   [
+    "Rüdiger",
+    "Antonio Rüdiger",
+    "de"
+   ],
+   [
+    "Tchouaméni",
+    "Aurélien Tchouaméni",
+    "fr"
+   ],
+   [
+    "Lucas Vázquez",
+    "Lucas Vázquez",
+    "es"
+   ],
+   [
+    "Modrić",
+    "Luka Modrić",
+    "hr"
+   ],
+   [
+    "Kroos",
+    "Toni Kroos",
+    "de"
+   ],
+   [
+    "Valverde",
+    "Fede Valverde",
+    "uy"
+   ],
+   [
+    "Bellingham",
+    "Jude Bellingham",
+    "gb-eng"
+   ],
+   [
+    "Vinícius",
+    "Vinícius Júnior",
+    "br"
+   ],
+   [
+    "Rodrygo",
+    "Rodrygo",
+    "br"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "4-0",
+  "comp": "La liga, 11. kolo",
+  "season": "2024/25",
+  "y": 2024,
+  "note": "Flikova Barsa na Bernabeuu prekinula Realov niz od 42 prvenstvena meča bez poraza",
+  "form": "4-2-3-1",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Peña",
+    "Iñaki Peña",
+    "es"
+   ],
+   [
+    "Balde",
+    "Alejandro Balde",
+    "es"
+   ],
+   [
+    "Iñigo Martínez",
+    "Iñigo Martínez",
+    "es"
+   ],
+   [
+    "Cubarsí",
+    "Pau Cubarsí",
+    "es"
+   ],
+   [
+    "Koundé",
+    "Jules Koundé",
+    "fr"
+   ],
+   [
+    "Pedri",
+    "Pedri",
+    "es"
+   ],
+   [
+    "Casadó",
+    "Marc Casadó",
+    "es"
+   ],
+   [
+    "Raphinha",
+    "Raphinha",
+    "br"
+   ],
+   [
+    "Fermín",
+    "Fermín López",
+    "es"
+   ],
+   [
+    "Lamine Yamal",
+    "Lamine Yamal",
+    "es"
+   ],
+   [
+    "Lewandowski",
+    "Robert Lewandowski",
+    "pl"
    ]
   ]
  }
