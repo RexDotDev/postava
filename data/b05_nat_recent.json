@@ -1,0 +1,1129 @@
+[
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Greece",
+  "opp": "Slovenia",
+  "score": "57-56",
+  "comp": "EuroBasket 2009, bronze medal game",
+  "season": "2009",
+  "y": 2009,
+  "note": "Bronze decided by a single point in Katowice",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0d5eaf"
+  ],
+  "okit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Spanoulis",
+    "Vassilis Spanoulis",
+    "gr"
+   ],
+   [
+    "Zisis",
+    "Nikos Zisis",
+    "gr"
+   ],
+   [
+    "Perperoglou",
+    "Efstratios Perperoglou",
+    "gr"
+   ],
+   [
+    "Fotsis",
+    "Antonis Fotsis",
+    "gr"
+   ],
+   [
+    "Bourousis",
+    "Ioannis Bourousis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Spain",
+  "score": "85-98",
+  "comp": "EuroBasket 2011, final",
+  "season": "2011",
+  "y": 2011,
+  "note": "Silver: Spain retained the European crown in Kaunas with a 13-point win",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "p": [
+   [
+    "Parker",
+    "Tony Parker",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "Pietrus",
+    "Florent Pietrus",
+    "fr"
+   ],
+   [
+    "Diaw",
+    "Boris Diaw",
+    "fr"
+   ],
+   [
+    "Noah",
+    "Joakim Noah",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Macedonia",
+  "opp": "Lithuania",
+  "score": "67-65",
+  "comp": "EuroBasket 2011, quarter-final",
+  "season": "2011",
+  "y": 2011,
+  "note": "Two-point upset of hosts Lithuania in Kaunas sent Macedonia into the semi-finals",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#d20000",
+   "#ffe600"
+  ],
+  "okit": [
+   "solid",
+   "#006a44",
+   "#fdb913"
+  ],
+  "p": [
+   [
+    "McCalebb",
+    "Bo McCalebb",
+    "mk"
+   ],
+   [
+    "Ilievski",
+    "Vlado Ilievski",
+    "mk"
+   ],
+   [
+    "Stojanovski",
+    "Vojdan Stojanovski",
+    "mk"
+   ],
+   [
+    "Antić",
+    "Pero Antić",
+    "mk"
+   ],
+   [
+    "Samardžiski",
+    "Predrag Samardžiski",
+    "mk"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Russia",
+  "opp": "Macedonia",
+  "score": "72-68",
+  "comp": "EuroBasket 2011, bronze medal game",
+  "season": "2011",
+  "y": 2011,
+  "note": "Bronze for Russia, four years after their 2007 European title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#d52b1e"
+  ],
+  "okit": [
+   "solid",
+   "#d20000",
+   "#ffe600"
+  ],
+  "p": [
+   [
+    "Ponkrashov",
+    "Anton Ponkrashov",
+    "ru"
+   ],
+   [
+    "Bykov",
+    "Sergey Bykov",
+    "ru"
+   ],
+   [
+    "Kirilenko",
+    "Andrei Kirilenko",
+    "ru"
+   ],
+   [
+    "Vorontsevich",
+    "Andrey Vorontsevich",
+    "ru"
+   ],
+   [
+    "Mozgov",
+    "Timofey Mozgov",
+    "ru"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Croatia",
+  "opp": "Ukraine",
+  "score": "84-72",
+  "comp": "EuroBasket 2013, quarter-final",
+  "season": "2013",
+  "y": 2013,
+  "note": "Quarter-final win sent Croatia into the last four, where Lithuania awaited",
+  "form": "5",
+  "kit": [
+   "checks",
+   "#ed1c24",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffd500",
+   "#0057b7"
+  ],
+  "p": [
+   [
+    "Ukić",
+    "Roko Ukić",
+    "hr"
+   ],
+   [
+    "Simon",
+    "Krunoslav Simon",
+    "hr"
+   ],
+   [
+    "Bogdanović",
+    "Bojan Bogdanović",
+    "hr"
+   ],
+   [
+    "Markota",
+    "Damir Markota",
+    "hr"
+   ],
+   [
+    "Tomić",
+    "Ante Tomić",
+    "hr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "Croatia",
+  "score": "92-66",
+  "comp": "EuroBasket 2013, bronze medal game",
+  "season": "2013",
+  "y": 2013,
+  "note": "Bronze after a narrow semi-final loss to France",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "okit": [
+   "checks",
+   "#ed1c24",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Calderón",
+    "José Calderón",
+    "es"
+   ],
+   [
+    "Fernández",
+    "Rudy Fernández",
+    "es"
+   ],
+   [
+    "Claver",
+    "Víctor Claver",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Serbia",
+  "score": "81-68",
+  "comp": "EuroBasket 2015, bronze medal game",
+  "season": "2015",
+  "y": 2015,
+  "note": "Bronze in Lille after an overtime semi-final loss to Spain",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Parker",
+    "Tony Parker",
+    "fr"
+   ],
+   [
+    "De Colo",
+    "Nando De Colo",
+    "fr"
+   ],
+   [
+    "Batum",
+    "Nicolas Batum",
+    "fr"
+   ],
+   [
+    "Diaw",
+    "Boris Diaw",
+    "fr"
+   ],
+   [
+    "Gobert",
+    "Rudy Gobert",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Italy",
+  "opp": "Spain",
+  "score": "105-98",
+  "comp": "EuroBasket 2015, group stage",
+  "season": "2015",
+  "y": 2015,
+  "note": "Group-phase shock in Berlin; Spain still went on to win the tournament",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "p": [
+   [
+    "Cinciarini",
+    "Andrea Cinciarini",
+    "it"
+   ],
+   [
+    "Belinelli",
+    "Marco Belinelli",
+    "it"
+   ],
+   [
+    "Gentile",
+    "Alessandro Gentile",
+    "it"
+   ],
+   [
+    "Gallinari",
+    "Danilo Gallinari",
+    "it"
+   ],
+   [
+    "Bargnani",
+    "Andrea Bargnani",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Lithuania",
+  "opp": "Spain",
+  "score": "63-80",
+  "comp": "EuroBasket 2015, final",
+  "season": "2015",
+  "y": 2015,
+  "note": "Second straight silver for Lithuania as Spain took a third EuroBasket title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#006a44",
+   "#fdb913"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "p": [
+   [
+    "Kalnietis",
+    "Mantas Kalnietis",
+    "lt"
+   ],
+   [
+    "Seibutis",
+    "Renaldas Seibutis",
+    "lt"
+   ],
+   [
+    "Mačiulis",
+    "Jonas Mačiulis",
+    "lt"
+   ],
+   [
+    "Jankūnas",
+    "Paulius Jankūnas",
+    "lt"
+   ],
+   [
+    "Valančiūnas",
+    "Jonas Valančiūnas",
+    "lt"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Latvia",
+  "opp": "Slovenia",
+  "score": "97-103",
+  "comp": "EuroBasket 2017, quarter-final",
+  "season": "2017",
+  "y": 2017,
+  "note": "A 200-point quarter-final; Slovenia went on to win the title",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#9e1b32",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Strēlnieks",
+    "Jānis Strēlnieks",
+    "lv"
+   ],
+   [
+    "Bertāns",
+    "Dairis Bertāns",
+    "lv"
+   ],
+   [
+    "Timma",
+    "Jānis Timma",
+    "lv"
+   ],
+   [
+    "Šmits",
+    "Rolands Šmits",
+    "lv"
+   ],
+   [
+    "Porziņģis",
+    "Kristaps Porziņģis",
+    "lv"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "Russia",
+  "score": "93-85",
+  "comp": "EuroBasket 2017, bronze medal game",
+  "season": "2017",
+  "y": 2017,
+  "note": "Bronze after a heavy semi-final defeat by eventual champions Slovenia",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c60b1e",
+   "#ffc400"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#d52b1e"
+  ],
+  "p": [
+   [
+    "Rubio",
+    "Ricky Rubio",
+    "es"
+   ],
+   [
+    "Navarro",
+    "Juan Carlos Navarro",
+    "es"
+   ],
+   [
+    "San Emeterio",
+    "Fernando San Emeterio",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Pau Gasol",
+    "es"
+   ],
+   [
+    "Gasol",
+    "Marc Gasol",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Finland",
+  "opp": "Croatia",
+  "score": "94-86",
+  "comp": "EuroBasket 2022, round of 16",
+  "season": "2022",
+  "y": 2022,
+  "note": "Round-of-16 win over Croatia sent Finland to the quarter-finals, where Spain awaited",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0057b8"
+  ],
+  "okit": [
+   "checks",
+   "#ed1c24",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Maxhuni",
+    "Edon Maxhuni",
+    "fi"
+   ],
+   [
+    "Salin",
+    "Sasu Salin",
+    "fi"
+   ],
+   [
+    "Jantunen",
+    "Mikael Jantunen",
+    "fi"
+   ],
+   [
+    "Markkanen",
+    "Lauri Markkanen",
+    "fi"
+   ],
+   [
+    "Huff",
+    "Shawn Huff",
+    "fi"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "France",
+  "opp": "Spain",
+  "score": "76-88",
+  "comp": "EuroBasket 2022, final",
+  "season": "2022",
+  "y": 2022,
+  "note": "Beaten in the Berlin final after crushing Poland 95-54 in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#002654",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "p": [
+   [
+    "Albicy",
+    "Andrew Albicy",
+    "fr"
+   ],
+   [
+    "Fournier",
+    "Evan Fournier",
+    "fr"
+   ],
+   [
+    "Tarpey",
+    "Terry Tarpey",
+    "fr"
+   ],
+   [
+    "Yabusele",
+    "Guerschon Yabusele",
+    "fr"
+   ],
+   [
+    "Gobert",
+    "Rudy Gobert",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Germany",
+  "opp": "Poland",
+  "score": "82-69",
+  "comp": "EuroBasket 2022, bronze medal game",
+  "season": "2022",
+  "y": 2022,
+  "note": "Germany's first EuroBasket medal since the 2005 silver",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#dc143c",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Schröder",
+    "Dennis Schröder",
+    "de"
+   ],
+   [
+    "Obst",
+    "Andreas Obst",
+    "de"
+   ],
+   [
+    "Wagner",
+    "Franz Wagner",
+    "de"
+   ],
+   [
+    "Theis",
+    "Daniel Theis",
+    "de"
+   ],
+   [
+    "Voigtmann",
+    "Johannes Voigtmann",
+    "de"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Greece",
+  "opp": "Germany",
+  "score": "96-107",
+  "comp": "EuroBasket 2022, quarter-final",
+  "season": "2022",
+  "y": 2022,
+  "note": "Quarter-final loss in Berlin to Germany, who went on to win bronze",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0d5eaf",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#000000"
+  ],
+  "p": [
+   [
+    "Calathes",
+    "Nick Calathes",
+    "gr"
+   ],
+   [
+    "Dorsey",
+    "Tyler Dorsey",
+    "gr"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Antetokounmpo",
+    "Giannis Antetokounmpo",
+    "gr"
+   ],
+   [
+    "Papagiannis",
+    "Georgios Papagiannis",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Italy",
+  "opp": "Serbia",
+  "score": "94-86",
+  "comp": "EuroBasket 2022, round of 16",
+  "season": "2022",
+  "y": 2022,
+  "note": "Round-of-16 upset ended Serbia's tournament; France then beat Italy in the quarter-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Spissu",
+    "Marco Spissu",
+    "it"
+   ],
+   [
+    "Tonut",
+    "Stefano Tonut",
+    "it"
+   ],
+   [
+    "Fontecchio",
+    "Simone Fontecchio",
+    "it"
+   ],
+   [
+    "Polonara",
+    "Achille Polonara",
+    "it"
+   ],
+   [
+    "Melli",
+    "Nicolò Melli",
+    "it"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Poland",
+  "opp": "Slovenia",
+  "score": "90-87",
+  "comp": "EuroBasket 2022, quarter-final",
+  "season": "2022",
+  "y": 2022,
+  "note": "Quarter-final upset of Slovenia; France then beat Poland 95-54 in the semi-final",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#dc143c",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Slaughter",
+    "A.J. Slaughter",
+    "pl"
+   ],
+   [
+    "Sokołowski",
+    "Michał Sokołowski",
+    "pl"
+   ],
+   [
+    "Ponitka",
+    "Mateusz Ponitka",
+    "pl"
+   ],
+   [
+    "Cel",
+    "Aaron Cel",
+    "pl"
+   ],
+   [
+    "Balcerowski",
+    "Aleksander Balcerowski",
+    "pl"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Spain",
+  "opp": "France",
+  "score": "88-76",
+  "comp": "EuroBasket 2022, final",
+  "season": "2022",
+  "y": 2022,
+  "note": "Fourth EuroBasket title for Spain, won in Berlin",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#c60b1e"
+  ],
+  "okit": [
+   "solid",
+   "#002654",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Brown",
+    "Lorenzo Brown",
+    "es"
+   ],
+   [
+    "Fernández",
+    "Jaime Fernández",
+    "es"
+   ],
+   [
+    "López-Arostegui",
+    "Xabi López-Arostegui",
+    "es"
+   ],
+   [
+    "Pradilla",
+    "Jaime Pradilla",
+    "es"
+   ],
+   [
+    "Hernangómez",
+    "Willy Hernangómez",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Finland",
+  "opp": "Serbia",
+  "score": "92-86",
+  "comp": "EuroBasket 2025, round of 16",
+  "season": "2025",
+  "y": 2025,
+  "note": "Round-of-16 stunner in Riga launched Finland's run to the semi-finals",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0057b8"
+  ],
+  "okit": [
+   "solid",
+   "#e2231a",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Little",
+    "Miro Little",
+    "fi"
+   ],
+   [
+    "Grandison",
+    "Jacob Grandison",
+    "fi"
+   ],
+   [
+    "Valtonen",
+    "Elias Valtonen",
+    "fi"
+   ],
+   [
+    "Jantunen",
+    "Mikael Jantunen",
+    "fi"
+   ],
+   [
+    "Markkanen",
+    "Lauri Markkanen",
+    "fi"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Georgia",
+  "opp": "France",
+  "score": "80-70",
+  "comp": "EuroBasket 2025, round of 16",
+  "season": "2025",
+  "y": 2025,
+  "note": "Round-of-16 upset of France sent Georgia into the quarter-finals",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0b2a6f",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Baldwin",
+    "Kamar Baldwin",
+    "ge"
+   ],
+   [
+    "Sanadze",
+    "Duda Sanadze",
+    "ge"
+   ],
+   [
+    "Shengelia",
+    "Tornike Shengelia",
+    "ge"
+   ],
+   [
+    "Mamukelashvili",
+    "Sandro Mamukelashvili",
+    "ge"
+   ],
+   [
+    "Bitadze",
+    "Goga Bitadze",
+    "ge"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Greece",
+  "opp": "Finland",
+  "score": "92-89",
+  "comp": "EuroBasket 2025, bronze medal game",
+  "season": "2025",
+  "y": 2025,
+  "note": "Bronze in Riga, two days after a 94-68 semi-final defeat by Turkey",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#0d5eaf"
+  ],
+  "okit": [
+   "solid",
+   "#0057b8",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Sloukas",
+    "Kostas Sloukas",
+    "gr"
+   ],
+   [
+    "Dorsey",
+    "Tyler Dorsey",
+    "gr"
+   ],
+   [
+    "Katsivelis",
+    "Dimitris Katsivelis",
+    "gr"
+   ],
+   [
+    "Papanikolaou",
+    "Kostas Papanikolaou",
+    "gr"
+   ],
+   [
+    "Antetokounmpo",
+    "Giannis Antetokounmpo",
+    "gr"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Slovenia",
+  "opp": "Italy",
+  "score": "84-77",
+  "comp": "EuroBasket 2025, round of 16",
+  "season": "2025",
+  "y": 2025,
+  "note": "Round-of-16 win; Slovenia lost the quarter-final to eventual champions Germany",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#00a551",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#0055a4",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Nikolić",
+    "Aleksej Nikolić",
+    "si"
+   ],
+   [
+    "Dončić",
+    "Luka Dončić",
+    "si"
+   ],
+   [
+    "Hrovat",
+    "Gregor Hrovat",
+    "si"
+   ],
+   [
+    "Murić",
+    "Edo Murić",
+    "si"
+   ],
+   [
+    "Krampelj",
+    "Martin Krampelj",
+    "si"
+   ]
+  ]
+ },
+ {
+  "sport": "bb",
+  "cat": "nat",
+  "team": "Turkey",
+  "opp": "Germany",
+  "score": "83-88",
+  "comp": "EuroBasket 2025, final",
+  "season": "2025",
+  "y": 2025,
+  "note": "Turkey's first EuroBasket final since 2001; Germany took the title in Riga",
+  "form": "5",
+  "kit": [
+   "solid",
+   "#e30a17",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#000000",
+   "#ffffff"
+  ],
+  "p": [
+   [
+    "Larkin",
+    "Shane Larkin",
+    "tr"
+   ],
+   [
+    "Hazer",
+    "Şehmus Hazer",
+    "tr"
+   ],
+   [
+    "Osman",
+    "Cedi Osman",
+    "tr"
+   ],
+   [
+    "Osmani",
+    "Ercan Osmani",
+    "tr"
+   ],
+   [
+    "Şengün",
+    "Alperen Şengün",
+    "tr"
+   ]
+  ]
+ }
+]
