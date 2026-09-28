@@ -1,0 +1,397 @@
+[
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "5-0",
+  "comp": "La liga, 13. kolo",
+  "season": "2010/11",
+  "y": 2010,
+  "note": "Manita Gvardiolinog tima: prvi Murinjov poraz na klupi Reala",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Valdés",
+    "Víctor Valdés",
+    "es"
+   ],
+   [
+    "Abidal",
+    "Eric Abidal",
+    "fr"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Puyol",
+    "Carles Puyol",
+    "es"
+   ],
+   [
+    "Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Busquets",
+    "Sergio Busquets",
+    "es"
+   ],
+   [
+    "Xavi",
+    "Xavi Hernández",
+    "es"
+   ],
+   [
+    "Villa",
+    "David Villa",
+    "es"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Pedro",
+    "Pedro Rodríguez",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Barcelona",
+  "opp": "Real Madrid",
+  "score": "6-2",
+  "comp": "La liga, 34. kolo",
+  "season": "2008/09",
+  "y": 2009,
+  "note": "Šest golova na Bernabeuu; prvi put Mesi kao lažna devetka u Klasiku",
+  "form": "4-3-3",
+  "kit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "okit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "p": [
+   [
+    "Valdés",
+    "Víctor Valdés",
+    "es"
+   ],
+   [
+    "Abidal",
+    "Eric Abidal",
+    "fr"
+   ],
+   [
+    "Piqué",
+    "Gerard Piqué",
+    "es"
+   ],
+   [
+    "Puyol",
+    "Carles Puyol",
+    "es"
+   ],
+   [
+    "Alves",
+    "Dani Alves",
+    "br"
+   ],
+   [
+    "Iniesta",
+    "Andrés Iniesta",
+    "es"
+   ],
+   [
+    "Touré",
+    "Yaya Touré",
+    "ci"
+   ],
+   [
+    "Xavi",
+    "Xavi Hernández",
+    "es"
+   ],
+   [
+    "Henry",
+    "Thierry Henry",
+    "fr"
+   ],
+   [
+    "Messi",
+    "Lionel Messi",
+    "ar"
+   ],
+   [
+    "Eto'o",
+    "Samuel Eto'o",
+    "cm"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Atlético Madrid",
+  "opp": "Barcelona",
+  "score": "1-1",
+  "comp": "La liga, 38. kolo",
+  "season": "2013/14",
+  "y": 2014,
+  "note": "Titula osvojena na Kamp Nouu u direktnom duelu za šampiona u poslednjem kolu",
+  "form": "4-4-2",
+  "kit": [
+   "stripes",
+   "#cb3524",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Courtois",
+    "Thibaut Courtois",
+    "be"
+   ],
+   [
+    "Filipe Luís",
+    "Filipe Luís",
+    "br"
+   ],
+   [
+    "Godín",
+    "Diego Godín",
+    "uy"
+   ],
+   [
+    "Miranda",
+    "João Miranda",
+    "br"
+   ],
+   [
+    "Juanfran",
+    "Juanfran Torres",
+    "es"
+   ],
+   [
+    "Koke",
+    "Koke Resurrección",
+    "es"
+   ],
+   [
+    "Gabi",
+    "Gabi Fernández",
+    "es"
+   ],
+   [
+    "Tiago",
+    "Tiago Mendes",
+    "pt"
+   ],
+   [
+    "Arda",
+    "Arda Turan",
+    "tr"
+   ],
+   [
+    "Villa",
+    "David Villa",
+    "es"
+   ],
+   [
+    "Diego Costa",
+    "Diego Costa",
+    "es"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "2-1",
+  "comp": "La liga, 35. kolo",
+  "season": "2011/12",
+  "y": 2012,
+  "note": "Pobeda na Kamp Nouu praktično donela titulu sezone od 100 bodova",
+  "form": "4-2-3-1",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Coentrão",
+    "Fábio Coentrão",
+    "pt"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Arbeloa",
+    "Álvaro Arbeloa",
+    "es"
+   ],
+   [
+    "Khedira",
+    "Sami Khedira",
+    "de"
+   ],
+   [
+    "Alonso",
+    "Xabi Alonso",
+    "es"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Benzema",
+    "Karim Benzema",
+    "fr"
+   ]
+  ]
+ },
+ {
+  "sport": "fb",
+  "cat": "club",
+  "team": "Real Madrid",
+  "opp": "Barcelona",
+  "score": "1-0 prod.",
+  "comp": "Finale Kupa kralja",
+  "season": "2010/11",
+  "y": 2011,
+  "note": "Murinjov prvi trofej sa Realom, gol glavom u produžecima na Mestalji",
+  "form": "4-3-3",
+  "kit": [
+   "solid",
+   "#ffffff",
+   "#00529f"
+  ],
+  "okit": [
+   "stripes",
+   "#a50044",
+   "#004d98"
+  ],
+  "p": [
+   [
+    "Casillas",
+    "Iker Casillas",
+    "es"
+   ],
+   [
+    "Marcelo",
+    "Marcelo",
+    "br"
+   ],
+   [
+    "Carvalho",
+    "Ricardo Carvalho",
+    "pt"
+   ],
+   [
+    "Ramos",
+    "Sergio Ramos",
+    "es"
+   ],
+   [
+    "Arbeloa",
+    "Álvaro Arbeloa",
+    "es"
+   ],
+   [
+    "Alonso",
+    "Xabi Alonso",
+    "es"
+   ],
+   [
+    "Pepe",
+    "Pepe",
+    "pt"
+   ],
+   [
+    "Khedira",
+    "Sami Khedira",
+    "de"
+   ],
+   [
+    "Di María",
+    "Ángel Di María",
+    "ar"
+   ],
+   [
+    "Ronaldo",
+    "Cristiano Ronaldo",
+    "pt"
+   ],
+   [
+    "Özil",
+    "Mesut Özil",
+    "de"
+   ]
+  ]
+ }
+]
