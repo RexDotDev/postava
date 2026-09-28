@@ -17,7 +17,7 @@ Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 ## Published
 Artifact (private, claude.ai): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h (v2, 772 entries). Republish: Artifact publish with `url`, `file_path` = index.html, `files` = every `flags/*.svg` mapped to itself.
 
-## Data status (772 entries built: fb 617, bb 155)
+## Data status (807 entries built: fb 652, bb 155)
 All files in `data/` pass `validate.py`.
 | file | scope | n | how verified |
 |---|---|---|---|
@@ -25,12 +25,12 @@ All files in `data/` pass `validate.py`.
 | b02_euro.json | EuroLeague 2012–2025 (no Serbian clubs) | 50 | box scores |
 | b03_srb.json | Serbia basketball NT + opponents + Zvezda/Partizan/Mega | 50 | box scores |
 | f01_ucl.json | Champions League 2009/10–2024/25, finals + legendary nights | 60 | web |
-| f02_uel.json | Europa/Conference League finals, UEFA Super Cup, Club World Cup, famous EL nights | 55 | 12 web, 30 Transfermarkt dataset, 13 from memory (2016–2024 finals, Super Cups, CWC finals, UECL finals) |
+| f02_uel.json | Europa/Conference League finals, UEFA Super Cup, Club World Cup, famous EL nights | 64 | 55 from the local session (web), plus 9 Super Cup / Club World Cup finals (7 Transfermarkt, 2 from memory: Real Madrid Super Cups 2022, 2024) |
 | f03_eng_big.json | Big six, domestic only (~9 per club) | 55 | 47 Transfermarkt, 5 StatsBomb, 4 web |
-| f04_partial.json | English non-big-six clubs (part 1) | 44 | web |
-| f04_eng_cult.json | English non-big-six clubs (part 2) | 11 | 4 web, 7 Transfermarkt |
+| f04_partial.json | English non-big-six clubs | 55 | web |
+| f04_eng_cult.json | English non-big-six clubs, extra team+seasons not in f04_partial | 7 | Transfermarkt |
 | f05_esp.json | Spanish clubs, domestic only | 55 | 32 StatsBomb, 22 Transfermarkt, 1 web |
-| f06_ita.json | Italian clubs, domestic only | 55 | 36 web, 19 Transfermarkt |
+| f06_ita.json | Italian clubs, domestic only | 74 | 55 from the local session (web), plus 19 extra team+seasons (web / Transfermarkt) |
 | f07_ger_fra.json | German + French clubs, domestic only | 55 | 10 web, 45 StatsBomb (many are ordinary league games: Leverkusen 15/16 & 23/24 opponents, Ligue 1 15/16, PSG 21/22–22/23 opponents) |
 | f08_rest.json | Clubs outside ENG/ESP/ITA/GER/FRA/SRB, domestic/non-UEFA | 60 | 11 web (Libertadores finals), 49 Transfermarkt |
 | f09_wc.json | World Cups 2010–2022 + famous qualifiers (no Serbia) | 60 | web |

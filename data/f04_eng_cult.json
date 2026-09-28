@@ -2,114 +2,6 @@
  {
   "sport": "fb",
   "cat": "club",
-  "team": "Blackpool",
-  "opp": "Liverpool",
-  "score": "2-1",
-  "comp": "Premijer liga, 7. kolo",
-  "season": "2010/11",
-  "y": 2010,
-  "note": "Jedina sezona Blekpula u Premijer ligi: Holovejev novajlija slavio na Enfildu",
-  "form": "4-3-3",
-  "kit": ["solid", "#f68712", "#ffffff"],
-  "okit": ["solid", "#c8102e", "#ffffff"],
-  "p": [
-   ["Gilks", "Matt Gilks", "gb-sct"],
-   ["Crainey", "Stephen Crainey", "gb-sct"],
-   ["Evatt", "Ian Evatt", "gb-eng"],
-   ["Cathcart", "Craig Cathcart", "gb-nir"],
-   ["Eardley", "Neal Eardley", "gb-wls"],
-   ["Vaughan", "David Vaughan", "gb-wls"],
-   ["Adam", "Charlie Adam", "gb-sct"],
-   ["Grandin", "Elliot Grandin", "fr"],
-   ["Varney", "Luke Varney", "gb-eng"],
-   ["Campbell", "DJ Campbell", "gb-eng"],
-   ["Taylor-Fletcher", "Gary Taylor-Fletcher", "gb-eng"]
-  ]
- },
- {
-  "sport": "fb",
-  "cat": "club",
-  "team": "Newcastle United",
-  "opp": "Chelsea",
-  "score": "2-0",
-  "comp": "Premijer liga",
-  "season": "2011/12",
-  "y": 2012,
-  "note": "Jedina pobeda Njukasla na Stamford Bridžu u Premijer ligi, u sezoni 5. mesta",
-  "form": "4-3-3",
-  "kit": ["stripes", "#000000", "#ffffff"],
-  "okit": ["solid", "#034694", "#ffffff"],
-  "p": [
-   ["Krul", "Tim Krul", "nl"],
-   ["Santon", "Davide Santon", "it"],
-   ["Coloccini", "Fabricio Coloccini", "ar"],
-   ["Williamson", "Mike Williamson", "gb-eng"],
-   ["Perch", "James Perch", "gb-eng"],
-   ["Gutiérrez", "Jonás Gutiérrez", "ar"],
-   ["Tioté", "Cheick Tioté", "ci"],
-   ["Cabaye", "Yohan Cabaye", "fr"],
-   ["Demba Ba", "Demba Ba", "sn"],
-   ["Cissé", "Papiss Cissé", "sn"],
-   ["Ben Arfa", "Hatem Ben Arfa", "fr"]
-  ]
- },
- {
-  "sport": "fb",
-  "cat": "club",
-  "team": "Leeds United",
-  "opp": "Manchester City",
-  "score": "2-1",
-  "comp": "Premijer liga, 31. kolo",
-  "season": "2020/21",
-  "y": 2021,
-  "note": "Bjelsin Lids sa igračem manje srušio lidera na Etihadu golom u nadoknadi",
-  "form": "4-1-4-1",
-  "kit": ["solid", "#ffffff", "#1d428a"],
-  "okit": ["solid", "#6cabdd", "#ffffff"],
-  "p": [
-   ["Meslier", "Illan Meslier", "fr"],
-   ["Alioski", "Ezgjan Alioski", "mk"],
-   ["Cooper", "Liam Cooper", "gb-sct"],
-   ["Llorente", "Diego Llorente", "es"],
-   ["Ayling", "Luke Ayling", "gb-eng"],
-   ["Phillips", "Kalvin Phillips", "gb-eng"],
-   ["Hélder Costa", "Hélder Costa", "ao"],
-   ["Dallas", "Stuart Dallas", "gb-nir"],
-   ["Roberts", "Tyler Roberts", "gb-wls"],
-   ["Raphinha", "Raphinha", "br"],
-   ["Bamford", "Patrick Bamford", "gb-eng"]
-  ]
- },
- {
-  "sport": "fb",
-  "cat": "club",
-  "team": "Sheffield United",
-  "opp": "Arsenal",
-  "score": "1-0",
-  "comp": "Premijer liga, 9. kolo",
-  "season": "2019/20",
-  "y": 2019,
-  "note": "Vajlderov novajlija sa štoperima koji se preklapaju prekinuo Arsenalov niz bez poraza",
-  "form": "3-5-2",
-  "kit": ["stripes", "#ee2737", "#ffffff"],
-  "okit": ["sleeves", "#ef0107", "#ffffff"],
-  "p": [
-   ["Henderson", "Dean Henderson", "gb-eng"],
-   ["O'Connell", "Jack O'Connell", "gb-eng"],
-   ["Egan", "John Egan", "ie"],
-   ["Basham", "Chris Basham", "gb-eng"],
-   ["Stevens", "Enda Stevens", "ie"],
-   ["Fleck", "John Fleck", "gb-sct"],
-   ["Norwood", "Oliver Norwood", "gb-nir"],
-   ["Lundstram", "John Lundstram", "gb-eng"],
-   ["Baldock", "George Baldock", "gr"],
-   ["McGoldrick", "David McGoldrick", "ie"],
-   ["Mousset", "Lys Mousset", "fr"]
-  ]
- },
- {
-  "sport": "fb",
-  "cat": "club",
   "team": "Crystal Palace",
   "opp": "Liverpool",
   "score": "3-3",
@@ -118,20 +10,72 @@
   "y": 2014,
   "note": "Kristanbul: od 0-3 do 3-3 za devet minuta, Liverpulu izmakla titula",
   "form": "4-3-3",
-  "kit": ["stripes", "#c4122e", "#1b458f"],
-  "okit": ["solid", "#c8102e", "#ffffff"],
+  "kit": [
+   "stripes",
+   "#c4122e",
+   "#1b458f"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
   "p": [
-   ["Speroni", "Julián Speroni", "ar"],
-   ["Ward", "Joel Ward", "gb-eng"],
-   ["Delaney", "Damien Delaney", "ie"],
-   ["Dann", "Scott Dann", "gb-eng"],
-   ["Mariappa", "Adrian Mariappa", "jm"],
-   ["Ledley", "Joe Ledley", "gb-wls"],
-   ["Jedinak", "Mile Jedinak", "au"],
-   ["Dikgacoi", "Kagisho Dikgacoi", "za"],
-   ["Bolasie", "Yannick Bolasie", "cd"],
-   ["Chamakh", "Marouane Chamakh", "ma"],
-   ["Puncheon", "Jason Puncheon", "gb-eng"]
+   [
+    "Speroni",
+    "Julián Speroni",
+    "ar"
+   ],
+   [
+    "Ward",
+    "Joel Ward",
+    "gb-eng"
+   ],
+   [
+    "Delaney",
+    "Damien Delaney",
+    "ie"
+   ],
+   [
+    "Dann",
+    "Scott Dann",
+    "gb-eng"
+   ],
+   [
+    "Mariappa",
+    "Adrian Mariappa",
+    "jm"
+   ],
+   [
+    "Ledley",
+    "Joe Ledley",
+    "gb-wls"
+   ],
+   [
+    "Jedinak",
+    "Mile Jedinak",
+    "au"
+   ],
+   [
+    "Dikgacoi",
+    "Kagisho Dikgacoi",
+    "za"
+   ],
+   [
+    "Bolasie",
+    "Yannick Bolasie",
+    "cd"
+   ],
+   [
+    "Chamakh",
+    "Marouane Chamakh",
+    "ma"
+   ],
+   [
+    "Puncheon",
+    "Jason Puncheon",
+    "gb-eng"
+   ]
   ]
  },
  {
@@ -145,20 +89,72 @@
   "y": 2015,
   "note": "Martinezov Everton pregazio Van Galov Junajted na Gudison Parku",
   "form": "4-1-4-1",
-  "kit": ["solid", "#274488", "#ffffff"],
-  "okit": ["solid", "#da291c", "#ffffff"],
+  "kit": [
+   "solid",
+   "#274488",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
   "p": [
-   ["Howard", "Tim Howard", "us"],
-   ["Baines", "Leighton Baines", "gb-eng"],
-   ["Stones", "John Stones", "gb-eng"],
-   ["Jagielka", "Phil Jagielka", "gb-eng"],
-   ["Coleman", "Séamus Coleman", "ie"],
-   ["Barry", "Gareth Barry", "gb-eng"],
-   ["Osman", "Leon Osman", "gb-eng"],
-   ["Barkley", "Ross Barkley", "gb-eng"],
-   ["McCarthy", "James McCarthy", "ie"],
-   ["Lennon", "Aaron Lennon", "gb-eng"],
-   ["Lukaku", "Romelu Lukaku", "be"]
+   [
+    "Howard",
+    "Tim Howard",
+    "us"
+   ],
+   [
+    "Baines",
+    "Leighton Baines",
+    "gb-eng"
+   ],
+   [
+    "Stones",
+    "John Stones",
+    "gb-eng"
+   ],
+   [
+    "Jagielka",
+    "Phil Jagielka",
+    "gb-eng"
+   ],
+   [
+    "Coleman",
+    "Séamus Coleman",
+    "ie"
+   ],
+   [
+    "Barry",
+    "Gareth Barry",
+    "gb-eng"
+   ],
+   [
+    "Osman",
+    "Leon Osman",
+    "gb-eng"
+   ],
+   [
+    "Barkley",
+    "Ross Barkley",
+    "gb-eng"
+   ],
+   [
+    "McCarthy",
+    "James McCarthy",
+    "ie"
+   ],
+   [
+    "Lennon",
+    "Aaron Lennon",
+    "gb-eng"
+   ],
+   [
+    "Lukaku",
+    "Romelu Lukaku",
+    "be"
+   ]
   ]
  },
  {
@@ -172,20 +168,72 @@
   "y": 2015,
   "note": "Džerardov oproštaj od Liverpula: 5-0 za Stouk već na poluvremenu",
   "form": "4-3-3",
-  "kit": ["stripes", "#e03a3e", "#ffffff"],
-  "okit": ["solid", "#c8102e", "#ffffff"],
+  "kit": [
+   "stripes",
+   "#e03a3e",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
   "p": [
-   ["Begović", "Asmir Begović", "ba"],
-   ["Pieters", "Erik Pieters", "nl"],
-   ["Muniesa", "Marc Muniesa", "es"],
-   ["Shawcross", "Ryan Shawcross", "gb-eng"],
-   ["Cameron", "Geoff Cameron", "us"],
-   ["Adam", "Charlie Adam", "gb-sct"],
-   ["Whelan", "Glenn Whelan", "ie"],
-   ["N'Zonzi", "Steven N'Zonzi", "fr"],
-   ["Arnautović", "Marko Arnautović", "at"],
-   ["Diouf", "Mame Biram Diouf", "sn"],
-   ["Walters", "Jonathan Walters", "ie"]
+   [
+    "Begović",
+    "Asmir Begović",
+    "ba"
+   ],
+   [
+    "Pieters",
+    "Erik Pieters",
+    "nl"
+   ],
+   [
+    "Muniesa",
+    "Marc Muniesa",
+    "es"
+   ],
+   [
+    "Shawcross",
+    "Ryan Shawcross",
+    "gb-eng"
+   ],
+   [
+    "Cameron",
+    "Geoff Cameron",
+    "us"
+   ],
+   [
+    "Adam",
+    "Charlie Adam",
+    "gb-sct"
+   ],
+   [
+    "Whelan",
+    "Glenn Whelan",
+    "ie"
+   ],
+   [
+    "N'Zonzi",
+    "Steven N'Zonzi",
+    "fr"
+   ],
+   [
+    "Arnautović",
+    "Marko Arnautović",
+    "at"
+   ],
+   [
+    "Diouf",
+    "Mame Biram Diouf",
+    "sn"
+   ],
+   [
+    "Walters",
+    "Jonathan Walters",
+    "ie"
+   ]
   ]
  },
  {
@@ -199,20 +247,72 @@
   "y": 2019,
   "note": "Najveća gostujuća pobeda u istoriji Premijer lige, 5-0 već na poluvremenu",
   "form": "4-3-3",
-  "kit": ["solid", "#003090", "#ffffff"],
-  "okit": ["stripes", "#d71920", "#ffffff"],
+  "kit": [
+   "solid",
+   "#003090",
+   "#ffffff"
+  ],
+  "okit": [
+   "stripes",
+   "#d71920",
+   "#ffffff"
+  ],
   "p": [
-   ["Schmeichel", "Kasper Schmeichel", "dk"],
-   ["Chilwell", "Ben Chilwell", "gb-eng"],
-   ["Söyüncü", "Çağlar Söyüncü", "tr"],
-   ["Evans", "Jonny Evans", "gb-nir"],
-   ["Ricardo Pereira", "Ricardo Pereira", "pt"],
-   ["Maddison", "James Maddison", "gb-eng"],
-   ["Ndidi", "Wilfred Ndidi", "ng"],
-   ["Tielemans", "Youri Tielemans", "be"],
-   ["Barnes", "Harvey Barnes", "gb-eng"],
-   ["Vardy", "Jamie Vardy", "gb-eng"],
-   ["Ayoze", "Ayoze Pérez", "es"]
+   [
+    "Schmeichel",
+    "Kasper Schmeichel",
+    "dk"
+   ],
+   [
+    "Chilwell",
+    "Ben Chilwell",
+    "gb-eng"
+   ],
+   [
+    "Söyüncü",
+    "Çağlar Söyüncü",
+    "tr"
+   ],
+   [
+    "Evans",
+    "Jonny Evans",
+    "gb-nir"
+   ],
+   [
+    "Ricardo Pereira",
+    "Ricardo Pereira",
+    "pt"
+   ],
+   [
+    "Maddison",
+    "James Maddison",
+    "gb-eng"
+   ],
+   [
+    "Ndidi",
+    "Wilfred Ndidi",
+    "ng"
+   ],
+   [
+    "Tielemans",
+    "Youri Tielemans",
+    "be"
+   ],
+   [
+    "Barnes",
+    "Harvey Barnes",
+    "gb-eng"
+   ],
+   [
+    "Vardy",
+    "Jamie Vardy",
+    "gb-eng"
+   ],
+   [
+    "Ayoze",
+    "Ayoze Pérez",
+    "es"
+   ]
   ]
  },
  {
@@ -226,20 +326,72 @@
   "y": 2020,
   "note": "Tim iz zone ispadanja prekinuo Liverpulov niz od 44 ligaške utakmice bez poraza",
   "form": "4-2-3-1",
-  "kit": ["solid", "#fbee23", "#000000"],
-  "okit": ["solid", "#c8102e", "#ffffff"],
+  "kit": [
+   "solid",
+   "#fbee23",
+   "#000000"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
   "p": [
-   ["Foster", "Ben Foster", "gb-eng"],
-   ["Masina", "Adam Masina", "ma"],
-   ["Cathcart", "Craig Cathcart", "gb-nir"],
-   ["Kabasele", "Christian Kabasele", "be"],
-   ["Femenía", "Kiko Femenía", "es"],
-   ["Capoue", "Étienne Capoue", "fr"],
-   ["Hughes", "Will Hughes", "gb-eng"],
-   ["Deulofeu", "Gerard Deulofeu", "es"],
-   ["Doucouré", "Abdoulaye Doucouré", "ml"],
-   ["Sarr", "Ismaïla Sarr", "sn"],
-   ["Deeney", "Troy Deeney", "gb-eng"]
+   [
+    "Foster",
+    "Ben Foster",
+    "gb-eng"
+   ],
+   [
+    "Masina",
+    "Adam Masina",
+    "ma"
+   ],
+   [
+    "Cathcart",
+    "Craig Cathcart",
+    "gb-nir"
+   ],
+   [
+    "Kabasele",
+    "Christian Kabasele",
+    "be"
+   ],
+   [
+    "Femenía",
+    "Kiko Femenía",
+    "es"
+   ],
+   [
+    "Capoue",
+    "Étienne Capoue",
+    "fr"
+   ],
+   [
+    "Hughes",
+    "Will Hughes",
+    "gb-eng"
+   ],
+   [
+    "Deulofeu",
+    "Gerard Deulofeu",
+    "es"
+   ],
+   [
+    "Doucouré",
+    "Abdoulaye Doucouré",
+    "ml"
+   ],
+   [
+    "Sarr",
+    "Ismaïla Sarr",
+    "sn"
+   ],
+   [
+    "Deeney",
+    "Troy Deeney",
+    "gb-eng"
+   ]
   ]
  },
  {
@@ -253,20 +405,72 @@
   "y": 2021,
   "note": "Kraj Liverpulovog niza od 68 prvenstvenih utakmica bez poraza na Enfildu",
   "form": "4-4-2",
-  "kit": ["sleeves", "#6c1d45", "#99d6ea"],
-  "okit": ["solid", "#c8102e", "#ffffff"],
+  "kit": [
+   "sleeves",
+   "#6c1d45",
+   "#99d6ea"
+  ],
+  "okit": [
+   "solid",
+   "#c8102e",
+   "#ffffff"
+  ],
   "p": [
-   ["Pope", "Nick Pope", "gb-eng"],
-   ["Taylor", "Charlie Taylor", "gb-eng"],
-   ["Mee", "Ben Mee", "gb-eng"],
-   ["Tarkowski", "James Tarkowski", "gb-eng"],
-   ["Lowton", "Matthew Lowton", "gb-eng"],
-   ["McNeil", "Dwight McNeil", "gb-eng"],
-   ["Westwood", "Ashley Westwood", "gb-eng"],
-   ["Brownhill", "Josh Brownhill", "gb-eng"],
-   ["Brady", "Robbie Brady", "ie"],
-   ["Wood", "Chris Wood", "nz"],
-   ["Barnes", "Ashley Barnes", "gb-eng"]
+   [
+    "Pope",
+    "Nick Pope",
+    "gb-eng"
+   ],
+   [
+    "Taylor",
+    "Charlie Taylor",
+    "gb-eng"
+   ],
+   [
+    "Mee",
+    "Ben Mee",
+    "gb-eng"
+   ],
+   [
+    "Tarkowski",
+    "James Tarkowski",
+    "gb-eng"
+   ],
+   [
+    "Lowton",
+    "Matthew Lowton",
+    "gb-eng"
+   ],
+   [
+    "McNeil",
+    "Dwight McNeil",
+    "gb-eng"
+   ],
+   [
+    "Westwood",
+    "Ashley Westwood",
+    "gb-eng"
+   ],
+   [
+    "Brownhill",
+    "Josh Brownhill",
+    "gb-eng"
+   ],
+   [
+    "Brady",
+    "Robbie Brady",
+    "ie"
+   ],
+   [
+    "Wood",
+    "Chris Wood",
+    "nz"
+   ],
+   [
+    "Barnes",
+    "Ashley Barnes",
+    "gb-eng"
+   ]
   ]
  },
  {
@@ -280,20 +484,72 @@
   "y": 2022,
   "note": "Najubedljivija pobeda Brajtona ikada protiv Junajteda, Rangnikov tim ponižen na Amexu",
   "form": "3-4-2-1",
-  "kit": ["stripes", "#0057b8", "#ffffff"],
-  "okit": ["solid", "#da291c", "#ffffff"],
+  "kit": [
+   "stripes",
+   "#0057b8",
+   "#ffffff"
+  ],
+  "okit": [
+   "solid",
+   "#da291c",
+   "#ffffff"
+  ],
   "p": [
-   ["Sánchez", "Robert Sánchez", "es"],
-   ["Cucurella", "Marc Cucurella", "es"],
-   ["Dunk", "Lewis Dunk", "gb-eng"],
-   ["Veltman", "Joël Veltman", "nl"],
-   ["Trossard", "Leandro Trossard", "be"],
-   ["Bissouma", "Yves Bissouma", "ml"],
-   ["Caicedo", "Moisés Caicedo", "ec"],
-   ["March", "Solly March", "gb-eng"],
-   ["Mac Allister", "Alexis Mac Allister", "ar"],
-   ["Groß", "Pascal Groß", "de"],
-   ["Welbeck", "Danny Welbeck", "gb-eng"]
+   [
+    "Sánchez",
+    "Robert Sánchez",
+    "es"
+   ],
+   [
+    "Cucurella",
+    "Marc Cucurella",
+    "es"
+   ],
+   [
+    "Dunk",
+    "Lewis Dunk",
+    "gb-eng"
+   ],
+   [
+    "Veltman",
+    "Joël Veltman",
+    "nl"
+   ],
+   [
+    "Trossard",
+    "Leandro Trossard",
+    "be"
+   ],
+   [
+    "Bissouma",
+    "Yves Bissouma",
+    "ml"
+   ],
+   [
+    "Caicedo",
+    "Moisés Caicedo",
+    "ec"
+   ],
+   [
+    "March",
+    "Solly March",
+    "gb-eng"
+   ],
+   [
+    "Mac Allister",
+    "Alexis Mac Allister",
+    "ar"
+   ],
+   [
+    "Groß",
+    "Pascal Groß",
+    "de"
+   ],
+   [
+    "Welbeck",
+    "Danny Welbeck",
+    "gb-eng"
+   ]
   ]
  }
 ]
