@@ -1,4 +1,4 @@
-# POSTAVA — lineup data spec (read fully before writing)
+# SQUADS — lineup data spec (read fully before writing)
 
 Game: players see a real match (team, opponent, score, competition) and a pitch/court with the
 team's starting players as shirts (nationality flag only). They guess each player's name Wordle-style
@@ -14,15 +14,15 @@ and fix everything it reports until it prints OK.
 {
   "sport": "fb",                 // "fb" football | "bb" basketball
   "cat": "club",                 // fb: "club" | "nat" | "srb"   bb: "nba" | "euro" | "srb"
-                                 //   "srb" = Serbian clubs (Crvena zvezda, Partizan, Vojvodina, Mega...) AND Serbian national teams
-  "team": "Leicester City",      // team whose starting lineup is the puzzle
+                                 //   "srb" = Serbian clubs (Red Star Belgrade, Partizan, Vojvodina, Mega...) AND Serbian national teams
+  "team": "Leicester City",      // team whose starting lineup is the puzzle (English name: "Serbia", "Red Star Belgrade", "USA")
   "opp": "Manchester City",      // opponent
-  "score": "3-1",                // TEAM's score first. Pens/OT: "1-1 (4-3 pen.)", "2-1 prod.", basketball "95-88" / "101-98 OT"
-  "comp": "Premijer liga, 25. kolo",   // Serbian Latin, short: "Finale Lige šampiona", "SP 2014, polufinale",
-                                       // "Evroliga, finale Fajnal-fora", "NBA finale, 7. utakmica", "Kup Srbije, finale"
+  "score": "3-1",                // TEAM's score first. Pens/ET/OT: "1-1 (4-3 pen.)", "2-1 a.e.t.", basketball "95-88" / "101-98 OT"
+  "comp": "Premier League, matchday 25",   // English, short: "Champions League final", "World Cup 2014, semi-final",
+                                           // "EuroLeague Final Four, final", "NBA Finals, Game 7", "Serbian Cup final"
   "season": "2015/16",           // club season "2015/16", or tournament year "2014"
   "y": 2016,                     // calendar year of the match (int)
-  "note": "Sezona čuda: titula uz kvotu 5000:1",   // optional, Serbian Latin, <= 90 chars, shown AFTER the game.
+  "note": "Season of miracles: title at 5000-1 odds",   // optional, English, <= 90 chars, shown AFTER the game.
                                                     // NEVER mention any player of this lineup in the note.
   "form": "4-4-2",               // football: outfield lines defence→attack, must sum to 10 ("4-2-3-1", "3-4-2-1", "4-1-4-1", "5-3-2"...)
                                  // basketball: always "5"

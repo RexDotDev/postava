@@ -1,4 +1,4 @@
-<title>Postava</title>
+<title>Squads</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Barlow:wght@400;500;600;700&display=swap&subset=latin-ext" rel="stylesheet">
@@ -139,20 +139,20 @@ button:focus-visible,.toggle:focus-within{outline:2px solid var(--amber);outline
 
 <div class="app">
   <header class="top">
-    <div class="brand">Postava<i>.</i></div>
+    <div class="brand">Squads<i>.</i></div>
     <div class="seg" role="tablist" aria-label="Sport">
-      <button role="tab" id="t-fb" data-sport="fb">Fudbal</button>
-      <button role="tab" id="t-bb" data-sport="bb">Košarka</button>
+      <button role="tab" id="t-fb" data-sport="fb">Football</button>
+      <button role="tab" id="t-bb" data-sport="bb">Basketball</button>
     </div>
-    <button class="icon" id="helpBtn" aria-label="Pravila">?</button>
+    <button class="icon" id="helpBtn" aria-label="Rules">?</button>
   </header>
 
   <div class="bar">
     <div class="chips" id="chips"></div>
     <div class="actions">
-      <label class="toggle" title="4 pokušaja po igraču, bez zastava. Važi od sledeće postave."><input type="checkbox" id="hard"> Teško</label>
-      <button class="btn" id="dailyBtn">Dnevna</button>
-      <button class="btn primary" id="newBtn">Nova postava</button>
+      <label class="toggle" title="4 tries per player, no flags. Applies from the next lineup."><input type="checkbox" id="hard"> Hard</label>
+      <button class="btn" id="dailyBtn">Daily</button>
+      <button class="btn primary" id="newBtn">New lineup</button>
     </div>
   </div>
 
@@ -162,22 +162,22 @@ button:focus-visible,.toggle:focus-within{outline:2px solid var(--amber);outline
       <div class="field" id="field"></div>
       <div class="foot">
         <div class="count" id="count"></div>
-        <button class="btn" id="giveup">Predaj se</button>
+        <button class="btn" id="giveup">Give up</button>
       </div>
       <div class="result" id="result" hidden>
         <div class="rs"><b id="rScore"></b><span id="rText"></span></div>
         <p id="rNote"></p>
-        <div class="ra"><button class="btn primary" id="again">Sledeća postava</button><button class="btn" id="share">Kopiraj rezultat</button></div>
+        <div class="ra"><button class="btn primary" id="again">Next lineup</button><button class="btn" id="share">Copy result</button></div>
         <textarea id="shareText" rows="4" readonly hidden></textarea>
       </div>
     </section>
 
-    <section class="panel" id="panel" aria-label="Pogađanje igrača">
+    <section class="panel" id="panel" aria-label="Guess the player">
       <div class="ph">
-        <button class="icon back" id="back" aria-label="Nazad na teren">←</button>
+        <button class="icon back" id="back" aria-label="Back to the pitch">←</button>
         <div class="who"><span class="mini" id="mini"></span><div><b id="pos"></b><small id="plen"></small></div></div>
-        <button class="icon" id="prev" aria-label="Prethodni igrač">‹</button>
-        <button class="icon" id="next" aria-label="Sledeći igrač">›</button>
+        <button class="icon" id="prev" aria-label="Previous player">‹</button>
+        <button class="icon" id="next" aria-label="Next player">›</button>
       </div>
       <div class="board" id="board"></div>
       <p class="msg" id="msg" role="status" aria-live="polite"></p>
@@ -189,16 +189,16 @@ button:focus-visible,.toggle:focus-within{outline:2px solid var(--amber);outline
 
 <div class="modal" id="help" hidden>
   <div class="card" role="dialog" aria-modal="true" aria-labelledby="helpTitle">
-    <h2 id="helpTitle">Pogodi postavu</h2>
-    <p>Stvarna utakmica, stvarna startna postava. Klikni na dres i ukucaj ime pod kojim je igrač poznat, najčešće prezime (Vardy, Van Dijk, Tadić), a za one poznate po jednom imenu to ime (Xavi, Neymar).</p>
+    <h2 id="helpTitle">Guess the lineup</h2>
+    <p>A real match, the real starting lineup. Tap a shirt and type the name the player is known by, usually the surname (Vardy, Van Dijk, Tadić), or the single name for players known by one (Xavi, Neymar).</p>
     <div class="legend">
-      <span class="sw" style="background:var(--hit)"></span><span>slovo je na pravom mestu</span>
-      <span class="sw" style="background:var(--near)"></span><span>slovo postoji, ali na drugom mestu</span>
-      <span class="sw" style="background:var(--miss)"></span><span>slova nema u imenu</span>
+      <span class="sw" style="background:var(--hit)"></span><span>letter is in the right spot</span>
+      <span class="sw" style="background:var(--near)"></span><span>letter is in the name, but in another spot</span>
+      <span class="sw" style="background:var(--miss)"></span><span>letter is not in the name</span>
     </div>
-    <p>6 pokušaja po igraču. <b>Teško</b>: 4 pokušaja i bez zastava. Kvačice i razmaci se ne kucaju: č/ć = C, š = S, ž = Z, đ = DJ, Van Dijk = VANDIJK.</p>
-    <p>Fudbal od 2009, košarka: NBA i Srbija od 2012, Evroliga od 2019.</p>
-    <button class="btn primary" id="helpClose">Igraj</button>
+    <p>6 tries per player. <b>Hard</b>: 4 tries and no flags. Each dash is one letter. Skip accents and spaces: č/ć = C, š = S, ž = Z, đ = DJ, Van Dijk = VANDIJK.</p>
+    <p>Football from 2009; basketball: NBA and Serbia from 2012, EuroLeague 2019–2025.</p>
+    <button class="btn primary" id="helpClose">Play</button>
   </div>
 </div>
 
@@ -212,9 +212,9 @@ const norm = s => s.replace(/đ/g,'dj').replace(/Đ/g,'Dj').replace(/[øØ]/g,'o
   .normalize('NFD').replace(/[^A-Za-z]/g,'').toUpperCase();
 const hash = s => { let h = 5381; for (const c of s) h = (h * 33 ^ c.charCodeAt(0)) >>> 0; return h; };
 const MAXT = hard => hard ? 4 : 6;
-const CATS = {fb:[['all','Sve'],['club','Klubovi'],['nat','Reprezentacije'],['srb','Srbija']],
-              bb:[['all','Sve'],['nba','NBA'],['euro','Evroliga'],['srb','Srbija']]};
-const BBPOS = ['Plejmejker','Bek','Krilo','Krilni centar','Centar'];
+const CATS = {fb:[['all','All'],['club','Clubs'],['nat','National teams'],['srb','Serbia']],
+              bb:[['all','All'],['nba','NBA'],['euro','EuroLeague'],['srb','Serbia']]};
+const BBPOS = ['Point guard','Shooting guard','Small forward','Power forward','Center'];
 
 DATA.forEach((e, i) => { e.no = i + 1; e.id = [e.sport, e.team, e.season, e.comp].join('|'); e.keys = e.p.map(p => norm(p[0])); });
 const BYID = new Map(DATA.map(e => [e.id, e]));
@@ -319,7 +319,7 @@ function spots(e) {
 function posName(e, i) {
   if (e.sport === 'bb') return BBPOS[i];
   const [, , r, n] = spots(e)[i];
-  return r === 0 ? 'Golman' : r === 1 ? 'Odbrana' : r === n - 1 ? 'Napad' : 'Vezni red';
+  return r === 0 ? 'Goalkeeper' : r === 1 ? 'Defence' : r === n - 1 ? 'Attack' : 'Midfield';
 }
 const flagImg = (g, cc) => g.hard ? '' : `<img class="flag" src="flags/${cc}.svg" alt="" title="${cc.toUpperCase()}">`;
 const seasonLabel = e => / - /.test(e.season) ? e.y : e.season;
@@ -335,7 +335,7 @@ function render() {
   $('#hard').checked = S.hard;
   if (!e) return;
   const [main, rest] = e.score.match(/^(\S+)\s*(.*)$/).slice(1);
-  $('#match').innerHTML = `<div class="comp">${g.daily ? '<b>Dnevna</b> · ' : ''}${esc(e.comp)} · ${esc(seasonLabel(e))} · #${e.no}</div>
+  $('#match').innerHTML = `<div class="comp">${g.daily ? '<b>Daily</b> · ' : ''}${esc(e.comp)} · ${esc(seasonLabel(e))} · #${e.no}</div>
     <div class="teams"><div class="side home"><span>${esc(e.team)}</span>${kit(e.kit, e.sport === 'bb')}</div>
     <div class="score">${esc(main)}${rest ? `<small>${esc(rest)}</small>` : ''}</div>
     <div class="side away">${kit(e.okit, e.sport === 'bb')}<span>${esc(e.opp)}</span></div></div>`;
@@ -344,7 +344,7 @@ function render() {
     const st = status(g, e, i), t = g.g[i].length, len = e.keys[i].length;
     const tag = st === 'open' ? `${dash(len)}<span class="t">${t}/${MAXT(g.hard)}</span>` : esc(e.p[i][0]);
     return `<button class="pl ${st}${i === act ? ' on' : ''}" data-i="${i}" style="left:${x}%;top:${y}%"
-      aria-label="${posName(e, i)}, ${st === 'open' ? len + ' slova' : esc(e.p[i][1])}" title="${st === 'open' ? '' : esc(e.p[i][1])}">
+      aria-label="${posName(e, i)}, ${st === 'open' ? len + ' letters' : esc(e.p[i][1])}" title="${st === 'open' ? '' : esc(e.p[i][1])}">
       <span class="shirt">${kit(e.kit, e.sport === 'bb')}${flagImg(g, e.p[i][2])}</span><span class="tag${st === 'open' ? ' open' : ''}" style="--n:${len}">${tag}</span></button>`;
   }).join('');
   const hits = e.p.filter((_, i) => status(g, e, i) === 'ok').length;
@@ -356,7 +356,7 @@ function render() {
 function dash(n) { return `<span class="dash" aria-hidden="true">${'<i></i>'.repeat(n)}</span>`; }
 function statLine() {
   const s = S.stats[S.sport];
-  return s.g ? `odigrano ${s.g} · pogođeno ${Math.round(100 * s.h / s.p)}%` : '';
+  return s.g ? `played ${s.g} · guessed ${Math.round(100 * s.h / s.p)}%` : '';
 }
 function renderPanel() {
   const g = G(), e = E(), i = act, st = status(g, e, i), len = e.keys[i].length, max = MAXT(g.hard);
@@ -364,18 +364,18 @@ function renderPanel() {
   $('#mini').innerHTML = kit(e.kit, e.sport === 'bb') + flagImg(g, e.p[i][2]);
   $('#pos').textContent = posName(e, i);
   $('#plen').style.setProperty('--n', len);
-  $('#plen').innerHTML = `<span class="sr">${len} slova</span>${dash(len)}<span>pokušaj ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}</span>`;
+  $('#plen').innerHTML = `<span class="sr">${len} letters</span>${dash(len)}<span>try ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}</span>`;
   renderBoard();
   const ans = $('#answer');
   ans.hidden = st === 'open';
-  if (st !== 'open') ans.innerHTML = `${st === 'ok' ? 'Pogođeno' : 'Rešenje'}: <b>${esc(e.p[i][1])}</b>`;
+  if (st !== 'open') ans.innerHTML = `${st === 'ok' ? 'Got it' : 'Answer'}: <b>${esc(e.p[i][1])}</b>`;
   // keyboard
   const ks = {};
   g.g[i].forEach(w => evalWord(w, e.keys[i]).forEach((r, j) => { const c = w[j]; if (r === 'hit' || (r === 'near' && ks[c] !== 'hit') || !ks[c]) ks[c] = r; }));
   const rows = ['QWERTYUIOP', 'ASDFGHJKL', '+ZXCVBNM-'];
   $('#kb').innerHTML = rows.map(r => `<div class="kr">${[...r].map(c =>
     c === '+' ? `<button class="key wide" data-k="ENTER" ${st !== 'open' ? 'disabled' : ''}>ENTER</button>`
-    : c === '-' ? `<button class="key wide" data-k="DEL" aria-label="Obriši" ${st !== 'open' ? 'disabled' : ''}>⌫</button>`
+    : c === '-' ? `<button class="key wide" data-k="DEL" aria-label="Delete" ${st !== 'open' ? 'disabled' : ''}>⌫</button>`
     : `<button class="key ${ks[c] || ''}" data-k="${c}" ${st !== 'open' ? 'disabled' : ''}>${c}</button>`).join('')}</div>`).join('');
   $('#prev').disabled = $('#next').disabled = e.p.length < 2;
 }
@@ -408,7 +408,7 @@ function renderResult() {
   if (!over) return;
   const hits = e.p.filter((_, i) => status(g, e, i) === 'ok').length;
   $('#rScore').textContent = `${hits}/${e.p.length}`;
-  $('#rText').textContent = hits === e.p.length ? 'Savršeno, cela postava!' : hits >= e.p.length * .7 ? 'Odlično poznavanje.' : hits >= e.p.length * .4 ? 'Solidno.' : 'Ova je bila teška.';
+  $('#rText').textContent = hits === e.p.length ? 'Perfect, the whole lineup!' : hits >= e.p.length * .7 ? 'Great knowledge.' : hits >= e.p.length * .4 ? 'Solid.' : 'That was a tough one.';
   $('#rNote').textContent = e.note || '';
   $('#rNote').hidden = !e.note;
   $('#shareText').hidden = true;
@@ -417,7 +417,7 @@ function shareText() {
   const g = G(), e = E();
   const row = e.p.map((_, i) => status(g, e, i) === 'ok' ? (g.g[i].length <= 2 ? '🟩' : '🟨') : '🟥').join('');
   const hits = e.p.filter((_, i) => status(g, e, i) === 'ok').length;
-  return `POSTAVA #${e.no}${g.daily ? ' (dnevna)' : ''}${g.hard ? ' · teško' : ''}\n${e.team} – ${e.opp} ${e.score}\n${e.comp}, ${seasonLabel(e)}\n${hits}/${e.p.length} ${row}`;
+  return `SQUADS #${e.no}${g.daily ? ' (daily)' : ''}${g.hard ? ' · hard' : ''}\n${e.team} – ${e.opp} ${e.score}\n${e.comp}, ${seasonLabel(e)}\n${hits}/${e.p.length} ${row}`;
 }
 
 // ---------- input ----------
@@ -429,11 +429,11 @@ function press(k) {
   const a = e.keys[i];
   if (k === 'DEL') buf = buf.slice(0, -1);
   else if (k === 'ENTER') {
-    if (buf.length < a.length) { msg(`Treba ${a.length} slova`, 'badm'); shakeRow = true; renderBoard(); return; }
+    if (buf.length < a.length) { msg(`Needs ${a.length} letters`, 'badm'); shakeRow = true; renderBoard(); return; }
     g.g[i].push(buf); fresh = g.g[i].length - 1; buf = '';
     const st = status(g, e, i);
-    if (st === 'ok') msg(['Bravo!', 'Tačno!', 'To je taj!', 'Pogođeno!'][g.g[i].length % 4], 'good');
-    else if (st === 'fail') msg('Nema više pokušaja', 'badm');
+    if (st === 'ok') msg(['Bravo!', 'Correct!', 'That’s him!', 'Got it!'][g.g[i].length % 4], 'good');
+    else if (st === 'fail') msg('No tries left', 'badm');
     else msg('');
     if (isOver(g, e)) finish();
     save(); render();
@@ -472,11 +472,11 @@ document.addEventListener('click', ev => {
   else if (t.id === 'share') {
     const txt = shareText(), ta = $('#shareText');
     const fallback = () => { ta.value = txt; ta.hidden = false; ta.select(); };
-    try { navigator.clipboard.writeText(txt).then(() => { t.textContent = 'Kopirano'; setTimeout(() => t.textContent = 'Kopiraj rezultat', 1500); }, fallback); } catch (err) { fallback(); }
+    try { navigator.clipboard.writeText(txt).then(() => { t.textContent = 'Copied'; setTimeout(() => t.textContent = 'Copy result', 1500); }, fallback); } catch (err) { fallback(); }
   }
 });
 document.addEventListener('mousedown', ev => { if (ev.target.closest('.key')) ev.preventDefault(); });
-$('#hard').addEventListener('change', ev => { S.hard = ev.target.checked; save(); msg(S.hard ? 'Teško važi od sledeće postave' : 'Normalno važi od sledeće postave'); });
+$('#hard').addEventListener('change', ev => { S.hard = ev.target.checked; save(); msg(S.hard ? 'Hard mode applies from the next lineup' : 'Normal mode applies from the next lineup'); });
 document.addEventListener('keydown', ev => {
   if (!$('#help').hidden) { if (ev.key === 'Escape' || ev.key === 'Enter') { $('#help').hidden = true; S.help = true; save(); ev.preventDefault(); } return; }
   if (ev.ctrlKey || ev.metaKey || ev.altKey || ev.target.closest('input,textarea')) return;
