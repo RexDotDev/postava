@@ -63,6 +63,12 @@ button:focus-visible,.toggle:focus-within{outline:2px solid var(--amber);outline
 .flag{position:absolute;right:-5px;bottom:3px;width:42%;aspect-ratio:4/3;object-fit:cover;border-radius:2px;box-shadow:0 0 0 1.5px #0b1020;background:#0b1020}
 .tag{font-weight:700;font-size:11px;line-height:1.35;background:rgba(7,12,22,.84);color:var(--chalk);border-radius:5px;padding:1px 6px;white-space:nowrap;max-width:100%;overflow:hidden;text-overflow:ellipsis;font-variant-numeric:tabular-nums}
 .tag .t{color:var(--muted);font-weight:500}
+.tag.open{display:flex;align-items:center;gap:5px;box-sizing:border-box;width:min(calc(var(--n) * 8px + 34px),100%)}
+.dash{flex:1 1 auto;min-width:0;display:flex;gap:clamp(1px,calc(24px / var(--n)),3px);align-items:center;height:1.35em}
+.dash i{flex:1 1 0;min-width:0;height:2px;background:currentColor;border-radius:1px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+#plen{display:flex;flex-wrap:wrap;align-items:center;gap:2px 8px;white-space:nowrap}
+#plen .dash{flex:none;width:min(calc(var(--n) * 9px),38vw,150px);height:1em;gap:clamp(2px,calc(30px / var(--n)),3px)}
 .pl.ok .tag{background:var(--hit)}
 .pl.fail .tag{background:var(--bad)}
 .pl.on .tag{box-shadow:0 0 0 1.5px var(--amber)}
@@ -125,6 +131,7 @@ button:focus-visible,.toggle:focus-within{outline:2px solid var(--amber);outline
   .brand{font-size:26px}.seg button{padding:6px 11px;font-size:13px}
   .score{font-size:32px}.side{font-size:14px;flex-direction:column;gap:4px}.side.home{flex-direction:column-reverse;align-items:center;text-align:center}.side.away{align-items:center;text-align:center}.side svg{width:28px;height:28px}
   .tag{font-size:10px;padding:1px 4px}
+  .tag.open{width:min(calc(var(--n) * 8px + 8px),100%)}.tag.open .t{display:none}
 }
 </style>
 
@@ -190,7 +197,7 @@ button:focus-visible,.toggle:focus-within{outline:2px solid var(--amber);outline
       <span class="sw" style="background:var(--miss)"></span><span>slova nema u imenu</span>
     </div>
     <p>6 pokušaja po igraču. <b>Teško</b>: 4 pokušaja i bez zastava. Kvačice i razmaci se ne kucaju: č/ć = C, š = S, ž = Z, đ = DJ, Van Dijk = VANDIJK.</p>
-    <p>Fudbal od 2009, košarka (NBA, Evroliga, Srbija) od 2012.</p>
+    <p>Fudbal od 2009, košarka: NBA i Srbija od 2012, Evroliga od 2019.</p>
     <button class="btn primary" id="helpClose">Igraj</button>
   </div>
 </div>
@@ -335,10 +342,10 @@ function render() {
   const over = isOver(g, e);
   $('#field').innerHTML = (e.sport === 'bb' ? court() : pitch()) + spots(e).map(([x, y], i) => {
     const st = status(g, e, i), t = g.g[i].length, len = e.keys[i].length;
-    const tag = st === 'open' ? `${len} <span class="t">slova · ${t}/${MAXT(g.hard)}</span>` : esc(e.p[i][0]);
+    const tag = st === 'open' ? `${dash(len)}<span class="t">${t}/${MAXT(g.hard)}</span>` : esc(e.p[i][0]);
     return `<button class="pl ${st}${i === act ? ' on' : ''}" data-i="${i}" style="left:${x}%;top:${y}%"
       aria-label="${posName(e, i)}, ${st === 'open' ? len + ' slova' : esc(e.p[i][1])}" title="${st === 'open' ? '' : esc(e.p[i][1])}">
-      <span class="shirt">${kit(e.kit, e.sport === 'bb')}${flagImg(g, e.p[i][2])}</span><span class="tag">${tag}</span></button>`;
+      <span class="shirt">${kit(e.kit, e.sport === 'bb')}${flagImg(g, e.p[i][2])}</span><span class="tag${st === 'open' ? ' open' : ''}" style="--n:${len}">${tag}</span></button>`;
   }).join('');
   const hits = e.p.filter((_, i) => status(g, e, i) === 'ok').length;
   $('#count').innerHTML = `${hits}/${e.p.length}<small>${statLine()}</small>`;
@@ -346,6 +353,7 @@ function render() {
   renderPanel();
   renderResult();
 }
+function dash(n) { return `<span class="dash" aria-hidden="true">${'<i></i>'.repeat(n)}</span>`; }
 function statLine() {
   const s = S.stats[S.sport];
   return s.g ? `odigrano ${s.g} · pogođeno ${Math.round(100 * s.h / s.p)}%` : '';
@@ -355,7 +363,8 @@ function renderPanel() {
   $('#panel').classList.toggle('open', open);
   $('#mini').innerHTML = kit(e.kit, e.sport === 'bb') + flagImg(g, e.p[i][2]);
   $('#pos').textContent = posName(e, i);
-  $('#plen').textContent = `${len} slova · pokušaj ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}`;
+  $('#plen').style.setProperty('--n', len);
+  $('#plen').innerHTML = `<span class="sr">${len} slova</span>${dash(len)}<span>pokušaj ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}</span>`;
   renderBoard();
   const ans = $('#answer');
   ans.hidden = st === 'open';
