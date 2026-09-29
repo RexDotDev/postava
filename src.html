@@ -33,6 +33,8 @@ button{font-family:inherit;color:inherit}
 .icon{flex:none;width:34px;height:34px;border-radius:50%;border:1px solid var(--line2);background:none;font:600 15px/1 var(--body);cursor:pointer;display:grid;place-items:center;padding:0}
 .icon:hover{border-color:var(--muted)}
 .icon:disabled{opacity:.3;cursor:default}
+#soundBtn[aria-pressed=true] .snd-off,#soundBtn[aria-pressed=false] .snd-on{display:none}
+#soundBtn[aria-pressed=false]{color:var(--faint)}
 
 /* filters + actions */
 .bar{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;justify-content:space-between;padding-block:12px 18px}
@@ -189,7 +191,7 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
   .tag{font-size:10px;padding:1px 4px}
   .tag.open{width:min(calc(var(--n) * 8px + 8px),100%)}.tag.open .t{display:none}
 }
-@media (max-width:360px){.brand{font-size:20px}.seg{gap:10px}.seg button{font-size:12px}.btn{padding:0 11px}}
+@media (max-width:360px){.top{gap:8px}.brand{font-size:20px}.seg{gap:10px}.seg button{font-size:12px}.btn{padding:0 11px}}
 </style>
 
 <div class="app">
@@ -199,6 +201,8 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
       <button role="tab" id="t-fb" data-sport="fb">Football</button>
       <button role="tab" id="t-bb" data-sport="bb">Basketball</button>
     </div>
+    <button class="icon" id="soundBtn" aria-label="Sound effects" aria-pressed="true" title="Sound effects">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9.5v5h3.5L12 18.5v-13L7.5 9.5z" fill="currentColor" stroke="none"/><path class="snd-on" d="M15.5 9a4 4 0 0 1 0 6M18 6.5a7.5 7.5 0 0 1 0 11"/><path class="snd-off" d="M16 9.5l5 5M21 9.5l-5 5"/></svg></button>
     <button class="icon" id="helpBtn" aria-label="How to play">?</button>
   </header>
 
@@ -258,7 +262,7 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
       <span class="sw" style="background:var(--miss);box-shadow:inset 0 0 0 1px var(--line2)"></span><span>not in the name</span>
     </div>
     <p>6 tries per player. <b>Hard</b> gives 4 tries and hides the flags. Skip accents and spaces: č/ć = C, š = S, ž = Z, đ = DJ, Van Dijk = VANDIJK.</p>
-    <p>Football from 2009. Basketball: NBA from 2012, EuroLeague 2019–2025, national teams from 1989.</p>
+    <p>Football from 2009. Basketball: NBA from 2012, EuroLeague 2019–2025, national teams from 1989. The speaker button turns the sound effects off.</p>
     <button class="btn primary" id="helpClose">Play</button>
   </div>
 </div>
@@ -295,12 +299,65 @@ DATA.forEach((e, i) => {
 const BYID = new Map(DATA.map(e => [e.id, e]));
 
 // ---------- state ----------
-const blank = () => ({sport:'fb', cat:{fb:'all', bb:'all'}, hard:false, help:false, games:{}, seen:{fb:[], bb:[]},
+const blank = () => ({sport:'fb', cat:{fb:'all', bb:'all'}, hard:false, help:false, sound:true, games:{}, seen:{fb:[], bb:[]},
   stats:{fb:{g:0,p:0,h:0,x:0}, bb:{g:0,p:0,h:0,x:0}}});
 let S;
 try { S = Object.assign(blank(), JSON.parse(localStorage.getItem(KEY)) || {}); } catch (e) { S = blank(); }
 for (const sp of ['fb', 'bb']) if (!CATS[sp].some(([k]) => k === S.cat?.[sp])) S.cat = {...S.cat, [sp]: 'all'};  // a saved filter that no longer exists
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} };
+
+// ---------- sound: sound effects are synthesised with Web Audio (no audio files) ----------
+const SFX = (() => {
+  let ctx = null, out = null, noise = null;
+  const NOTES = [440, 523.25, 659.25, 783.99, 880];                     // A minor pentatonic, used for right letters
+  function unlock() {                                                   // browsers only start audio after a user gesture
+    if (!ctx) {
+      const AC = window.AudioContext || window.webkitAudioContext; if (!AC) return;
+      try { ctx = new AC(); } catch (e) { return; }
+      out = ctx.createGain(); out.gain.value = .9;
+      const lim = ctx.createDynamicsCompressor(); lim.threshold.value = -14; lim.knee.value = 8; lim.ratio.value = 10; lim.attack.value = .003; lim.release.value = .12;
+      out.connect(lim); lim.connect(ctx.destination);                   // limiter: overlapping sounds never clip
+      const n = ctx.sampleRate >> 1; noise = ctx.createBuffer(1, n, ctx.sampleRate);
+      const d = noise.getChannelData(0); for (let i = 0; i < n; i++) d[i] = Math.random() * 2 - 1;
+    }
+    if (ctx.state === 'suspended') { try { const p = ctx.resume(); if (p && p.catch) p.catch(() => {}); } catch (e) {} }
+  }
+  function tone(f, t, dur, o = {}) {
+    const osc = ctx.createOscillator(), g = ctx.createGain(), atk = o.atk || .004;
+    osc.type = o.type || 'sine'; osc.frequency.setValueAtTime(f, t); if (o.to) osc.frequency.exponentialRampToValueAtTime(o.to, t + dur);
+    g.gain.setValueAtTime(0, t); g.gain.linearRampToValueAtTime(o.gain ?? .2, t + atk); g.gain.exponentialRampToValueAtTime(.0001, t + dur);
+    osc.connect(g); g.connect(out); osc.start(t); osc.stop(t + dur + .02);
+  }
+  function tick(t, dur, gain, freq) {                                   // short filtered noise burst = key click
+    const src = ctx.createBufferSource(), f = ctx.createBiquadFilter(), g = ctx.createGain();
+    src.buffer = noise; f.type = 'bandpass'; f.frequency.value = freq; f.Q.value = .9;
+    g.gain.setValueAtTime(gain, t); g.gain.exponentialRampToValueAtTime(.0001, t + dur);
+    src.connect(f); f.connect(g); g.connect(out); src.start(t, Math.random() * .3); src.stop(t + dur + .02);
+  }
+  const bell = (f, t, dur, gain) => { tone(f, t, dur, {gain}); tone(f * 2.76, t, dur * .5, {gain: gain * .35}); tone(f * 5.4, t, dur * .25, {gain: gain * .15}); };
+  const SOUNDS = {
+    key:    t => { tick(t, .022, .16, 3200); tone(180, t, .03, {type: 'triangle', gain: .05}); },
+    del:    t => { tick(t, .02, .12, 1800); tone(130, t, .03, {type: 'triangle', gain: .05}); },
+    enter:  t => { tone(150, t, .14, {to: 60, gain: .2}); tick(t, .03, .08, 2200); },
+    error:  t => { tone(120, t, .14, {type: 'square', to: 85, gain: .05}); },
+    select: t => { tick(t, .02, .1, 2600); tone(520, t, .05, {gain: .06}); },
+    tap:    t => { tick(t, .015, .07, 2600); },
+    flip:   (t, r, j) => { if (r === 'hit') bell(NOTES[j % 5], t, .35, .12); else if (r === 'near') bell(587.33, t, .28, .09); else tone(196, t, .09, {type: 'triangle', gain: .08}); },
+    win:    t => { [440, 523.25, 659.25, 880].forEach((f, k) => bell(f, t + k * .07, .5, .11)); tone(90, t, .3, {to: 45, gain: .18}); },
+    lose:   t => { tone(233, t, .28, {type: 'triangle', to: 175, gain: .12}); tone(175, t + .17, .34, {type: 'triangle', to: 130, gain: .1}); },
+    end:    (t, perfect) => { if (perfect) { [440, 523.25, 659.25, 783.99, 1046.5].forEach((f, k) => bell(f, t + k * .09, .7, .1)); tone(80, t, .5, {to: 40, gain: .22}); }
+                              else { [220, 261.63, 329.63].forEach(f => bell(f, t, .9, .08)); } },
+    on:     t => { bell(880, t, .2, .1); },
+  };
+  function play(name, a, delay = 0, b) {
+    if (S.sound === false) return;
+    unlock(); if (!ctx || !SOUNDS[name]) return;
+    try { SOUNDS[name](ctx.currentTime + delay, a, b); } catch (e) {}
+  }
+  return { unlock, play };
+})();
+for (const ev of ['pointerdown', 'keydown']) addEventListener(ev, () => { if (S.sound !== false) SFX.unlock(); }, {capture: true});
+function syncSound() { const b = $('#soundBtn'); const on = S.sound !== false; b.setAttribute('aria-pressed', on); b.title = on ? 'Sound effects: on' : 'Sound effects: off'; }
 let act = 0, buf = '', open = false, fresh = -1, shakeRow = false;
 const wide = () => matchMedia('(min-width:900px)').matches;
 
@@ -515,15 +572,19 @@ function press(k) {
   const g = G(), e = E(), i = act;
   if (status(g, e, i) !== 'open') return;
   const a = e.keys[i];
-  if (k === 'DEL') buf = buf.slice(0, -1);
+  if (k === 'DEL') { if (buf) SFX.play('del'); buf = buf.slice(0, -1); }
   else if (k === 'ENTER') {
-    if (buf.length < a.length) { msg(`Needs ${a.length} letters`, 'badm'); shakeRow = true; renderBoard(); return; }
-    g.g[i].push(buf); fresh = g.g[i].length - 1; buf = '';
+    if (buf.length < a.length) { SFX.play('error'); msg(`Needs ${a.length} letters`, 'badm'); shakeRow = true; renderBoard(); return; }
+    const word = buf; g.g[i].push(buf); fresh = g.g[i].length - 1; buf = '';
     const st = status(g, e, i);
+    // sound: a click, then one note per tile as it flips (tiles flip 70 ms apart), then the outcome
+    SFX.play('enter'); evalWord(word, a).forEach((r, j) => SFX.play('flip', r, .1 + j * .07, j));
+    const after = .1 + a.length * .07 + .14;
+    if (st === 'ok') SFX.play('win', 0, after); else if (st === 'fail') SFX.play('lose', 0, after);
     if (st === 'ok') msg(['Bravo!', 'Correct!', 'That’s him!', 'Got it!'][g.g[i].length % 4], 'good');
     else if (st === 'fail') msg('No tries left', 'badm');
     else msg('');
-    if (isOver(g, e)) { finish(); if (!wide()) setTimeout(showResult, 1200); }
+    if (isOver(g, e)) { finish(); SFX.play('end', e.p.every((_, q) => status(g, e, q) === 'ok'), after + (st === 'open' ? 0 : .8)); if (!wide()) setTimeout(showResult, 1200); }
     save(); render();
     if (st !== 'open' && !isOver(g, e)) setTimeout(() => {
       if (act !== i) return;
@@ -532,7 +593,7 @@ function press(k) {
       render();
     }, 1100);
     return;
-  } else if (buf.length < a.length) buf += k;
+  } else if (buf.length < a.length) { buf += k; SFX.play('key'); }
   renderBoard();
 }
 // phone: leave the guess panel and bring the result card into view
@@ -551,13 +612,15 @@ function finish() {
 document.addEventListener('click', ev => {
   const t = ev.target.closest('button');
   if (!t) return;
+  if (t.id === 'soundBtn') { S.sound = S.sound === false; save(); syncSound(); SFX.play('on'); return; }
+  if (t.dataset.i) SFX.play('select'); else if (!t.dataset.k && t.id !== 'share' && t.id !== 'helpClose') SFX.play('tap');
   if (t.dataset.sport) { S.sport = t.dataset.sport; if (!G() || !E()) newGame(false); else { act = 0; open = false; buf = ''; msg(''); save(); render(); } }
   else if (t.dataset.cat) { S.cat[S.sport] = t.dataset.cat; newGame(false); }
   else if (t.dataset.i) { const i = +t.dataset.i; open = true; select(i); t.blur(); }
   else if (t.dataset.k) { press(t.dataset.k); }
   else if (t.id === 'newBtn' || t.id === 'again') newGame(false);
   else if (t.id === 'dailyBtn') newGame(true);
-  else if (t.id === 'giveup') { G().gave = true; finish(); save(); msg(''); render(); if (!wide()) showResult(); }
+  else if (t.id === 'giveup') { G().gave = true; finish(); SFX.play('end', false, .1); save(); msg(''); render(); if (!wide()) showResult(); }
   else if (t.id === 'back') { open = false; render(); }
   else if (t.id === 'prev' || t.id === 'next') { const n = E().p.length; select((act + (t.id === 'next' ? 1 : n - 1)) % n); }
   else if (t.id === 'helpBtn') $('#help').hidden = false;
@@ -583,6 +646,7 @@ document.addEventListener('keydown', ev => {
 });
 
 // ---------- boot ----------
+syncSound();
 if (!E()) newGame(false); else { const g = G(), e = E(); act = isOver(g, e) ? 0 : nextOpen(g, e, e.p.length - 1); render(); }
 if (!S.help) $('#help').hidden = false;
 </script>
