@@ -193,8 +193,16 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
   .panel:not(.open){display:none}
   .ph{padding-bottom:10px;border-bottom:1px solid var(--line)}
   .play{flex:1;justify-content:center;min-height:0;overflow:auto}
-  .key{height:54px}
+  /* keyboard: edge to edge, every letter the same width, no dead gaps between keys (the touch area fills the gap, the face is drawn inside it) */
+  .kb{gap:0;margin-inline:-8px}
+  .kr{display:grid;grid-template-columns:repeat(20,1fr);gap:0}
+  .kb .key{grid-column:span 2;max-width:none;height:64px;font-size:20px;border:3px solid transparent;border-radius:10px;background-clip:padding-box;-webkit-tap-highlight-color:transparent;user-select:none;-webkit-user-select:none;transition:transform .05s}
+  .kb .key.wide{grid-column:span 3;font-size:12px;letter-spacing:.02em}
+  .kb .key[data-k=DEL]{font-size:19px}
+  .kb .kr:nth-child(2) .key:first-child{grid-column:2 / span 2}
+  .kb .key:active:not(:disabled){transform:scale(.92);filter:brightness(1.4)}
 }
+@media (min-width:600px) and (max-width:899px){.kb{margin-inline:auto;width:100%;max-width:560px}}
 @media (max-width:640px){
   .app{padding-block:10px 32px}
   .top{gap:14px;padding-bottom:10px}
@@ -213,7 +221,7 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
   .tag{font-size:10px;padding:1px 4px}
   .tag.open{width:min(calc(var(--n) * 8px + 8px),100%)}.tag.open .t{display:none}
 }
-@media (max-width:360px){.top{gap:8px}.brand{font-size:20px}.seg{gap:10px}.seg button{font-size:12px}.btn{padding:0 11px}}
+@media (max-width:360px){.kb .key[data-k=ENTER]{font-size:10.5px;letter-spacing:0}.top{gap:8px}.brand{font-size:20px}.seg{gap:10px}.seg button{font-size:12px}.btn{padding:0 11px}}
 </style>
 </head>
 <body>
