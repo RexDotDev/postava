@@ -343,14 +343,14 @@ const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch
 // ---------- sound: sound effects are synthesised with Web Audio (no audio files) ----------
 const SFX = (() => {
   let ctx = null, out = null, noise = null;
-  const NOTES = [329.63, 392, 440, 523.25, 587.33];                     // A minor pentatonic, used for right letters
+  const NOTES = [196, 220, 261.63, 293.66, 329.63];                     // low A minor pentatonic, used for right letters
   function unlock() {                                                   // browsers only start audio after a user gesture
     if (!ctx) {
       const AC = window.AudioContext || window.webkitAudioContext; if (!AC) return;
       try { ctx = new AC(); } catch (e) { return; }
       out = ctx.createGain(); out.gain.value = .5;
       const lim = ctx.createDynamicsCompressor(); lim.threshold.value = -14; lim.knee.value = 8; lim.ratio.value = 10; lim.attack.value = .003; lim.release.value = .12;
-      const soft = ctx.createBiquadFilter(); soft.type = 'lowpass'; soft.frequency.value = 4500;   // takes the edge off
+      const soft = ctx.createBiquadFilter(); soft.type = 'lowpass'; soft.frequency.value = 2800;   // takes the edge off
       out.connect(soft); soft.connect(lim); lim.connect(ctx.destination);                   // limiter: overlapping sounds never clip
       const n = ctx.sampleRate >> 1; noise = ctx.createBuffer(1, n, ctx.sampleRate);
       const d = noise.getChannelData(0); for (let i = 0; i < n; i++) d[i] = Math.random() * 2 - 1;
@@ -369,7 +369,7 @@ const SFX = (() => {
     g.gain.setValueAtTime(gain, t); g.gain.exponentialRampToValueAtTime(.0001, t + dur);
     src.connect(f); f.connect(g); g.connect(out); src.start(t, Math.random() * .3); src.stop(t + dur + .02);
   }
-  const bell = (f, t, dur, gain) => { tone(f, t, dur, {gain, atk: .01}); tone(f * 2, t, dur * .5, {gain: gain * .2, atk: .01}); };   // soft: fundamental + quiet octave
+  const bell = (f, t, dur, gain) => { tone(f, t, dur, {gain, atk: .01}); tone(f * 2, t, dur * .5, {gain: gain * .12, atk: .01}); };   // soft: fundamental + quiet octave
   const SOUNDS = {
     key:    t => { tick(t, .022, .16, 3200); tone(180, t, .03, {type: 'triangle', gain: .05}); },
     del:    t => { tick(t, .02, .12, 1800); tone(130, t, .03, {type: 'triangle', gain: .05}); },
@@ -377,12 +377,12 @@ const SFX = (() => {
     error:  t => { tone(120, t, .14, {type: 'square', to: 85, gain: .05}); },
     select: t => { tick(t, .02, .1, 2600); tone(520, t, .05, {gain: .06}); },
     tap:    t => { tick(t, .015, .07, 2600); },
-    flip:   (t, r, j) => { if (r === 'hit') bell(NOTES[j % 5], t, .3, .09); else if (r === 'near') bell(440, t, .22, .05); else tone(196, t, .09, {type: 'triangle', gain: .08}); },
-    win:    t => { [392, 493.88, 587.33].forEach((f, k) => bell(f, t + k * .08, .45, .07)); },
-    lose:   t => { tone(233, t, .28, {type: 'triangle', to: 175, gain: .08}); tone(175, t + .17, .34, {type: 'triangle', to: 130, gain: .065}); },
-    end:    (t, perfect) => { if (perfect) { [392, 493.88, 587.33, 783.99].forEach((f, k) => bell(f, t + k * .1, .6, .07)); }
-                              else { [220, 261.63, 329.63].forEach(f => bell(f, t, .8, .035)); } },
-    on:     t => { bell(660, t, .18, .07); },
+    flip:   (t, r, j) => { if (r === 'hit') bell(NOTES[j % 5], t, .14, .09); else if (r === 'near') tone(185, t, .09, {gain: .05}); else tone(130, t, .06, {type: 'triangle', gain: .06}); },
+    win:    t => { [196, 261.63].forEach((f, k) => bell(f, t + k * .06, .2, .09)); },
+    lose:   t => { tone(185, t, .18, {type: 'triangle', to: 140, gain: .08}); },
+    end:    (t, perfect) => { if (perfect) { [196, 246.94, 293.66].forEach((f, k) => bell(f, t + k * .07, .22, .08)); }
+                              else { [165, 130.81].forEach((f, k) => bell(f, t + k * .09, .24, .06)); } },
+    on:     t => { bell(330, t, .12, .08); },
   };
   function play(name, a, delay = 0, b) {
     if (S.sound === false) return;
@@ -619,7 +619,7 @@ function press(k) {
     if (st === 'ok') msg(['Bravo!', 'Correct!', 'That’s him!', 'Got it!'][g.g[i].length % 4], 'good');
     else if (st === 'fail') msg('No tries left', 'badm');
     else msg('');
-    if (isOver(g, e)) { finish(); SFX.play('end', e.p.every((_, q) => status(g, e, q) === 'ok'), after + (st === 'open' ? 0 : .8)); if (!wide()) setTimeout(showResult, 1200); }
+    if (isOver(g, e)) { finish(); SFX.play('end', e.p.every((_, q) => status(g, e, q) === 'ok'), after + (st === 'open' ? 0 : .4)); if (!wide()) setTimeout(showResult, 1200); }
     save(); render();
     if (st !== 'open' && !isOver(g, e)) setTimeout(() => {
       if (act !== i) return;
