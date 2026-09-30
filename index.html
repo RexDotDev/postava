@@ -343,14 +343,15 @@ const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch
 // ---------- sound: sound effects are synthesised with Web Audio (no audio files) ----------
 const SFX = (() => {
   let ctx = null, out = null, noise = null;
-  const NOTES = [440, 523.25, 659.25, 783.99, 880];                     // A minor pentatonic, used for right letters
+  const NOTES = [329.63, 392, 440, 523.25, 587.33];                     // A minor pentatonic, used for right letters
   function unlock() {                                                   // browsers only start audio after a user gesture
     if (!ctx) {
       const AC = window.AudioContext || window.webkitAudioContext; if (!AC) return;
       try { ctx = new AC(); } catch (e) { return; }
-      out = ctx.createGain(); out.gain.value = .9;
+      out = ctx.createGain(); out.gain.value = .5;
       const lim = ctx.createDynamicsCompressor(); lim.threshold.value = -14; lim.knee.value = 8; lim.ratio.value = 10; lim.attack.value = .003; lim.release.value = .12;
-      out.connect(lim); lim.connect(ctx.destination);                   // limiter: overlapping sounds never clip
+      const soft = ctx.createBiquadFilter(); soft.type = 'lowpass'; soft.frequency.value = 4500;   // takes the edge off
+      out.connect(soft); soft.connect(lim); lim.connect(ctx.destination);                   // limiter: overlapping sounds never clip
       const n = ctx.sampleRate >> 1; noise = ctx.createBuffer(1, n, ctx.sampleRate);
       const d = noise.getChannelData(0); for (let i = 0; i < n; i++) d[i] = Math.random() * 2 - 1;
     }
@@ -368,20 +369,20 @@ const SFX = (() => {
     g.gain.setValueAtTime(gain, t); g.gain.exponentialRampToValueAtTime(.0001, t + dur);
     src.connect(f); f.connect(g); g.connect(out); src.start(t, Math.random() * .3); src.stop(t + dur + .02);
   }
-  const bell = (f, t, dur, gain) => { tone(f, t, dur, {gain}); tone(f * 2.76, t, dur * .5, {gain: gain * .35}); tone(f * 5.4, t, dur * .25, {gain: gain * .15}); };
+  const bell = (f, t, dur, gain) => { tone(f, t, dur, {gain, atk: .01}); tone(f * 2, t, dur * .5, {gain: gain * .2, atk: .01}); };   // soft: fundamental + quiet octave
   const SOUNDS = {
     key:    t => { tick(t, .022, .16, 3200); tone(180, t, .03, {type: 'triangle', gain: .05}); },
     del:    t => { tick(t, .02, .12, 1800); tone(130, t, .03, {type: 'triangle', gain: .05}); },
-    enter:  t => { tone(150, t, .14, {to: 60, gain: .2}); tick(t, .03, .08, 2200); },
+    enter:  t => { tick(t, .03, .08, 2200); tone(200, t, .06, {type: 'triangle', to: 140, gain: .05}); },
     error:  t => { tone(120, t, .14, {type: 'square', to: 85, gain: .05}); },
     select: t => { tick(t, .02, .1, 2600); tone(520, t, .05, {gain: .06}); },
     tap:    t => { tick(t, .015, .07, 2600); },
-    flip:   (t, r, j) => { if (r === 'hit') bell(NOTES[j % 5], t, .35, .12); else if (r === 'near') bell(587.33, t, .28, .09); else tone(196, t, .09, {type: 'triangle', gain: .08}); },
-    win:    t => { [440, 523.25, 659.25, 880].forEach((f, k) => bell(f, t + k * .07, .5, .11)); tone(90, t, .3, {to: 45, gain: .18}); },
-    lose:   t => { tone(233, t, .28, {type: 'triangle', to: 175, gain: .12}); tone(175, t + .17, .34, {type: 'triangle', to: 130, gain: .1}); },
-    end:    (t, perfect) => { if (perfect) { [440, 523.25, 659.25, 783.99, 1046.5].forEach((f, k) => bell(f, t + k * .09, .7, .1)); tone(80, t, .5, {to: 40, gain: .22}); }
-                              else { [220, 261.63, 329.63].forEach(f => bell(f, t, .9, .08)); } },
-    on:     t => { bell(880, t, .2, .1); },
+    flip:   (t, r, j) => { if (r === 'hit') bell(NOTES[j % 5], t, .3, .09); else if (r === 'near') bell(440, t, .22, .05); else tone(196, t, .09, {type: 'triangle', gain: .08}); },
+    win:    t => { [392, 493.88, 587.33].forEach((f, k) => bell(f, t + k * .08, .45, .07)); },
+    lose:   t => { tone(233, t, .28, {type: 'triangle', to: 175, gain: .08}); tone(175, t + .17, .34, {type: 'triangle', to: 130, gain: .065}); },
+    end:    (t, perfect) => { if (perfect) { [392, 493.88, 587.33, 783.99].forEach((f, k) => bell(f, t + k * .1, .6, .07)); }
+                              else { [220, 261.63, 329.63].forEach(f => bell(f, t, .8, .035)); } },
+    on:     t => { bell(660, t, .18, .07); },
   };
   function play(name, a, delay = 0, b) {
     if (S.sound === false) return;
