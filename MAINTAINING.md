@@ -21,8 +21,8 @@ Build: `python3 build.py` → prints `built N entries (fb X, bb Y)`.
 - GitHub: `.github/workflows/check.yml` runs on every pull request and push to `main` (job `validate-and-build`: `validate.py` on each data file, then `build.py` must leave no changes). `.github/rulesets/protect-main.json` is the ruleset for `main` (pull request required, check `validate-and-build` required, no force pushes or deletion); import it under Settings → Rules → Rulesets. Dependabot keeps the workflow actions up to date.
 - claude.ai Artifact (private): https://claude.ai/artifact/WB1nNKgdRTwnA2GVmXNK6h. Republish: Artifact publish with `url`, `file_path` = artifact.html, `files` = every `flags/*.svg` mapped to itself.
 
-## Data status (887 entries built: fb 633, bb 254)
-All 933 source entries in `data/` pass `validate.py`. `lineup_policy.py` excludes only 46 historical EuroLeague entries before 2020/21; 29 were already outside the earlier playable window and 17 were newly excluded. The 58 football national-team entries from the initial revision are restored. Friendlies are automatically excluded in every category.
+## Data status (838 entries built: fb 584, bb 254)
+All 933 source entries in `data/` pass `validate.py`. `lineup_policy.py` excludes 46 historical EuroLeague entries before 2020/21 and 49 football national-team lineups outside the curated European/South American selection. Of the excluded EuroLeague entries, 29 were already outside the earlier playable window and 17 were newly excluded. The nationality filter applies only to football puzzles: familiar European and South American teams, plus exact-match exceptions for Iceland and Wales 2016 and Morocco 2022. Zambia is excluded. Friendlies are automatically excluded in every category.
 
 The 2020/21 cutoff applies **only to EuroLeague**, based on season start rather than `y`. Football and basketball national teams retain their original historical ranges. NBA's minimum match year is now 2011 so the 2010/11 Mavericks, Heat, Bulls, Lakers and Celtics can be played. Both Random and Daily use the same selection.
 
@@ -80,7 +80,7 @@ Verification sources that work without scraping match-report sites:
 
 ## Regression checks
 
-Run `python3 -m unittest discover -s tests` and `node --test tests/hint.test.cjs` (Node.js 22+, no npm dependencies). These check the EuroLeague-only cutoff, restored national teams, friendly exclusions, the 200+ expansion and per-entry provenance, distinct XIs, shipped-data coverage, hint limits, persistence, old saves and Daily resume. CI runs them before checking a fresh build. Browser layout still needs a desktop and phone spot check.
+Run `python3 -m unittest discover -s tests` and `node --test tests/hint.test.cjs` (Node.js 22+, no npm dependencies). These check the EuroLeague-only cutoff, curated national teams and the Zambia regression, friendly exclusions, the 200+ expansion and per-entry provenance, distinct XIs, shipped-data coverage, hint limits, persistence, old saves and Daily resume. CI runs them before checking a fresh build. Browser layout still needs a desktop and phone spot check.
 
 ## Possible next steps
 - Basketball national teams: the FIBA game pages (`fiba.basketball/en/history/...` and `/en/events/.../games/...`) carry a per-player starter flag in the page data, which makes 2009+ games easy to verify. Do not use API keys taken from page source.

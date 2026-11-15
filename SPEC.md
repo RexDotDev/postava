@@ -81,7 +81,7 @@ selection when building the site, for both Random and Daily:
 - **Only EuroLeague** seasons must start in 2020 or later (2020/21 is included; 2019/20 is excluded even if played in 2020).
 - Football, NBA and basketball national teams retain the historical ranges specified above; there is no 2020 cutoff for them.
 - No friendlies, exhibitions, preseason matches or testimonials in either sport.
-- Existing football national teams, including historic upsets, qualifiers and Olympic squads, remain eligible. There is no nationality allowlist.
+- Football national teams must be in `FOOTBALL_NATIONS`: recognizable European and South American squads. Smaller national teams require an exact match in `ICONIC_NATIONAL_MATCHES`: Iceland–England at Euro 2016, Wales–Belgium at Euro 2016, and the explicitly requested Morocco–Portugal at World Cup 2022. A memorable result alone does not whitelist an entire nation. Zambia and other unfamiliar tournament winners remain outside the playable pool.
 - New expansions must add distinct starting XIs, not repeat the same team's exact XI under another match label.
 - Verified additions include optional `date` (YYYY-MM-DD), `sources` (HTTPS URLs), `verified` (YYYY-MM-DD),
   `source_match_id` and `source_hashes` fields for traceability. `date` remains in the source archive; the build omits it from the game payload.

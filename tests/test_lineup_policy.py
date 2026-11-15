@@ -42,11 +42,32 @@ class LineupPolicyTests(unittest.TestCase):
                 entry.update(sport=sport, cat=cat, comp=comp)
                 self.assertIsNotNone(exclusion_reason(entry))
 
-    def test_existing_national_teams_are_restored(self):
-        for path in ("data/f09_wc.json", "data/f10_euro_copa.json"):
-            with open(path, encoding="utf-8") as source:
-                for entry in json.load(source):
-                    self.assertIsNone(exclusion_reason(entry), entry)
+    def test_national_teams_follow_curated_european_and_south_american_selection(self):
+        for team in ("France", "England", "Spain", "Croatia", "Argentina", "Brazil", "Chile", "Uruguay"):
+            entry = self.entry()
+            entry.update(cat="nat", team=team, season="2022", comp="World Cup 2022, quarter-final")
+            self.assertIsNone(exclusion_reason(entry), entry)
+        for team in ("Zambia", "Cape Verde", "Qatar", "Jordan", "Canada", "Japan", "Albania", "Venezuela"):
+            entry = self.entry()
+            entry.update(cat="nat", team=team, season="2022", comp="World Cup 2022, quarter-final")
+            self.assertIsNotNone(exclusion_reason(entry), entry)
+
+    def test_legendary_exceptions_are_exact_matches(self):
+        for team, season, comp, opp in [
+            ("Morocco", "2022", "World Cup 2022, quarter-final", "Portugal"),
+            ("Iceland", "2016", "Euro 2016, round of 16", "England"),
+            ("Wales", "2016", "Euro 2016, quarter-final", "Belgium"),
+        ]:
+            entry = self.entry()
+            entry.update(cat="nat", team=team, season=season, comp=comp, opp=opp)
+            self.assertIsNone(exclusion_reason(entry), entry)
+            entry.update(season="2025", comp="AFCON 2025, quarter-final")
+            self.assertIsNotNone(exclusion_reason(entry), entry)
+
+    def test_zambia_cannot_appear_in_random_or_daily_data(self):
+        with open(glob.glob("data.*.json")[0], encoding="utf-8") as source:
+            shipped = json.load(source)
+        self.assertFalse(any(e["sport"] == "fb" and e["team"] == "Zambia" for e in shipped))
 
     def test_shipped_pool_obeys_policy_and_contains_both_sports(self):
         paths = glob.glob("data.*.json")

@@ -1,6 +1,6 @@
 # Verified lineup expansion — 15 November 2026
 
-202 new starting lineups, in addition to the 58 restored national-team entries. Total playable pool: 887. EuroLeague alone starts at 2020/21; friendlies are excluded.
+202 new starting lineups, all retained after curating the national-team selection. Total playable pool: 838. EuroLeague alone starts at 2020/21; friendlies are excluded.
 
 All dates are match dates. Each source JSON preserves full source URLs and, for feed imports, source IDs and content hashes. StatsBomb Open Data is provided by Hudl; attribution and license terms remain applicable.
 
