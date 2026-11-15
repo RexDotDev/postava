@@ -1,0 +1,230 @@
+[
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Anadolu Efes",
+    "opp": "Monaco",
+    "score": "92-95",
+    "comp": "EuroLeague, round 2",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#1b3b8c",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#e30613",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Micić",
+        "Vasilije Micić",
+        "rs"
+      ],
+      [
+        "Beaubois",
+        "Rodrigue Beaubois",
+        "fr"
+      ],
+      [
+        "Clyburn",
+        "Will Clyburn",
+        "us"
+      ],
+      [
+        "M'Baye",
+        "Amath M'Baye",
+        "fr"
+      ],
+      [
+        "Žižić",
+        "Ante Žižić",
+        "hr"
+      ]
+    ],
+    "date": "2022-10-13",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_02_010_20221013_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:010",
+    "source_hashes": {
+      "boxscore": "9892dd6d4c9ef43e16dc9b73fb8f905734dbd545"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Panathinaikos",
+    "opp": "Red Star Belgrade",
+    "score": "77-75",
+    "comp": "EuroLeague, round 2",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#007a3d",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#e2001a",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Lee",
+        "Paris Lee",
+        "cm"
+      ],
+      [
+        "Andrews",
+        "Andrew Andrews",
+        "us"
+      ],
+      [
+        "Grigonis",
+        "Marius Grigonis",
+        "lt"
+      ],
+      [
+        "Williams",
+        "Derrick Williams",
+        "us"
+      ],
+      [
+        "Papagiannis",
+        "Georgios Papagiannis",
+        "gr"
+      ]
+    ],
+    "date": "2022-10-13",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_02_011_20221013_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:011",
+    "source_hashes": {
+      "boxscore": "efa1234946088a0329f941bc96f709181a857cb6"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Barcelona",
+    "opp": "Real Madrid",
+    "score": "75-73",
+    "comp": "EuroLeague, round 2",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#3d2b8e"
+    ],
+    "p": [
+      [
+        "Satoranský",
+        "Tomas Satoranský",
+        "cz"
+      ],
+      [
+        "Laprovittola",
+        "Nicolas Laprovittola",
+        "ar"
+      ],
+      [
+        "Kalinić",
+        "Nikola Kalinić",
+        "rs"
+      ],
+      [
+        "Şanlı",
+        "Sertaç Şanlı",
+        "tr"
+      ],
+      [
+        "Tobey",
+        "Mike Tobey",
+        "si"
+      ]
+    ],
+    "date": "2022-10-13",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_02_012_20221013_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:012",
+    "source_hashes": {
+      "boxscore": "77fa5b8fa3f7e7730f23d182bf4dcce2ec9be970"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "73-75",
+    "comp": "EuroLeague, round 2",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#3d2b8e"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Rodríguez",
+        "Sergio Rodríguez",
+        "es"
+      ],
+      [
+        "Hezonja",
+        "Mario Hezonja",
+        "hr"
+      ],
+      [
+        "Deck",
+        "Gabriel Deck",
+        "ar"
+      ],
+      [
+        "Cornelie",
+        "Petr Cornelie",
+        "fr"
+      ],
+      [
+        "Yabusele",
+        "Guerschon Yabusele",
+        "fr"
+      ]
+    ],
+    "date": "2022-10-13",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_02_012_20221013_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:012",
+    "source_hashes": {
+      "boxscore": "77fa5b8fa3f7e7730f23d182bf4dcce2ec9be970"
+    }
+  }
+]

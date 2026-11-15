@@ -1,0 +1,647 @@
+[
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Denver Nuggets",
+    "opp": "New Orleans Pelicans",
+    "score": "116-108",
+    "comp": "NBA regular season",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#0e2240"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#0c2340"
+    ],
+    "p": [
+      [
+        "Murray",
+        "Jamal Murray",
+        "ca"
+      ],
+      [
+        "Braun",
+        "Christian Braun",
+        "us"
+      ],
+      [
+        "Johnson",
+        "Cameron Johnson",
+        "us"
+      ],
+      [
+        "Gordon",
+        "Aaron Gordon",
+        "us"
+      ],
+      [
+        "Jokić",
+        "Nikola Jokić",
+        "rs"
+      ]
+    ],
+    "date": "2026-11-14",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2026-11-14/Denver-at-New-Orleans/530742"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "New Orleans Pelicans",
+    "opp": "Denver Nuggets",
+    "score": "108-116",
+    "comp": "NBA regular season",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#0c2340"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#0e2240"
+    ],
+    "p": [
+      [
+        "Fears",
+        "Jeremiah Fears",
+        "us"
+      ],
+      [
+        "Jones",
+        "Herbert Jones",
+        "us"
+      ],
+      [
+        "Bey",
+        "Saddiq Bey",
+        "us"
+      ],
+      [
+        "Williamson",
+        "Zion Williamson",
+        "us"
+      ],
+      [
+        "Missi",
+        "Yves Missi",
+        "cm"
+      ]
+    ],
+    "date": "2026-11-14",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2026-11-14/Denver-at-New-Orleans/530742"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Dallas Mavericks",
+    "opp": "Cleveland Cavaliers",
+    "score": "117-127",
+    "comp": "NBA regular season",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#00538c",
+      "#b8c4ca"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#860038"
+    ],
+    "p": [
+      [
+        "Irving",
+        "Kyrie Irving",
+        "us"
+      ],
+      [
+        "Flagg",
+        "Cooper Flagg",
+        "us"
+      ],
+      [
+        "Martin",
+        "Caleb Martin",
+        "us"
+      ],
+      [
+        "Washington",
+        "P.J. Washington",
+        "us"
+      ],
+      [
+        "Gafford",
+        "Daniel Gafford",
+        "us"
+      ]
+    ],
+    "date": "2026-11-14",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2026-11-14/Dallas-at-Cleveland/530743"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Houston Rockets",
+    "opp": "Utah Jazz",
+    "score": "125-118",
+    "comp": "NBA regular season",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#ce1141"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#002b5c"
+    ],
+    "p": [
+      [
+        "VanVleet",
+        "Fred VanVleet",
+        "us"
+      ],
+      [
+        "Thompson",
+        "Amen Thompson",
+        "us"
+      ],
+      [
+        "Durant",
+        "Kevin Durant",
+        "us"
+      ],
+      [
+        "Smith",
+        "Jabari Smith Jr.",
+        "us"
+      ],
+      [
+        "Şengün",
+        "Alperen Şengün",
+        "tr"
+      ]
+    ],
+    "date": "2026-11-13",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2026-11-13/Utah-at-Houston/530214",
+      "https://www.nba.com/rockets/game/0022600039-jazz-vs-rockets-houston-tx-11-13-2026/box-score"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Dallas Mavericks",
+    "opp": "Miami Heat",
+    "score": "105-95",
+    "comp": "NBA Finals, Game 6",
+    "season": "2010/11",
+    "y": 2011,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#00538c",
+      "#b8c4ca"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#98002e"
+    ],
+    "p": [
+      [
+        "Kidd",
+        "Jason Kidd",
+        "us"
+      ],
+      [
+        "Barea",
+        "J.J. Barea",
+        "pr"
+      ],
+      [
+        "Marion",
+        "Shawn Marion",
+        "us"
+      ],
+      [
+        "Nowitzki",
+        "Dirk Nowitzki",
+        "de"
+      ],
+      [
+        "Chandler",
+        "Tyson Chandler",
+        "us"
+      ]
+    ],
+    "date": "2011-06-12",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2011-06-12/Dallas-at-Miami/56215"
+    ],
+    "verified": "2026-11-15",
+    "note": "First championship in franchise history"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Miami Heat",
+    "opp": "Dallas Mavericks",
+    "score": "95-105",
+    "comp": "NBA Finals, Game 6",
+    "season": "2010/11",
+    "y": 2011,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#98002e"
+    ],
+    "okit": [
+      "solid",
+      "#00538c",
+      "#b8c4ca"
+    ],
+    "p": [
+      [
+        "Chalmers",
+        "Mario Chalmers",
+        "us"
+      ],
+      [
+        "Wade",
+        "Dwyane Wade",
+        "us"
+      ],
+      [
+        "James",
+        "LeBron James",
+        "us"
+      ],
+      [
+        "Bosh",
+        "Chris Bosh",
+        "us"
+      ],
+      [
+        "Anthony",
+        "Joel Anthony",
+        "ca"
+      ]
+    ],
+    "date": "2011-06-12",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2011-06-12/Dallas-at-Miami/56215"
+    ],
+    "verified": "2026-11-15",
+    "note": "First Finals run of the new big three"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Chicago Bulls",
+    "opp": "Miami Heat",
+    "score": "85-96",
+    "comp": "NBA playoffs, Eastern Conference finals, Game 3",
+    "season": "2010/11",
+    "y": 2011,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#ce1141"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#98002e"
+    ],
+    "p": [
+      [
+        "Rose",
+        "Derrick Rose",
+        "us"
+      ],
+      [
+        "Bogans",
+        "Keith Bogans",
+        "us"
+      ],
+      [
+        "Deng",
+        "Luol Deng",
+        "gb-eng"
+      ],
+      [
+        "Boozer",
+        "Carlos Boozer",
+        "us"
+      ],
+      [
+        "Noah",
+        "Joakim Noah",
+        "fr"
+      ]
+    ],
+    "date": "2011-05-22",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2011-05-22/Chicago-at-Miami/54903"
+    ],
+    "verified": "2026-11-15",
+    "note": "62-win season, led by the league MVP"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Los Angeles Lakers",
+    "opp": "Boston Celtics",
+    "score": "92-86",
+    "comp": "NBA regular season",
+    "season": "2010/11",
+    "y": 2011,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#fdb927",
+      "#552583"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#007a33"
+    ],
+    "p": [
+      [
+        "Fisher",
+        "Derek Fisher",
+        "us"
+      ],
+      [
+        "Bryant",
+        "Kobe Bryant",
+        "us"
+      ],
+      [
+        "Artest",
+        "Ron Artest",
+        "us"
+      ],
+      [
+        "Gasol",
+        "Pau Gasol",
+        "es"
+      ],
+      [
+        "Bynum",
+        "Andrew Bynum",
+        "us"
+      ]
+    ],
+    "date": "2011-02-10",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2011-02-10/LA-Lakers-at-Boston/45719"
+    ],
+    "verified": "2026-11-15",
+    "note": "Championship core meets its old rival"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Boston Celtics",
+    "opp": "Los Angeles Lakers",
+    "score": "86-92",
+    "comp": "NBA regular season",
+    "season": "2010/11",
+    "y": 2011,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#007a33"
+    ],
+    "okit": [
+      "solid",
+      "#fdb927",
+      "#552583"
+    ],
+    "p": [
+      [
+        "Rondo",
+        "Rajon Rondo",
+        "us"
+      ],
+      [
+        "Allen",
+        "Ray Allen",
+        "us"
+      ],
+      [
+        "Pierce",
+        "Paul Pierce",
+        "us"
+      ],
+      [
+        "Garnett",
+        "Kevin Garnett",
+        "us"
+      ],
+      [
+        "Perkins",
+        "Kendrick Perkins",
+        "us"
+      ]
+    ],
+    "date": "2011-02-10",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2011-02-10/LA-Lakers-at-Boston/45719"
+    ],
+    "verified": "2026-11-15",
+    "note": "Veteran big three alongside an elite playmaker"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "New York Knicks",
+    "opp": "Indiana Pacers",
+    "score": "99-106",
+    "comp": "NBA playoffs, Eastern Conference semi-finals, Game 6",
+    "season": "2012/13",
+    "y": 2013,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#006bb6"
+    ],
+    "okit": [
+      "solid",
+      "#002d62",
+      "#fdbb30"
+    ],
+    "p": [
+      [
+        "Felton",
+        "Raymond Felton",
+        "us"
+      ],
+      [
+        "Prigioni",
+        "Pablo Prigioni",
+        "ar"
+      ],
+      [
+        "Shumpert",
+        "Iman Shumpert",
+        "us"
+      ],
+      [
+        "Anthony",
+        "Carmelo Anthony",
+        "us"
+      ],
+      [
+        "Chandler",
+        "Tyson Chandler",
+        "us"
+      ]
+    ],
+    "date": "2013-05-18",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2013-05-18/New-York-at-Indiana/124940"
+    ],
+    "verified": "2026-11-15",
+    "note": "54-win season and an Atlantic Division title"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Houston Rockets",
+    "opp": "Los Angeles Clippers",
+    "score": "113-100",
+    "comp": "NBA playoffs, Western Conference semi-finals, Game 7",
+    "season": "2014/15",
+    "y": 2015,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#ce1141"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#c8102e"
+    ],
+    "p": [
+      [
+        "Terry",
+        "Jason Terry",
+        "us"
+      ],
+      [
+        "Harden",
+        "James Harden",
+        "us"
+      ],
+      [
+        "Ariza",
+        "Trevor Ariza",
+        "us"
+      ],
+      [
+        "Smith",
+        "Josh Smith",
+        "us"
+      ],
+      [
+        "Howard",
+        "Dwight Howard",
+        "us"
+      ]
+    ],
+    "date": "2015-05-17",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2015-05-17/LA-Clippers-at-Houston/212221"
+    ],
+    "verified": "2026-11-15",
+    "note": "Recovered from 3-1 down to win the series"
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "San Antonio Spurs",
+    "opp": "Oklahoma City Thunder",
+    "score": "102-98 OT",
+    "comp": "NBA regular season",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#000000",
+      "#c4ced4"
+    ],
+    "okit": [
+      "solid",
+      "#007ac1",
+      "#ef3b24"
+    ],
+    "p": [
+      [
+        "Parker",
+        "Tony Parker",
+        "fr"
+      ],
+      [
+        "Green",
+        "Danny Green",
+        "us"
+      ],
+      [
+        "Leonard",
+        "Kawhi Leonard",
+        "us"
+      ],
+      [
+        "Duncan",
+        "Tim Duncan",
+        "us"
+      ],
+      [
+        "Aldridge",
+        "LaMarcus Aldridge",
+        "us"
+      ]
+    ],
+    "date": "2016-04-12",
+    "sources": [
+      "https://basketball.realgm.com/nba/boxscore/2016-04-12/Oklahoma-City-at-San-Antonio/219815"
+    ],
+    "verified": "2026-11-15",
+    "note": "67-win season; final home game of the regular season"
+  }
+]

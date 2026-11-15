@@ -1,0 +1,1418 @@
+[
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Toronto Raptors",
+    "opp": "Cleveland Cavaliers",
+    "score": "87-113",
+    "comp": "NBA playoffs, Eastern Conference finals, Game 6",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ce1141",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#860038"
+    ],
+    "p": [
+      [
+        "Lowry",
+        "Kyle Lowry",
+        "us"
+      ],
+      [
+        "DeRozan",
+        "DeMar DeRozan",
+        "us"
+      ],
+      [
+        "Carroll",
+        "DeMarre Carroll",
+        "us"
+      ],
+      [
+        "Scola",
+        "Luis Scola",
+        "ar"
+      ],
+      [
+        "Biyombo",
+        "Bismack Biyombo",
+        "cd"
+      ]
+    ],
+    "date": "2016-05-27",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041500306.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2015-16_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041500306",
+    "source_hashes": {
+      "boxscore": "ba6f6dc7a8dc56da76ec4531718ecf82aa44d395"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "San Antonio Spurs",
+    "opp": "Golden State Warriors",
+    "score": "115-129",
+    "comp": "NBA playoffs, Western Conference finals, Game 4",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#000000",
+      "#c4ced4"
+    ],
+    "okit": [
+      "solid",
+      "#1d428a",
+      "#ffc72c"
+    ],
+    "p": [
+      [
+        "Mills",
+        "Patty Mills",
+        "au"
+      ],
+      [
+        "Green",
+        "Danny Green",
+        "us"
+      ],
+      [
+        "Simmons",
+        "Jonathon Simmons",
+        "us"
+      ],
+      [
+        "Ginóbili",
+        "Manu Ginóbili",
+        "ar"
+      ],
+      [
+        "Aldridge",
+        "LaMarcus Aldridge",
+        "us"
+      ]
+    ],
+    "date": "2017-05-22",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041600314.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2016-17_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041600314",
+    "source_hashes": {
+      "boxscore": "0409032d98fdd7aa438a5ccfa2598b77a22fd5b8"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Washington Wizards",
+    "opp": "Boston Celtics",
+    "score": "105-115",
+    "comp": "NBA playoffs, Eastern Conference semi-finals, Game 7",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "5",
+    "kit": [
+      "band",
+      "#002b5c",
+      "#e31837"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#007a33"
+    ],
+    "p": [
+      [
+        "Wall",
+        "John Wall",
+        "us"
+      ],
+      [
+        "Beal",
+        "Bradley Beal",
+        "us"
+      ],
+      [
+        "Porter",
+        "Otto Porter Jr.",
+        "us"
+      ],
+      [
+        "Morris",
+        "Markieff Morris",
+        "us"
+      ],
+      [
+        "Gortat",
+        "Marcin Gortat",
+        "pl"
+      ]
+    ],
+    "date": "2017-05-15",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041600207.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2016-17_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041600207",
+    "source_hashes": {
+      "boxscore": "6bf653c46ebb40d89152267e889f3264ef30d747"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Miami Heat",
+    "opp": "Toronto Raptors",
+    "score": "89-116",
+    "comp": "NBA playoffs, Eastern Conference semi-finals, Game 7",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#98002e"
+    ],
+    "okit": [
+      "solid",
+      "#ce1141",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Dragić",
+        "Goran Dragić",
+        "si"
+      ],
+      [
+        "Wade",
+        "Dwyane Wade",
+        "us"
+      ],
+      [
+        "Johnson",
+        "Joe Johnson",
+        "us"
+      ],
+      [
+        "Deng",
+        "Luol Deng",
+        "gb-eng"
+      ],
+      [
+        "Winslow",
+        "Justise Winslow",
+        "us"
+      ]
+    ],
+    "date": "2016-05-15",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041500217.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2015-16_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041500217",
+    "source_hashes": {
+      "boxscore": "7a80264b653bd93e9140b49d5b5f650edb5e07d1"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Houston Rockets",
+    "opp": "San Antonio Spurs",
+    "score": "75-114",
+    "comp": "NBA playoffs, Western Conference semi-finals, Game 6",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#ce1141"
+    ],
+    "okit": [
+      "solid",
+      "#000000",
+      "#c4ced4"
+    ],
+    "p": [
+      [
+        "Harden",
+        "James Harden",
+        "us"
+      ],
+      [
+        "Beverley",
+        "Patrick Beverley",
+        "us"
+      ],
+      [
+        "Gordon",
+        "Eric Gordon",
+        "bs"
+      ],
+      [
+        "Ariza",
+        "Trevor Ariza",
+        "us"
+      ],
+      [
+        "Capela",
+        "Clint Capela",
+        "ch"
+      ]
+    ],
+    "date": "2017-05-11",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041600236.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2016-17_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041600236",
+    "source_hashes": {
+      "boxscore": "f124e12491b9ee2af4cf320ec747bf4acb4d9c6c"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Washington Wizards",
+    "opp": "Atlanta Hawks",
+    "score": "91-94",
+    "comp": "NBA playoffs, Eastern Conference semi-finals, Game 6",
+    "season": "2014/15",
+    "y": 2015,
+    "form": "5",
+    "kit": [
+      "band",
+      "#002b5c",
+      "#e31837"
+    ],
+    "okit": [
+      "solid",
+      "#e03a3e",
+      "#26282a"
+    ],
+    "p": [
+      [
+        "Wall",
+        "John Wall",
+        "us"
+      ],
+      [
+        "Beal",
+        "Bradley Beal",
+        "us"
+      ],
+      [
+        "Pierce",
+        "Paul Pierce",
+        "us"
+      ],
+      [
+        "Nenê",
+        "Nenê",
+        "br"
+      ],
+      [
+        "Gortat",
+        "Marcin Gortat",
+        "pl"
+      ]
+    ],
+    "date": "2015-05-15",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041400206.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2014-15_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041400206",
+    "source_hashes": {
+      "boxscore": "29439e679e853ac4aae89bd31d7d894f8a00224b"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Memphis Grizzlies",
+    "opp": "Golden State Warriors",
+    "score": "95-108",
+    "comp": "NBA playoffs, Western Conference semi-finals, Game 6",
+    "season": "2014/15",
+    "y": 2015,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#12173f",
+      "#5d76a9"
+    ],
+    "okit": [
+      "solid",
+      "#1d428a",
+      "#ffc72c"
+    ],
+    "p": [
+      [
+        "Conley",
+        "Mike Conley",
+        "us"
+      ],
+      [
+        "Lee",
+        "Courtney Lee",
+        "us"
+      ],
+      [
+        "Allen",
+        "Tony Allen",
+        "us"
+      ],
+      [
+        "Randolph",
+        "Zach Randolph",
+        "us"
+      ],
+      [
+        "M. Gasol",
+        "Marc Gasol",
+        "es"
+      ]
+    ],
+    "date": "2015-05-15",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041400226.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2014-15_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041400226",
+    "source_hashes": {
+      "boxscore": "92d17cad06a52086a1a9a6f519cc251fc9181fd1"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Portland Trail Blazers",
+    "opp": "Golden State Warriors",
+    "score": "121-125",
+    "comp": "NBA playoffs, Western Conference semi-finals, Game 5",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#000000",
+      "#e03a3e"
+    ],
+    "okit": [
+      "solid",
+      "#1d428a",
+      "#ffc72c"
+    ],
+    "p": [
+      [
+        "Lillard",
+        "Damian Lillard",
+        "us"
+      ],
+      [
+        "McCollum",
+        "CJ McCollum",
+        "us"
+      ],
+      [
+        "Aminu",
+        "Al-Farouq Aminu",
+        "ng"
+      ],
+      [
+        "Harkless",
+        "Maurice Harkless",
+        "us"
+      ],
+      [
+        "Plumlee",
+        "Mason Plumlee",
+        "us"
+      ]
+    ],
+    "date": "2016-05-11",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041500225.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2015-16_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041500225",
+    "source_hashes": {
+      "boxscore": "5ff6555e531f01f6f8f86117f37dbf3897f4d8e3"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Philadelphia 76ers",
+    "opp": "Boston Celtics",
+    "score": "112-114",
+    "comp": "NBA playoffs, Eastern Conference semi-finals, Game 5",
+    "season": "2017/18",
+    "y": 2018,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#006bb6",
+      "#ed174c"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#007a33"
+    ],
+    "p": [
+      [
+        "Simmons",
+        "Ben Simmons",
+        "au"
+      ],
+      [
+        "McConnell",
+        "T.J. McConnell",
+        "us"
+      ],
+      [
+        "Redick",
+        "JJ Redick",
+        "us"
+      ],
+      [
+        "Šarić",
+        "Dario Šarić",
+        "hr"
+      ],
+      [
+        "Embiid",
+        "Joel Embiid",
+        "us"
+      ]
+    ],
+    "date": "2018-05-09",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041700215.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2017-18_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041700215",
+    "source_hashes": {
+      "boxscore": "1837008ab194eeddcd36eb6923ddb1b28b5107da"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Utah Jazz",
+    "opp": "Houston Rockets",
+    "score": "102-112",
+    "comp": "NBA playoffs, Western Conference semi-finals, Game 5",
+    "season": "2017/18",
+    "y": 2018,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#002b5c"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#ce1141"
+    ],
+    "p": [
+      [
+        "Mitchell",
+        "Donovan Mitchell",
+        "us"
+      ],
+      [
+        "O'Neale",
+        "Royce O'Neale",
+        "us"
+      ],
+      [
+        "Ingles",
+        "Joe Ingles",
+        "au"
+      ],
+      [
+        "Crowder",
+        "Jae Crowder",
+        "us"
+      ],
+      [
+        "Gobert",
+        "Rudy Gobert",
+        "fr"
+      ]
+    ],
+    "date": "2018-05-08",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041700225.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2017-18_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041700225",
+    "source_hashes": {
+      "boxscore": "e4c4d4d537f604592da802b971b010117adeecc5"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Utah Jazz",
+    "opp": "Golden State Warriors",
+    "score": "95-121",
+    "comp": "NBA playoffs, Western Conference semi-finals, Game 4",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#002b5c"
+    ],
+    "okit": [
+      "solid",
+      "#1d428a",
+      "#ffc72c"
+    ],
+    "p": [
+      [
+        "Mack",
+        "Shelvin Mack",
+        "us"
+      ],
+      [
+        "Ingles",
+        "Joe Ingles",
+        "au"
+      ],
+      [
+        "Hayward",
+        "Gordon Hayward",
+        "us"
+      ],
+      [
+        "Diaw",
+        "Boris Diaw",
+        "fr"
+      ],
+      [
+        "Gobert",
+        "Rudy Gobert",
+        "fr"
+      ]
+    ],
+    "date": "2017-05-08",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041600224.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2016-17_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041600224",
+    "source_hashes": {
+      "boxscore": "e0b851e49d4a57b399b44c10ffe248e0a49f019c"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Toronto Raptors",
+    "opp": "Cleveland Cavaliers",
+    "score": "102-109",
+    "comp": "NBA playoffs, Eastern Conference semi-finals, Game 4",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ce1141",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#860038"
+    ],
+    "p": [
+      [
+        "Joseph",
+        "Cory Joseph",
+        "ca"
+      ],
+      [
+        "DeRozan",
+        "DeMar DeRozan",
+        "us"
+      ],
+      [
+        "Tucker",
+        "P.J. Tucker",
+        "us"
+      ],
+      [
+        "Ibaka",
+        "Serge Ibaka",
+        "es"
+      ],
+      [
+        "Valančiūnas",
+        "Jonas Valančiūnas",
+        "lt"
+      ]
+    ],
+    "date": "2017-05-07",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041600214.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2016-17_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041600214",
+    "source_hashes": {
+      "boxscore": "9a598e9d9b98419719ed7ba8216a30683587eba8"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Atlanta Hawks",
+    "opp": "Cleveland Cavaliers",
+    "score": "99-100",
+    "comp": "NBA playoffs, Eastern Conference semi-finals, Game 4",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#e03a3e",
+      "#26282a"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#860038"
+    ],
+    "p": [
+      [
+        "Teague",
+        "Jeff Teague",
+        "us"
+      ],
+      [
+        "Bazemore",
+        "Kent Bazemore",
+        "us"
+      ],
+      [
+        "Sefolosha",
+        "Thabo Sefolosha",
+        "ch"
+      ],
+      [
+        "Millsap",
+        "Paul Millsap",
+        "us"
+      ],
+      [
+        "Horford",
+        "Al Horford",
+        "do"
+      ]
+    ],
+    "date": "2016-05-08",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041500204.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2015-16_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041500204",
+    "source_hashes": {
+      "boxscore": "ddaf4ac15f4903ea0ff4d94e81d8262f39f09437"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Toronto Raptors",
+    "opp": "Cleveland Cavaliers",
+    "score": "93-128",
+    "comp": "NBA playoffs, Eastern Conference semi-finals, Game 4",
+    "season": "2017/18",
+    "y": 2018,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ce1141",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#860038"
+    ],
+    "p": [
+      [
+        "Lowry",
+        "Kyle Lowry",
+        "us"
+      ],
+      [
+        "DeRozan",
+        "DeMar DeRozan",
+        "us"
+      ],
+      [
+        "Miles",
+        "CJ Miles",
+        "us"
+      ],
+      [
+        "Anunoby",
+        "OG Anunoby",
+        "gb-eng"
+      ],
+      [
+        "Ibaka",
+        "Serge Ibaka",
+        "es"
+      ]
+    ],
+    "date": "2018-05-07",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041700204.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2017-18_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041700204",
+    "source_hashes": {
+      "boxscore": "882799260f59ea5666f6221a780e0860427304d9"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Milwaukee Bucks",
+    "opp": "Boston Celtics",
+    "score": "96-112",
+    "comp": "NBA playoffs, Eastern Conference first round, Game 7",
+    "season": "2017/18",
+    "y": 2018,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#eee1c6",
+      "#00471b"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#007a33"
+    ],
+    "p": [
+      [
+        "Bledsoe",
+        "Eric Bledsoe",
+        "us"
+      ],
+      [
+        "Brogdon",
+        "Malcolm Brogdon",
+        "us"
+      ],
+      [
+        "Middleton",
+        "Khris Middleton",
+        "us"
+      ],
+      [
+        "Antetokounmpo",
+        "Giannis Antetokounmpo",
+        "gr"
+      ],
+      [
+        "Maker",
+        "Thon Maker",
+        "ss"
+      ]
+    ],
+    "date": "2018-04-28",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041700117.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2017-18_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041700117",
+    "source_hashes": {
+      "boxscore": "6115d7dc4f0bfb31b662aa30009210b2d5945817"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Indiana Pacers",
+    "opp": "Cleveland Cavaliers",
+    "score": "101-105",
+    "comp": "NBA playoffs, Eastern Conference first round, Game 7",
+    "season": "2017/18",
+    "y": 2018,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#002d62",
+      "#fdbb30"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#860038"
+    ],
+    "p": [
+      [
+        "Collison",
+        "Darren Collison",
+        "us"
+      ],
+      [
+        "Oladipo",
+        "Victor Oladipo",
+        "us"
+      ],
+      [
+        "Bogdanović",
+        "Bojan Bogdanović",
+        "hr"
+      ],
+      [
+        "Young",
+        "Thaddeus Young",
+        "us"
+      ],
+      [
+        "Turner",
+        "Myles Turner",
+        "us"
+      ]
+    ],
+    "date": "2018-04-29",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041700137.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2017-18_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041700137",
+    "source_hashes": {
+      "boxscore": "3935fbb8f9d50aed166df3fbbb756ee35f6a1095"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "San Antonio Spurs",
+    "opp": "Los Angeles Clippers",
+    "score": "109-111",
+    "comp": "NBA playoffs, Western Conference first round, Game 7",
+    "season": "2014/15",
+    "y": 2015,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#000000",
+      "#c4ced4"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#c8102e"
+    ],
+    "p": [
+      [
+        "Parker",
+        "Tony Parker",
+        "fr"
+      ],
+      [
+        "Green",
+        "Danny Green",
+        "us"
+      ],
+      [
+        "Leonard",
+        "Kawhi Leonard",
+        "us"
+      ],
+      [
+        "Duncan",
+        "Tim Duncan",
+        "us"
+      ],
+      [
+        "Splitter",
+        "Tiago Splitter",
+        "br"
+      ]
+    ],
+    "date": "2015-05-02",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041400167.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2014-15_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041400167",
+    "source_hashes": {
+      "boxscore": "ecfe005b9c0323b02c491e33b9e492dfd5dce3a4"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Los Angeles Clippers",
+    "opp": "Utah Jazz",
+    "score": "91-104",
+    "comp": "NBA playoffs, Western Conference first round, Game 7",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#c8102e"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#002b5c"
+    ],
+    "p": [
+      [
+        "Paul",
+        "Chris Paul",
+        "us"
+      ],
+      [
+        "Redick",
+        "JJ Redick",
+        "us"
+      ],
+      [
+        "Rivers",
+        "Austin Rivers",
+        "us"
+      ],
+      [
+        "Moute",
+        "Luc Mbah a Moute",
+        "cm"
+      ],
+      [
+        "Jordan",
+        "DeAndre Jordan",
+        "us"
+      ]
+    ],
+    "date": "2017-04-30",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041600177.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2016-17_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041600177",
+    "source_hashes": {
+      "boxscore": "9a0c18da57a659015739999f4a7008ffa6dec179"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Indiana Pacers",
+    "opp": "Toronto Raptors",
+    "score": "84-89",
+    "comp": "NBA playoffs, Eastern Conference first round, Game 7",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#002d62",
+      "#fdbb30"
+    ],
+    "okit": [
+      "solid",
+      "#ce1141",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Hill",
+        "George Hill",
+        "us"
+      ],
+      [
+        "Ellis",
+        "Monta Ellis",
+        "us"
+      ],
+      [
+        "George",
+        "Paul George",
+        "us"
+      ],
+      [
+        "Turner",
+        "Myles Turner",
+        "us"
+      ],
+      [
+        "Mahinmi",
+        "Ian Mahinmi",
+        "fr"
+      ]
+    ],
+    "date": "2016-05-01",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041500117.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2015-16_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041500117",
+    "source_hashes": {
+      "boxscore": "c66494f5c2178396d23a92c98332e206ee7b5a03"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Charlotte Hornets",
+    "opp": "Miami Heat",
+    "score": "73-106",
+    "comp": "NBA playoffs, Eastern Conference first round, Game 7",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#00788c",
+      "#1d1160"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#98002e"
+    ],
+    "p": [
+      [
+        "Walker",
+        "Kemba Walker",
+        "us"
+      ],
+      [
+        "Lee",
+        "Courtney Lee",
+        "us"
+      ],
+      [
+        "Williams",
+        "Marvin Williams",
+        "us"
+      ],
+      [
+        "Kaminsky",
+        "Frank Kaminsky",
+        "us"
+      ],
+      [
+        "Jefferson",
+        "Al Jefferson",
+        "us"
+      ]
+    ],
+    "date": "2016-05-01",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041500127.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2015-16_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041500127",
+    "source_hashes": {
+      "boxscore": "2becd4c02bd636a12de041f3f42e7e4dccd8cdd2"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Washington Wizards",
+    "opp": "Toronto Raptors",
+    "score": "92-102",
+    "comp": "NBA playoffs, Eastern Conference first round, Game 6",
+    "season": "2017/18",
+    "y": 2018,
+    "form": "5",
+    "kit": [
+      "band",
+      "#002b5c",
+      "#e31837"
+    ],
+    "okit": [
+      "solid",
+      "#ce1141",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Wall",
+        "John Wall",
+        "us"
+      ],
+      [
+        "Beal",
+        "Bradley Beal",
+        "us"
+      ],
+      [
+        "Oubre",
+        "Kelly Oubre Jr.",
+        "us"
+      ],
+      [
+        "Morris",
+        "Markieff Morris",
+        "us"
+      ],
+      [
+        "Gortat",
+        "Marcin Gortat",
+        "pl"
+      ]
+    ],
+    "date": "2018-04-27",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041700106.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2017-18_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041700106",
+    "source_hashes": {
+      "boxscore": "3df7380947a8c30d5b4d8465f014754033059a44"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Brooklyn Nets",
+    "opp": "Atlanta Hawks",
+    "score": "87-111",
+    "comp": "NBA playoffs, Eastern Conference first round, Game 6",
+    "season": "2014/15",
+    "y": 2015,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#000000",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#e03a3e",
+      "#26282a"
+    ],
+    "p": [
+      [
+        "Williams",
+        "Deron Williams",
+        "us"
+      ],
+      [
+        "Bogdanović",
+        "Bojan Bogdanović",
+        "hr"
+      ],
+      [
+        "Johnson",
+        "Joe Johnson",
+        "us"
+      ],
+      [
+        "Young",
+        "Thaddeus Young",
+        "us"
+      ],
+      [
+        "Lopez",
+        "Brook Lopez",
+        "us"
+      ]
+    ],
+    "date": "2015-05-01",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041400106.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2014-15_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041400106",
+    "source_hashes": {
+      "boxscore": "7546af25588ba337c1e05ed54ac82ef990ea1ec4"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Milwaukee Bucks",
+    "opp": "Chicago Bulls",
+    "score": "66-120",
+    "comp": "NBA playoffs, Eastern Conference first round, Game 6",
+    "season": "2014/15",
+    "y": 2015,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#eee1c6",
+      "#00471b"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#ce1141"
+    ],
+    "p": [
+      [
+        "Carter-Williams",
+        "Michael Carter-Williams",
+        "us"
+      ],
+      [
+        "Middleton",
+        "Khris Middleton",
+        "us"
+      ],
+      [
+        "Antetokounmpo",
+        "Giannis Antetokounmpo",
+        "gr"
+      ],
+      [
+        "Ilyasova",
+        "Ersan İlyasova",
+        "tr"
+      ],
+      [
+        "Pachulia",
+        "Zaza Pachulia",
+        "ge"
+      ]
+    ],
+    "date": "2015-04-30",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041400126.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2014-15_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041400126",
+    "source_hashes": {
+      "boxscore": "9196e619e0072230a1f966d6e3d5179a61d3c43a"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "nba",
+    "team": "Chicago Bulls",
+    "opp": "Boston Celtics",
+    "score": "83-105",
+    "comp": "NBA playoffs, Eastern Conference first round, Game 6",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#ce1141"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#007a33"
+    ],
+    "p": [
+      [
+        "Canaan",
+        "Isaiah Canaan",
+        "us"
+      ],
+      [
+        "Wade",
+        "Dwyane Wade",
+        "us"
+      ],
+      [
+        "Butler",
+        "Jimmy Butler",
+        "us"
+      ],
+      [
+        "Mirotić",
+        "Nikola Mirotić",
+        "es"
+      ],
+      [
+        "Lopez",
+        "Robin Lopez",
+        "us"
+      ]
+    ],
+    "date": "2017-04-28",
+    "sources": [
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/boxscore/boxscore_0041600106.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/csv/gamelog/gamelog_2016-17_Playoffs.csv",
+      "https://github.com/statsbase/statsbase/blob/master/spark/output/allPlayerInfo.csv"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "nba:0041600106",
+    "source_hashes": {
+      "boxscore": "08224aa1745dcef474e2a7b04da71e830ea60e65"
+    }
+  }
+]

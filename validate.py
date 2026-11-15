@@ -15,7 +15,7 @@ def check(o, i):
     sp = o["sport"]
     if sp not in ("fb","bb"): e.append("bad sport")
     if o["cat"] not in ({"club","nat"} if sp=="fb" else {"nba","euro","nat"}): e.append("bad cat")
-    lo = 1970 if (sp=="bb" and o["cat"]=="nat") else 2009 if sp=="fb" else 2012   # basketball legends reach back to 1970
+    lo = 1970 if (sp=="bb" and o["cat"]=="nat") else 2009 if sp=="fb" else 2011 if o["cat"]=="nba" else 2012
     if not isinstance(o["y"], int) or not lo <= o["y"] <= 2026: e.append("bad y")
     for k in ("kit","okit"):
         v = o[k]

@@ -1,0 +1,214 @@
+[
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Panathinaikos",
+    "opp": "Barcelona",
+    "score": "74-76",
+    "comp": "EuroLeague, round 11",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#007a3d",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Francisco",
+        "Sylvain Francisco",
+        "fr"
+      ],
+      [
+        "Badio",
+        "Brancou Badio",
+        "sn"
+      ],
+      [
+        "Bonga",
+        "Isaac Bonga",
+        "de"
+      ],
+      [
+        "Hernangómez",
+        "Juancho Hernangómez",
+        "es"
+      ],
+      [
+        "Mitoglou",
+        "Dinos Mitoglou",
+        "gr"
+      ]
+    ],
+    "date": "2026-11-13",
+    "sources": [
+      "https://scoutbasketball.com/competition/euroleague/2026-2027/panathinaikos-bc-vs-fc-barcelona-on-2026-11-13"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Barcelona",
+    "opp": "Panathinaikos",
+    "score": "76-74",
+    "comp": "EuroLeague, round 11",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "solid",
+      "#007a3d",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Robinson",
+        "Justin Robinson",
+        "us"
+      ],
+      [
+        "Martin",
+        "Tyrese Martin",
+        "us"
+      ],
+      [
+        "Umude",
+        "Stanley Umude",
+        "us"
+      ],
+      [
+        "Parra",
+        "Joel Parra",
+        "es"
+      ],
+      [
+        "Nebo",
+        "Josh Nebo",
+        "si"
+      ]
+    ],
+    "date": "2026-11-13",
+    "sources": [
+      "https://scoutbasketball.com/competition/euroleague/2026-2027/panathinaikos-bc-vs-fc-barcelona-on-2026-11-13"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Real Madrid",
+    "opp": "Red Star Belgrade",
+    "score": "105-84",
+    "comp": "EuroLeague, round 11",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#3d2b8e"
+    ],
+    "okit": [
+      "stripes",
+      "#e2001a",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Feliz",
+        "Andrés Feliz",
+        "do"
+      ],
+      [
+        "Smith",
+        "Nick Smith Jr.",
+        "us"
+      ],
+      [
+        "Procida",
+        "Gabriele Procida",
+        "it"
+      ],
+      [
+        "Pradilla",
+        "Jaime Pradilla",
+        "es"
+      ],
+      [
+        "Tavares",
+        "Edy Tavares",
+        "cv"
+      ]
+    ],
+    "date": "2026-11-12",
+    "sources": [
+      "https://scoutbasketball.com/competition/euroleague/2026-2027/real-madrid-vs-kk-crvena-zvezda-on-2026-11-12"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Olympiacos",
+    "opp": "Dubai Basketball",
+    "score": "101-72",
+    "comp": "EuroLeague, round 11",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#d71920",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#0a0a0a",
+      "#c9a44c"
+    ],
+    "p": [
+      [
+        "Joseph",
+        "Cory Joseph",
+        "ca"
+      ],
+      [
+        "Fournier",
+        "Evan Fournier",
+        "fr"
+      ],
+      [
+        "Ward",
+        "Tyson Ward",
+        "us"
+      ],
+      [
+        "Vezenkov",
+        "Sasha Vezenkov",
+        "bg"
+      ],
+      [
+        "Milutinov",
+        "Nikola Milutinov",
+        "rs"
+      ]
+    ],
+    "date": "2026-11-12",
+    "sources": [
+      "https://scoutbasketball.com/competition/euroleague/2026-2027/olympiacos-bc-vs-dubai-bc-on-2026-11-12"
+    ],
+    "verified": "2026-11-15"
+  }
+]

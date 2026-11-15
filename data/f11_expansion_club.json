@@ -1,0 +1,843 @@
+[
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Aston Villa",
+    "score": "3-0",
+    "comp": "Champions League, league phase, matchday 4",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "4-2-3-1",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "sleeves",
+      "#670e36",
+      "#95bfe5"
+    ],
+    "p": [
+      [
+        "García",
+        "Joan García",
+        "es"
+      ],
+      [
+        "Cancelo",
+        "João Cancelo",
+        "pt"
+      ],
+      [
+        "Gerard Martín",
+        "Gerard Martín",
+        "es"
+      ],
+      [
+        "Cubarsí",
+        "Pau Cubarsí",
+        "es"
+      ],
+      [
+        "Fariñas",
+        "Brian Fariñas",
+        "es"
+      ],
+      [
+        "Pedri",
+        "Pedri",
+        "es"
+      ],
+      [
+        "Rodri",
+        "Rodri",
+        "es"
+      ],
+      [
+        "Gordon",
+        "Anthony Gordon",
+        "gb-eng"
+      ],
+      [
+        "Fermín López",
+        "Fermín López",
+        "es"
+      ],
+      [
+        "Yamal",
+        "Lamine Yamal",
+        "es"
+      ],
+      [
+        "Raphinha",
+        "Raphinha",
+        "br"
+      ]
+    ],
+    "date": "2026-11-03",
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/news/02ab-21f9907f0a27-6a6a67e9775d-1000--champions-league-starting-line-ups-matchday-4/",
+      "https://www.uefa.com/newsfiles/UCL/2027/2049607_FR.pdf"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Aston Villa",
+    "opp": "Barcelona",
+    "score": "0-3",
+    "comp": "Champions League, league phase, matchday 4",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "4-2-3-1",
+    "kit": [
+      "sleeves",
+      "#670e36",
+      "#95bfe5"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Suzuki",
+        "Zion Suzuki",
+        "jp"
+      ],
+      [
+        "Maatsen",
+        "Ian Maatsen",
+        "nl"
+      ],
+      [
+        "Pau Torres",
+        "Pau Torres",
+        "es"
+      ],
+      [
+        "Lindelöf",
+        "Victor Lindelöf",
+        "se"
+      ],
+      [
+        "Cash",
+        "Matty Cash",
+        "pl"
+      ],
+      [
+        "Kamara",
+        "Boubacar Kamara",
+        "fr"
+      ],
+      [
+        "João Gomes",
+        "João Gomes",
+        "br"
+      ],
+      [
+        "Buendía",
+        "Emiliano Buendía",
+        "ar"
+      ],
+      [
+        "Manzambi",
+        "Johan Manzambi",
+        "ch"
+      ],
+      [
+        "McGinn",
+        "John McGinn",
+        "gb-sct"
+      ],
+      [
+        "Jackson",
+        "Nicolas Jackson",
+        "sn"
+      ]
+    ],
+    "date": "2026-11-03",
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/news/02ab-21f9907f0a27-6a6a67e9775d-1000--champions-league-starting-line-ups-matchday-4/",
+      "https://www.uefa.com/newsfiles/UCL/2027/2049607_FR.pdf"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Bayern Munich",
+    "opp": "Atlético Madrid",
+    "score": "2-0",
+    "comp": "Champions League, league phase, matchday 4",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#dc052d",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Neuer",
+        "Manuel Neuer",
+        "de"
+      ],
+      [
+        "Stanišić",
+        "Josip Stanišić",
+        "hr"
+      ],
+      [
+        "Tah",
+        "Jonathan Tah",
+        "de"
+      ],
+      [
+        "Upamecano",
+        "Dayot Upamecano",
+        "fr"
+      ],
+      [
+        "Laimer",
+        "Konrad Laimer",
+        "at"
+      ],
+      [
+        "Bischof",
+        "Tom Bischof",
+        "de"
+      ],
+      [
+        "Kimmich",
+        "Joshua Kimmich",
+        "de"
+      ],
+      [
+        "Davies",
+        "Alphonso Davies",
+        "ca"
+      ],
+      [
+        "Olise",
+        "Michael Olise",
+        "fr"
+      ],
+      [
+        "Karl",
+        "Lennart Karl",
+        "de"
+      ],
+      [
+        "Kane",
+        "Harry Kane",
+        "gb-eng"
+      ]
+    ],
+    "date": "2026-11-03",
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/news/02ab-21f9907f0a27-6a6a67e9775d-1000--champions-league-starting-line-ups-matchday-4/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2176fa83582b-d99f0b27f405-1000--champions-league-league-phase-fixtures-by-team/"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Bayern Munich",
+    "score": "0-2",
+    "comp": "Champions League, league phase, matchday 4",
+    "season": "2026/27",
+    "y": 2026,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#dc052d",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Oblak",
+        "Jan Oblak",
+        "si"
+      ],
+      [
+        "Grimaldo",
+        "Alejandro Grimaldo",
+        "es"
+      ],
+      [
+        "Hancko",
+        "Dávid Hancko",
+        "sk"
+      ],
+      [
+        "Le Normand",
+        "Robin Le Normand",
+        "es"
+      ],
+      [
+        "Pubill",
+        "Marc Pubill",
+        "es"
+      ],
+      [
+        "Baena",
+        "Álex Baena",
+        "es"
+      ],
+      [
+        "Llorente",
+        "Marcos Llorente",
+        "es"
+      ],
+      [
+        "Barrios",
+        "Pablo Barrios",
+        "es"
+      ],
+      [
+        "Simeone",
+        "Giuliano Simeone",
+        "ar"
+      ],
+      [
+        "Sørloth",
+        "Alexander Sørloth",
+        "no"
+      ],
+      [
+        "Álvarez",
+        "Julián Álvarez",
+        "ar"
+      ]
+    ],
+    "date": "2026-11-03",
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/news/02ab-21f9907f0a27-6a6a67e9775d-1000--champions-league-starting-line-ups-matchday-4/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2176fa83582b-d99f0b27f405-1000--champions-league-league-phase-fixtures-by-team/"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Liverpool",
+    "opp": "Manchester United",
+    "score": "3-1",
+    "comp": "Premier League, matchday 29",
+    "season": "2010/11",
+    "y": 2011,
+    "form": "4-4-2",
+    "kit": [
+      "solid",
+      "#c8102e",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#da291c",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Reina",
+        "Pepe Reina",
+        "es"
+      ],
+      [
+        "Aurélio",
+        "Fábio Aurélio",
+        "br"
+      ],
+      [
+        "Škrtel",
+        "Martin Škrtel",
+        "sk"
+      ],
+      [
+        "Carragher",
+        "Jamie Carragher",
+        "gb-eng"
+      ],
+      [
+        "Johnson",
+        "Glen Johnson",
+        "gb-eng"
+      ],
+      [
+        "Rodríguez",
+        "Maxi Rodríguez",
+        "ar"
+      ],
+      [
+        "Lucas",
+        "Lucas Leiva",
+        "br"
+      ],
+      [
+        "Gerrard",
+        "Steven Gerrard",
+        "gb-eng"
+      ],
+      [
+        "Meireles",
+        "Raul Meireles",
+        "pt"
+      ],
+      [
+        "Suárez",
+        "Luis Suárez",
+        "uy"
+      ],
+      [
+        "Kuyt",
+        "Dirk Kuyt",
+        "nl"
+      ]
+    ],
+    "date": "2011-03-06",
+    "sources": [
+      "https://lfchistory.net/games/5249",
+      "https://www.skysports.com/football/liverpool-vs-man-utd/teams/231336"
+    ],
+    "verified": "2026-11-15",
+    "note": "Hat-trick at Anfield in the north-west derby"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Arsenal",
+    "opp": "Tottenham Hotspur",
+    "score": "5-2",
+    "comp": "Premier League, matchday 26",
+    "season": "2011/12",
+    "y": 2012,
+    "form": "4-2-3-1",
+    "kit": [
+      "sleeves",
+      "#ef0107",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#132257"
+    ],
+    "p": [
+      [
+        "Szczęsny",
+        "Wojciech Szczęsny",
+        "pl"
+      ],
+      [
+        "Gibbs",
+        "Kieran Gibbs",
+        "gb-eng"
+      ],
+      [
+        "Vermaelen",
+        "Thomas Vermaelen",
+        "be"
+      ],
+      [
+        "Koscielny",
+        "Laurent Koscielny",
+        "fr"
+      ],
+      [
+        "Sagna",
+        "Bacary Sagna",
+        "fr"
+      ],
+      [
+        "Arteta",
+        "Mikel Arteta",
+        "es"
+      ],
+      [
+        "Song",
+        "Alex Song",
+        "cm"
+      ],
+      [
+        "Benayoun",
+        "Yossi Benayoun",
+        "il"
+      ],
+      [
+        "Rosický",
+        "Tomáš Rosický",
+        "cz"
+      ],
+      [
+        "Walcott",
+        "Theo Walcott",
+        "gb-eng"
+      ],
+      [
+        "Van Persie",
+        "Robin van Persie",
+        "nl"
+      ]
+    ],
+    "date": "2012-02-26",
+    "sources": [
+      "https://www.skysports.com/football/arsenal-vs-tottenham/teams/253529"
+    ],
+    "verified": "2026-11-15",
+    "note": "North London derby comeback from two goals down"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Manchester United",
+    "opp": "Aston Villa",
+    "score": "3-0",
+    "comp": "Premier League, matchday 34",
+    "season": "2012/13",
+    "y": 2013,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#da291c",
+      "#ffffff"
+    ],
+    "okit": [
+      "sleeves",
+      "#670e36",
+      "#95bfe5"
+    ],
+    "p": [
+      [
+        "De Gea",
+        "David de Gea",
+        "es"
+      ],
+      [
+        "Evra",
+        "Patrice Evra",
+        "fr"
+      ],
+      [
+        "Evans",
+        "Jonny Evans",
+        "gb-nir"
+      ],
+      [
+        "Jones",
+        "Phil Jones",
+        "gb-eng"
+      ],
+      [
+        "Rafael",
+        "Rafael",
+        "br"
+      ],
+      [
+        "Giggs",
+        "Ryan Giggs",
+        "gb-wls"
+      ],
+      [
+        "Carrick",
+        "Michael Carrick",
+        "gb-eng"
+      ],
+      [
+        "Kagawa",
+        "Shinji Kagawa",
+        "jp"
+      ],
+      [
+        "Rooney",
+        "Wayne Rooney",
+        "gb-eng"
+      ],
+      [
+        "Valencia",
+        "Antonio Valencia",
+        "ec"
+      ],
+      [
+        "Van Persie",
+        "Robin van Persie",
+        "nl"
+      ]
+    ],
+    "date": "2013-04-22",
+    "sources": [
+      "https://www.skysports.com/football/man-utd-vs-a-villa/teams/283165"
+    ],
+    "verified": "2026-11-15",
+    "note": "Title secured in the final championship season under the legendary manager"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Bayern Munich",
+    "opp": "Arsenal",
+    "score": "5-1",
+    "comp": "Champions League, round of 16, 1st leg",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#dc052d",
+      "#ffffff"
+    ],
+    "okit": [
+      "sleeves",
+      "#ef0107",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Neuer",
+        "Manuel Neuer",
+        "de"
+      ],
+      [
+        "Alaba",
+        "David Alaba",
+        "at"
+      ],
+      [
+        "Hummels",
+        "Mats Hummels",
+        "de"
+      ],
+      [
+        "Javi Martínez",
+        "Javi Martínez",
+        "es"
+      ],
+      [
+        "Lahm",
+        "Philipp Lahm",
+        "de"
+      ],
+      [
+        "Vidal",
+        "Arturo Vidal",
+        "cl"
+      ],
+      [
+        "Alonso",
+        "Xabi Alonso",
+        "es"
+      ],
+      [
+        "Douglas Costa",
+        "Douglas Costa",
+        "br"
+      ],
+      [
+        "Thiago",
+        "Thiago Alcântara",
+        "es"
+      ],
+      [
+        "Robben",
+        "Arjen Robben",
+        "nl"
+      ],
+      [
+        "Lewandowski",
+        "Robert Lewandowski",
+        "pl"
+      ]
+    ],
+    "date": "2017-02-15",
+    "sources": [
+      "https://fcbayern.com/en/news/matchreports/2017/02/match-report-cl-fc-bayern---arsenal-15.02.2017"
+    ],
+    "verified": "2026-11-15",
+    "note": "Five goals in the first leg of a European knockout tie"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Tottenham Hotspur",
+    "opp": "West Ham United",
+    "score": "3-2",
+    "comp": "Premier League, matchday 27",
+    "season": "2012/13",
+    "y": 2013,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#132257"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#7a263a"
+    ],
+    "p": [
+      [
+        "Lloris",
+        "Hugo Lloris",
+        "fr"
+      ],
+      [
+        "Vertonghen",
+        "Jan Vertonghen",
+        "be"
+      ],
+      [
+        "Caulker",
+        "Steven Caulker",
+        "gb-eng"
+      ],
+      [
+        "Dawson",
+        "Michael Dawson",
+        "gb-eng"
+      ],
+      [
+        "Walker",
+        "Kyle Walker",
+        "gb-eng"
+      ],
+      [
+        "Dembélé",
+        "Mousa Dembélé",
+        "be"
+      ],
+      [
+        "Parker",
+        "Scott Parker",
+        "gb-eng"
+      ],
+      [
+        "Holtby",
+        "Lewis Holtby",
+        "de"
+      ],
+      [
+        "Bale",
+        "Gareth Bale",
+        "gb-wls"
+      ],
+      [
+        "Lennon",
+        "Aaron Lennon",
+        "gb-eng"
+      ],
+      [
+        "Adebayor",
+        "Emmanuel Adebayor",
+        "tg"
+      ]
+    ],
+    "date": "2013-02-25",
+    "sources": [
+      "https://www.skysports.com/football/west-ham-vs-tottenham/teams/280461"
+    ],
+    "verified": "2026-11-15",
+    "note": "A late long-range winner in a London derby"
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Borussia Dortmund",
+    "opp": "Eintracht Frankfurt",
+    "score": "2-1",
+    "comp": "DFB-Pokal final",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "3-4-2-1",
+    "kit": [
+      "solid",
+      "#fde100",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Bürki",
+        "Roman Bürki",
+        "ch"
+      ],
+      [
+        "Bartra",
+        "Marc Bartra",
+        "es"
+      ],
+      [
+        "Sokratis",
+        "Sokratis Papastathopoulos",
+        "gr"
+      ],
+      [
+        "Ginter",
+        "Matthias Ginter",
+        "de"
+      ],
+      [
+        "Schmelzer",
+        "Marcel Schmelzer",
+        "de"
+      ],
+      [
+        "Guerreiro",
+        "Raphaël Guerreiro",
+        "pt"
+      ],
+      [
+        "Kagawa",
+        "Shinji Kagawa",
+        "jp"
+      ],
+      [
+        "Piszczek",
+        "Łukasz Piszczek",
+        "pl"
+      ],
+      [
+        "Reus",
+        "Marco Reus",
+        "de"
+      ],
+      [
+        "Dembélé",
+        "Ousmane Dembélé",
+        "fr"
+      ],
+      [
+        "Aubameyang",
+        "Pierre-Emerick Aubameyang",
+        "ga"
+      ]
+    ],
+    "date": "2017-05-27",
+    "sources": [
+      "https://www.skysports.com/football/eintracht-frankfurt-vs-borussia-dortmund/teams/371695"
+    ],
+    "verified": "2026-11-15",
+    "note": "Cup winners after three consecutive final defeats"
+  }
+]

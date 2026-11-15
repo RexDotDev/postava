@@ -1,0 +1,686 @@
+[
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Panathinaikos",
+    "opp": "Real Madrid",
+    "score": "68-71",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#007a3d",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#3d2b8e"
+    ],
+    "p": [
+      [
+        "Lee",
+        "Paris Lee",
+        "cm"
+      ],
+      [
+        "Grigonis",
+        "Marius Grigonis",
+        "lt"
+      ],
+      [
+        "Kalaitzakis",
+        "Georgios Kalaitzakis",
+        "gr"
+      ],
+      [
+        "Williams",
+        "Derrick Williams",
+        "us"
+      ],
+      [
+        "Papagiannis",
+        "Georgios Papagiannis",
+        "gr"
+      ]
+    ],
+    "date": "2022-10-06",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_001_20221006_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:001",
+    "source_hashes": {
+      "boxscore": "f9cc237b6503415bfc8310138cb5099527812b6f"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Real Madrid",
+    "opp": "Panathinaikos",
+    "score": "71-68",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#3d2b8e"
+    ],
+    "okit": [
+      "solid",
+      "#007a3d",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Causeur",
+        "Fabien Causeur",
+        "fr"
+      ],
+      [
+        "Musa",
+        "Džanan Musa",
+        "ba"
+      ],
+      [
+        "Deck",
+        "Gabriel Deck",
+        "ar"
+      ],
+      [
+        "Yabusele",
+        "Guerschon Yabusele",
+        "fr"
+      ],
+      [
+        "Tavares",
+        "Walter Tavares",
+        "cv"
+      ]
+    ],
+    "date": "2022-10-06",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_001_20221006_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:001",
+    "source_hashes": {
+      "boxscore": "f9cc237b6503415bfc8310138cb5099527812b6f"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Olimpia Milano",
+    "opp": "ASVEL",
+    "score": "69-62",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#e30613",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#007a4d",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Pangos",
+        "Kevin Pangos",
+        "ca"
+      ],
+      [
+        "Baron",
+        "Billy Baron",
+        "us"
+      ],
+      [
+        "Melli",
+        "Nicolò Melli",
+        "it"
+      ],
+      [
+        "Voigtmann",
+        "Johannes Voigtmann",
+        "de"
+      ],
+      [
+        "Hines",
+        "Kyle Hines",
+        "us"
+      ]
+    ],
+    "date": "2022-10-06",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_002_20221006_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:002",
+    "source_hashes": {
+      "boxscore": "f2954019c285b6fee5c7bf49836bfdeb9d095994"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Maccabi Tel Aviv",
+    "opp": "Žalgiris",
+    "score": "84-83",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffd400",
+      "#0038a8"
+    ],
+    "okit": [
+      "solid",
+      "#006a44",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Brown",
+        "Lorenzo Brown",
+        "es"
+      ],
+      [
+        "Baldwin",
+        "Wade Baldwin IV",
+        "us"
+      ],
+      [
+        "Colson",
+        "Bonzie Colson",
+        "us"
+      ],
+      [
+        "Poythress",
+        "Alex Poythress",
+        "us"
+      ],
+      [
+        "Nebo",
+        "Josh Nebo",
+        "si"
+      ]
+    ],
+    "date": "2022-10-06",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_003_20221006_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:003",
+    "source_hashes": {
+      "boxscore": "70cde4f564a0ddfd185315a4231dc52a0f61d8af"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Žalgiris",
+    "opp": "Maccabi Tel Aviv",
+    "score": "83-84",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#006a44",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#ffd400",
+      "#0038a8"
+    ],
+    "p": [
+      [
+        "Evans",
+        "Keenan Evans",
+        "us"
+      ],
+      [
+        "Brazdeikis",
+        "Ignas Brazdeikis",
+        "lt"
+      ],
+      [
+        "Ulanovas",
+        "Edgaras Ulanovas",
+        "lt"
+      ],
+      [
+        "Cavanaugh",
+        "Tyler Cavanaugh",
+        "us"
+      ],
+      [
+        "Hayes",
+        "Kevarrius Hayes",
+        "us"
+      ]
+    ],
+    "date": "2022-10-06",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_003_20221006_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:003",
+    "source_hashes": {
+      "boxscore": "70cde4f564a0ddfd185315a4231dc52a0f61d8af"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Bayern Munich",
+    "opp": "Fenerbahçe",
+    "score": "62-74",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#dc052d",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#0b1f4b",
+      "#ffd200"
+    ],
+    "p": [
+      [
+        "Winston",
+        "Cassius Winston",
+        "us"
+      ],
+      [
+        "Jaramaz",
+        "Ognjen Jaramaz",
+        "rs"
+      ],
+      [
+        "Lučić",
+        "Vladimir Lučić",
+        "rs"
+      ],
+      [
+        "Rubit",
+        "Augustine Rubit",
+        "us"
+      ],
+      [
+        "Gillespie",
+        "Freddie Gillespie",
+        "us"
+      ]
+    ],
+    "date": "2022-10-06",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_004_20221006_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:004",
+    "source_hashes": {
+      "boxscore": "2398844d413ba5ccf9d334359fff188a007b4889"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Valencia",
+    "opp": "Baskonia",
+    "score": "71-81",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#f18a00",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#0a3a8c",
+      "#c8102e"
+    ],
+    "p": [
+      [
+        "Van Rossom",
+        "Sam Van Rossom",
+        "be"
+      ],
+      [
+        "Prepelic",
+        "Klemen Prepelič",
+        "si"
+      ],
+      [
+        "Claver",
+        "Víctor Claver",
+        "es"
+      ],
+      [
+        "Webb",
+        "James Webb",
+        "us"
+      ],
+      [
+        "Alexander",
+        "Kyle Alexander",
+        "ca"
+      ]
+    ],
+    "date": "2022-10-06",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_005_20221006_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:005",
+    "source_hashes": {
+      "boxscore": "404323d20acc8fd8eff49725d38cd72f2dcc2001"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Baskonia",
+    "opp": "Valencia",
+    "score": "81-71",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#0a3a8c",
+      "#c8102e"
+    ],
+    "okit": [
+      "solid",
+      "#f18a00",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Thompson",
+        "Darius Thompson",
+        "it"
+      ],
+      [
+        "Howard",
+        "Markus Howard",
+        "us"
+      ],
+      [
+        "Giedraitis",
+        "Rokas Giedraitis",
+        "lt"
+      ],
+      [
+        "Hommes",
+        "Daulton Hommes",
+        "us"
+      ],
+      [
+        "Kotsar",
+        "Maik Kotsar",
+        "ee"
+      ]
+    ],
+    "date": "2022-10-06",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_005_20221006_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:005",
+    "source_hashes": {
+      "boxscore": "404323d20acc8fd8eff49725d38cd72f2dcc2001"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Anadolu Efes",
+    "opp": "Red Star Belgrade",
+    "score": "72-59",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#1b3b8c",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#e2001a",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Micić",
+        "Vasilije Micić",
+        "rs"
+      ],
+      [
+        "Beaubois",
+        "Rodrigue Beaubois",
+        "fr"
+      ],
+      [
+        "Bryant",
+        "Elijah Bryant",
+        "us"
+      ],
+      [
+        "M'Baye",
+        "Amath M'Baye",
+        "fr"
+      ],
+      [
+        "Žižić",
+        "Ante Žižić",
+        "hr"
+      ]
+    ],
+    "date": "2022-10-07",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_006_20221007_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:006",
+    "source_hashes": {
+      "boxscore": "5aba264af08e2cefe50b64dfa3a647452581d243"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Barcelona",
+    "opp": "Olympiacos",
+    "score": "70-80",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "solid",
+      "#d71920",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Satoranský",
+        "Tomas Satoranský",
+        "cz"
+      ],
+      [
+        "Laprovittola",
+        "Nicolas Laprovittola",
+        "ar"
+      ],
+      [
+        "Kalinić",
+        "Nikola Kalinić",
+        "rs"
+      ],
+      [
+        "Veselý",
+        "Jan Veselý",
+        "cz"
+      ],
+      [
+        "Şanlı",
+        "Sertaç Şanlı",
+        "tr"
+      ]
+    ],
+    "date": "2022-10-07",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_008_20221007_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:008",
+    "source_hashes": {
+      "boxscore": "f70c6258f07cdd36a823335b5857b0088c6e2dc9"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Virtus Bologna",
+    "opp": "Monaco",
+    "score": "66-83",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#000000",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#e30613",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Hackett",
+        "Daniel Hackett",
+        "it"
+      ],
+      [
+        "Lundberg",
+        "Iffe Lundberg",
+        "dk"
+      ],
+      [
+        "Ojeleye",
+        "Semi Ojeleye",
+        "us"
+      ],
+      [
+        "Mickey",
+        "Jordan Mickey",
+        "us"
+      ],
+      [
+        "Jaiteh",
+        "Mouhammadou Jaiteh",
+        "fr"
+      ]
+    ],
+    "date": "2022-10-07",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_009_20221007_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:009",
+    "source_hashes": {
+      "boxscore": "ad999d0e5ae8e02911061fcdc61d666906ca0a1c"
+    }
+  },
+  {
+    "sport": "bb",
+    "cat": "euro",
+    "team": "Monaco",
+    "opp": "Virtus Bologna",
+    "score": "83-66",
+    "comp": "EuroLeague, round 1",
+    "season": "2022/23",
+    "y": 2022,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#e30613",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#000000",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "James",
+        "Mike James",
+        "us"
+      ],
+      [
+        "Loyd",
+        "Jordan Loyd",
+        "pl"
+      ],
+      [
+        "Blossomgame",
+        "Jaron Blossomgame",
+        "us"
+      ],
+      [
+        "Brown",
+        "John Brown",
+        "us"
+      ],
+      [
+        "Motiejūnas",
+        "Donatas Motiejūnas",
+        "lt"
+      ]
+    ],
+    "date": "2022-10-07",
+    "sources": [
+      "https://github.com/bsamot10/EuroleagueDataETL/blob/main/data/euroleague_json/E2022/success/E2022_RegularSeason_01_009_20221007_Boxscore.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "euroleague:E2022:009",
+    "source_hashes": {
+      "boxscore": "ad999d0e5ae8e02911061fcdc61d666906ca0a1c"
+    }
+  }
+]

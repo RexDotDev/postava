@@ -7,21 +7,24 @@ SITE_URL = os.environ.get("SITE_URL", "https://www.guessthesquad.com").rstrip("/
 sys.path.insert(0, os.path.dirname(__file__))
 D = os.path.dirname(os.path.abspath(__file__))
 import importlib.util
+from collections import Counter
+from lineup_policy import exclusion_reason
 spec = importlib.util.spec_from_file_location("v", os.path.join(D, "validate.py"))
 src = open(os.path.join(D, "validate.py")).read().split("data = json.load")[0]
 v = {}; exec(src, v)
-# Per-category year window, e.g. EuroLeague only 2019–2025 (the data files keep older entries)
-YEARS = {("bb", "euro"): (2019, 2025)}
-out, seen, drop, skip = [], set(), 0, 0
+out, seen, drop = [], set(), 0
+excluded = Counter()
 for f in sorted(glob.glob(sys.argv[1] if len(sys.argv) > 1 else os.path.join(D, "data", "*.json"))):
     try: arr = json.load(open(f, encoding="utf-8"))
     except Exception as ex: print("SKIP", f, ex); continue
     for o in arr:
-        lo, hi = YEARS.get((o.get("sport"), o.get("cat")), (0, 9999))
-        if not lo <= o.get("y", 0) <= hi: skip += 1; continue
         errs = v["check"](o, 0)
         k = (o.get("sport"), o.get("team"), o.get("season"), o.get("comp"))
         if errs or k in seen: drop += 1; print("DROP", os.path.basename(f), o.get("team"), o.get("season"), errs or "dup"); continue
+        reason = exclusion_reason(o)
+        if reason:
+            excluded[reason] += 1
+            continue
         seen.add(k); o.pop("date", None)
         for pl in o["p"]: pl[0] = re.sub(r"^([^\W\d_]\.\s*)+", "", pl[0])
         out.append(o)
@@ -72,4 +75,6 @@ head = ('<meta charset="utf-8">\n'
 page = f'<!doctype html>\n<html lang="en">\n<head>\n{head}{body[:cut]}\n</head>\n<body>\n{body[cut:]}\n</body>\n</html>\n'
 open(os.path.join(D, "index.html"), "w", encoding="utf-8").write(page)
 fb = sum(o["sport"] == "fb" for o in out)
-print(f"built {len(out)} entries (fb {fb}, bb {len(out)-fb}), dropped {drop}, outside year window {skip}, flags {len(os.listdir(os.path.join(D,'flags')))}")
+print(f"built {len(out)} entries (fb {fb}, bb {len(out)-fb}), dropped {drop}, excluded {sum(excluded.values())}, flags {len(os.listdir(os.path.join(D,'flags')))}")
+for reason, count in sorted(excluded.items()):
+    print(f"EXCLUDED {count}: {reason}")
