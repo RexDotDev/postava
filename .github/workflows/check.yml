@@ -31,6 +31,15 @@ jobs:
           done
           exit $status
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Gameplay and selection checks
+        run: |
+          python3 -m unittest discover -s tests -p 'test_*.py'
+          node --test tests/hint.test.cjs
+
       - name: Built site is up to date
         run: |
           python3 build.py

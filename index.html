@@ -8,7 +8,7 @@
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
-<link rel="preload" href="data.086615683b.json" as="fetch" crossorigin>
+<link rel="preload" href="data.ea7069dff9.json" as="fetch" crossorigin>
 <link rel="canonical" href="https://www.guessthesquad.com/">
 <meta property="og:url" content="https://www.guessthesquad.com/">
 <meta property="og:type" content="website">
@@ -137,6 +137,11 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
 #plen{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;white-space:nowrap;margin-top:3px}
 #plen .dash{flex:none;width:min(calc(var(--n) * 9px),38vw,150px);height:1em;gap:clamp(2px,calc(30px / var(--n)),3px)}
 .play{display:flex;flex-direction:column;gap:12px}
+.hint-actions{display:flex;justify-content:center}
+.hint-clue{display:flex;flex-direction:column;align-items:center;gap:6px;color:var(--muted);font-size:13px}
+.hint-letters{display:flex;flex-wrap:wrap;justify-content:center;gap:3px}
+.hint-letter{width:20px;height:26px;display:grid;place-items:center;border-bottom:2px solid var(--line2);font-weight:800}
+.hint-letter.hit{background:var(--hit);border-color:var(--hit);border-radius:3px;color:var(--text)}
 .board{container-type:inline-size;display:grid;gap:clamp(2px,calc(60px / var(--n)),5px);justify-content:center;grid-template-columns:repeat(var(--n),minmax(0,48px))}
 .tile{aspect-ratio:1;display:grid;place-items:center;border:2px solid var(--line2);border-radius:4px;font:800 min(26px,calc(100cqw / var(--n) * .58))/1 var(--cond);font-stretch:80%;text-transform:uppercase}
 .tile.f{border-color:#6b746e}
@@ -272,6 +277,8 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
         <button class="icon" id="next" aria-label="Next player">›</button>
       </div>
       <div class="play">
+        <div class="hint-actions"><button class="btn" id="hint" title="Reveal one letter for this player. Once per lineup, no try spent.">Reveal a letter · 1 left</button></div>
+        <div class="hint-clue" id="hintClue" hidden></div>
         <div class="board" id="board"></div>
         <p class="msg" id="msg" role="status" aria-live="polite"></p>
         <p class="answer" id="answer" hidden></p>
@@ -295,13 +302,14 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
       <span class="sw" style="background:var(--miss);box-shadow:inset 0 0 0 1px var(--line2)"></span><span>not in the name</span>
     </div>
     <p>6 tries per player. <b>Hard</b> gives 4 tries and hides the flags. Skip accents and spaces: č/ć = C, š = S, ž = Z, đ = DJ, Van Dijk = VANDIJK.</p>
-    <p>Football from 2009. Basketball: NBA from 2012, EuroLeague 2019–2025, national teams from 1989. The speaker button turns the sound effects off.</p>
+    <p><b>Reveal a letter</b> shows one unknown letter in the selected player's name, in its correct position. You get one hint for the entire lineup, with no try spent. Your hint stays after a reload.</p>
+    <p>Football from 2009, NBA from 2011, EuroLeague from 2020/21, basketball national teams from 1989. Includes the 2026/27 club season and competitive national-team matches from 2026. No friendlies. The speaker button turns the sound effects off.</p>
     <button class="btn primary" id="helpClose">Play</button>
   </div>
 </div>
 
 <script type="module">
-const DATA = await fetch('data.086615683b.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+const DATA = await fetch('data.ea7069dff9.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .catch(err => { document.getElementById('match').innerHTML = '<div class="comp">Could not load the lineups. Please reload.</div>'; throw err; });
 const KEY = 'postava:v1';
 const $ = s => document.querySelector(s);
@@ -424,7 +432,10 @@ function newGame(daily) {
     e = cand[Math.random() * cand.length | 0];
   }
   if (!S.seen[S.sport].includes(e.id)) S.seen[S.sport].push(e.id);
-  S.games[S.sport] = {id:e.id, hard:S.hard, daily:!!daily, g:e.p.map(() => []), gave:false, counted:false};
+  // Reopening the current daily keeps its guesses and its once-per-lineup hint.
+  if (!(daily && G()?.daily && G().id === e.id)) {
+    S.games[S.sport] = {id:e.id, hard:S.hard, daily:!!daily, g:e.p.map(() => []), hint:null, gave:false, counted:false};
+  }
   act = 0; buf = ''; open = false; fresh = -1;
   $('#msg').textContent = '';
   save(); render();
@@ -540,6 +551,11 @@ function renderPanel() {
   $('#pos').textContent = posName(e, i);
   $('#plen').style.setProperty('--n', len);
   $('#plen').innerHTML = `<span class="sr">${len} letters</span>${dash(e.shapes[i])}<span>guess ${Math.min(g.g[i].length + (st === 'open' ? 1 : 0), max)}/${max}</span>`;
+  const hint = $('#hint'), clue = $('#hintClue'), hasClue = g.hint?.player === i;
+  hint.disabled = !!g.hint || st !== 'open' || !unknownLetters(g, e, i).length;
+  hint.textContent = g.hint ? 'Hint used · 0 left' : 'Reveal a letter · 1 left';
+  clue.hidden = !hasClue;
+  clue.innerHTML = hasClue ? `<span>Hint: letter ${g.hint.pos + 1} is <b>${e.keys[i][g.hint.pos]}</b></span><div class="hint-letters" aria-hidden="true">${[...e.keys[i]].map((c, j) => `<span class="hint-letter${j === g.hint.pos ? ' hit' : ''}">${j === g.hint.pos ? c : '·'}</span>`).join('')}</div>` : '';
   renderBoard();
   const ans = $('#answer');
   ans.hidden = st === 'open';
@@ -547,6 +563,7 @@ function renderPanel() {
   // keyboard
   const ks = {};
   g.g[i].forEach(w => evalWord(w, e.keys[i]).forEach((r, j) => { const c = w[j]; if (r === 'hit' || (r === 'near' && ks[c] !== 'hit') || !ks[c]) ks[c] = r; }));
+  if (hasClue) ks[e.keys[i][g.hint.pos]] = 'hit';
   const rows = ['QWERTYUIOP', 'ASDFGHJKL', '+ZXCVBNM-'];
   $('#kb').innerHTML = rows.map(r => `<div class="kr">${[...r].map(c =>
     c === '+' ? `<button class="key wide" data-k="ENTER" ${st !== 'open' ? 'disabled' : ''}>ENTER</button>`
@@ -597,10 +614,23 @@ function shareText() {
   const g = G(), e = E();
   const row = e.p.map((_, i) => status(g, e, i) === 'ok' ? (g.g[i].length <= 2 ? '🟩' : '🟨') : '🟥').join('');
   const hits = e.p.filter((_, i) => status(g, e, i) === 'ok').length;
-  return `SQUADS #${e.no}${g.daily ? ' (daily)' : ''}${g.hard ? ' · hard' : ''}\n${e.team} – ${e.opp} ${e.score}\n${e.comp}, ${seasonLabel(e)}\n${hits}/${e.p.length} ${row}`;
+  return `SQUADS #${e.no}${g.daily ? ' (daily)' : ''}${g.hard ? ' · hard' : ''}${g.hint ? ' · 1 hint' : ''}\n${e.team} – ${e.opp} ${e.score}\n${e.comp}, ${seasonLabel(e)}\n${hits}/${e.p.length} ${row}`;
 }
 
 // ---------- input ----------
+function unknownLetters(g, e, i) {
+  return [...e.keys[i]].map((c, j) => j).filter(j => !g.g[i].some(w => w[j] === e.keys[i][j]));
+}
+function revealLetter() {
+  const g = G(), e = E();
+  if (g.hint || status(g, e, act) !== 'open') return;
+  const choices = unknownLetters(g, e, act);
+  if (!choices.length) { msg('All letter positions have already been found.'); return; }
+  const pos = choices[Math.random() * choices.length | 0];
+  g.hint = {player:act, pos};
+  save(); renderPanel();
+  msg(`Letter ${pos + 1} is ${e.keys[act][pos]}. Hint used for this lineup.`, 'good');
+}
 function msg(t, cls) { const m = $('#msg'); m.textContent = t; m.className = 'msg' + (cls ? ' ' + cls : ''); }
 function select(i) { act = i; buf = ''; msg(''); render(); }
 function press(k) {
@@ -655,6 +685,7 @@ document.addEventListener('click', ev => {
   else if (t.dataset.k) { press(t.dataset.k); }
   else if (t.id === 'newBtn' || t.id === 'again') newGame(false);
   else if (t.id === 'dailyBtn') newGame(true);
+  else if (t.id === 'hint') revealLetter();
   else if (t.id === 'giveup') { G().gave = true; finish(); SFX.play('end', false, .1); save(); msg(''); render(); if (!wide()) showResult(); }
   else if (t.id === 'back') { open = false; render(); }
   else if (t.id === 'prev' || t.id === 'next') { const n = E().p.length; select((act + (t.id === 'next' ? 1 : n - 1)) % n); }

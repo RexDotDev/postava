@@ -1,0 +1,336 @@
+[
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Spain",
+    "opp": "Argentina",
+    "score": "1-0 a.e.t.",
+    "comp": "World Cup 2026, final",
+    "season": "2026",
+    "y": 2026,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#0b2a5b",
+      "#f1bf00"
+    ],
+    "okit": [
+      "stripes",
+      "#75aadb",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Unai Simón",
+        "Unai Simón",
+        "es"
+      ],
+      [
+        "Cucurella",
+        "Marc Cucurella",
+        "es"
+      ],
+      [
+        "Laporte",
+        "Aymeric Laporte",
+        "es"
+      ],
+      [
+        "Cubarsí",
+        "Pau Cubarsí",
+        "es"
+      ],
+      [
+        "Porro",
+        "Pedro Porro",
+        "es"
+      ],
+      [
+        "Fabián",
+        "Fabián Ruiz",
+        "es"
+      ],
+      [
+        "Rodri",
+        "Rodri",
+        "es"
+      ],
+      [
+        "Baena",
+        "Álex Baena",
+        "es"
+      ],
+      [
+        "Olmo",
+        "Dani Olmo",
+        "es"
+      ],
+      [
+        "Yamal",
+        "Lamine Yamal",
+        "es"
+      ],
+      [
+        "Oyarzabal",
+        "Mikel Oyarzabal",
+        "es"
+      ]
+    ],
+    "date": "2026-07-19",
+    "sources": [
+      "https://en.prothomalo.com/sports/football/uuuqz5zy0g",
+      "https://www.bundesliga.com/en/world-cup/matchday/2026-2027/final/spain-vs-argentina/liveticker"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Argentina",
+    "opp": "Spain",
+    "score": "0-1 a.e.t.",
+    "comp": "World Cup 2026, final",
+    "season": "2026",
+    "y": 2026,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#75aadb",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#0b2a5b",
+      "#f1bf00"
+    ],
+    "p": [
+      [
+        "Martínez",
+        "Emiliano Martínez",
+        "ar"
+      ],
+      [
+        "Tagliafico",
+        "Nicolás Tagliafico",
+        "ar"
+      ],
+      [
+        "Martínez",
+        "Lisandro Martínez",
+        "ar"
+      ],
+      [
+        "Romero",
+        "Cristian Romero",
+        "ar"
+      ],
+      [
+        "Montiel",
+        "Gonzalo Montiel",
+        "ar"
+      ],
+      [
+        "González",
+        "Nicolás González",
+        "ar"
+      ],
+      [
+        "Mac Allister",
+        "Alexis Mac Allister",
+        "ar"
+      ],
+      [
+        "Enzo Fernández",
+        "Enzo Fernández",
+        "ar"
+      ],
+      [
+        "De Paul",
+        "Rodrigo De Paul",
+        "ar"
+      ],
+      [
+        "Álvarez",
+        "Julián Álvarez",
+        "ar"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ]
+    ],
+    "date": "2026-07-19",
+    "sources": [
+      "https://en.prothomalo.com/sports/football/uuuqz5zy0g",
+      "https://www.bundesliga.com/en/world-cup/matchday/2026-2027/final/spain-vs-argentina/liveticker"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "France",
+    "opp": "Spain",
+    "score": "0-2",
+    "comp": "World Cup 2026, semi-final",
+    "season": "2026",
+    "y": 2026,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#1b2a5c",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#0b2a5b",
+      "#f1bf00"
+    ],
+    "p": [
+      [
+        "Maignan",
+        "Mike Maignan",
+        "fr"
+      ],
+      [
+        "Digne",
+        "Lucas Digne",
+        "fr"
+      ],
+      [
+        "Saliba",
+        "William Saliba",
+        "fr"
+      ],
+      [
+        "Upamecano",
+        "Dayot Upamecano",
+        "fr"
+      ],
+      [
+        "Koundé",
+        "Jules Koundé",
+        "fr"
+      ],
+      [
+        "Rabiot",
+        "Adrien Rabiot",
+        "fr"
+      ],
+      [
+        "Tchouaméni",
+        "Aurélien Tchouaméni",
+        "fr"
+      ],
+      [
+        "Barcola",
+        "Bradley Barcola",
+        "fr"
+      ],
+      [
+        "Olise",
+        "Michael Olise",
+        "fr"
+      ],
+      [
+        "Dembélé",
+        "Ousmane Dembélé",
+        "fr"
+      ],
+      [
+        "Mbappé",
+        "Kylian Mbappé",
+        "fr"
+      ]
+    ],
+    "date": "2026-07-14",
+    "sources": [
+      "https://www.skysports.com/football/france-vs-spain/teams/549866"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "England",
+    "opp": "Argentina",
+    "score": "1-2",
+    "comp": "World Cup 2026, semi-final",
+    "season": "2026",
+    "y": 2026,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#1b2a5c"
+    ],
+    "okit": [
+      "stripes",
+      "#75aadb",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Pickford",
+        "Jordan Pickford",
+        "gb-eng"
+      ],
+      [
+        "Spence",
+        "Djed Spence",
+        "gb-eng"
+      ],
+      [
+        "Guéhi",
+        "Marc Guéhi",
+        "gb-eng"
+      ],
+      [
+        "Stones",
+        "John Stones",
+        "gb-eng"
+      ],
+      [
+        "James",
+        "Reece James",
+        "gb-eng"
+      ],
+      [
+        "Rice",
+        "Declan Rice",
+        "gb-eng"
+      ],
+      [
+        "Anderson",
+        "Elliot Anderson",
+        "gb-eng"
+      ],
+      [
+        "Gordon",
+        "Anthony Gordon",
+        "gb-eng"
+      ],
+      [
+        "Bellingham",
+        "Jude Bellingham",
+        "gb-eng"
+      ],
+      [
+        "Rogers",
+        "Morgan Rogers",
+        "gb-eng"
+      ],
+      [
+        "Kane",
+        "Harry Kane",
+        "gb-eng"
+      ]
+    ],
+    "date": "2026-07-15",
+    "sources": [
+      "https://www.skysports.com/football/england-vs-argentina/teams/549867"
+    ],
+    "verified": "2026-11-15"
+  }
+]

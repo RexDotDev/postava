@@ -1,0 +1,110 @@
+[
+  {
+    "sport": "bb",
+    "cat": "nat",
+    "team": "Serbia",
+    "opp": "Italy",
+    "score": "76-64",
+    "comp": "World Cup 2027 qualifying, second round",
+    "season": "2026",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#1c3f94"
+    ],
+    "okit": [
+      "solid",
+      "#0057b8",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Avramović",
+        "Aleksa Avramović",
+        "rs"
+      ],
+      [
+        "Gudurić",
+        "Marko Gudurić",
+        "rs"
+      ],
+      [
+        "Dobrić",
+        "Ognjen Dobrić",
+        "rs"
+      ],
+      [
+        "N. Jović",
+        "Nikola Jović",
+        "rs"
+      ],
+      [
+        "Jokić",
+        "Nikola Jokić",
+        "rs"
+      ]
+    ],
+    "date": "2026-08-31",
+    "sources": [
+      "https://globalsportsarchive.com/match/basketball/2026-08-31/italy-vs-serbia/4377543/",
+      "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-european-qualifiers/games/127138-ITA-SRB"
+    ],
+    "verified": "2026-11-15"
+  },
+  {
+    "sport": "bb",
+    "cat": "nat",
+    "team": "Italy",
+    "opp": "Serbia",
+    "score": "64-76",
+    "comp": "World Cup 2027 qualifying, second round",
+    "season": "2026",
+    "y": 2026,
+    "form": "5",
+    "kit": [
+      "solid",
+      "#0057b8",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#1c3f94"
+    ],
+    "p": [
+      [
+        "Mannion",
+        "Nico Mannion",
+        "it"
+      ],
+      [
+        "Niang",
+        "Saliou Niang",
+        "it"
+      ],
+      [
+        "Fontecchio",
+        "Simone Fontecchio",
+        "it"
+      ],
+      [
+        "Akele",
+        "Nicola Akele",
+        "it"
+      ],
+      [
+        "Melli",
+        "Nicolò Melli",
+        "it"
+      ]
+    ],
+    "date": "2026-08-31",
+    "sources": [
+      "https://globalsportsarchive.com/match/basketball/2026-08-31/italy-vs-serbia/4377543/",
+      "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-european-qualifiers/games/127138-ITA-SRB"
+    ],
+    "verified": "2026-11-15"
+  }
+]

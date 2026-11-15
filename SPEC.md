@@ -67,8 +67,23 @@ ORDER (critical, it drives pitch placement):
 4. At most one entry per team per season in your file. The same club in different seasons is great.
 5. Mix: ~60% instantly recognisable iconic teams, ~40% deeper cuts that a serious fan still knows.
 6. Stay strictly inside your assigned scope (other agents cover other scopes; overlap creates duplicates).
-7. Dates are from the 2009 calendar year onward for football, 2012 onward for basketball (basketball national
+7. Dates are from the 2009 calendar year onward for football, 2011 onward for NBA, 2012 onward for EuroLeague (basketball national
    teams, cat "nat", may go back to 1970). Teams that no longer exist (Yugoslavia, USSR, Unified Team, Serbia and
    Montenegro) have no flag: give each player the modern country he was born in or later played for (Divac "rs",
    Kukoč "hr", Sabonis "lt"). Do not include matches
    from after July 2025 unless you verified them with WebSearch.
+
+## Playable selection
+
+The year ranges above describe the historical source archive. `lineup_policy.py` applies stricter
+selection when building the site, for both Random and Daily:
+
+- **Only EuroLeague** seasons must start in 2020 or later (2020/21 is included; 2019/20 is excluded even if played in 2020).
+- Football, NBA and basketball national teams retain the historical ranges specified above; there is no 2020 cutoff for them.
+- No friendlies, exhibitions, preseason matches or testimonials in either sport.
+- Existing football national teams, including historic upsets, qualifiers and Olympic squads, remain eligible. There is no nationality allowlist.
+- New expansions must add distinct starting XIs, not repeat the same team's exact XI under another match label.
+- Verified additions include optional `date` (YYYY-MM-DD), `sources` (HTTPS URLs), `verified` (YYYY-MM-DD),
+  `source_match_id` and `source_hashes` fields for traceability. `date` remains in the source archive; the build omits it from the game payload.
+
+New or corrected match details still require sources and validation. Selection alone does not verify the starting lineup.

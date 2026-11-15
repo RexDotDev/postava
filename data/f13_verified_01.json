@@ -1,0 +1,6302 @@
+[
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Switzerland",
+    "opp": "Portugal",
+    "score": "1-6",
+    "comp": "World Cup 2022, round of 16",
+    "season": "2022",
+    "y": 2022,
+    "form": "3-5-2",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#d52b1e"
+    ],
+    "okit": [
+      "solid",
+      "#c8102e",
+      "#006600"
+    ],
+    "p": [
+      [
+        "Sommer",
+        "Yann Sommer",
+        "ch"
+      ],
+      [
+        "Rodríguez",
+        "Ricardo Rodríguez",
+        "ch"
+      ],
+      [
+        "Schär",
+        "Fabian Schär",
+        "ch"
+      ],
+      [
+        "Akanji",
+        "Manuel Akanji",
+        "ch"
+      ],
+      [
+        "Vargas",
+        "Ruben Vargas",
+        "ch"
+      ],
+      [
+        "Freuler",
+        "Remo Freuler",
+        "ch"
+      ],
+      [
+        "Xhaka",
+        "Granit Xhaka",
+        "ch"
+      ],
+      [
+        "Sow",
+        "Djibril Sow",
+        "ch"
+      ],
+      [
+        "Fernandes",
+        "Edimilson Fernandes",
+        "ch"
+      ],
+      [
+        "Shaqiri",
+        "Xherdan Shaqiri",
+        "ch"
+      ],
+      [
+        "Embolo",
+        "Breel Embolo",
+        "ch"
+      ]
+    ],
+    "date": "2022-12-06",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3869254.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3869254.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/43/106.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3869254",
+    "source_hashes": {
+      "events": "b5f45f88e1a68262893ebf120412deca18503baf",
+      "lineups": "3f0263f27d63b4bf6c72a3171ff644546087e194"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Argentina",
+    "opp": "Croatia",
+    "score": "3-0",
+    "comp": "World Cup 2022, semi-final",
+    "season": "2022",
+    "y": 2022,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#75aadb",
+      "#ffffff"
+    ],
+    "okit": [
+      "checks",
+      "#e30613",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Martínez",
+        "Emiliano Martínez",
+        "ar"
+      ],
+      [
+        "Tagliafico",
+        "Nicolás Tagliafico",
+        "ar"
+      ],
+      [
+        "Otamendi",
+        "Nicolás Otamendi",
+        "ar"
+      ],
+      [
+        "Romero",
+        "Cristian Romero",
+        "ar"
+      ],
+      [
+        "Molina",
+        "Nahuel Molina",
+        "ar"
+      ],
+      [
+        "Mac Allister",
+        "Alexis Mac Allister",
+        "ar"
+      ],
+      [
+        "Enzo Fernández",
+        "Enzo Fernández",
+        "ar"
+      ],
+      [
+        "Paredes",
+        "Leandro Paredes",
+        "ar"
+      ],
+      [
+        "De Paul",
+        "Rodrigo De Paul",
+        "ar"
+      ],
+      [
+        "Álvarez",
+        "Julián Álvarez",
+        "ar"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ]
+    ],
+    "date": "2022-12-13",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3869519.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3869519.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/43/106.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3869519",
+    "source_hashes": {
+      "events": "65fed1dc0d57075562b5440001cb58062401a5dd",
+      "lineups": "cca4bbc4b648788daf9273f72816a689c8c1fd59"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Germany",
+    "opp": "Denmark",
+    "score": "2-0",
+    "comp": "Euro 2024, round of 16",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#c60c30",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Neuer",
+        "Manuel Neuer",
+        "de"
+      ],
+      [
+        "Raum",
+        "David Raum",
+        "de"
+      ],
+      [
+        "Schlotterbeck",
+        "Nico Schlotterbeck",
+        "de"
+      ],
+      [
+        "Rüdiger",
+        "Antonio Rüdiger",
+        "de"
+      ],
+      [
+        "Kimmich",
+        "Joshua Kimmich",
+        "de"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Andrich",
+        "Robert Andrich",
+        "de"
+      ],
+      [
+        "Musiala",
+        "Jamal Musiala",
+        "de"
+      ],
+      [
+        "Gündoğan",
+        "İlkay Gündoğan",
+        "de"
+      ],
+      [
+        "Sané",
+        "Leroy Sané",
+        "de"
+      ],
+      [
+        "Havertz",
+        "Kai Havertz",
+        "de"
+      ]
+    ],
+    "date": "2024-06-29",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3940983.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3940983.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3940983",
+    "source_hashes": {
+      "events": "e97f3aa6e074583ffe119b15c19347fa08dd5a34",
+      "lineups": "d2e481c927407a68fc1c575f4bcd96d2e32c0059"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Denmark",
+    "opp": "Germany",
+    "score": "0-2",
+    "comp": "Euro 2024, round of 16",
+    "season": "2024",
+    "y": 2024,
+    "form": "3-4-2-1",
+    "kit": [
+      "solid",
+      "#c60c30",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Schmeichel",
+        "Kasper Schmeichel",
+        "dk"
+      ],
+      [
+        "Christensen",
+        "Andreas Christensen",
+        "dk"
+      ],
+      [
+        "Vestergaard",
+        "Jannik Vestergaard",
+        "dk"
+      ],
+      [
+        "Andersen",
+        "Joachim Andersen",
+        "dk"
+      ],
+      [
+        "Mæhle",
+        "Joakim Mæhle",
+        "dk"
+      ],
+      [
+        "Delaney",
+        "Thomas Delaney",
+        "dk"
+      ],
+      [
+        "Højbjerg",
+        "Pierre-Emile Højbjerg",
+        "dk"
+      ],
+      [
+        "Bah",
+        "Alexander Bah",
+        "dk"
+      ],
+      [
+        "Eriksen",
+        "Christian Eriksen",
+        "dk"
+      ],
+      [
+        "Skov Olsen",
+        "Andreas Skov Olsen",
+        "dk"
+      ],
+      [
+        "Højlund",
+        "Rasmus Højlund",
+        "dk"
+      ]
+    ],
+    "date": "2024-06-29",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3940983.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3940983.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3940983",
+    "source_hashes": {
+      "events": "e97f3aa6e074583ffe119b15c19347fa08dd5a34",
+      "lineups": "d2e481c927407a68fc1c575f4bcd96d2e32c0059"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Switzerland",
+    "opp": "Italy",
+    "score": "2-0",
+    "comp": "Euro 2024, round of 16",
+    "season": "2024",
+    "y": 2024,
+    "form": "3-4-2-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#d52b1e"
+    ],
+    "okit": [
+      "solid",
+      "#1f5fbf",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Sommer",
+        "Yann Sommer",
+        "ch"
+      ],
+      [
+        "Rodríguez",
+        "Ricardo Rodríguez",
+        "ch"
+      ],
+      [
+        "Akanji",
+        "Manuel Akanji",
+        "ch"
+      ],
+      [
+        "Schär",
+        "Fabian Schär",
+        "ch"
+      ],
+      [
+        "Aebischer",
+        "Michel Aebischer",
+        "ch"
+      ],
+      [
+        "Xhaka",
+        "Granit Xhaka",
+        "ch"
+      ],
+      [
+        "Freuler",
+        "Remo Freuler",
+        "ch"
+      ],
+      [
+        "Ndoye",
+        "Dan Ndoye",
+        "ch"
+      ],
+      [
+        "Vargas",
+        "Ruben Vargas",
+        "ch"
+      ],
+      [
+        "Rieder",
+        "Fabian Rieder",
+        "ch"
+      ],
+      [
+        "Embolo",
+        "Breel Embolo",
+        "ch"
+      ]
+    ],
+    "date": "2024-06-29",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3940878.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3940878.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3940878",
+    "source_hashes": {
+      "events": "03e19969967e9eabd6c017285aefd1e2d402db71",
+      "lineups": "6489d1fc95a0153a53f9531794fbd7eeb67e0186"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Italy",
+    "opp": "Switzerland",
+    "score": "0-2",
+    "comp": "Euro 2024, round of 16",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#1f5fbf",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#d52b1e"
+    ],
+    "p": [
+      [
+        "Donnarumma",
+        "Gianluigi Donnarumma",
+        "it"
+      ],
+      [
+        "Darmian",
+        "Matteo Darmian",
+        "it"
+      ],
+      [
+        "Bastoni",
+        "Alessandro Bastoni",
+        "it"
+      ],
+      [
+        "Mancini",
+        "Gianluca Mancini",
+        "it"
+      ],
+      [
+        "Di Lorenzo",
+        "Giovanni Di Lorenzo",
+        "it"
+      ],
+      [
+        "Barella",
+        "Nicolò Barella",
+        "it"
+      ],
+      [
+        "Fagioli",
+        "Nicolò Fagioli",
+        "it"
+      ],
+      [
+        "Cristante",
+        "Bryan Cristante",
+        "it"
+      ],
+      [
+        "El Shaarawy",
+        "Stephan El Shaarawy",
+        "it"
+      ],
+      [
+        "Scamacca",
+        "Gianluca Scamacca",
+        "it"
+      ],
+      [
+        "Chiesa",
+        "Federico Chiesa",
+        "it"
+      ]
+    ],
+    "date": "2024-06-29",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3940878.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3940878.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3940878",
+    "source_hashes": {
+      "events": "03e19969967e9eabd6c017285aefd1e2d402db71",
+      "lineups": "6489d1fc95a0153a53f9531794fbd7eeb67e0186"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "England",
+    "opp": "Germany",
+    "score": "2-0",
+    "comp": "Euro 2020, round of 16",
+    "season": "2020",
+    "y": 2021,
+    "form": "3-4-3",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#1b2a5c"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Pickford",
+        "Jordan Pickford",
+        "gb-eng"
+      ],
+      [
+        "Maguire",
+        "Harry Maguire",
+        "gb-eng"
+      ],
+      [
+        "Stones",
+        "John Stones",
+        "gb-eng"
+      ],
+      [
+        "Walker",
+        "Kyle Walker",
+        "gb-eng"
+      ],
+      [
+        "Shaw",
+        "Luke Shaw",
+        "gb-eng"
+      ],
+      [
+        "Rice",
+        "Declan Rice",
+        "gb-eng"
+      ],
+      [
+        "Phillips",
+        "Kalvin Phillips",
+        "gb-eng"
+      ],
+      [
+        "Trippier",
+        "Kieran Trippier",
+        "gb-eng"
+      ],
+      [
+        "Sterling",
+        "Raheem Sterling",
+        "gb-eng"
+      ],
+      [
+        "Kane",
+        "Harry Kane",
+        "gb-eng"
+      ],
+      [
+        "Saka",
+        "Bukayo Saka",
+        "gb-eng"
+      ]
+    ],
+    "date": "2021-06-29",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3794688.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3794688.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/43.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3794688",
+    "source_hashes": {
+      "events": "e644dff0cbe316f56fd769519b8b624b42a8d9ae",
+      "lineups": "cf836350dba3e5f87b8879edba884f9b820aea71"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Germany",
+    "opp": "England",
+    "score": "0-2",
+    "comp": "Euro 2020, round of 16",
+    "season": "2020",
+    "y": 2021,
+    "form": "3-4-3",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#1b2a5c"
+    ],
+    "p": [
+      [
+        "Neuer",
+        "Manuel Neuer",
+        "de"
+      ],
+      [
+        "Rüdiger",
+        "Antonio Rüdiger",
+        "de"
+      ],
+      [
+        "Hummels",
+        "Mats Hummels",
+        "de"
+      ],
+      [
+        "Ginter",
+        "Matthias Ginter",
+        "de"
+      ],
+      [
+        "Gosens",
+        "Robin Gosens",
+        "de"
+      ],
+      [
+        "Goretzka",
+        "Leon Goretzka",
+        "de"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Kimmich",
+        "Joshua Kimmich",
+        "de"
+      ],
+      [
+        "Müller",
+        "Thomas Müller",
+        "de"
+      ],
+      [
+        "Werner",
+        "Timo Werner",
+        "de"
+      ],
+      [
+        "Havertz",
+        "Kai Havertz",
+        "de"
+      ]
+    ],
+    "date": "2021-06-29",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3794688.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3794688.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/43.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3794688",
+    "source_hashes": {
+      "events": "e644dff0cbe316f56fd769519b8b624b42a8d9ae",
+      "lineups": "cf836350dba3e5f87b8879edba884f9b820aea71"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Croatia",
+    "opp": "Spain",
+    "score": "3-5 a.e.t.",
+    "comp": "Euro 2020, round of 16",
+    "season": "2020",
+    "y": 2021,
+    "form": "4-3-3",
+    "kit": [
+      "checks",
+      "#e30613",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#0b2a5b",
+      "#f1bf00"
+    ],
+    "p": [
+      [
+        "Livaković",
+        "Dominik Livaković",
+        "hr"
+      ],
+      [
+        "Gvardiol",
+        "Joško Gvardiol",
+        "hr"
+      ],
+      [
+        "Ćaleta-Car",
+        "Duje Ćaleta-Car",
+        "hr"
+      ],
+      [
+        "Vida",
+        "Domagoj Vida",
+        "hr"
+      ],
+      [
+        "Juranović",
+        "Josip Juranović",
+        "hr"
+      ],
+      [
+        "Kovačić",
+        "Mateo Kovačić",
+        "hr"
+      ],
+      [
+        "Brozović",
+        "Marcelo Brozović",
+        "hr"
+      ],
+      [
+        "Modrić",
+        "Luka Modrić",
+        "hr"
+      ],
+      [
+        "Rebić",
+        "Ante Rebić",
+        "hr"
+      ],
+      [
+        "Petković",
+        "Bruno Petković",
+        "hr"
+      ],
+      [
+        "Vlašić",
+        "Nikola Vlašić",
+        "hr"
+      ]
+    ],
+    "date": "2021-06-28",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3794686.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3794686.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/43.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3794686",
+    "source_hashes": {
+      "events": "f4c64f18e03795f667829de17c65ea503e918010",
+      "lineups": "3bc0150b5f3609ffff885621d29dd97521807cde"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Spain",
+    "opp": "Croatia",
+    "score": "5-3 a.e.t.",
+    "comp": "Euro 2020, round of 16",
+    "season": "2020",
+    "y": 2021,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#0b2a5b",
+      "#f1bf00"
+    ],
+    "okit": [
+      "checks",
+      "#e30613",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Unai Simón",
+        "Unai Simón",
+        "es"
+      ],
+      [
+        "Gayà",
+        "José Luis Gayà",
+        "es"
+      ],
+      [
+        "Laporte",
+        "Aymeric Laporte",
+        "es"
+      ],
+      [
+        "Eric García",
+        "Eric García",
+        "es"
+      ],
+      [
+        "Azpilicueta",
+        "César Azpilicueta",
+        "es"
+      ],
+      [
+        "Pedri",
+        "Pedri",
+        "es"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Sarabia",
+        "Pablo Sarabia",
+        "es"
+      ],
+      [
+        "Morata",
+        "Álvaro Morata",
+        "es"
+      ],
+      [
+        "Ferran",
+        "Ferran Torres",
+        "es"
+      ]
+    ],
+    "date": "2021-06-28",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3794686.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3794686.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/43.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3794686",
+    "source_hashes": {
+      "events": "f4c64f18e03795f667829de17c65ea503e918010",
+      "lineups": "3bc0150b5f3609ffff885621d29dd97521807cde"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Belgium",
+    "opp": "England",
+    "score": "2-0",
+    "comp": "World Cup 2018, third place game",
+    "season": "2018",
+    "y": 2018,
+    "form": "3-4-3",
+    "kit": [
+      "solid",
+      "#e30613",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#1b2a5c"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Vertonghen",
+        "Jan Vertonghen",
+        "be"
+      ],
+      [
+        "Kompany",
+        "Vincent Kompany",
+        "be"
+      ],
+      [
+        "Alderweireld",
+        "Toby Alderweireld",
+        "be"
+      ],
+      [
+        "Chadli",
+        "Nacer Chadli",
+        "be"
+      ],
+      [
+        "Witsel",
+        "Axel Witsel",
+        "be"
+      ],
+      [
+        "Tielemans",
+        "Youri Tielemans",
+        "be"
+      ],
+      [
+        "Meunier",
+        "Thomas Meunier",
+        "be"
+      ],
+      [
+        "Hazard",
+        "Eden Hazard",
+        "be"
+      ],
+      [
+        "Lukaku",
+        "Romelu Lukaku",
+        "be"
+      ],
+      [
+        "De Bruyne",
+        "Kevin De Bruyne",
+        "be"
+      ]
+    ],
+    "date": "2018-07-14",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/8657.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/8657.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/43/3.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:8657",
+    "source_hashes": {
+      "events": "274082de16c96a5ec23c12e3cec2be74ecacaa85",
+      "lineups": "d08e245d74bc89ca783fb3a451926faa03843367"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "England",
+    "opp": "Belgium",
+    "score": "0-2",
+    "comp": "World Cup 2018, third place game",
+    "season": "2018",
+    "y": 2018,
+    "form": "3-5-2",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#1b2a5c"
+    ],
+    "okit": [
+      "solid",
+      "#e30613",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Pickford",
+        "Jordan Pickford",
+        "gb-eng"
+      ],
+      [
+        "Maguire",
+        "Harry Maguire",
+        "gb-eng"
+      ],
+      [
+        "Stones",
+        "John Stones",
+        "gb-eng"
+      ],
+      [
+        "Jones",
+        "Phil Jones",
+        "gb-eng"
+      ],
+      [
+        "Rose",
+        "Danny Rose",
+        "gb-eng"
+      ],
+      [
+        "Delph",
+        "Fabian Delph",
+        "gb-eng"
+      ],
+      [
+        "Dier",
+        "Eric Dier",
+        "gb-eng"
+      ],
+      [
+        "Loftus-Cheek",
+        "Ruben Loftus-Cheek",
+        "gb-eng"
+      ],
+      [
+        "Trippier",
+        "Kieran Trippier",
+        "gb-eng"
+      ],
+      [
+        "Sterling",
+        "Raheem Sterling",
+        "gb-eng"
+      ],
+      [
+        "Kane",
+        "Harry Kane",
+        "gb-eng"
+      ]
+    ],
+    "date": "2018-07-14",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/8657.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/8657.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/43/3.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:8657",
+    "source_hashes": {
+      "events": "274082de16c96a5ec23c12e3cec2be74ecacaa85",
+      "lineups": "d08e245d74bc89ca783fb3a451926faa03843367"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Uruguay",
+    "opp": "France",
+    "score": "0-2",
+    "comp": "World Cup 2018, quarter-final",
+    "season": "2018",
+    "y": 2018,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#5cbfeb",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#1b2a5c",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Muslera",
+        "Fernando Muslera",
+        "uy"
+      ],
+      [
+        "Laxalt",
+        "Diego Laxalt",
+        "uy"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Giménez",
+        "José Giménez",
+        "uy"
+      ],
+      [
+        "Cáceres",
+        "Martín Cáceres",
+        "uy"
+      ],
+      [
+        "Vecino",
+        "Matías Vecino",
+        "uy"
+      ],
+      [
+        "Torreira",
+        "Lucas Torreira",
+        "uy"
+      ],
+      [
+        "Nández",
+        "Nahitan Nández",
+        "uy"
+      ],
+      [
+        "Stuani",
+        "Cristhian Stuani",
+        "uy"
+      ],
+      [
+        "Bentancur",
+        "Rodrigo Bentancur",
+        "uy"
+      ],
+      [
+        "Suárez",
+        "Luis Suárez",
+        "uy"
+      ]
+    ],
+    "date": "2018-07-06",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/8649.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/8649.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/43/3.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:8649",
+    "source_hashes": {
+      "events": "68686e98422ecf4efcab99c1d0e8c790948b291e",
+      "lineups": "67d852f702214e5927ec84f052f11f00f7fb44d2"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "France",
+    "opp": "Uruguay",
+    "score": "2-0",
+    "comp": "World Cup 2018, quarter-final",
+    "season": "2018",
+    "y": 2018,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#1b2a5c",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#5cbfeb",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Lloris",
+        "Hugo Lloris",
+        "fr"
+      ],
+      [
+        "Lucas Hernández",
+        "Lucas Hernández",
+        "fr"
+      ],
+      [
+        "Umtiti",
+        "Samuel Umtiti",
+        "fr"
+      ],
+      [
+        "Varane",
+        "Raphaël Varane",
+        "fr"
+      ],
+      [
+        "Pavard",
+        "Benjamin Pavard",
+        "fr"
+      ],
+      [
+        "Pogba",
+        "Paul Pogba",
+        "fr"
+      ],
+      [
+        "Kanté",
+        "N'Golo Kanté",
+        "fr"
+      ],
+      [
+        "Tolisso",
+        "Corentin Tolisso",
+        "fr"
+      ],
+      [
+        "Griezmann",
+        "Antoine Griezmann",
+        "fr"
+      ],
+      [
+        "Mbappé",
+        "Kylian Mbappé",
+        "fr"
+      ],
+      [
+        "Giroud",
+        "Olivier Giroud",
+        "fr"
+      ]
+    ],
+    "date": "2018-07-06",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/8649.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/8649.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/43/3.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:8649",
+    "source_hashes": {
+      "events": "68686e98422ecf4efcab99c1d0e8c790948b291e",
+      "lineups": "67d852f702214e5927ec84f052f11f00f7fb44d2"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Colombia",
+    "opp": "Argentina",
+    "score": "0-1 a.e.t.",
+    "comp": "Copa América 2024, final",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-1-2-1-2",
+    "kit": [
+      "solid",
+      "#fcd116",
+      "#003893"
+    ],
+    "okit": [
+      "stripes",
+      "#75aadb",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Vargas",
+        "Camilo Vargas",
+        "co"
+      ],
+      [
+        "Mojica",
+        "Johan Mojica",
+        "co"
+      ],
+      [
+        "Cuesta",
+        "Carlos Cuesta",
+        "co"
+      ],
+      [
+        "Sánchez",
+        "Davinson Sánchez",
+        "co"
+      ],
+      [
+        "Arias",
+        "Santiago Arias",
+        "co"
+      ],
+      [
+        "Lerma",
+        "Jefferson Lerma",
+        "co"
+      ],
+      [
+        "Arias",
+        "Jhon Arias",
+        "co"
+      ],
+      [
+        "Ríos",
+        "Richard Ríos",
+        "co"
+      ],
+      [
+        "James",
+        "James Rodríguez",
+        "co"
+      ],
+      [
+        "Díaz",
+        "Luis Díaz",
+        "co"
+      ],
+      [
+        "Córdoba",
+        "Jhon Córdoba",
+        "co"
+      ]
+    ],
+    "date": "2024-07-15",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3943077.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3943077.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/223/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3943077",
+    "source_hashes": {
+      "events": "c50dc442b05aec6fc9197c2ad837a6d426a4607d",
+      "lineups": "bcb9f6dee1e016a17908441a1bc7d00f0e54e207"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "England",
+    "opp": "Spain",
+    "score": "1-2",
+    "comp": "Euro 2024, final",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#1b2a5c"
+    ],
+    "okit": [
+      "solid",
+      "#0b2a5b",
+      "#f1bf00"
+    ],
+    "p": [
+      [
+        "Pickford",
+        "Jordan Pickford",
+        "gb-eng"
+      ],
+      [
+        "Shaw",
+        "Luke Shaw",
+        "gb-eng"
+      ],
+      [
+        "Guéhi",
+        "Marc Guéhi",
+        "gb-eng"
+      ],
+      [
+        "Stones",
+        "John Stones",
+        "gb-eng"
+      ],
+      [
+        "Walker",
+        "Kyle Walker",
+        "gb-eng"
+      ],
+      [
+        "Rice",
+        "Declan Rice",
+        "gb-eng"
+      ],
+      [
+        "Mainoo",
+        "Kobbie Mainoo",
+        "gb-eng"
+      ],
+      [
+        "Bellingham",
+        "Jude Bellingham",
+        "gb-eng"
+      ],
+      [
+        "Foden",
+        "Phil Foden",
+        "gb-eng"
+      ],
+      [
+        "Saka",
+        "Bukayo Saka",
+        "gb-eng"
+      ],
+      [
+        "Kane",
+        "Harry Kane",
+        "gb-eng"
+      ]
+    ],
+    "date": "2024-07-14",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3943043.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3943043.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3943043",
+    "source_hashes": {
+      "events": "f04b7083e9cebbca9313213f9d7fa63924a7fd63",
+      "lineups": "53d50cd87b5d9fe84b5b29a5da2857c448800510"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Uruguay",
+    "opp": "Colombia",
+    "score": "0-1",
+    "comp": "Copa América 2024, semi-final",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-1-4-1",
+    "kit": [
+      "solid",
+      "#5cbfeb",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#fcd116",
+      "#003893"
+    ],
+    "p": [
+      [
+        "Rochet",
+        "Sergio Rochet",
+        "uy"
+      ],
+      [
+        "Olivera",
+        "Mathías Olivera",
+        "uy"
+      ],
+      [
+        "Ugarte",
+        "Manuel Ugarte",
+        "uy"
+      ],
+      [
+        "Giménez",
+        "José Giménez",
+        "uy"
+      ],
+      [
+        "Cáceres",
+        "Sebastián Cáceres",
+        "uy"
+      ],
+      [
+        "Bentancur",
+        "Rodrigo Bentancur",
+        "uy"
+      ],
+      [
+        "Araújo",
+        "Maximiliano Araújo",
+        "uy"
+      ],
+      [
+        "De La Cruz",
+        "Nicolás de la Cruz",
+        "uy"
+      ],
+      [
+        "Valverde",
+        "Federico Valverde",
+        "uy"
+      ],
+      [
+        "Pellistri",
+        "Facundo Pellistri",
+        "uy"
+      ],
+      [
+        "Núñez",
+        "Darwin Núñez",
+        "uy"
+      ]
+    ],
+    "date": "2024-07-11",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3942852.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3942852.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/223/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3942852",
+    "source_hashes": {
+      "events": "2e797da167bf6399d89de728a9383e3d96fa39b0",
+      "lineups": "fd58dcb82cd17f0696869d99132b735db69d7657"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Netherlands",
+    "opp": "England",
+    "score": "1-2",
+    "comp": "Euro 2024, semi-final",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ff6600",
+      "#1b2a5c"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#1b2a5c"
+    ],
+    "p": [
+      [
+        "Verbruggen",
+        "Bart Verbruggen",
+        "nl"
+      ],
+      [
+        "Aké",
+        "Nathan Aké",
+        "nl"
+      ],
+      [
+        "Van Dijk",
+        "Virgil van Dijk",
+        "nl"
+      ],
+      [
+        "De Vrij",
+        "Stefan de Vrij",
+        "nl"
+      ],
+      [
+        "Dumfries",
+        "Denzel Dumfries",
+        "nl"
+      ],
+      [
+        "Reijnders",
+        "Tijjani Reijnders",
+        "nl"
+      ],
+      [
+        "Schouten",
+        "Jerdy Schouten",
+        "nl"
+      ],
+      [
+        "Gakpo",
+        "Cody Gakpo",
+        "nl"
+      ],
+      [
+        "Simons",
+        "Xavi Simons",
+        "nl"
+      ],
+      [
+        "Malen",
+        "Donyell Malen",
+        "nl"
+      ],
+      [
+        "Memphis",
+        "Memphis Depay",
+        "nl"
+      ]
+    ],
+    "date": "2024-07-10",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3942819.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3942819.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3942819",
+    "source_hashes": {
+      "events": "cafdf2639941a298790bc6c69dc3e38c4e80a3d6",
+      "lineups": "497d444121092d665bc37cb61560232976b36e3f"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Spain",
+    "opp": "France",
+    "score": "2-1",
+    "comp": "Euro 2024, semi-final",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#0b2a5b",
+      "#f1bf00"
+    ],
+    "okit": [
+      "solid",
+      "#1b2a5c",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Unai Simón",
+        "Unai Simón",
+        "es"
+      ],
+      [
+        "Cucurella",
+        "Marc Cucurella",
+        "es"
+      ],
+      [
+        "Laporte",
+        "Aymeric Laporte",
+        "es"
+      ],
+      [
+        "Nacho",
+        "Nacho",
+        "es"
+      ],
+      [
+        "Navas",
+        "Jesús Navas",
+        "es"
+      ],
+      [
+        "Fabián Ruiz",
+        "Fabián Ruiz",
+        "es"
+      ],
+      [
+        "Rodri",
+        "Rodri",
+        "es"
+      ],
+      [
+        "Nico Williams",
+        "Nico Williams",
+        "es"
+      ],
+      [
+        "Olmo",
+        "Daniel Olmo",
+        "es"
+      ],
+      [
+        "Lamine Yamal",
+        "Lamine Yamal",
+        "es"
+      ],
+      [
+        "Morata",
+        "Álvaro Morata",
+        "es"
+      ]
+    ],
+    "date": "2024-07-09",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3942752.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3942752.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3942752",
+    "source_hashes": {
+      "events": "dd97b788c8ec263299d6b007293c10eacf3b6c1d",
+      "lineups": "4ebeefa7bca2ef8e6372ea09a9390a99fce1a193"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "France",
+    "opp": "Spain",
+    "score": "1-2",
+    "comp": "Euro 2024, semi-final",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#1b2a5c",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#0b2a5b",
+      "#f1bf00"
+    ],
+    "p": [
+      [
+        "Maignan",
+        "Mike Maignan",
+        "fr"
+      ],
+      [
+        "Hernandez",
+        "Théo Hernandez",
+        "fr"
+      ],
+      [
+        "Saliba",
+        "William Saliba",
+        "fr"
+      ],
+      [
+        "Upamecano",
+        "Dayot Upamecano",
+        "fr"
+      ],
+      [
+        "Koundé",
+        "Jules Koundé",
+        "fr"
+      ],
+      [
+        "Rabiot",
+        "Adrien Rabiot",
+        "fr"
+      ],
+      [
+        "Tchouaméni",
+        "Aurélien Tchouaméni",
+        "fr"
+      ],
+      [
+        "Kanté",
+        "N'Golo Kanté",
+        "fr"
+      ],
+      [
+        "Mbappé",
+        "Kylian Mbappé",
+        "fr"
+      ],
+      [
+        "Kolo Muani",
+        "Randal Kolo Muani",
+        "fr"
+      ],
+      [
+        "Dembélé",
+        "Ousmane Dembélé",
+        "fr"
+      ]
+    ],
+    "date": "2024-07-09",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3942752.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3942752.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3942752",
+    "source_hashes": {
+      "events": "dd97b788c8ec263299d6b007293c10eacf3b6c1d",
+      "lineups": "4ebeefa7bca2ef8e6372ea09a9390a99fce1a193"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Turkey",
+    "opp": "Netherlands",
+    "score": "1-2",
+    "comp": "Euro 2024, quarter-final",
+    "season": "2024",
+    "y": 2024,
+    "form": "3-4-3",
+    "kit": [
+      "solid",
+      "#e30a17",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#ff6600",
+      "#1b2a5c"
+    ],
+    "p": [
+      [
+        "Günok",
+        "Mert Günok",
+        "tr"
+      ],
+      [
+        "Bardakcı",
+        "Abdülkerim Bardakcı",
+        "tr"
+      ],
+      [
+        "Akaydin",
+        "Samet Akaydin",
+        "tr"
+      ],
+      [
+        "Ayhan",
+        "Kaan Ayhan",
+        "tr"
+      ],
+      [
+        "Kadıoğlu",
+        "Ferdi Kadıoğlu",
+        "tr"
+      ],
+      [
+        "Çalhanoğlu",
+        "Hakan Çalhanoğlu",
+        "tr"
+      ],
+      [
+        "Özcan",
+        "Salih Özcan",
+        "tr"
+      ],
+      [
+        "Müldür",
+        "Mert Müldür",
+        "tr"
+      ],
+      [
+        "Yıldız",
+        "Kenan Yıldız",
+        "tr"
+      ],
+      [
+        "Barış Alper",
+        "Barış Alper Yılmaz",
+        "tr"
+      ],
+      [
+        "Güler",
+        "Arda Güler",
+        "tr"
+      ]
+    ],
+    "date": "2024-07-06",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3942382.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3942382.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3942382",
+    "source_hashes": {
+      "events": "e7f76fded8bbb183f259933660b8a052951fbcab",
+      "lineups": "8bdc0d280873db4ca88bf7e123e37647e31e12ad"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Belgium",
+    "opp": "France",
+    "score": "0-1",
+    "comp": "Euro 2024, round of 16",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-4-2",
+    "kit": [
+      "solid",
+      "#e30613",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#1b2a5c",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Casteels",
+        "Koen Casteels",
+        "be"
+      ],
+      [
+        "Theate",
+        "Arthur Theate",
+        "be"
+      ],
+      [
+        "Vertonghen",
+        "Jan Vertonghen",
+        "be"
+      ],
+      [
+        "Faes",
+        "Wout Faes",
+        "be"
+      ],
+      [
+        "Castagne",
+        "Timothy Castagne",
+        "be"
+      ],
+      [
+        "Doku",
+        "Jérémy Doku",
+        "be"
+      ],
+      [
+        "De Bruyne",
+        "Kevin De Bruyne",
+        "be"
+      ],
+      [
+        "Onana",
+        "Amadou Onana",
+        "be"
+      ],
+      [
+        "Carrasco",
+        "Yannick Carrasco",
+        "be"
+      ],
+      [
+        "Openda",
+        "Loïs Openda",
+        "be"
+      ],
+      [
+        "Lukaku",
+        "Romelu Lukaku",
+        "be"
+      ]
+    ],
+    "date": "2024-07-01",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3941019.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3941019.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3941019",
+    "source_hashes": {
+      "events": "b5f8f50d61d2b9295ba813e4449a407bc693b40d",
+      "lineups": "c39e03182aae7a0013bd0206bbeb0ceacc5f2b18"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Belgium",
+    "opp": "Italy",
+    "score": "1-2",
+    "comp": "Euro 2020, quarter-final",
+    "season": "2020",
+    "y": 2021,
+    "form": "3-4-2-1",
+    "kit": [
+      "solid",
+      "#e30613",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#1f5fbf",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Vertonghen",
+        "Jan Vertonghen",
+        "be"
+      ],
+      [
+        "Vermaelen",
+        "Thomas Vermaelen",
+        "be"
+      ],
+      [
+        "Alderweireld",
+        "Toby Alderweireld",
+        "be"
+      ],
+      [
+        "Hazard",
+        "Thorgan Hazard",
+        "be"
+      ],
+      [
+        "Witsel",
+        "Axel Witsel",
+        "be"
+      ],
+      [
+        "Tielemans",
+        "Youri Tielemans",
+        "be"
+      ],
+      [
+        "Meunier",
+        "Thomas Meunier",
+        "be"
+      ],
+      [
+        "Doku",
+        "Jérémy Doku",
+        "be"
+      ],
+      [
+        "De Bruyne",
+        "Kevin De Bruyne",
+        "be"
+      ],
+      [
+        "Lukaku",
+        "Romelu Lukaku",
+        "be"
+      ]
+    ],
+    "date": "2021-07-02",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3795107.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3795107.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/43.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3795107",
+    "source_hashes": {
+      "events": "4422747171a1019d708eea59e18a042fbe571b03",
+      "lineups": "9423401ca83426cd3d9b5c968a07014db8b35c80"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Italy",
+    "opp": "Belgium",
+    "score": "2-1",
+    "comp": "Euro 2020, quarter-final",
+    "season": "2020",
+    "y": 2021,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#1f5fbf",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#e30613",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Donnarumma",
+        "Gianluigi Donnarumma",
+        "it"
+      ],
+      [
+        "Spinazzola",
+        "Leonardo Spinazzola",
+        "it"
+      ],
+      [
+        "Chiellini",
+        "Giorgio Chiellini",
+        "it"
+      ],
+      [
+        "Bonucci",
+        "Leonardo Bonucci",
+        "it"
+      ],
+      [
+        "Di Lorenzo",
+        "Giovanni Di Lorenzo",
+        "it"
+      ],
+      [
+        "Verratti",
+        "Marco Verratti",
+        "it"
+      ],
+      [
+        "Jorginho",
+        "Jorginho",
+        "it"
+      ],
+      [
+        "Barella",
+        "Nicolò Barella",
+        "it"
+      ],
+      [
+        "Insigne",
+        "Lorenzo Insigne",
+        "it"
+      ],
+      [
+        "Immobile",
+        "Ciro Immobile",
+        "it"
+      ],
+      [
+        "Chiesa",
+        "Federico Chiesa",
+        "it"
+      ]
+    ],
+    "date": "2021-07-02",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3795107.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3795107.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/43.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3795107",
+    "source_hashes": {
+      "events": "4422747171a1019d708eea59e18a042fbe571b03",
+      "lineups": "9423401ca83426cd3d9b5c968a07014db8b35c80"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Portugal",
+    "opp": "Belgium",
+    "score": "0-1",
+    "comp": "Euro 2020, round of 16",
+    "season": "2020",
+    "y": 2021,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#c8102e",
+      "#006600"
+    ],
+    "okit": [
+      "solid",
+      "#e30613",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Rui Patrício",
+        "Rui Patrício",
+        "pt"
+      ],
+      [
+        "Guerreiro",
+        "Raphaël Guerreiro",
+        "pt"
+      ],
+      [
+        "Dias",
+        "Rúben Dias",
+        "pt"
+      ],
+      [
+        "Pepe",
+        "Pepe",
+        "pt"
+      ],
+      [
+        "Dalot",
+        "Diogo Dalot",
+        "pt"
+      ],
+      [
+        "Renato Sanches",
+        "Renato Sanches",
+        "pt"
+      ],
+      [
+        "Palhinha",
+        "João Palhinha",
+        "pt"
+      ],
+      [
+        "Moutinho",
+        "João Moutinho",
+        "pt"
+      ],
+      [
+        "Jota",
+        "Diogo Jota",
+        "pt"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ],
+      [
+        "Bernardo",
+        "Bernardo Silva",
+        "pt"
+      ]
+    ],
+    "date": "2021-06-27",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3794687.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3794687.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/55/43.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3794687",
+    "source_hashes": {
+      "events": "64400a08325c3050dbb91ac8e93b73ac98f236c3",
+      "lineups": "ba3dcdc4a347a5371b7a1fec7034a0414f57cc63"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Portugal",
+    "opp": "Uruguay",
+    "score": "1-2",
+    "comp": "World Cup 2018, round of 16",
+    "season": "2018",
+    "y": 2018,
+    "form": "4-4-2",
+    "kit": [
+      "solid",
+      "#c8102e",
+      "#006600"
+    ],
+    "okit": [
+      "solid",
+      "#5cbfeb",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Rui Patrício",
+        "Rui Patrício",
+        "pt"
+      ],
+      [
+        "Guerreiro",
+        "Raphaël Guerreiro",
+        "pt"
+      ],
+      [
+        "Fonte",
+        "José Fonte",
+        "pt"
+      ],
+      [
+        "Pepe",
+        "Pepe",
+        "pt"
+      ],
+      [
+        "Ricardo Pereira",
+        "Ricardo Pereira",
+        "pt"
+      ],
+      [
+        "João Mário",
+        "João Mário",
+        "pt"
+      ],
+      [
+        "William Carvalho",
+        "William Carvalho",
+        "pt"
+      ],
+      [
+        "Adrien Silva",
+        "Adrien Silva",
+        "pt"
+      ],
+      [
+        "Bernardo",
+        "Bernardo Silva",
+        "pt"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ],
+      [
+        "Guedes",
+        "Gonçalo Guedes",
+        "pt"
+      ]
+    ],
+    "date": "2018-06-30",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/7579.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/7579.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/43/3.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:7579",
+    "source_hashes": {
+      "events": "647e24fbb356bf20ebcf5308c6927dad0f0cfaf8",
+      "lineups": "b8eadca738ba817d75ec9b300faef0dfb64db7b0"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "nat",
+    "team": "Brazil",
+    "opp": "Uruguay",
+    "score": "0-0 (2-4 pen.)",
+    "comp": "Copa América 2024, quarter-final",
+    "season": "2024",
+    "y": 2024,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffdf00",
+      "#009c3b"
+    ],
+    "okit": [
+      "solid",
+      "#5cbfeb",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Alisson",
+        "Alisson",
+        "br"
+      ],
+      [
+        "Arana",
+        "Guilherme Arana",
+        "br"
+      ],
+      [
+        "Marquinhos",
+        "Marquinhos",
+        "br"
+      ],
+      [
+        "Militão",
+        "Éder Militão",
+        "br"
+      ],
+      [
+        "Danilo",
+        "Danilo",
+        "br"
+      ],
+      [
+        "João Gomes",
+        "João Gomes",
+        "br"
+      ],
+      [
+        "Bruno Guimarães",
+        "Bruno Guimarães",
+        "br"
+      ],
+      [
+        "Rodrygo",
+        "Rodrygo",
+        "br"
+      ],
+      [
+        "Paquetá",
+        "Lucas Paquetá",
+        "br"
+      ],
+      [
+        "Raphinha",
+        "Raphinha",
+        "br"
+      ],
+      [
+        "Endrick",
+        "Endrick",
+        "br"
+      ]
+    ],
+    "date": "2024-07-07",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3942415.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3942415.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/223/282.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3942415",
+    "source_hashes": {
+      "events": "54908b29ef4b00defd38e42fa562eb41d97c03da",
+      "lineups": "7c3c3757c0aed58e69ae3b414b58c2b7f0198247"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Atlético Madrid",
+    "score": "5-0",
+    "comp": "La Liga, matchday 6",
+    "season": "2011/12",
+    "y": 2011,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Valdés",
+        "Víctor Valdés",
+        "es"
+      ],
+      [
+        "Abidal",
+        "Eric Abidal",
+        "fr"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Mascherano",
+        "Javier Mascherano",
+        "ar"
+      ],
+      [
+        "Alves",
+        "Dani Alves",
+        "br"
+      ],
+      [
+        "Thiago",
+        "Thiago Alcântara",
+        "es"
+      ],
+      [
+        "Xavi",
+        "Xavi",
+        "es"
+      ],
+      [
+        "Fàbregas",
+        "Cesc Fàbregas",
+        "es"
+      ],
+      [
+        "Villa",
+        "David Villa",
+        "es"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ],
+      [
+        "Pedro",
+        "Pedro",
+        "es"
+      ]
+    ],
+    "date": "2011-09-24",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/69297.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/69297.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/23.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:69297",
+    "source_hashes": {
+      "events": "305ae76adea9bfe1d36f274948780e10a15466ed",
+      "lineups": "08c8362c5fc7e7f3ff2ff16f482c8c3e3acf6d11"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "0-5",
+    "comp": "La Liga, matchday 6",
+    "season": "2011/12",
+    "y": 2011,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Antonio López",
+        "Antonio López",
+        "es"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Miranda",
+        "João Miranda",
+        "br"
+      ],
+      [
+        "Perea",
+        "Luis Perea",
+        "co"
+      ],
+      [
+        "Gabi",
+        "Gabi",
+        "es"
+      ],
+      [
+        "Mario Suárez",
+        "Mario Suárez",
+        "es"
+      ],
+      [
+        "Tiago",
+        "Tiago",
+        "pt"
+      ],
+      [
+        "Diego",
+        "Diego Ribas",
+        "br"
+      ],
+      [
+        "Falcao",
+        "Radamel Falcao",
+        "co"
+      ],
+      [
+        "Reyes",
+        "José Antonio Reyes",
+        "es"
+      ]
+    ],
+    "date": "2011-09-24",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/69297.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/69297.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/23.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:69297",
+    "source_hashes": {
+      "events": "305ae76adea9bfe1d36f274948780e10a15466ed",
+      "lineups": "08c8362c5fc7e7f3ff2ff16f482c8c3e3acf6d11"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "0-5",
+    "comp": "La Liga, matchday 13",
+    "season": "2010/11",
+    "y": 2010,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Casillas",
+        "Iker Casillas",
+        "es"
+      ],
+      [
+        "Marcelo",
+        "Marcelo",
+        "br"
+      ],
+      [
+        "Carvalho",
+        "Ricardo Carvalho",
+        "pt"
+      ],
+      [
+        "Pepe",
+        "Pepe",
+        "pt"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Alonso",
+        "Xabi Alonso",
+        "es"
+      ],
+      [
+        "Khedira",
+        "Sami Khedira",
+        "de"
+      ],
+      [
+        "Di María",
+        "Ángel Di María",
+        "ar"
+      ],
+      [
+        "Özil",
+        "Mesut Özil",
+        "de"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ]
+    ],
+    "date": "2010-11-29",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/69299.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/69299.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/22.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:69299",
+    "source_hashes": {
+      "events": "1aeaeb305cdc58c70b0a50cbacc2eb095ca40454",
+      "lineups": "b92cf2c2e8d8cbbf40bb4787471ef73e369896aa"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "0-4",
+    "comp": "La Liga, matchday 12",
+    "season": "2015/16",
+    "y": 2015,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Navas",
+        "Keylor Navas",
+        "cr"
+      ],
+      [
+        "Marcelo",
+        "Marcelo",
+        "br"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Varane",
+        "Raphaël Varane",
+        "fr"
+      ],
+      [
+        "Danilo",
+        "Danilo",
+        "br"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Modrić",
+        "Luka Modrić",
+        "hr"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ],
+      [
+        "Bale",
+        "Gareth Bale",
+        "gb-wls"
+      ],
+      [
+        "James",
+        "James Rodríguez",
+        "co"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ]
+    ],
+    "date": "2015-11-21",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/266424.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/266424.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:266424",
+    "source_hashes": {
+      "events": "dfa972540d1edc33efa7b86bf916dbaf36824df8",
+      "lineups": "58fd523aa93817f550103fb55cfd48a93f2179a1"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Milan",
+    "opp": "Napoli",
+    "score": "0-4",
+    "comp": "Serie A, matchday 7",
+    "season": "2015/16",
+    "y": 2015,
+    "form": "4-1-2-1-2",
+    "kit": [
+      "stripes",
+      "#e1001a",
+      "#000000"
+    ],
+    "okit": [
+      "solid",
+      "#0b9ee1",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "López",
+        "Diego López",
+        "es"
+      ],
+      [
+        "Antonelli",
+        "Luca Antonelli",
+        "it"
+      ],
+      [
+        "Ely",
+        "Rodrigo Ely",
+        "br"
+      ],
+      [
+        "Zapata",
+        "Cristián Zapata",
+        "co"
+      ],
+      [
+        "De Sciglio",
+        "Mattia De Sciglio",
+        "it"
+      ],
+      [
+        "Montolivo",
+        "Riccardo Montolivo",
+        "it"
+      ],
+      [
+        "Bertolacci",
+        "Andrea Bertolacci",
+        "it"
+      ],
+      [
+        "Kucka",
+        "Juraj Kucka",
+        "sk"
+      ],
+      [
+        "Bonaventura",
+        "Giacomo Bonaventura",
+        "it"
+      ],
+      [
+        "Bacca",
+        "Carlos Bacca",
+        "co"
+      ],
+      [
+        "Luiz Adriano",
+        "Luiz Adriano",
+        "br"
+      ]
+    ],
+    "date": "2015-10-04",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3879562.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3879562.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/12/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3879562",
+    "source_hashes": {
+      "events": "8572595f38c5609b44e5f8824711c6569d629f18",
+      "lineups": "3168f74ce95e728f58dd7f6622e5a5c130039f05"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Napoli",
+    "opp": "Milan",
+    "score": "4-0",
+    "comp": "Serie A, matchday 7",
+    "season": "2015/16",
+    "y": 2015,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#0b9ee1",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#e1001a",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Reina",
+        "Pepe Reina",
+        "es"
+      ],
+      [
+        "Ghoulam",
+        "Faouzi Ghoulam",
+        "dz"
+      ],
+      [
+        "Koulibaly",
+        "Kalidou Koulibaly",
+        "sn"
+      ],
+      [
+        "Albiol",
+        "Raúl Albiol",
+        "es"
+      ],
+      [
+        "Hysaj",
+        "Elseid Hysaj",
+        "al"
+      ],
+      [
+        "Hamšík",
+        "Marek Hamšík",
+        "sk"
+      ],
+      [
+        "Jorginho",
+        "Jorginho",
+        "it"
+      ],
+      [
+        "Allan",
+        "Allan",
+        "br"
+      ],
+      [
+        "Insigne",
+        "Lorenzo Insigne",
+        "it"
+      ],
+      [
+        "Higuaín",
+        "Gonzalo Higuaín",
+        "ar"
+      ],
+      [
+        "Callejón",
+        "José Callejón",
+        "es"
+      ]
+    ],
+    "date": "2015-10-04",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3879562.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3879562.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/12/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3879562",
+    "source_hashes": {
+      "events": "8572595f38c5609b44e5f8824711c6569d629f18",
+      "lineups": "3168f74ce95e728f58dd7f6622e5a5c130039f05"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "0-3",
+    "comp": "La Liga, matchday 17",
+    "season": "2017/18",
+    "y": 2017,
+    "form": "4-4-2",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Navas",
+        "Keylor Navas",
+        "cr"
+      ],
+      [
+        "Marcelo",
+        "Marcelo",
+        "br"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Varane",
+        "Raphaël Varane",
+        "fr"
+      ],
+      [
+        "Carvajal",
+        "Daniel Carvajal",
+        "es"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Casemiro",
+        "Casemiro",
+        "br"
+      ],
+      [
+        "Kovačić",
+        "Mateo Kovačić",
+        "hr"
+      ],
+      [
+        "Modrić",
+        "Luka Modrić",
+        "hr"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ]
+    ],
+    "date": "2017-12-23",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/9736.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/9736.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/1.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:9736",
+    "source_hashes": {
+      "events": "af358b2665cbdbe65b8f324ab082e46893ca594d",
+      "lineups": "91c4c4b82decc53a982afb98acca9d6a26ba0a80"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Chelsea",
+    "opp": "Manchester City",
+    "score": "0-3",
+    "comp": "Premier League, matchday 34",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#034694",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#6cabdd",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Rahman",
+        "Baba Rahman",
+        "gh"
+      ],
+      [
+        "Ivanović",
+        "Branislav Ivanović",
+        "rs"
+      ],
+      [
+        "Cahill",
+        "Gary Cahill",
+        "gb-eng"
+      ],
+      [
+        "Azpilicueta",
+        "César Azpilicueta",
+        "es"
+      ],
+      [
+        "Fàbregas",
+        "Cesc Fàbregas",
+        "es"
+      ],
+      [
+        "Mikel",
+        "John Obi Mikel",
+        "ng"
+      ],
+      [
+        "Pedro",
+        "Pedro",
+        "es"
+      ],
+      [
+        "Loftus-Cheek",
+        "Ruben Loftus-Cheek",
+        "gb-eng"
+      ],
+      [
+        "Willian",
+        "Willian",
+        "br"
+      ],
+      [
+        "Diego Costa",
+        "Diego Costa",
+        "es"
+      ]
+    ],
+    "date": "2016-04-16",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3754322.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3754322.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/2/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3754322",
+    "source_hashes": {
+      "events": "6307247f4a36a95070aaeef05f965a40216309e5",
+      "lineups": "85f4825757b0f53afeee69083b89914a9cc1127d"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Manchester City",
+    "opp": "Chelsea",
+    "score": "3-0",
+    "comp": "Premier League, matchday 34",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#6cabdd",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#034694",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Hart",
+        "Joe Hart",
+        "gb-eng"
+      ],
+      [
+        "Kolarov",
+        "Aleksandar Kolarov",
+        "rs"
+      ],
+      [
+        "Mangala",
+        "Eliaquim Mangala",
+        "fr"
+      ],
+      [
+        "Otamendi",
+        "Nicolás Otamendi",
+        "ar"
+      ],
+      [
+        "Zabaleta",
+        "Pablo Zabaleta",
+        "ar"
+      ],
+      [
+        "Touré",
+        "Yaya Touré",
+        "ci"
+      ],
+      [
+        "Fernandinho",
+        "Fernandinho",
+        "br"
+      ],
+      [
+        "Nasri",
+        "Samir Nasri",
+        "fr"
+      ],
+      [
+        "De Bruyne",
+        "Kevin De Bruyne",
+        "be"
+      ],
+      [
+        "Navas",
+        "Jesús Navas",
+        "es"
+      ],
+      [
+        "Agüero",
+        "Sergio Agüero",
+        "ar"
+      ]
+    ],
+    "date": "2016-04-16",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3754322.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3754322.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/2/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3754322",
+    "source_hashes": {
+      "events": "6307247f4a36a95070aaeef05f965a40216309e5",
+      "lineups": "85f4825757b0f53afeee69083b89914a9cc1127d"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Tottenham Hotspur",
+    "opp": "Manchester United",
+    "score": "3-0",
+    "comp": "Premier League, matchday 33",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#132257"
+    ],
+    "okit": [
+      "solid",
+      "#da291c",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Lloris",
+        "Hugo Lloris",
+        "fr"
+      ],
+      [
+        "Rose",
+        "Danny Rose",
+        "gb-eng"
+      ],
+      [
+        "Vertonghen",
+        "Jan Vertonghen",
+        "be"
+      ],
+      [
+        "Alderweireld",
+        "Toby Alderweireld",
+        "be"
+      ],
+      [
+        "Walker",
+        "Kyle Walker",
+        "gb-eng"
+      ],
+      [
+        "Dembélé",
+        "Mousa Dembélé",
+        "be"
+      ],
+      [
+        "Dier",
+        "Eric Dier",
+        "gb-eng"
+      ],
+      [
+        "Eriksen",
+        "Christian Eriksen",
+        "dk"
+      ],
+      [
+        "Alli",
+        "Dele Alli",
+        "gb-eng"
+      ],
+      [
+        "Lamela",
+        "Erik Lamela",
+        "ar"
+      ],
+      [
+        "Kane",
+        "Harry Kane",
+        "gb-eng"
+      ]
+    ],
+    "date": "2016-04-10",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3754209.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3754209.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/2/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3754209",
+    "source_hashes": {
+      "events": "7652ebd04e408d037b34f4d9b10c9b6de981ee2c",
+      "lineups": "f04044256bd94455de8d7847ecd0325b49b9f6d0"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Manchester United",
+    "opp": "Tottenham Hotspur",
+    "score": "0-3",
+    "comp": "Premier League, matchday 33",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#da291c",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#132257"
+    ],
+    "p": [
+      [
+        "De Gea",
+        "David de Gea",
+        "es"
+      ],
+      [
+        "Rojo",
+        "Marcos Rojo",
+        "ar"
+      ],
+      [
+        "Blind",
+        "Daley Blind",
+        "nl"
+      ],
+      [
+        "Smalling",
+        "Chris Smalling",
+        "gb-eng"
+      ],
+      [
+        "Fosu-Mensah",
+        "Timothy Fosu-Mensah",
+        "nl"
+      ],
+      [
+        "Carrick",
+        "Michael Carrick",
+        "gb-eng"
+      ],
+      [
+        "Schneiderlin",
+        "Morgan Schneiderlin",
+        "fr"
+      ],
+      [
+        "Martial",
+        "Anthony Martial",
+        "fr"
+      ],
+      [
+        "Lingard",
+        "Jesse Lingard",
+        "gb-eng"
+      ],
+      [
+        "Mata",
+        "Juan Mata",
+        "es"
+      ],
+      [
+        "Rashford",
+        "Marcus Rashford",
+        "gb-eng"
+      ]
+    ],
+    "date": "2016-04-10",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3754209.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3754209.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/2/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3754209",
+    "source_hashes": {
+      "events": "7652ebd04e408d037b34f4d9b10c9b6de981ee2c",
+      "lineups": "f04044256bd94455de8d7847ecd0325b49b9f6d0"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Liverpool",
+    "opp": "Manchester City",
+    "score": "3-0",
+    "comp": "Premier League, matchday 28",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "4-4-1-1",
+    "kit": [
+      "solid",
+      "#c8102e",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#6cabdd",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Mignolet",
+        "Simon Mignolet",
+        "be"
+      ],
+      [
+        "Clyne",
+        "Nathaniel Clyne",
+        "gb-eng"
+      ],
+      [
+        "Lovren",
+        "Dejan Lovren",
+        "hr"
+      ],
+      [
+        "Touré",
+        "Kolo Touré",
+        "ci"
+      ],
+      [
+        "Flanagan",
+        "Jon Flanagan",
+        "gb-eng"
+      ],
+      [
+        "Lallana",
+        "Adam Lallana",
+        "gb-eng"
+      ],
+      [
+        "Emre Can",
+        "Emre Can",
+        "de"
+      ],
+      [
+        "Henderson",
+        "Jordan Henderson",
+        "gb-eng"
+      ],
+      [
+        "Milner",
+        "James Milner",
+        "gb-eng"
+      ],
+      [
+        "Firmino",
+        "Roberto Firmino",
+        "br"
+      ],
+      [
+        "Origi",
+        "Divock Origi",
+        "be"
+      ]
+    ],
+    "date": "2016-03-02",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3753991.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3753991.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/2/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3753991",
+    "source_hashes": {
+      "events": "fc73d89256e608ac1986eeabba9af88d40eb46c1",
+      "lineups": "ed24ed4cf99874e18f8a87430d772efa7ab0c582"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Inter",
+    "opp": "Milan",
+    "score": "0-3",
+    "comp": "Serie A, matchday 22",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "4-4-1-1",
+    "kit": [
+      "stripes",
+      "#0068a8",
+      "#000000"
+    ],
+    "okit": [
+      "stripes",
+      "#e1001a",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Handanović",
+        "Samir Handanović",
+        "si"
+      ],
+      [
+        "Juan Jesus",
+        "Juan Jesus",
+        "br"
+      ],
+      [
+        "Murillo",
+        "Jeison Murillo",
+        "co"
+      ],
+      [
+        "Miranda",
+        "João Miranda",
+        "br"
+      ],
+      [
+        "Santon",
+        "Davide Santon",
+        "it"
+      ],
+      [
+        "Ljajić",
+        "Adem Ljajić",
+        "rs"
+      ],
+      [
+        "Brozović",
+        "Marcelo Brozović",
+        "hr"
+      ],
+      [
+        "Medel",
+        "Gary Medel",
+        "cl"
+      ],
+      [
+        "Perišić",
+        "Ivan Perišić",
+        "hr"
+      ],
+      [
+        "Éder",
+        "Éder",
+        "it"
+      ],
+      [
+        "Jovetić",
+        "Stevan Jovetić",
+        "me"
+      ]
+    ],
+    "date": "2016-01-31",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3879712.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3879712.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/12/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3879712",
+    "source_hashes": {
+      "events": "1f2752e2fa6a1fb4a517bbb04616a0328f04c063",
+      "lineups": "6abd68396f956f97715b76b08a5c8d4db6abb335"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Atlético Madrid",
+    "score": "4-1",
+    "comp": "La Liga, matchday 16",
+    "season": "2012/13",
+    "y": 2012,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Valdés",
+        "Víctor Valdés",
+        "es"
+      ],
+      [
+        "Alba",
+        "Jordi Alba",
+        "es"
+      ],
+      [
+        "Puyol",
+        "Carles Puyol",
+        "es"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Adriano",
+        "Adriano",
+        "br"
+      ],
+      [
+        "Iniesta",
+        "Andrés Iniesta",
+        "es"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Xavi",
+        "Xavi",
+        "es"
+      ],
+      [
+        "Alexis",
+        "Alexis Sánchez",
+        "cl"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ],
+      [
+        "Pedro",
+        "Pedro",
+        "es"
+      ]
+    ],
+    "date": "2012-12-16",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/70296.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/70296.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/24.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:70296",
+    "source_hashes": {
+      "events": "dd833d8f74db79c527ea8d266428afefe48a3100",
+      "lineups": "5a4ee3ebb70f645faa394e21e04815a22bbdf881"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "1-4",
+    "comp": "La Liga, matchday 16",
+    "season": "2012/13",
+    "y": 2012,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Filipe Luís",
+        "Filipe Luís",
+        "br"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Miranda",
+        "João Miranda",
+        "br"
+      ],
+      [
+        "Juanfran",
+        "Juanfran",
+        "es"
+      ],
+      [
+        "Arda",
+        "Arda Turan",
+        "tr"
+      ],
+      [
+        "Mario Suárez",
+        "Mario Suárez",
+        "es"
+      ],
+      [
+        "Gabi",
+        "Gabi",
+        "es"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Falcao",
+        "Radamel Falcao",
+        "co"
+      ],
+      [
+        "Diego Costa",
+        "Diego Costa",
+        "es"
+      ]
+    ],
+    "date": "2012-12-16",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/70296.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/70296.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/24.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:70296",
+    "source_hashes": {
+      "events": "dd833d8f74db79c527ea8d266428afefe48a3100",
+      "lineups": "5a4ee3ebb70f645faa394e21e04815a22bbdf881"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Atlético Madrid",
+    "score": "3-0",
+    "comp": "La Liga, matchday 22",
+    "season": "2010/11",
+    "y": 2011,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Valdés",
+        "Víctor Valdés",
+        "es"
+      ],
+      [
+        "Maxwell",
+        "Maxwell",
+        "br"
+      ],
+      [
+        "Abidal",
+        "Eric Abidal",
+        "fr"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Alves",
+        "Dani Alves",
+        "br"
+      ],
+      [
+        "Iniesta",
+        "Andrés Iniesta",
+        "es"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Xavi",
+        "Xavi",
+        "es"
+      ],
+      [
+        "Villa",
+        "David Villa",
+        "es"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ],
+      [
+        "Pedro",
+        "Pedro",
+        "es"
+      ]
+    ],
+    "date": "2011-02-05",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/69276.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/69276.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/22.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:69276",
+    "source_hashes": {
+      "events": "468879a324e0061e33bc19bb3e31ae4b0bc43a2f",
+      "lineups": "5bad35377f51e76ce2d9c7fd56bb8d8698504451"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "0-3",
+    "comp": "La Liga, matchday 22",
+    "season": "2010/11",
+    "y": 2011,
+    "form": "4-2-3-1",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "De Gea",
+        "David de Gea",
+        "es"
+      ],
+      [
+        "Antonio López",
+        "Antonio López",
+        "es"
+      ],
+      [
+        "Ujfaluši",
+        "Tomáš Ujfaluši",
+        "cz"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Valera",
+        "Juan Valera",
+        "es"
+      ],
+      [
+        "Tiago",
+        "Tiago",
+        "pt"
+      ],
+      [
+        "Assunção",
+        "Paulo Assunção",
+        "br"
+      ],
+      [
+        "Filipe Luís",
+        "Filipe Luís",
+        "br"
+      ],
+      [
+        "Mérida",
+        "Fran Mérida",
+        "es"
+      ],
+      [
+        "Reyes",
+        "José Antonio Reyes",
+        "es"
+      ],
+      [
+        "Agüero",
+        "Sergio Agüero",
+        "ar"
+      ]
+    ],
+    "date": "2011-02-05",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/69276.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/69276.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/22.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:69276",
+    "source_hashes": {
+      "events": "468879a324e0061e33bc19bb3e31ae4b0bc43a2f",
+      "lineups": "5bad35377f51e76ce2d9c7fd56bb8d8698504451"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Real Madrid",
+    "score": "1-3",
+    "comp": "La Liga, matchday 7",
+    "season": "2020/21",
+    "y": 2020,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "p": [
+      [
+        "Neto",
+        "Neto",
+        "br"
+      ],
+      [
+        "Alba",
+        "Jordi Alba",
+        "es"
+      ],
+      [
+        "Lenglet",
+        "Clément Lenglet",
+        "fr"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Dest",
+        "Sergiño Dest",
+        "us"
+      ],
+      [
+        "Coutinho",
+        "Philippe Coutinho",
+        "br"
+      ],
+      [
+        "De Jong",
+        "Frenkie de Jong",
+        "nl"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Pedri",
+        "Pedri",
+        "es"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ],
+      [
+        "Fati",
+        "Ansu Fati",
+        "es"
+      ]
+    ],
+    "date": "2020-10-24",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3773585.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3773585.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/90.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3773585",
+    "source_hashes": {
+      "events": "d7588020bd4d2be0dbde8132ff4c160d861260ce",
+      "lineups": "0462d29779ddbd3a06314ca07284e2bef801abd4"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "3-1",
+    "comp": "La Liga, matchday 7",
+    "season": "2020/21",
+    "y": 2020,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Mendy",
+        "Ferland Mendy",
+        "fr"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Varane",
+        "Raphaël Varane",
+        "fr"
+      ],
+      [
+        "Nacho",
+        "Nacho",
+        "es"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Casemiro",
+        "Casemiro",
+        "br"
+      ],
+      [
+        "Valverde",
+        "Federico Valverde",
+        "uy"
+      ],
+      [
+        "Vinícius",
+        "Vinícius Júnior",
+        "br"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ],
+      [
+        "Asensio",
+        "Marco Asensio",
+        "es"
+      ]
+    ],
+    "date": "2020-10-24",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3773585.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3773585.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/90.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3773585",
+    "source_hashes": {
+      "events": "d7588020bd4d2be0dbde8132ff4c160d861260ce",
+      "lineups": "0462d29779ddbd3a06314ca07284e2bef801abd4"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Real Madrid",
+    "score": "0-2",
+    "comp": "La Liga, matchday 26",
+    "season": "2019/20",
+    "y": 2020,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "p": [
+      [
+        "ter Stegen",
+        "Marc-André ter Stegen",
+        "de"
+      ],
+      [
+        "Alba",
+        "Jordi Alba",
+        "es"
+      ],
+      [
+        "Umtiti",
+        "Samuel Umtiti",
+        "fr"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Semedo",
+        "Nélson Semedo",
+        "pt"
+      ],
+      [
+        "De Jong",
+        "Frenkie de Jong",
+        "nl"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Arthur",
+        "Arthur",
+        "br"
+      ],
+      [
+        "Vidal",
+        "Arturo Vidal",
+        "cl"
+      ],
+      [
+        "Griezmann",
+        "Antoine Griezmann",
+        "fr"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ]
+    ],
+    "date": "2020-03-01",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/303470.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/303470.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/42.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:303470",
+    "source_hashes": {
+      "events": "59e8402897d85bbc74ca4c06be327753d6746b77",
+      "lineups": "3e8699f790e24aa628f1e8a3ada46744630661f4"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Atlético Madrid",
+    "score": "2-0",
+    "comp": "La Liga, matchday 31",
+    "season": "2018/19",
+    "y": 2019,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "ter Stegen",
+        "Marc-André ter Stegen",
+        "de"
+      ],
+      [
+        "Alba",
+        "Jordi Alba",
+        "es"
+      ],
+      [
+        "Lenglet",
+        "Clément Lenglet",
+        "fr"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Sergi Roberto",
+        "Sergi Roberto",
+        "es"
+      ],
+      [
+        "Arthur",
+        "Arthur",
+        "br"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Rakitić",
+        "Ivan Rakitić",
+        "hr"
+      ],
+      [
+        "Coutinho",
+        "Philippe Coutinho",
+        "br"
+      ],
+      [
+        "Suárez",
+        "Luis Suárez",
+        "uy"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ]
+    ],
+    "date": "2019-04-06",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/16248.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/16248.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/4.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:16248",
+    "source_hashes": {
+      "events": "5c03a8dcaafcb2fdbd5b81257fbedc593417d9b6",
+      "lineups": "3993db1ca18b1aae156fcedb7de74681b77acd3a"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "0-2",
+    "comp": "La Liga, matchday 31",
+    "season": "2018/19",
+    "y": 2019,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Oblak",
+        "Jan Oblak",
+        "si"
+      ],
+      [
+        "Filipe Luís",
+        "Filipe Luís",
+        "br"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Giménez",
+        "José Giménez",
+        "uy"
+      ],
+      [
+        "Arias",
+        "Santiago Arias",
+        "co"
+      ],
+      [
+        "Saúl",
+        "Saúl Ñíguez",
+        "es"
+      ],
+      [
+        "Rodri",
+        "Rodri",
+        "es"
+      ],
+      [
+        "Partey",
+        "Thomas Partey",
+        "gh"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Diego Costa",
+        "Diego Costa",
+        "es"
+      ],
+      [
+        "Griezmann",
+        "Antoine Griezmann",
+        "fr"
+      ]
+    ],
+    "date": "2019-04-06",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/16248.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/16248.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/4.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:16248",
+    "source_hashes": {
+      "events": "5c03a8dcaafcb2fdbd5b81257fbedc593417d9b6",
+      "lineups": "3993db1ca18b1aae156fcedb7de74681b77acd3a"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Juventus",
+    "opp": "Inter",
+    "score": "2-0",
+    "comp": "Serie A, matchday 27",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "3-5-2",
+    "kit": [
+      "stripes",
+      "#ffffff",
+      "#000000"
+    ],
+    "okit": [
+      "stripes",
+      "#0068a8",
+      "#000000"
+    ],
+    "p": [
+      [
+        "Buffon",
+        "Gianluigi Buffon",
+        "it"
+      ],
+      [
+        "Chiellini",
+        "Giorgio Chiellini",
+        "it"
+      ],
+      [
+        "Bonucci",
+        "Leonardo Bonucci",
+        "it"
+      ],
+      [
+        "Barzagli",
+        "Andrea Barzagli",
+        "it"
+      ],
+      [
+        "Alex Sandro",
+        "Alex Sandro",
+        "br"
+      ],
+      [
+        "Pogba",
+        "Paul Pogba",
+        "fr"
+      ],
+      [
+        "Hernanes",
+        "Hernanes",
+        "br"
+      ],
+      [
+        "Khedira",
+        "Sami Khedira",
+        "de"
+      ],
+      [
+        "Lichtsteiner",
+        "Stephan Lichtsteiner",
+        "ch"
+      ],
+      [
+        "Mandžukić",
+        "Mario Mandžukić",
+        "hr"
+      ],
+      [
+        "Dybala",
+        "Paulo Dybala",
+        "ar"
+      ]
+    ],
+    "date": "2016-02-28",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3879759.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3879759.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/12/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3879759",
+    "source_hashes": {
+      "events": "535cd427ec1cf6bff42536dc22083a5f0b6997f8",
+      "lineups": "4f6a878dfaf6fc34da92ca0693dde0209f382753"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Arsenal",
+    "opp": "Chelsea",
+    "score": "0-2",
+    "comp": "Premier League, matchday 6",
+    "season": "2015/16",
+    "y": 2015,
+    "form": "4-2-3-1",
+    "kit": [
+      "sleeves",
+      "#ef0107",
+      "#ffffff"
+    ],
+    "okit": [
+      "solid",
+      "#034694",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Čech",
+        "Petr Čech",
+        "cz"
+      ],
+      [
+        "Monreal",
+        "Nacho Monreal",
+        "es"
+      ],
+      [
+        "Koscielny",
+        "Laurent Koscielny",
+        "fr"
+      ],
+      [
+        "Gabriel",
+        "Gabriel Paulista",
+        "br"
+      ],
+      [
+        "Bellerín",
+        "Héctor Bellerín",
+        "es"
+      ],
+      [
+        "Cazorla",
+        "Santi Cazorla",
+        "es"
+      ],
+      [
+        "Coquelin",
+        "Francis Joseph Coquelin",
+        "fr"
+      ],
+      [
+        "Alexis",
+        "Alexis Sánchez",
+        "cl"
+      ],
+      [
+        "Özil",
+        "Mesut Özil",
+        "de"
+      ],
+      [
+        "Ramsey",
+        "Aaron Ramsey",
+        "gb-wls"
+      ],
+      [
+        "Walcott",
+        "Theo Walcott",
+        "gb-eng"
+      ]
+    ],
+    "date": "2015-09-19",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3754217.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3754217.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/2/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3754217",
+    "source_hashes": {
+      "events": "c6bb381681c9bbab4cce724457f8aea83bc08dec",
+      "lineups": "97c8c38e48f0d6b3ef493d70642ea0f70f7e9e52"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Atlético Madrid",
+    "score": "3-1",
+    "comp": "La Liga, matchday 18",
+    "season": "2014/15",
+    "y": 2015,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "Bravo",
+        "Claudio Bravo",
+        "cl"
+      ],
+      [
+        "Alba",
+        "Jordi Alba",
+        "es"
+      ],
+      [
+        "Mascherano",
+        "Javier Mascherano",
+        "ar"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Alves",
+        "Dani Alves",
+        "br"
+      ],
+      [
+        "Iniesta",
+        "Andrés Iniesta",
+        "es"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Rakitić",
+        "Ivan Rakitić",
+        "hr"
+      ],
+      [
+        "Neymar",
+        "Neymar",
+        "br"
+      ],
+      [
+        "Suárez",
+        "Luis Suárez",
+        "uy"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ]
+    ],
+    "date": "2015-01-11",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/70303.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/70303.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/26.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:70303",
+    "source_hashes": {
+      "events": "28550f309bf64db5ae786bcbaf67b032ced9c80a",
+      "lineups": "c41f6e9e62377af11153dd04b95a7b73f2b67b9c"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "1-3",
+    "comp": "La Liga, matchday 18",
+    "season": "2014/15",
+    "y": 2015,
+    "form": "4-4-1-1",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Moyá",
+        "Miguel Ángel Moyá",
+        "es"
+      ],
+      [
+        "Gámez",
+        "Jesús Gámez",
+        "es"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Giménez",
+        "José Giménez",
+        "uy"
+      ],
+      [
+        "Juanfran",
+        "Juanfran",
+        "es"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Tiago",
+        "Tiago",
+        "pt"
+      ],
+      [
+        "Gabi",
+        "Gabi",
+        "es"
+      ],
+      [
+        "Arda",
+        "Arda Turan",
+        "tr"
+      ],
+      [
+        "Griezmann",
+        "Antoine Griezmann",
+        "fr"
+      ],
+      [
+        "Mandžukić",
+        "Mario Mandžukić",
+        "hr"
+      ]
+    ],
+    "date": "2015-01-11",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/70303.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/70303.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/26.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:70303",
+    "source_hashes": {
+      "events": "28550f309bf64db5ae786bcbaf67b032ced9c80a",
+      "lineups": "c41f6e9e62377af11153dd04b95a7b73f2b67b9c"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "3-1",
+    "comp": "La Liga, matchday 9",
+    "season": "2014/15",
+    "y": 2014,
+    "form": "4-4-2",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Casillas",
+        "Iker Casillas",
+        "es"
+      ],
+      [
+        "Marcelo",
+        "Marcelo",
+        "br"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Pepe",
+        "Pepe",
+        "pt"
+      ],
+      [
+        "Carvajal",
+        "Daniel Carvajal",
+        "es"
+      ],
+      [
+        "Isco",
+        "Isco",
+        "es"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Modrić",
+        "Luka Modrić",
+        "hr"
+      ],
+      [
+        "James",
+        "James Rodríguez",
+        "co"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ]
+    ],
+    "date": "2014-10-25",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/267085.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/267085.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/26.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:267085",
+    "source_hashes": {
+      "events": "9468ba203c897bde1a0a70c7afdca835428e4ab9",
+      "lineups": "ace71c299341ca5c48d1f5b37f72d6da6f8132e1"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "1-3",
+    "comp": "La Liga, matchday 16",
+    "season": "2011/12",
+    "y": 2011,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Casillas",
+        "Iker Casillas",
+        "es"
+      ],
+      [
+        "Marcelo",
+        "Marcelo",
+        "br"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Pepe",
+        "Pepe",
+        "pt"
+      ],
+      [
+        "Coentrão",
+        "Fábio Coentrão",
+        "pt"
+      ],
+      [
+        "Alonso",
+        "Xabi Alonso",
+        "es"
+      ],
+      [
+        "Diarra",
+        "Lassana Diarra",
+        "fr"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ],
+      [
+        "Özil",
+        "Mesut Özil",
+        "de"
+      ],
+      [
+        "Di María",
+        "Ángel Di María",
+        "ar"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ]
+    ],
+    "date": "2011-12-10",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/69334.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/69334.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/23.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:69334",
+    "source_hashes": {
+      "events": "73a056b717cf4566423ea87a941a2d55259f2805",
+      "lineups": "b625b90ba476150773041cb9bba541a70dff6f3f"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "1-0",
+    "comp": "La Liga, matchday 10",
+    "season": "2020/21",
+    "y": 2020,
+    "form": "3-5-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Oblak",
+        "Jan Oblak",
+        "si"
+      ],
+      [
+        "Hermoso",
+        "Mario Hermoso",
+        "es"
+      ],
+      [
+        "Giménez",
+        "José Giménez",
+        "uy"
+      ],
+      [
+        "Savić",
+        "Stefan Savić",
+        "me"
+      ],
+      [
+        "Carrasco",
+        "Yannick Carrasco",
+        "be"
+      ],
+      [
+        "Saúl",
+        "Saúl Ñíguez",
+        "es"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Llorente",
+        "Marcos Llorente",
+        "es"
+      ],
+      [
+        "Trippier",
+        "Kieran Trippier",
+        "gb-eng"
+      ],
+      [
+        "João Félix",
+        "João Félix",
+        "pt"
+      ],
+      [
+        "Correa",
+        "Ángel Correa",
+        "ar"
+      ]
+    ],
+    "date": "2020-11-21",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/3773656.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/3773656.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/90.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:3773656",
+    "source_hashes": {
+      "events": "6d59db13d283112e4868c116a512f2464f70dc4b",
+      "lineups": "13a171be7c442c694376a4d0a65eb6e9108effec"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "0-1",
+    "comp": "La Liga, matchday 15",
+    "season": "2019/20",
+    "y": 2019,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Oblak",
+        "Jan Oblak",
+        "si"
+      ],
+      [
+        "Saúl",
+        "Saúl Ñíguez",
+        "es"
+      ],
+      [
+        "Hermoso",
+        "Mario Hermoso",
+        "es"
+      ],
+      [
+        "Felipe",
+        "Felipe",
+        "br"
+      ],
+      [
+        "Trippier",
+        "Kieran Trippier",
+        "gb-eng"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Partey",
+        "Thomas Partey",
+        "gh"
+      ],
+      [
+        "Herrera",
+        "Héctor Herrera",
+        "mx"
+      ],
+      [
+        "Correa",
+        "Ángel Correa",
+        "ar"
+      ],
+      [
+        "João Félix",
+        "João Félix",
+        "pt"
+      ],
+      [
+        "Morata",
+        "Álvaro Morata",
+        "es"
+      ]
+    ],
+    "date": "2019-12-01",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/303524.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/303524.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/42.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:303524",
+    "source_hashes": {
+      "events": "9e2f151b85393542405750a219f1014781d7b0b3",
+      "lineups": "40bda8e972071fea3a69c3afd7abda4d2eaf4ec5"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "0-1",
+    "comp": "La Liga, matchday 26",
+    "season": "2018/19",
+    "y": 2019,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Reguilón",
+        "Sergio Reguilón",
+        "es"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Varane",
+        "Raphaël Varane",
+        "fr"
+      ],
+      [
+        "Carvajal",
+        "Daniel Carvajal",
+        "es"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Casemiro",
+        "Casemiro",
+        "br"
+      ],
+      [
+        "Modrić",
+        "Luka Modrić",
+        "hr"
+      ],
+      [
+        "Vinícius",
+        "Vinícius Júnior",
+        "br"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ],
+      [
+        "Bale",
+        "Gareth Bale",
+        "gb-wls"
+      ]
+    ],
+    "date": "2019-03-02",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/16196.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/16196.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/4.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:16196",
+    "source_hashes": {
+      "events": "e4267a2c76d1894b0f1d2eb539791b945eefe000",
+      "lineups": "a3b9fbadca10ee152ec35a5f39fd3d73cbf55ec1"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Atlético Madrid",
+    "score": "1-0",
+    "comp": "La Liga, matchday 27",
+    "season": "2017/18",
+    "y": 2018,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "ter Stegen",
+        "Marc-André ter Stegen",
+        "de"
+      ],
+      [
+        "Alba",
+        "Jordi Alba",
+        "es"
+      ],
+      [
+        "Umtiti",
+        "Samuel Umtiti",
+        "fr"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Sergi Roberto",
+        "Sergi Roberto",
+        "es"
+      ],
+      [
+        "Iniesta",
+        "Andrés Iniesta",
+        "es"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Rakitić",
+        "Ivan Rakitić",
+        "hr"
+      ],
+      [
+        "Coutinho",
+        "Philippe Coutinho",
+        "br"
+      ],
+      [
+        "Suárez",
+        "Luis Suárez",
+        "uy"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ]
+    ],
+    "date": "2018-03-04",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/9837.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/9837.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/1.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:9837",
+    "source_hashes": {
+      "events": "61fc8114e6c7910d8886145bb5ff21337762c3ca",
+      "lineups": "cf1c772f8c0009794e669a7a74a8095d3e501267"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "0-1",
+    "comp": "La Liga, matchday 27",
+    "season": "2017/18",
+    "y": 2018,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Oblak",
+        "Jan Oblak",
+        "si"
+      ],
+      [
+        "Filipe Luís",
+        "Filipe Luís",
+        "br"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Giménez",
+        "José Giménez",
+        "uy"
+      ],
+      [
+        "Vrsaljko",
+        "Šime Vrsaljko",
+        "hr"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Gabi",
+        "Gabi",
+        "es"
+      ],
+      [
+        "Partey",
+        "Thomas Partey",
+        "gh"
+      ],
+      [
+        "Saúl",
+        "Saúl Ñíguez",
+        "es"
+      ],
+      [
+        "Diego Costa",
+        "Diego Costa",
+        "es"
+      ],
+      [
+        "Griezmann",
+        "Antoine Griezmann",
+        "fr"
+      ]
+    ],
+    "date": "2018-03-04",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/9837.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/9837.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/1.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:9837",
+    "source_hashes": {
+      "events": "61fc8114e6c7910d8886145bb5ff21337762c3ca",
+      "lineups": "cf1c772f8c0009794e669a7a74a8095d3e501267"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "2-3",
+    "comp": "La Liga, matchday 33",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Navas",
+        "Keylor Navas",
+        "cr"
+      ],
+      [
+        "Marcelo",
+        "Marcelo",
+        "br"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Nacho",
+        "Nacho",
+        "es"
+      ],
+      [
+        "Carvajal",
+        "Daniel Carvajal",
+        "es"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Casemiro",
+        "Casemiro",
+        "br"
+      ],
+      [
+        "Modrić",
+        "Luka Modrić",
+        "hr"
+      ],
+      [
+        "Bale",
+        "Gareth Bale",
+        "gb-wls"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ]
+    ],
+    "date": "2017-04-23",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/267569.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/267569.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/2.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:267569",
+    "source_hashes": {
+      "events": "6b7fa50c24a428cc7bb0115ae2ca44e6b71751c1",
+      "lineups": "e197f04f0713b42f6d102919d825c79205dbfb0b"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "1-2",
+    "comp": "La Liga, matchday 24",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Oblak",
+        "Jan Oblak",
+        "si"
+      ],
+      [
+        "Filipe Luís",
+        "Filipe Luís",
+        "br"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Savić",
+        "Stefan Savić",
+        "me"
+      ],
+      [
+        "Vrsaljko",
+        "Šime Vrsaljko",
+        "hr"
+      ],
+      [
+        "Carrasco",
+        "Yannick Carrasco",
+        "be"
+      ],
+      [
+        "Saúl",
+        "Saúl Ñíguez",
+        "es"
+      ],
+      [
+        "Gabi",
+        "Gabi",
+        "es"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Gameiro",
+        "Kévin Gameiro",
+        "fr"
+      ],
+      [
+        "Griezmann",
+        "Antoine Griezmann",
+        "fr"
+      ]
+    ],
+    "date": "2017-02-26",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/267464.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/267464.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/2.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:267464",
+    "source_hashes": {
+      "events": "f96a4c0dc8d23a23609b8bb175be9a3b92a87371",
+      "lineups": "4551d1446785f61e3d444ac1b5c930b97932fdeb"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Atlético Madrid",
+    "score": "2-1",
+    "comp": "La Liga, matchday 24",
+    "season": "2016/17",
+    "y": 2017,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "ter Stegen",
+        "Marc-André ter Stegen",
+        "de"
+      ],
+      [
+        "Mathieu",
+        "Jérémy Mathieu",
+        "fr"
+      ],
+      [
+        "Umtiti",
+        "Samuel Umtiti",
+        "fr"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Sergi Roberto",
+        "Sergi Roberto",
+        "es"
+      ],
+      [
+        "Iniesta",
+        "Andrés Iniesta",
+        "es"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Rafinha",
+        "Rafinha",
+        "br"
+      ],
+      [
+        "Neymar",
+        "Neymar",
+        "br"
+      ],
+      [
+        "Suárez",
+        "Luis Suárez",
+        "uy"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ]
+    ],
+    "date": "2017-02-26",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/267464.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/267464.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/2.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:267464",
+    "source_hashes": {
+      "events": "f96a4c0dc8d23a23609b8bb175be9a3b92a87371",
+      "lineups": "4551d1446785f61e3d444ac1b5c930b97932fdeb"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "1-2",
+    "comp": "La Liga, matchday 22",
+    "season": "2015/16",
+    "y": 2016,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Oblak",
+        "Jan Oblak",
+        "si"
+      ],
+      [
+        "Filipe Luís",
+        "Filipe Luís",
+        "br"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Giménez",
+        "José Giménez",
+        "uy"
+      ],
+      [
+        "Juanfran",
+        "Juanfran",
+        "es"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Augusto",
+        "Augusto Fernández",
+        "ar"
+      ],
+      [
+        "Gabi",
+        "Gabi",
+        "es"
+      ],
+      [
+        "Saúl",
+        "Saúl Ñíguez",
+        "es"
+      ],
+      [
+        "Carrasco",
+        "Yannick Carrasco",
+        "be"
+      ],
+      [
+        "Griezmann",
+        "Antoine Griezmann",
+        "fr"
+      ]
+    ],
+    "date": "2016-01-30",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/267576.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/267576.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:267576",
+    "source_hashes": {
+      "events": "638908c1bbb7c12c5c8949d35c100d9d3e28a295",
+      "lineups": "26944047840ccd1ccd48bb232d9c68497f66e5d2"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Atlético Madrid",
+    "score": "2-1",
+    "comp": "La Liga, matchday 3",
+    "season": "2015/16",
+    "y": 2015,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "p": [
+      [
+        "ter Stegen",
+        "Marc-André ter Stegen",
+        "de"
+      ],
+      [
+        "Alba",
+        "Jordi Alba",
+        "es"
+      ],
+      [
+        "Vermaelen",
+        "Thomas Vermaelen",
+        "be"
+      ],
+      [
+        "Mascherano",
+        "Javier Mascherano",
+        "ar"
+      ],
+      [
+        "Sergi Roberto",
+        "Sergi Roberto",
+        "es"
+      ],
+      [
+        "Iniesta",
+        "Andrés Iniesta",
+        "es"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Rakitić",
+        "Ivan Rakitić",
+        "hr"
+      ],
+      [
+        "Neymar",
+        "Neymar",
+        "br"
+      ],
+      [
+        "Suárez",
+        "Luis Suárez",
+        "uy"
+      ],
+      [
+        "Rafinha",
+        "Rafinha",
+        "br"
+      ]
+    ],
+    "date": "2015-09-12",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/266166.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/266166.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/27.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:266166",
+    "source_hashes": {
+      "events": "0e6e9997fee79a815ceec222d23d237f97834b96",
+      "lineups": "2894354c68877f79bad2df80b33aeaac475bb79c"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "3-4",
+    "comp": "La Liga, matchday 29",
+    "season": "2013/14",
+    "y": 2014,
+    "form": "4-3-3",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "López",
+        "Diego López",
+        "es"
+      ],
+      [
+        "Marcelo",
+        "Marcelo",
+        "br"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Pepe",
+        "Pepe",
+        "pt"
+      ],
+      [
+        "Carvajal",
+        "Daniel Carvajal",
+        "es"
+      ],
+      [
+        "Di María",
+        "Ángel Di María",
+        "ar"
+      ],
+      [
+        "Alonso",
+        "Xabi Alonso",
+        "es"
+      ],
+      [
+        "Modrić",
+        "Luka Modrić",
+        "hr"
+      ],
+      [
+        "Ronaldo",
+        "Cristiano Ronaldo",
+        "pt"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ],
+      [
+        "Bale",
+        "Gareth Bale",
+        "gb-wls"
+      ]
+    ],
+    "date": "2014-03-23",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/265857.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/265857.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/25.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:265857",
+    "source_hashes": {
+      "events": "6dd14069262a697a85150ea0fbc40487e5815260",
+      "lineups": "16e7c8626f80d25e7bcebabdeee54e8bf3459835"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Barcelona",
+    "opp": "Real Madrid",
+    "score": "2-1",
+    "comp": "La Liga, matchday 10",
+    "season": "2013/14",
+    "y": 2013,
+    "form": "4-3-3",
+    "kit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "okit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "p": [
+      [
+        "Valdés",
+        "Víctor Valdés",
+        "es"
+      ],
+      [
+        "Adriano",
+        "Adriano",
+        "br"
+      ],
+      [
+        "Mascherano",
+        "Javier Mascherano",
+        "ar"
+      ],
+      [
+        "Piqué",
+        "Gerard Piqué",
+        "es"
+      ],
+      [
+        "Alves",
+        "Dani Alves",
+        "br"
+      ],
+      [
+        "Xavi",
+        "Xavi",
+        "es"
+      ],
+      [
+        "Busquets",
+        "Sergio Busquets",
+        "es"
+      ],
+      [
+        "Iniesta",
+        "Andrés Iniesta",
+        "es"
+      ],
+      [
+        "Neymar",
+        "Neymar",
+        "br"
+      ],
+      [
+        "Fàbregas",
+        "Cesc Fàbregas",
+        "es"
+      ],
+      [
+        "Messi",
+        "Lionel Messi",
+        "ar"
+      ]
+    ],
+    "date": "2013-10-26",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/70293.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/70293.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/25.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:70293",
+    "source_hashes": {
+      "events": "f72229b0d81574eefc7fc01fe21d60501679008c",
+      "lineups": "903d161d6781b3f267376f151b7e85df6ddaf9d1"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "2-1",
+    "comp": "La Liga, matchday 26",
+    "season": "2012/13",
+    "y": 2013,
+    "form": "4-2-3-1",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "López",
+        "Diego López",
+        "es"
+      ],
+      [
+        "Coentrão",
+        "Fábio Coentrão",
+        "pt"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Varane",
+        "Raphaël Varane",
+        "fr"
+      ],
+      [
+        "Essien",
+        "Michael Essien",
+        "gh"
+      ],
+      [
+        "Modrić",
+        "Luka Modrić",
+        "hr"
+      ],
+      [
+        "Pepe",
+        "Pepe",
+        "pt"
+      ],
+      [
+        "Morata",
+        "Álvaro Morata",
+        "es"
+      ],
+      [
+        "Kaká",
+        "Kaká",
+        "br"
+      ],
+      [
+        "Callejón",
+        "José Callejón",
+        "es"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ]
+    ],
+    "date": "2013-03-02",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/70272.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/70272.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/24.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:70272",
+    "source_hashes": {
+      "events": "78834283a68bf6b06218bcfb709d441ede6af310",
+      "lineups": "10501ffe48ad8dffb06539cbe25f52572ec6e905"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Real Madrid",
+    "opp": "Barcelona",
+    "score": "0-0",
+    "comp": "La Liga, matchday 10",
+    "season": "2019/20",
+    "y": 2019,
+    "form": "4-1-2-1-2",
+    "kit": [
+      "solid",
+      "#ffffff",
+      "#00529f"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Mendy",
+        "Ferland Mendy",
+        "fr"
+      ],
+      [
+        "Ramos",
+        "Sergio Ramos",
+        "es"
+      ],
+      [
+        "Varane",
+        "Raphaël Varane",
+        "fr"
+      ],
+      [
+        "Carvajal",
+        "Daniel Carvajal",
+        "es"
+      ],
+      [
+        "Casemiro",
+        "Casemiro",
+        "br"
+      ],
+      [
+        "Kroos",
+        "Toni Kroos",
+        "de"
+      ],
+      [
+        "Valverde",
+        "Federico Valverde",
+        "uy"
+      ],
+      [
+        "Isco",
+        "Isco",
+        "es"
+      ],
+      [
+        "Benzema",
+        "Karim Benzema",
+        "fr"
+      ],
+      [
+        "Bale",
+        "Gareth Bale",
+        "gb-wls"
+      ]
+    ],
+    "date": "2019-12-18",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/303596.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/303596.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/42.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:303596",
+    "source_hashes": {
+      "events": "16249caa07c556f2f797f5f02845635bca7977e7",
+      "lineups": "b18f8fc60ae992efd158434189fdd730f5d758cc"
+    }
+  },
+  {
+    "sport": "fb",
+    "cat": "club",
+    "team": "Atlético Madrid",
+    "opp": "Barcelona",
+    "score": "0-0",
+    "comp": "La Liga, matchday 19",
+    "season": "2013/14",
+    "y": 2014,
+    "form": "4-4-2",
+    "kit": [
+      "stripes",
+      "#cb3524",
+      "#ffffff"
+    ],
+    "okit": [
+      "stripes",
+      "#a50044",
+      "#004d98"
+    ],
+    "p": [
+      [
+        "Courtois",
+        "Thibaut Courtois",
+        "be"
+      ],
+      [
+        "Filipe Luís",
+        "Filipe Luís",
+        "br"
+      ],
+      [
+        "Godín",
+        "Diego Godín",
+        "uy"
+      ],
+      [
+        "Miranda",
+        "João Miranda",
+        "br"
+      ],
+      [
+        "Juanfran",
+        "Juanfran",
+        "es"
+      ],
+      [
+        "Arda",
+        "Arda Turan",
+        "tr"
+      ],
+      [
+        "Gabi",
+        "Gabi",
+        "es"
+      ],
+      [
+        "Tiago",
+        "Tiago",
+        "pt"
+      ],
+      [
+        "Koke",
+        "Koke",
+        "es"
+      ],
+      [
+        "Villa",
+        "David Villa",
+        "es"
+      ],
+      [
+        "Diego Costa",
+        "Diego Costa",
+        "es"
+      ]
+    ],
+    "date": "2014-01-11",
+    "sources": [
+      "https://github.com/hudl/open-data/blob/master/data/lineups/265830.json",
+      "https://github.com/hudl/open-data/blob/master/data/events/265830.json",
+      "https://github.com/hudl/open-data/blob/master/data/matches/11/25.json"
+    ],
+    "verified": "2026-11-15",
+    "source_match_id": "statsbomb:265830",
+    "source_hashes": {
+      "events": "01c343f7b6e3c2af2acac34e8cce21dd3cc87d28",
+      "lineups": "20ff1167bc6b9f0b2d9e94f494d251b192579f1b"
+    }
+  }
+]
