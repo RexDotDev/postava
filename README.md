@@ -15,7 +15,7 @@ Each puzzle is one real match: the teams, the score, the competition and the sea
 - One **Reveal a letter** hint per lineup: one unknown letter in its correct position, with no try spent. Hint use survives reloads and is marked in shared results.
 - **Daily** gives everyone the same lineup for the day. Stats stay in your browser.
 
-The playable pool contains 887 lineups: 633 football and 254 basketball. Only EuroLeague has a 2020/21 cutoff. Football retains its range from 2009, NBA now includes the 2011 title and rivalry teams, and basketball national teams start in 1989. All previously excluded football national teams have been restored. Friendlies and exhibitions are excluded. The latest expansion adds 202 new puzzles across all five categories, including 2026/27 club games and competitive national-team games from 2026. See [DATA_ADDITIONS.md](DATA_ADDITIONS.md) for the complete match list and per-entry sources.
+The playable pool contains 838 lineups: 584 football and 254 basketball. Only EuroLeague has a 2020/21 cutoff. Football retains its range from 2009, NBA now includes the 2011 title and rivalry teams, and basketball national teams start in 1989. Football national teams focus on familiar European and South American squads, with exact-match exceptions for Iceland and Wales at Euro 2016 and Morocco at World Cup 2022. Zambia and other less recognizable national squads are excluded. Friendlies and exhibitions are excluded. The latest expansion adds 202 new puzzles across all five categories, including 2026/27 club games and competitive national-team games from 2026. See [DATA_ADDITIONS.md](DATA_ADDITIONS.md) for the complete match list and per-entry sources.
 
 ## Run it locally
 

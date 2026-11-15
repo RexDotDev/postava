@@ -8,7 +8,7 @@
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
-<link rel="preload" href="data.ea7069dff9.json" as="fetch" crossorigin>
+<link rel="preload" href="data.f0ea1129a4.json" as="fetch" crossorigin>
 <link rel="canonical" href="https://www.guessthesquad.com/">
 <meta property="og:url" content="https://www.guessthesquad.com/">
 <meta property="og:type" content="website">
@@ -309,7 +309,7 @@ button:focus-visible,.toggle input:focus-visible{outline:2px solid var(--team);o
 </div>
 
 <script type="module">
-const DATA = await fetch('data.ea7069dff9.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+const DATA = await fetch('data.f0ea1129a4.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .catch(err => { document.getElementById('match').innerHTML = '<div class="comp">Could not load the lineups. Please reload.</div>'; throw err; });
 const KEY = 'postava:v1';
 const $ = s => document.querySelector(s);
